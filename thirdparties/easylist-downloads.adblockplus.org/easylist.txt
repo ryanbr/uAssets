@@ -49824,6 +49824,7 @@ legacy.com###display-right-inview-1
 legacy.com###display-right-inview-2
 legacy.com###display-top-1
 msn.com###displayAdCard
+realclearpolitics.com###distro_right_rail
 tribunnews.com###div-Inside-MediumRectangle
 adtunes.com###div-atf-336x280
 designtaxi.com###div-center-wrapper
@@ -50291,7 +50292,7 @@ newcartestdrive.com###static-asset-placeholder-3
 datamation.com,esecurityplanet.com,eweek.com,serverwatch.com,webopedia.com###sticky-bottom
 coincodex.com###sticky-footerCCx4
 fool.com###sticky-wrapper
-standard.co.uk###stickyFooterRoot
+independant.co.uk,standard.co.uk###stickyFooterRoot
 afr.com###stickyLeaderboard
 bostonglobe.com###sticky_container.width_full
 eurogamer.net,rockpapershotgun.com###sticky_leaderboard
@@ -50421,6 +50422,7 @@ realclearhistory.com###warning_empty_div
 opensubtitles.org###watch_online
 xxxporn.tube###watch_sidevide
 xxxporn.tube###watch_undervideo
+worldcrunch.com###wc_leaderboard
 topfiveforex.com###wcfloatDiv
 santacruzsentinel.com###weeklybar2
 webfail.com###wf-d-300x250
@@ -51363,6 +51365,8 @@ might.net##.fat-container
 smarter.com##.favboxmiddlesearch
 thepointsguy.com##.favorite-cards
 triangletribune.com##.fba_links
+forbes.com##.fbs-ad--ntv-deskchannel-wrapper
+forbes.com##.fbs-ad--ntv-home-wrapper
 whatismyipaddress.com##.fbx-player-wrapper
 filmdaily.co##.fd-article-sidebar-ad
 filmdaily.co##.fd-article-top-banner
@@ -52496,7 +52500,6 @@ theportugalnews.com##.sticky-pub
 oilcity.news##.sticky-sponsors-large
 litecoin-faucet.com##.sticky-top1
 theblock.co,thekitchn.com##.stickyFooter
-independant.co.uk##.stickyFooterRoot
 cnet.com##.stickySkyboxSpacing
 sfgate.com##.stickyWrapper
 pcgamesn.com,theloadout.com##.sticky_rail600
@@ -53095,6 +53098,7 @@ disasterscans.com##a[href^="https://martialscanssoulland.onelink.me/"]
 dailyuploads.net##a[href^="https://ninjapcsoft.com/"]
 emalm.com##a[href^="https://offer.alibaba.com/"]
 101thefox.net,957thevibe.com##a[href^="https://parisicoffee.com/"]
+blix.gg##a[href^="https://partnerbcgame.com/"]
 qwant.com##a[href^="https://qwa.qwant.com/ck.php"]
 nosubjectlosangeles.com,richardvigilantebooks.com##a[href^="https://rebrand.ly/"]
 disasterscans.com##a[href^="https://recall-email.onelink.me/"]
@@ -53119,6 +53123,7 @@ domaintyper.com##a[href^="https://www.kqzyfj.com/"]
 wgrr.com##a[href^="https://www.mccabelumber.com/"]
 wbnq.com,wbwn.com,wjbc.com##a[href^="https://www.menards.com/main/home.html"]
 jox2fm.com,joxfm.com##a[href^="https://www.milb.com/"]
+thelibertydaily.com##a[href^="https://www.mypillow.com"]
 who.is##a[href^="https://www.name.com/redirect/"]
 kollelbudget.com##a[href^="https://www.oorahauction.org/"][target="_blank"] > img
 lite105.com##a[href^="https://www.pellabranch.com/"]

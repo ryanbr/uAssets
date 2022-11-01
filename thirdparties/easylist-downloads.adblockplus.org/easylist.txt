@@ -8498,6 +8498,7 @@ _800x80_
 ###js-image-ad-mpu
 ###js-page-ad-top
 ###js-wide-ad
+###js_commerceInsetModule
 ###jsid-ad-container-post_above_comment
 ###jsid-ad-container-post_below_comment
 ###large-ads
@@ -16119,6 +16120,7 @@ _800x80_
 ##.content-ads-bottom
 ##.content-advert
 ##.content-advertisment
+##.content-bottom-ad
 ##.content-bottom-mpu
 ##.content-box-inner-adsense
 ##.content-cliff__ad
@@ -16135,6 +16137,7 @@ _800x80_
 ##.content-page-ad_wrap
 ##.content-result-ads
 ##.content-sponsor-img-border
+##.content-top-ad-item
 ##.content-top-mpu
 ##.content-type-adv-desktop
 ##.content-unit-ad
@@ -52837,7 +52840,7 @@ bestlifeonline.com,hellogiggles.com##.widget_gm_karmaadunit_widget
 extremetech.com##.widget_gptwidget
 faroutmagazine.co.uk##.widget_grv_mpu_widget
 theiphoneappreview.com##.widget_links
-appleworld.today,closerweekly.com,deshdoaba.com,foreverconscious.com,intouchweekly.com,kkfm.com,lifeandstylemag.com,mensjournal.com,patriotfetch.com,pctechmag.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,thedriven.io,washingtonmonthly.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
+appleworld.today,closerweekly.com,deshdoaba.com,foreverconscious.com,glitched.online,intouchweekly.com,kkfm.com,lifeandstylemag.com,mensjournal.com,patriotfetch.com,pctechmag.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,thedriven.io,washingtonmonthly.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
 nypost.com##.widget_nypost_dfp_ad_widget
 dailynewsegypt.com##.widget_rotatingbanners
 twistedsifter.com##.widget_sifter_ad_bigbox_widget

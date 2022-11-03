@@ -51469,6 +51469,7 @@ britannica.com##.bc-article-inline-dialogue
 dissentmagazine.org##.bc_random_banner
 h-online.com##.bcadv
 fakenamegenerator.com##.bcsw
+userbenchmark.com##.be-lb-page-top-banner
 censor.net##.beGrKXqw1r8uLq2pL
 thepointsguy.com##.beam-card-feature
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.beforeBillboard
@@ -54348,6 +54349,7 @@ digg.com#?#article.fp-vertical-story:-abp-has(div:-abp-contains(SPONSORED))
 digg.com#?#.tracking-widest:-abp-contains(Sponsored)
 digg.com#?#article.relative:-abp-has(div:-abp-contains(SPONSORED))
 inverse.com#?#div > p + div:-abp-has(amp-ad)
+cointalk.com##li.message:-abp-contains(hide this ad)
 instagram.com#?#div[style="max-height: inherit; max-width: inherit;"]:-abp-has(span:-abp-contains(Paid partnership with ))
 instagram.com#?#div[style="max-height: inherit; max-width: inherit; display: none !important;"]:-abp-has(span:-abp-contains(Paid partnership))
 alternativeto.net#?#div[class^="AppList"]:-abp-has([class^="AppListItem_sponsored"])

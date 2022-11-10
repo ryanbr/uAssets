@@ -24339,6 +24339,7 @@ tf2r.com#@#.adverts
 ||amberdub.com^
 ||ambersvelars.com^
 ||ambientplatform.vn^
+||ambolicrighto.com^
 ||ambra.com^
 ||ambuizeler.com^
 ||ambushinjure.com^
@@ -30270,6 +30271,7 @@ tf2r.com#@#.adverts
 ||fendhaunteddelay.com^
 ||fenefa.com^
 ||fenixm.com^
+||fensough.xyz^
 ||fer2oxheou4nd.com^
 ||ferdictivesone.xyz^
 ||fermentsinewencase.com^
@@ -31055,6 +31057,7 @@ tf2r.com#@#.adverts
 ||ghastlyoffer.com^
 ||ghazismsplurt.com^
 ||ghcncwmm.com^
+||gheraosonger.com^
 ||ghettoschanse.com^
 ||ghfsegbrj.com^
 ||ghgqwbyfsjpqj.top^
@@ -37306,6 +37309,7 @@ tf2r.com#@#.adverts
 ||popunder.bid^
 ||popunder.ru^
 ||popunders.bid^
+||popunderstar.com^
 ||popunderz.com^
 ||popuptraffic.com^
 ||popuzothe.com^
@@ -40141,6 +40145,7 @@ tf2r.com#@#.adverts
 ||sports-streams-online.com^
 ||sportstreams.xyz^
 ||sportsyndicator.com^
+||sportygalago.com^
 ||spotlesscaterer.com^
 ||spotlighthemp.com^
 ||spotofspawn.com^
@@ -52732,6 +52737,7 @@ amgreatness.com##.bg-gray-200.mx-auto
 wccftech.com##.bg-horizontal
 imagetotext.info##.bg-light.mt-2.text-center
 wccftech.com##.bg-square
+wccftech.com##.bg-square-mobile
 wccftech.com##.bg-vertical
 thepostmillennial.com##.bg-yellow-400
 biblegateway.com##.bga
@@ -56702,7 +56708,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||hw-ads.datpiff.com/news/$image,domain=datpiff.com
 @@||image.shutterstock.com^$image,domain=icons8.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|etonline.com|games.usatoday.com|givemesport.com|goodmorningamerica.com|goodstream.uno|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|paramountplus.com|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|realmadrid.com|rte.ie|scrippsdigital.com|sonyliv.com|tdn.com|truvid.com|tubitv.com|watch.nba.com|worldsurfleague.com|wsj.com|zdnet.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|delish.com|distro.tv|einthusan.tv|embed.comicbook.com|etonline.com|games.usatoday.com|givemesport.com|goodmorningamerica.com|goodstream.uno|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|paramountplus.com|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|realmadrid.com|rte.ie|scrippsdigital.com|sonyliv.com|tdn.com|truvid.com|tubitv.com|watch.nba.com|worldsurfleague.com|wsj.com|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|embed.comicbook.com|sbs.com.au|worldsurfleague.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net|insideedition.com|pch.com
 @@||img-cdn.mediaplex.com^$image,domain=betfair.com

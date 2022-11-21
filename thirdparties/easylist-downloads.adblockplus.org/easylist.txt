@@ -5020,6 +5020,7 @@ _800x80_
 ###Ad-3-Slider
 ###Ad-4-Slider
 ###Ad-Container
+###Ad-Content
 ###Ad-Top
 ###AdBanner
 ###AdBar
@@ -17797,6 +17798,7 @@ _800x80_
 ##.isAd
 ##.isAdPage
 ##.isad_box
+##.ise-ad
 ##.island-ad
 ##.islandAd
 ##.islandAdvert
@@ -53275,6 +53277,7 @@ businessinsider.com.au##.content-section-banner
 jmail.co.za,tsamail.co.za,webmail.co.za##.content-section-left
 crmbuyer.com,ectnews.com,macnewsworld.com,technewsworld.com##.content-tab-slinks
 discord.me##.content-unit
+modrinth.com##.content-wrapper
 ancient-origins.net##.content_add_block
 live-tennis.eu##.copyright
 imdb.com##.cornerstone_slot
@@ -55656,8 +55659,6 @@ amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg##span[cel_widget_id^="MAIN-loom-desktop-top-slot_hsa-id-CARDS-"]
 ! Zalando (https://github.com/easylist/easylist/issues/13626)
 zalando.be,zalando.ch,zalando.co.uk,zalando.cz,zalando.de,zalando.dk,zalando.ee,zalando.es,zalando.fi,zalando.fr,zalando.ie,zalando.it,zalando.lv,zalando.no,zalando.pl,zalando.se,zalando.si##.noqro0oc_jFfn2AAKrdMo
-zalando.be,zalando.ch,zalando.co.uk,zalando.cz,zalando.de,zalando.dk,zalando.ee,zalando.es,zalando.fi,zalando.fr,zalando.ie,zalando.it,zalando.lv,zalando.no,zalando.pl,zalando.se,zalando.si##.weHhRC > .Saptwy
-zalando.be,zalando.ch,zalando.co.uk,zalando.cz,zalando.de,zalando.dk,zalando.ee,zalando.es,zalando.fi,zalando.fr,zalando.ie,zalando.it,zalando.lv,zalando.no,zalando.pl,zalando.se,zalando.si##div[class$="lRlpGv"]
 zalando.be,zalando.ch,zalando.co.uk,zalando.cz,zalando.de,zalando.dk,zalando.ee,zalando.es,zalando.fi,zalando.fr,zalando.ie,zalando.it,zalando.lv,zalando.no,zalando.pl,zalando.se,zalando.si#?#.Uxq3DH:-abp-has(span:-abp-contains(/Gesponsert|Gesponsord|Patrocinado|Sponset|Sponsitud|Sponsored|Sponsoreret|Sponsorēts|Sponsorizzato|Sponsorisé|Sponsoroitu|Sponsorowane|Sponsrad|Sponzorirano|Sponzorováno/))
 ! invideo advertising
 usnews.com###ac-lre-player-ph

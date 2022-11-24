@@ -8733,6 +8733,7 @@ _800x80_
 ###mini-ad
 ###mobile-adhesion
 ###mobile-ads-ad
+###mobile-footer-ad-wrapper
 ###mobileAdContainer
 ###mobile_ad_main
 ###mobile_ads_block
@@ -17789,6 +17790,7 @@ _800x80_
 ##.iqadlinebottom
 ##.iqadmarker
 ##.iqadtile_wrapper
+##.is-ad
 ##.is-carbon-ad
 ##.is-desktop-ads
 ##.is-mpu
@@ -22091,7 +22093,7 @@ soundandvision.com,stereophile.com#@##topbannerad
 gamingcools.com#@#.Adsense
 m.motonet.fi#@#.ProductAd
 job.inshokuten.com#@#.ad-area
-kincho.co.jp#@#.ad-block
+kincho.co.jp,niji-gazo.com#@#.ad-block
 job.inshokuten.com,sexgr.net,webbtelescope.org#@#.ad-box
 dbook.docomo.ne.jp,dmagazine.docomo.ne.jp#@#.ad-button
 livedoorblogstyle.jp#@#.ad-center

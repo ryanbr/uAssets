@@ -10244,6 +10244,7 @@ _800x80_
 ##.DFPad
 ##.DartAdvert
 ##.DisplayAd
+##.FirstAd
 ##.FooterAd
 ##.FooterAdContainer
 ##.FooterAds
@@ -13001,6 +13002,8 @@ _800x80_
 ##.adbucks
 ##.adbug
 ##.adbutler-inline-ad
+##.adbutler-top-banner
+##.adbutler_top_banner
 ##.adbutton
 ##.adbutton-block
 ##.adbuttons
@@ -13964,6 +13967,7 @@ _800x80_
 ##.adsgrd
 ##.adsgvert
 ##.adsh
+##.adsheight-250
 ##.adshl
 ##.adshome
 ##.adshowbig
@@ -20581,6 +20585,7 @@ _800x80_
 ##.top-ad-inside
 ##.top-ad-module
 ##.top-ad-multiplex
+##.top-ad-recirc
 ##.top-ad-right
 ##.top-ad-sidebar
 ##.top-ad-slot
@@ -23849,6 +23854,7 @@ tf2r.com#@#.adverts
 ||aezhvlybcijv.com^
 ||afa9bdfa63bf7.com^
 ||afaaugct.com^
+||afcnuchxgo.com^
 ||afcontent.net^
 ||afcyhf.com^
 ||afdads.com^
@@ -39411,6 +39417,7 @@ tf2r.com#@#.adverts
 ||rubcomplaintdimly.com^
 ||rubiconproject.com^
 ||rubsayprelude.com^
+||rubymillsnpro.com^
 ||rucegipti.com^
 ||rucixlgwpb.com^
 ||rucrop.com^
@@ -50497,6 +50504,7 @@ tf2r.com#@#.adverts
 ||rhinoslist.com/sideb/get_laid-300.gif
 ||rss.dtiserv.com^
 ||ruscams.com/promo/
+||s3t3d2y8.afcdn.net^
 ||saboom.com.pccdn.com^*/banner/
 ||sakuralive.com/dynamicbanner/
 ||scoreland.com/banner/
@@ -51784,6 +51792,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockeronstape.me
 ||jerkdude.com/log300.jpg
 ||joysporn.sex/js/pj.js
 ||k-teen.com/banner/
+||kbjfree.com/assets/scripts/popad.js
 ||kindgirls.com/banners2/
 ||kompoz2.com/js/take.max.js
 ||koushoku.org/proxy?
@@ -51893,6 +51902,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockeronstape.me
 ||shemalez.com/jfceqdszpsh/
 ||simpasian.net/a37z321.js
 ||simply-hentai.com/prod/
+||slave.kbjfree.com^
 ||sleazyneasy.com/jsb/
 ||slutdump.com/flat-butterfly-c5e3/
 ||slview.psne.jp^
@@ -53275,6 +53285,7 @@ audizine.com##.articleIMG
 msn.com##.articlePage_eoabNativeAd-DS-EntryPoint1-1
 ubergizmo.com##.article_card_promoted
 news18.com##.article_mad
+goal.com##.aside_ad-rail__cawG6
 releasestv.com##.ast-above-header-wrap
 animalcrossingworld.com##.at-sidebar-1
 fedex.com##.atTile1
@@ -53647,6 +53658,7 @@ googlesightseeing.com##.comm-square
 insider.com##.commerce-coupons-module
 goal.com,thisislondon.co.uk##.commercial
 telegraph.co.uk##.commercial-unit
+goal.com##.component-ad
 hunker.com##.component-article-section-jwplayer-wrapper
 binnews.com,iheart.com##.component-pushdown
 binnews.com,iheart.com##.component-recommendation
@@ -55412,6 +55424,7 @@ target.com##[data-test="featuredProducts"]
 nytimes.com,nytimes3xbfgragh.onion##[data-testid="StandardAd"]
 imdb.com##[data-testid="media-sheet__attr-banner"]
 washingtonpost.com##[data-testid="placeholder-box"]
+goal.com##[data-type="AdComponent"]
 search.brave.com##[data-type="ad"]
 gadgetsnow.com##[data-type="mtf"]
 axios.com##[data-vars-category="sidebar_promo"]
@@ -56813,6 +56826,7 @@ xxxonxxx.com,youtubelike.com##.gallery-thumbs
 cliniqueregain.com,tallermaintenancar.com##.girl
 sexybabegirls.com##.girlsgirls
 bravoteens.com##.good_list_wrap
+kbjfree.com##.h-\[250px\]
 amateur-vids.eu,mature.community,mature.mom,mature.sexy,mature.studio,milf.community,milf.mom,milf.plus,milf.sexy##.happy-footer
 gigapornmovies.com,indianpornvideos2.com##.happy-footer-mobile
 koreanstreamer.xyz##.happy-header
@@ -57107,6 +57121,7 @@ yourlust.com##.visit_cs
 eporner.com##.vjs-inplayer-container
 upornia.tube##.voiscscttnn
 japan-whores.com##.vp-info
+kbjfree.com##.w-\[728px\]
 3prn.com##.w-spots
 upornia.com,upornia.tube##.wcccswvsyvk
 trannygem.com##.we_are_sorry
@@ -57270,6 +57285,7 @@ crocotube.com#?#.ct-related-videos-title:-abp-contains(You may also like)
 darknessporn.com,familyporner.com,pisshamster.com,punishworld.com,xanimu.com#?#.order-1:-abp-has(> div[class^="inside-list-boxes"])
 darknessporn.com,familyporner.com,pisshamster.com,punishworld.com,xanimu.com#?#.order-2:-abp-has(.duration-ad)
 erofus.com#?#div:-abp-has(> .ad)
+kbjfree.com#?#.relative.w-full:-abp-has(> .video-card[target="_blank"])
 pornhub.com#?#.sectionWrapper:-abp-has(> #bottomVideos > .wrapVideoBlock)
 pornhub.com#?#:-abp-properties(height: 300px; width: 315px;)
 pornhub.com,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width: 50%;)

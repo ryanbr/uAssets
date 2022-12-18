@@ -29402,6 +29402,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||pixel.dugwood.com^
 ||pixel.ionos.fr^
 ||promoneuve.fr/stat/
+||quellavelinge.com/referer.php?
 ||res.paruvendu.fr^
 ||s5.charliehebdo.fr^
 ||shemsfm.net/ar/setStats/

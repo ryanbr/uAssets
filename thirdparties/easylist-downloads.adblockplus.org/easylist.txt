@@ -15,7 +15,6 @@
 !
 !-----------------------General advert blocking filters-----------------------!
 ! *** easylist:easylist/easylist_general_block.txt ***
-&adstrade=
 &adstype=
 &AdType=
 &cbrandom=
@@ -4432,6 +4431,10 @@ _widget_ad.
 ! Amazon
 /e/cm?$subdocument
 /e/ir?$image,script
+!
+/in/track?data=
+/senddata?site=banner
+/senddata?site=inpage
 ! ezoic
 /cmbdv2.js
 /greenoaks.gif?
@@ -24373,6 +24376,7 @@ tf2r.com#@#.adverts
 ||angerawkwardstricken.com^
 ||angersteerpad.com^
 ||angeyokjoggle.com^
+||anginasallodge.com^
 ||angioidmodular.casa^
 ||anglebailiff.com^
 ||anglended.club^
@@ -25044,6 +25048,7 @@ tf2r.com#@#.adverts
 ||awigglespouter.cam^
 ||awkwardtelegram.com^
 ||awledconside.xyz^
+||awlnwlssvrfdknf.com^
 ||awltovhc.com^
 ||awmbed.com^
 ||awmdelivery.com^
@@ -26329,6 +26334,7 @@ tf2r.com#@#.adverts
 ||canonch.pro^
 ||canstrm.com^
 ||cantdogblued.uno^
+||canteentangka.com^
 ||cantpastelli.one^
 ||canvassblanketjar.com^
 ||cap-cap-pop.com^
@@ -26354,6 +26360,7 @@ tf2r.com#@#.adverts
 ||carcelshatches.com^
 ||carcflma.de^
 ||cardiwersg.com^
+||careful-oven.pro^
 ||carenterhosi.xyz^
 ||careuropecreatures.com^
 ||carfulsranquel.com^
@@ -26624,6 +26631,7 @@ tf2r.com#@#.adverts
 ||chingmathecia.website^
 ||chinikscouxia.com^
 ||chinitnam.com^
+||chinkerdough.com^
 ||chinlesufer.com^
 ||chinoismoras.com^
 ||chioneflake.com^
@@ -27289,6 +27297,7 @@ tf2r.com#@#.adverts
 ||cristianonaldo.com^
 ||critariatele.pro^
 ||criticismheadphoneprinting.com^
+||critmistbow.com^
 ||crjpingate.com^
 ||crm4d.com^
 ||crocopop.com^
@@ -27340,6 +27349,7 @@ tf2r.com#@#.adverts
 ||cueyetwee.site^
 ||cugiphepty.com^
 ||cuisineenvoyadvertise.com^
+||cukonwoo.com^
 ||cukouf.com^
 ||culainstrades.com^
 ||culettswonken.com^
@@ -27430,6 +27440,7 @@ tf2r.com#@#.adverts
 ||d2ship.com^
 ||d31c6d951c.com^
 ||d37aacdbcc.com^
+||d3d0wndor0l4xe.cloudfront.net^
 ||d3vp85u5z4wlqf.cloudfront.net^
 ||d4d48974197052ea.com^
 ||d576de5d7d.com^
@@ -27508,6 +27519,7 @@ tf2r.com#@#.adverts
 ||darghinruskin.com^
 ||dariolunus.com^
 ||darkerillegimateillegimateshade.com^
+||darkestfertil.com^
 ||darkoccasion.pro^
 ||darleygamball.cfd^
 ||darneluretic.com^
@@ -28944,6 +28956,7 @@ tf2r.com#@#.adverts
 ||fabrkrup.com^
 ||fabrouter.com^
 ||facaltow.net^
+||facemanuptore.com^
 ||facesnotebook.com^
 ||facesrenaissanceconfirmed.com^
 ||facilitatevoluntarily.com^
@@ -29195,6 +29208,7 @@ tf2r.com#@#.adverts
 ||filetarget.com^
 ||filetarget.net^
 ||filetedlawines.com^
+||filetstaipo.com^
 ||filippiwilled.uno^
 ||fillsitsy.cam^
 ||fimserve.com^
@@ -29995,6 +30009,7 @@ tf2r.com#@#.adverts
 ||godspeaks.net^
 ||goercoshes.com^
 ||goergleeds.com^
+||goethejauks.com^
 ||gogglemessenger.com^
 ||gogglerespite.com^
 ||gogoplexer.com^
@@ -30151,6 +30166,7 @@ tf2r.com#@#.adverts
 ||gripemail.com^
 ||gripetravel.com^
 ||grirault.net^
+||grirtouy.com^
 ||gristleupanaya.com^
 ||gritaware.com^
 ||grivupie.net^
@@ -30206,6 +30222,7 @@ tf2r.com#@#.adverts
 ||gtructinde.xyz^
 ||gtsads.com^
 ||guabmobil.site^
+||guanscleeks.com^
 ||guardianamazedwireless.com^
 ||guardiandigitalcomparison.co.uk^
 ||guardianinvadecrept.com^
@@ -30213,6 +30230,7 @@ tf2r.com#@#.adverts
 ||guchihyfa.pro^
 ||guerrerevisal.website^
 ||guerrilla-links.com^
+||guesteaten.com^
 ||guffawdecipher.com^
 ||guiltypattern.com^
 ||guineapilotage.com^
@@ -31463,6 +31481,7 @@ tf2r.com#@#.adverts
 ||jolecyclist.com^
 ||jolic2.com^
 ||jollyembodyclassified.com^
+||jollyickysolely.com^
 ||jollykeg.com^
 ||jollytestpartying.com^
 ||jomtingi.net^
@@ -31610,6 +31629,7 @@ tf2r.com#@#.adverts
 ||k68tkg.com^
 ||kaaiwoxln.xyz^
 ||kabobitacism.com^
+||kadjshttuxojxf.xyz^
 ||kagiti.club^
 ||kagrooxa.net^
 ||kaifiluk.com^
@@ -32436,6 +32456,7 @@ tf2r.com#@#.adverts
 ||ltassrv.com^
 ||ltbbfotur.xyz^
 ||ltengronsa.com^
+||ltijuzoqm.com^
 ||lturerpartm.com^
 ||ltyabkihjsecl.xyz^
 ||lubbreton.com^
@@ -33675,6 +33696,7 @@ tf2r.com#@#.adverts
 ||nockerlpittite.website^
 ||noclef.com^
 ||noddingdilutionradish.com^
+||nodouslover.com^
 ||nodrmcxjevtuc.xyz^
 ||noelsdoc.cam^
 ||noerwe5gianfor19e4st.com^
@@ -33826,6 +33848,7 @@ tf2r.com#@#.adverts
 ||nulez.xyz^
 ||null-point.com^
 ||nullsrefilliron.com^
+||nullusposolo.com^
 ||nultoaly.net^
 ||nulwhbbyfdxy.com^
 ||numberium.com^
@@ -34815,6 +34838,7 @@ tf2r.com#@#.adverts
 ||phaiksul.net^
 ||phaisoaz.com^
 ||phalingy.net^
+||phantomtheft.com^
 ||pharaohsteven.com^
 ||phardain.xyz^
 ||pharmcash.com^
@@ -35758,6 +35782,7 @@ tf2r.com#@#.adverts
 ||qfdn3gyfbs.com^
 ||qfjherc.com^
 ||qgevavwyafjf.com^
+||qgicqtyh.com^
 ||qgnlbjkxrzb.com^
 ||qgnqsebea.com^
 ||qhnwj.com^
@@ -35854,6 +35879,7 @@ tf2r.com#@#.adverts
 ||rabidamoral.com^
 ||rablinhiphape.com^
 ||raccourir.xyz^
+||racleo.com^
 ||radarconsultation.com^
 ||radarwitch.com^
 ||radeant.com^
@@ -36166,6 +36192,7 @@ tf2r.com#@#.adverts
 ||repairedbringstale.com^
 ||repeatresolve.com^
 ||repentancematernity.com^
+||repentbits.com^
 ||repetaradiez.xyz^
 ||rephowithin.com^
 ||replacementportugueserecollection.com^
@@ -36610,6 +36637,7 @@ tf2r.com#@#.adverts
 ||ruliam.com^
 ||rulinecrea.xyz^
 ||rulovar.com^
+||rumandwaterv.info^
 ||rumblyjouking.store^
 ||rummaringp.pics^
 ||rummyaffiliates.com^
@@ -37405,6 +37433,7 @@ tf2r.com#@#.adverts
 ||snugslackmakeup.com^
 ||snurpsermon.space^
 ||snwpqybkb.com^
+||snxujyyw.com^
 ||soaheeme.net^
 ||soalonie.com^
 ||soap-wash.com^
@@ -38399,6 +38428,7 @@ tf2r.com#@#.adverts
 ||threeinters.com^
 ||threse.com^
 ||thresholdeliminate.com^
+||threwdownth.xyz^
 ||thricemodestsuffix.com^
 ||thrilledaliasoil.com^
 ||throngsarseno.com^
@@ -38742,6 +38772,7 @@ tf2r.com#@#.adverts
 ||trendmouthsable.com^
 ||trenhsmp.com^
 ||trenpyle.com^
+||trespasspiteous.com^
 ||tretmumbel.com^
 ||trewnhiok.com^
 ||trftopp.biz^
@@ -39278,6 +39309,7 @@ tf2r.com#@#.adverts
 ||uslycoloursewo.com^
 ||usounoul.com^
 ||ussiagoverse.xyz^
+||ussian.com^
 ||ustausoo.com^
 ||ustithoo.net^
 ||usuage.com^
@@ -39544,6 +39576,7 @@ tf2r.com#@#.adverts
 ||vilith.com^
 ||villageeatable.com^
 ||villasquinttolerance.com^
+||vimfulmortis.com^
 ||vimmenced.club^
 ||vimohustu.com^
 ||vinalsmuffish.com^
@@ -52212,7 +52245,7 @@ avanigo.com##iframe.lazyloaded
 micky.com.au##iframe[height="90"]
 coincodex.com,mreader.co,yourbittorrent.com##iframe[src]
 downloadlagu321.site,dramacool.sr,uwatchfree.be##iframe[style*="z-index: 2147483646"]
-123movies.net,1stream.link,2umovies.me,4anime.biz,4anime.gg,9anime.tube,actvid.com,animebee.to,animefreak.site,animefreak.ws,animefrenzy.net,animeheaven.pro,animekisa.in,animekisa.tv,animepahe.cc,animixplay.to,apkmody.io,batotoo.com,bravoporn.com,coloredmanga.com,dembed1.com,downloadlagu321.site,dragontranslation.com,dramacool.pk,dramacool.sr,dulu.to,filmlinks4u.cam,filmyzilla.autos,filmyzilla.makeup,gogoanime.be,gogoanime.co.in,gogoanime.lol,gogoanime.run,gogoplay1.com,goload.pro,harimanga.com,hdjerjer2.com,hds-streaming-hd.com,herogayab.net,hhdmovies.cam,hindilinks4u.cam,hothit.me,hurawatch.cc,iflixmovies.com,jujutsukaisen-manga.online,jujutsukaisenonline.net,linksly.co,mangadna.com,mangahere.today,manganatos.com,mangas-raw.com,mangceh.cc,manhwalist.com,membed.net,messitv.net,miraculous.to,movierulz.cam,movies-watch.com.pk,movies.ninja,moviesmod.com,mp3fromyou.tube,mreader.co,ngomik.net,nkiri.com,playlist-youtu.be,pomvideo.cc,prmovies.bz,prmovies.cam,prmovies.fyi,prmovies.li,prmovies.org,prmovies.re,putlocker.vc,putlockers.fm,putlockers.li,rawkuma.com,sflix.se,sockshare.ac,ssoap2day.to,tamilyogi.best,uwatchfree.be,vanime.co,waploaded.com,wat32.tv,watchofree.com,watchomovies.cam,watchomovies.net,watchseries.cyou,watchseries.ninja,wcostream.cc,webtoonshare.com,y-2mate.com,yomovies.bz,yomovies.gay,yomovies.pl,yomovies.pm,yomovies.ws,ytmp3.cc,yts-subs.com##iframe[style*="z-index: 2147483647"]
+123movies.net,1stream.link,2umovies.me,4anime.biz,4anime.gg,9anime.tube,actvid.com,animebee.to,animefreak.site,animefreak.ws,animefrenzy.net,animeheaven.pro,animekisa.in,animekisa.tv,animepahe.cc,animixplay.to,apkmody.io,batotoo.com,bravoporn.com,coloredmanga.com,dembed1.com,downloadlagu321.site,dragontranslation.com,dramacool.pk,dramacool.sr,dulu.to,filmlinks4u.cam,filmyzilla.autos,filmyzilla.makeup,gogoanime.be,gogoanime.co.in,gogoanime.lol,gogoanime.run,gogoplay1.com,goload.pro,harimanga.com,hdjerjer2.com,hds-streaming-hd.com,herogayab.net,hhdmovies.cam,himovies.to,hindilinks4u.cam,hothit.me,hurawatch.cc,iflixmovies.com,jujutsukaisen-manga.online,jujutsukaisenonline.net,leercapitulo.com,linksly.co,mangadna.com,mangahere.today,manganatos.com,mangas-raw.com,mangceh.cc,manhwalist.com,membed.net,messitv.net,miraculous.to,movierulz.cam,movies-watch.com.pk,movies.ninja,moviesmod.com,mp3fromyou.tube,mreader.co,ngomik.net,nkiri.com,playlist-youtu.be,pomvideo.cc,prmovies.bz,prmovies.cam,prmovies.fyi,prmovies.gay,prmovies.li,prmovies.org,prmovies.re,putlocker.vc,putlockers.fm,putlockers.li,rawkuma.com,sflix.se,sockshare.ac,ssoap2day.to,tamilyogi.best,uwatchfree.be,vanime.co,waploaded.com,wat32.tv,watchofree.com,watchomovies.cam,watchomovies.net,watchseries.cyou,watchseries.ninja,wcostream.cc,webtoonshare.com,y-2mate.com,yomovies.bz,yomovies.gay,yomovies.pl,yomovies.pm,yomovies.ws,ytmp3.cc,yts-subs.com##iframe[style*="z-index: 2147483647"]
 dexdotexe.com##iframe[title="Top Games"]
 shoesession.com##iframe[width="732"]
 premiumtimesng.com##img[alt$=" Ad"]

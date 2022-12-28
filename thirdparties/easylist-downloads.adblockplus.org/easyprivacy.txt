@@ -9545,6 +9545,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dolldetail.com^
 ||donkeyleaf.com^
 ||doorbrazil.com^
+||doubtdrawer.com^
 ||doubtfulrainstorm.com^
 ||downtowndirection.com^
 ||dq95d35.com^$third-party
@@ -13145,6 +13146,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.big-boards.com^
 ||stats.bitgravity.com^
 ||stats.bluebillywig.com^
+||stats.callnowbutton.com^
 ||stats.cmcigroup.com^
 ||stats.curds.io^
 ||stats.datahjaelp.net^

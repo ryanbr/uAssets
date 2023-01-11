@@ -3288,7 +3288,6 @@
 /popundr.
 /popundr/*
 /popundr_
-/popup-ad.
 /popup-builder-$~image,~stylesheet
 /popup-domination/*$~stylesheet
 /popup/log|$~third-party,xmlhttprequest
@@ -11580,6 +11579,7 @@ _800x80_
 ##.ad-space-mpu-box
 ##.ad-space-topbanner
 ##.ad-spacer
+##.ad-spacing
 ##.ad-span
 ##.ad-special-article
 ##.ad-speedbump
@@ -44923,7 +44923,6 @@ tf2r.com#@#.adverts
 ||sissonetanquam.website^$popup
 ||sixft-apart.com^$popup
 ||sixminutes.biz^$popup
-||sjv.io^$popup
 ||skillravageintrusive.com^$popup
 ||skiptheadz.net^$popup
 ||skipthemadz.info^$popup
@@ -50557,6 +50556,7 @@ theblock.co##.fullWidthDisplay
 ptinews.com##.fullstorydivright
 whatismybrowser.com##.fun-info-footer
 whatismybrowser.com##.fun-inner
+artscanvas.org##.funders
 ferrarichat.com##.funzone
 fxstreet.com##.fxs_leaderboard
 aframnews.com,afro.com,aurn.com,borneobulletin.com.bn,businessday.ng,businessofapps.com,chicagodefender.com,chimpreports.com,coinweek.com,dailynews.co.zw,dailysport.co.uk,dallasvoice.com,gatewaynews.co.za,gayexpress.co.nz,gematsu.com,islandecho.co.uk,jacksonvillefreepress.com,mediaplaynews.com,moviemaker.com,newpittsburghcourier.com,nondoc.com,one.com.mt,richmondshiretoday.co.uk,sammobile.com,savannahtribune.com,talkradioeurope.com,thegolfnewsnet.com,waamradio.com,womensagenda.com.au##.g
@@ -51335,6 +51335,7 @@ futbol24.com##.rek
 wcostream.com##.reklam_pve
 timeextension.com##.related-group > .insert
 idropnews.com##.related-posts
+ranker.com##.relatedInline_container__Ux4lS
 timesofindia.indiatimes.com##.relatedVideoWrapper
 4shared.com##.remove-rekl
 runningmagazine.ca##.repeater-bottom-leaderboard

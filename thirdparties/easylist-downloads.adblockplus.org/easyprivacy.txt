@@ -2935,6 +2935,7 @@
 /m360lib.js
 /ma.gif?cc=
 /madAnalytics.js
+/magento/page-visit?
 /magento2.js
 /magiq-
 /mail_tracking-cg.php
@@ -11769,6 +11770,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bc0a.com/api/
 ||bc0a.com/autopilot/
 ||bc0a.com/be_ixf_js_sdk.js
+||bc0a.com/marvel.js
 ||bdg.com/event?
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^

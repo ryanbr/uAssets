@@ -14884,6 +14884,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sal.isanook.com^
 ||stat.matichon.co.th^
 ! Turkish
+||analytics.kkb.com.tr^
 ||hulyagedikci.com/vhit.php?
 ||statistics.daktilo.com^
 ||tracking.venturify.at^
@@ -15127,6 +15128,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.alipay.com^
 ||collect.asics.com^
 ||collect.banggood.com^
+||collect.hollisterco.com^
 ||collect.thunder-io.com^
 ||collector-px0py5pczn.octopart.com^
 ||collector.cint.com^

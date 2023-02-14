@@ -21340,6 +21340,7 @@ _800x80_
 ##a[href^="https://fertilitycommand.com/"]
 ##a[href^="https://financeads.net/tc.php?"]
 ##a[href^="https://fleshlight.sjv.io/"]
+##a[href^="https://flirtandsweets.life/"]
 ##a[href^="https://fourwhenstatistics.com/"]
 ##a[href^="https://frameworkdeserve.com/"]
 ##a[href^="https://funkydaters.com/"]
@@ -45891,7 +45892,7 @@ tf2r.com#@#.adverts
 ||tubeadv.com^$third-party
 ||tubecorporate.com^$third-party
 ||tubepush.eu^$third-party
-||tubesweet.com^third-party
+||tubesweet.com^$third-party
 ||tufosex.com.br^$third-party
 ||twistyscash.com^$third-party
 ||unaspajas.com^$third-party
@@ -51776,7 +51777,7 @@ nypost.com##.widget_nypost_dfp_ad_widget
 dailynewsegypt.com##.widget_rotatingbanners
 twistedsifter.com##.widget_sifter_ad_bigbox_widget
 985kissfm.net,bxr.com,catcountry951.com,nashfm1065.com,power923.com,wncv.com,wskz.com##.widget_simpleimage
-acprimetime.com,brigantinenow.com,downbeachbuzz.com##.widget_sp_image
+acprimetime.com,androidpctv.com,brigantinenow.com,downbeachbuzz.com##.widget_sp_image
 screenbinge.com,streamingrant.com##.widget_sp_image-image-link
 gamertweak.com##.widget_srlzycxh
 lostintechnology.com,ripplecoinnews.com,webkinznewz.ganzworld.com##.widget_text
@@ -53845,6 +53846,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||dilbert.com/assets/ad-vendor-$script,~third-party
 @@||discretemath.org/ads/
 @@||discretemath.org^$image,stylesheet
+@@||disqus.com/embed/comments/$subdocument
 @@||docs.woopt.com/wgact/$image,~third-party,xmlhttprequest
 @@||dodo.ac/np/images/$image,domain=nookipedia.com
 @@||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com

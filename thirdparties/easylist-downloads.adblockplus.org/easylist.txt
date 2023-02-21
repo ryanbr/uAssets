@@ -21564,6 +21564,8 @@ _800x80_
 ##zeus-ad
 ! element specific
 ##ins.adsbygoogle
+! (NSFW) club-rileyreid.com,clubmiamalkova.com,lanarhoades.mypornstarblogs.com
+###mgb-container > #mgb
 ! https://github.com/easylist/easylist/pull/11962
 ###kt_player > a[target="_blank"]
 ! Slashdot "Deals" (covers web/ipfs/onion)
@@ -50118,6 +50120,7 @@ addictinggames.com##.add-bx
 morningstar.in##.add-container
 indianexpress.com##.add-first
 ians.in##.add-inner
+businessesview.com.au,holidayview.com.au,realestateview.com.au,ruralview.com.au##.add-item
 zeenews.india.com##.add-placeholder
 moneycontrol.com##.add-spot
 media4growth.com##.add-text
@@ -53474,7 +53477,6 @@ pornvalleymedia.net###media_image-86
 pornvalleymedia.net###media_image-87
 pornvalleymedia.net###media_image-88
 pornvalleymedia.net###media_image-90
-clubsarajay.com###mgb
 vpornvideos.com###mn-container
 gifsfor.com###mob_banner
 whentai.com###modalegames

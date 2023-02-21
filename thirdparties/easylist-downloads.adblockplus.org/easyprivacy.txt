@@ -9508,6 +9508,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||curtaincows.com^
 ||curvedsquirrel.com^
 ||curvycry.com^$third-party
+||cushiondrum.com^
 ||cushionpig.com^$third-party
 ||cutecalculator.com^
 ||cutechin.com^$third-party
@@ -9554,6 +9555,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dispensablestranger.com^
 ||distancefinger.com^
 ||distinctday.com^$third-party
+||distributionneck.com^
 ||distributiontomatoes.com^$third-party
 ||disturbedquiet.com^
 ||divehope.com^$third-party
@@ -9989,6 +9991,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||podiumpresto.com^
 ||pointlesshour.com^
 ||pointlesspocket.com^
+||pointlessprofit.com^
 ||pointlessrifle.com^
 ||poisedpig.com^
 ||politegoldfish.com^
@@ -15032,7 +15035,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api-router.kaspersky-labs.com/logger2/metrics/
 ||api.ffm.to/sl/e/$image
 ||api.narrativ.com/favicon.ico
-||apkpure.com/analytics_
 ||apnews.com/logger
 ||app-bnkr.b-cdn.net/js/lv.js
 ||app.box.com/app-api/split-proxy/api/metrics
@@ -30564,7 +30566,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
 @@||iwin.com/gtm.json$~third-party,xmlhttprequest
 @@||jbj.co.uk^*/analytics.js$script,~third-party
-@@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
+@@||js-agent.newrelic.com^$domain=alliantcreditunion.com|kapwing.com
 @@||js.captcha-display.com/xhr_tag.js$script,domain=auth.garena.com
 @@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com|rubex.efilecabinet.net

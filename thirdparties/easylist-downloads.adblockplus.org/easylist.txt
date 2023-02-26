@@ -52042,11 +52042,13 @@ byrdie.com,investopedia.com,verywellhealth.com##.mntl-leaderboard-spacer
 comicbook.com##.mobile
 putlockers.do##.mobile-btn
 d123movies.to##.mobile-btn > div
+businessplus.ie##.mobile-mpu-widget
 pcmacstore.com##.mobileHide
 thedailybeast.com##.mobiledoc-sizer
 criminaljusticedegreehub.com##.mobius-container
 etxt.biz##.mod-cabinet__sidebar-adv
 etxt.biz##.mod-cabinet__sidebar-info
+breakingenergy.com##.modal-backdrop
 livelaw.in##.modal_wrapper_frame
 autoevolution.com##.modeladmid
 msn.com##.modernRightRail_stickyTopBannerAd-DS-EntryPoint1-1
@@ -52662,6 +52664,7 @@ beincrypto.com##.sponsored-badge
 newegg.com##.sponsored-brands
 coinpaprika.com##.sponsored-buttons
 washingtontimes.com##.sponsored-heading
+breakingdefense.com##.sponsored-inline
 hellomagazine.com##.sponsored-news
 investing.com##.sponsoredArticle
 coinmarketcap.com##.sponsoredMark

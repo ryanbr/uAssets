@@ -50108,6 +50108,7 @@ pimpandhost.com###ad2
 exchangerates.org.uk###ad3
 comicbookmovie.com###adATFLeaderboard
 moomoo.io###adCard
+sainsburysmagazine.co.uk###adSlot-featuredInBlue
 sherdog.com###adViAi
 musescore.com###ad_cs_12219747_300_250
 musescore.com###ad_cs_12219747_728_90
@@ -51305,6 +51306,7 @@ dfiles.eu##.banner1
 gsprating.com##.banner2
 britsabroad.com##.bannerBox
 securenetsystems.net##.bannerPrerollArea
+thejc.com##.banner__
 financemagnates.com##.banner__outer-wrapper
 tass.com##.banner__wrapper
 asmag.com##.banner_ab

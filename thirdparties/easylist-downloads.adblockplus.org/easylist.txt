@@ -10201,6 +10201,7 @@ _800x80_
 ##.Advert-label
 ##.Advert300x250
 ##.AdvertContainer
+##.AdvertWrapper
 ##.AdvertisementAfterHeader
 ##.AdvertisementAfterPost
 ##.AdvertisementAsidePost
@@ -11518,6 +11519,7 @@ _800x80_
 ##.ad-slot--top
 ##.ad-slot--top-above-nav
 ##.ad-slot--top-banner-ad
+##.ad-slot--wrapper
 ##.ad-slot-1
 ##.ad-slot-2
 ##.ad-slot-234-60
@@ -52191,6 +52193,7 @@ careerindia.com##.inhouse-content
 bestlifeonline.com,eatthis.com##.inline
 manitobacooperator.ca##.inline--2
 kijiji.ca##.inline-banner
+freebeacon.com##.inline-campaign-wrapper
 stocksnap.io##.inline-carbon
 parkers.co.uk##.inline-leaderboard-ad-wrapper
 pcgamesn.com,pockettactics.com,theloadout.com##.inlinerail

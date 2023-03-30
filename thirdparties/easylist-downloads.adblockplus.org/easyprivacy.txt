@@ -13735,6 +13735,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.nexx.cloud/*/session/
 ||artemis-cdn.ocdn.eu^
 ||audimark.de/tracking/
+||ba-content.de/cds/log/
 ||bcs-computersysteme.com/cgi-local/hiddencounter/
 ||beagle.prod.tda.link^
 ||blacktri-a.akamaihd.net^
@@ -28889,6 +28890,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! *** easylist:easyprivacy/easyprivacy_specific_international.txt ***
 ! German
 ||agnes.waz.de^
+||analytics.adliners.de^
 ||analytics.daasrv.net^
 ||analytics.deutscher-apotheker-verlag.de^
 ||analytics.moviepilot.de^

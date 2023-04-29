@@ -24778,6 +24778,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||armpitstamnos.com^
 ||arnautjamdani.com^
 ||arnofourgu.com^
+||arodul.com^
 ||arointbarra.com^
 ||arossb.com^
 ||arouac.com^
@@ -27603,6 +27604,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||cobalten.com^
 ||cobwebhauntedallot.com^
 ||cocaocravat.digital^
+||cocath.com^
 ||cocklacock.com^
 ||cocktaildejectionknights.com^
 ||cocoachviver.com^
@@ -49995,6 +49997,7 @@ androidrepublic.org,anonymousemail.me,apkmirror.com,demos.krajee.com,kadinlarkul
 ||sascdn.com/tag/
 ||saveit.us/img/$third-party
 ||sbhc.portalhc.com^
+||screen13.com/publishers/
 ||scriptadmin.com/scripts/popunder.js
 ||secure.money.com^$third-party
 ||service.smscoin.com/js/sendpic.js
@@ -56070,6 +56073,7 @@ isaidubb.net,orutamil.com##a[href*="/ucdownloader.php?"]
 isaidubb.net,orutamil.com##a[href*="/ucmini.php?"]
 distrowatch.com##a[href*="3cx.com"]
 97rock.com,wedg.com##a[href*="716jobfair.com"]
+cript.to##a[href*="8stream-ai.com"]
 uploadrar.com##a[href*="?"][target="_blank"]
 filefleck.com,sadeempc.com,upload4earn.org,usersdrive.com##a[href*="javascript:"]
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##a[href*="src=promoted_trend_click"]

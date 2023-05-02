@@ -4340,7 +4340,6 @@
 /TrackShopAnalytics.
 /tracksrk.
 /trackstats?
-/trackstats|
 /tracksubprop.
 /trackTimings.gif?
 /trackui.min.js

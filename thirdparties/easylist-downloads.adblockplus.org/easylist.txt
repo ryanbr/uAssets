@@ -266,7 +266,6 @@
 .iads.js
 .il/ads.
 .il/ads/
-.in/ads.
 .in/ads/
 .info/ad_
 .info/ads-
@@ -410,7 +409,6 @@
 /ad-label.
 /ad-left.
 /ad-loader-
-/ad-loader.
 /ad-loading.
 /ad-local.$domain=~ad-local.de
 /ad-maven-
@@ -459,7 +457,6 @@
 /ad.skin.
 /ad.slot.
 /ad.view?
-/ad.xml$xmlhttprequest
 /ad/a.aspx?
 /ad/afc_
 /ad/banner.
@@ -1064,10 +1061,8 @@
 /ads.client-
 /ads.cms
 /ads.compat.
-/ads.css
 /ads.dll/*
 /ads.entry_
-/ads.htm$domain=~games.wkb.jp
 /ads.jplayer.
 /ads.jsp
 /ads.pl?
@@ -1429,7 +1424,6 @@
 /adsec.$domain=~adsec.gr|~adsec.kinsta.cloud
 /adsecondary.
 /adsen/*
-/adsEnd.
 /adsense-$domain=~www.google.com
 /adsense1.
 /adsense2.
@@ -2548,7 +2542,6 @@
 /global/ads/*
 /globalad.$domain=~globalad.com.br
 /globalads-
-/google-ad-
 /google-ad?
 /Google-Ads-
 /google-ads/*
@@ -4515,7 +4508,6 @@ _prebid8.
 /adblocker-leader.
 /adBlockerTrack_
 /adblockkiller.
-/adblockpopup.
 /adbuddy.$domain=~adbuddy.be|~adbuddy.beeldstudio.be
 /ads-blocking-detector.
 /anti-adblock/*$~stylesheet
@@ -49881,6 +49873,7 @@ browsershots.org#@#.advert_area
 ||btcnews.one/adsbanner_
 ||btguard.com/images/
 ||btr.domywife.com^
+||bytro.com^$image,third-party
 ||c.bannerflow.net^
 ||campaigns.williamhill.com^
 ||capital.com/widgets/$third-party
@@ -53278,6 +53271,7 @@ supercheats.com###titlebar
 supercheats.com###titlebar_banner
 box-core.net,mma-core.com###tlbrd
 technewsworld.com###tnavad
+bramptonguardian.com###tncms-region-global-container-bottom
 accuweather.com,phonescoop.com###top
 bookriot.com###top-alt-content
 coingecko.com###top-announcement-header
@@ -53570,6 +53564,7 @@ chron.com,greenwichtime.com,houstonchronicle.com,mysanantonio.com,sfchronicle.co
 bigislandnow.com##.adBreak
 m.economictimes.com,someecards.com,trailspace.com##.adContainer
 anews.com.tr##.adControl
+bramptonguardian.com##.adLabelWrapper
 bramptonguardian.com##.adSlot___3IQ8M
 drive.com.au##.adSpacing_drive-ad-spacing__g09um
 healthnfitness.net##.adTrack
@@ -54755,6 +54750,7 @@ iol.co.za##.lbMtEm
 trueachievements.com,truesteamachievements.com,truetrophies.com##.lb_holder
 coincodex.com##.ldb-top
 soaphub.com##.ldm_ad
+lethbridgenewsnow.com##.lead-in
 versus.com##.lead_top
 sgcarmart.com##.leadbadv
 thepcguild.com##.leader
@@ -55146,12 +55142,13 @@ advfn.com##.plus500
 thepinknews.com##.pn-ad-container
 thepinknews.com##.pn-remove-ads-container
 freewebarcade.com##.pnum
+bramptonguardian.com##.polarBlock
 bigissue.com##.polaris__simple-grid--full
 pedestrian.tv##.popular-jobs-widget
 compoundsemiconductor.net##.popular__section-newsx
 wethegeek.com##.popup-dialog
 acestream.net##.popup2
-battlefordsnow.com,cfjctoday.com,everythinggp.com,huskiefan.ca,larongenow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca##.pos-top
+battlefordsnow.com,cfjctoday.com,everythinggp.com,huskiefan.ca,larongenow.com,lethbridgenewsnow.com,meadowlakenow.com,nanaimonewsnow.com,northeastnow.com,panow.com,rdnewsnow.com,sasknow.com,vernonmatters.ca##.pos-top
 charlieintel.com##.position-sticky
 wtop.com##.post--sponsored
 kiplinger.com##.post-gallery-item-ad
@@ -55376,6 +55373,7 @@ newindianexpress.com##.scc
 radiotimes.com##.schedule__row-list-item-advert
 hentaihaven.icu,hentaihaven.xxx,hentaistream.tv,nhentai.io##.script_manager_video_master
 readmng.com##.scroll_target_top
+lethbridgenewsnow.com##.scroller
 9anime.to,cyclinguptodate.com,tennisuptodate.com##.sda
 apotelyt.com##.sdbrUnitFlex100a
 apotelyt.com##.sdbrUnitFlex250b

@@ -26884,6 +26884,7 @@ browsershots.org#@#.advert_area
 ||causcs.com^
 ||causingguard.com^
 ||cauthaushoas.com^
+||cautiotumfie.com^
 ||cautiouscooperativegentlemen.com^
 ||cauwausa.net^
 ||cavernousshift.pro^
@@ -30743,6 +30744,7 @@ browsershots.org#@#.advert_area
 ||forearmthrobjanuary.com^
 ||forecastsinglegait.com^
 ||foregogabbro.life^
+||foresawmartins.com^
 ||foreverhealthsculptor.com^
 ||foreyeshehadtw.com^
 ||forflygonom.com^
@@ -34252,6 +34254,7 @@ browsershots.org#@#.advert_area
 ||literaryfledlitter.com^
 ||literaturehogwhack.com^
 ||literpeore.com^
+||lithelytwick.com^
 ||lithogsicket.com^
 ||lithyphiomia.com^
 ||littlecutecats.com^
@@ -40446,6 +40449,7 @@ browsershots.org#@#.advert_area
 ||skeeingfondu.life^
 ||skeetads.com^
 ||skeletal-if.pro^
+||skepcaranx.com^
 ||sketbhang.guru^
 ||sketchflutter.com^
 ||sketchinferiorunits.com^
@@ -42691,6 +42695,7 @@ browsershots.org#@#.advert_area
 ||unhaftcharing.com^
 ||unhatedprotei.com^
 ||unhau.com^
+||unhaveabobra.com^
 ||unhealthyproduct.pro^
 ||unhelerrevoke.website^
 ||unhorseaa.com^
@@ -43671,6 +43676,7 @@ browsershots.org#@#.advert_area
 ||wegotmedia.com^
 ||wehras.com^
 ||weibiaoju6.com^
+||weighertutania.com^
 ||wel-wel-fie.com^
 ||welfarefit.com^
 ||wellhello.com^
@@ -50033,7 +50039,6 @@ browsershots.org#@#.advert_area
 ||btcnews.one/adsbanner_
 ||btguard.com/images/
 ||btr.domywife.com^
-||bytro.com^$image,third-party
 ||c.bannerflow.net^
 ||campaigns.williamhill.com^
 ||capital.com/widgets/$third-party
@@ -52699,6 +52704,7 @@ magnet.so###AD
 advfn.com###APS_300_X_600
 advfn.com###APS_BILLBOARD
 webcarstory.com###Ads
+search.avast.com###AsbAdContainer
 weegy.com###BannerDiv
 citynews.ca###Bigbox_300x250
 calculatorsoup.com###Bottom
@@ -56519,7 +56525,7 @@ gab.com##a[rel="noopener"][target="_blank"][href^="https://grow.gab.com/go/"]
 unsplash.com##a[rel^="sponsored"][target="_blank"]
 opensubtitles.org##a[target="_blank"][href^="https://www.amazon.com/gp/search"]
 searchenginereports.net##a[title="Ad"]
-abysscdn.com,hqq.ac,hqq.to,hqq.tv,linris.xyz,megaplay.cc,netuplayer.top,oceanplay.xyz,playertoast.uno,plushd.bio,waaw.to,watchonlinehd123.sbs,wiztube.xyz##a[title="Free money easy"]
+abysscdn.com,hqq.ac,hqq.to,hqq.tv,linris.xyz,megaplay.cc,meucdn.vip,netuplayer.top,oceanplay.xyz,playertoast.uno,plushd.bio,waaw.to,watchonlinehd123.sbs,wiztube.xyz##a[title="Free money easy"]
 kroger.com##a[title^="Advertisement:"]
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##article[data-ft*="\"ei\":\""]
 greatist.com##aside

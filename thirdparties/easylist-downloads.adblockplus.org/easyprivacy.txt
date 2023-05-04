@@ -5312,6 +5312,7 @@ _mongo_stats/
 ||affvantage.com^
 ||agkn.com^
 ||allvideometrika.com^
+||alpha1trk.com^
 ||altopd.com^
 ||analys.live^
 ||analysis.fi^

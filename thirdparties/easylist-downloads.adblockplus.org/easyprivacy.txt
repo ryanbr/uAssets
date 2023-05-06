@@ -33603,6 +33603,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||tags.aljazeera.net^
 ! Bosnian
 ||insight.olx.ba^
+||klix.ba/pixel/
 ! Chinese
 ||104.com.tw/log/
 ||17173.com/ping.js

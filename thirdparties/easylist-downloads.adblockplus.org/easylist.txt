@@ -50370,6 +50370,7 @@ browsershots.org#@#.advert_area
 ||affiliate.heureka.cz^
 ||affiliate.juno.co.uk^
 ||affiliate.mediatemple.net^
+||affiliatepluginintegration.cj.com^
 ||ah.pricegrabber.com^
 ||ak.imgaft.com^
 ||akamacdn.com/api/spots/
@@ -50462,6 +50463,7 @@ browsershots.org#@#.advert_area
 ||ddownload.com/images/promo/$third-party
 ||dealextreme.com/affiliate_upload/
 ||desperateseller.co.uk/affiliates/
+||digitaloceanspaces.com/woohoo/
 ||digitaloceanspaces.com/WWW/$domain=7-zip.org
 ||disqus.com/ads-iframe/
 ||disqus.com/listPromoted?

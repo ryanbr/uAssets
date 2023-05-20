@@ -3829,6 +3829,7 @@
 /wppas/*
 /wppas_
 /wpproadds.
+/wpx-bannerize_
 /wrapper/ads/*
 /www/ad/*
 /www/ad_
@@ -23362,6 +23363,7 @@ browsershots.org#@#.advert_area
 ||adlane.info^
 ||adligature.com^
 ||adlogists.com^
+||adlserq.com^
 ||adltserv.com^
 ||admachina.com^
 ||admavvex.com^
@@ -29853,6 +29855,7 @@ browsershots.org#@#.advert_area
 ||ememoricane.info^
 ||ementwre.buzz^
 ||emeralddead.com^
+||emeraldhecticteapot.com^
 ||emerizeculler.com^
 ||emicalcove.xyz^
 ||emigrantfirearmcaliber.com^
@@ -31085,6 +31088,7 @@ browsershots.org#@#.advert_area
 ||frolnk.com^
 ||fromoffspringcaliber.com^
 ||frondewame.com^
+||fronthlpr.com^
 ||fronthlpric.com^
 ||frookshop-winsive.com^
 ||frooter.xyz^
@@ -34781,6 +34785,7 @@ browsershots.org#@#.advert_area
 ||lucificassents.com^
 ||luckyads.pro^
 ||luckyforbet.com^
+||luckypapa.xyz^
 ||luckypushh.com^
 ||lucretius-ada.com^
 ||lucrumvirga.life^
@@ -35859,6 +35864,7 @@ browsershots.org#@#.advert_area
 ||mycasinoaccounts.com^
 ||mycdn.co^
 ||mycdn2.co^
+||myckdom.com^
 ||myclickbankads.com^
 ||myclickpush.com^
 ||mycoolfeed.com^
@@ -36613,6 +36619,7 @@ browsershots.org#@#.advert_area
 ||obstaclebornevastly.com^
 ||obstanceder.pro^
 ||obstructcrucialcommander.com^
+||obstructdogcollarblockade.com^
 ||obstructionsaint.com^
 ||obstry.com^
 ||obtainadopteddeliberately.com^
@@ -36670,6 +36677,7 @@ browsershots.org#@#.advert_area
 ||oeckey.com^
 ||oedroughl.xyz^
 ||oedspoiletkni.xyz^
+||oeokfmroaiuwo.xyz^
 ||oetn.xyz^
 ||oeuvresvexable.com^
 ||oextraordu.one^
@@ -37979,6 +37987,7 @@ browsershots.org#@#.advert_area
 ||pinttalewag.com^
 ||pinwalerompers.com^
 ||pioneercomparatively.com^
+||pioneerhardshipfarewell.com^
 ||pioneersuspectedjury.com^
 ||pionwaney.com^
 ||piouscheers.com^
@@ -39010,6 +39019,7 @@ browsershots.org#@#.advert_area
 ||qcffrrsyaxcccx.xyz^
 ||qcigbljyenh.com^
 ||qcmjdptyikwf.xyz^
+||qctzwkrczwjw.com^
 ||qdagihwi.xyz^
 ||qdatasales.com^
 ||qdfxeqhnjuknyy.com^
@@ -43273,6 +43283,7 @@ browsershots.org#@#.advert_area
 ||understoodreceivermisunderstand.com^
 ||underwards.site^
 ||underwearglossary.com^
+||underwearsourorb.com^
 ||undiesthumb.com^
 ||undimlyjewlike.com^
 ||undooptimisticsuction.com^
@@ -44808,6 +44819,7 @@ browsershots.org#@#.advert_area
 ||wunteetoco.com^
 ||wuombkpa.com^
 ||wupoughu.com^
+||wuqconn.com^
 ||wurstsmikael.life^
 ||wussucko.com^
 ||wutzibapqf.com^
@@ -47310,6 +47322,7 @@ browsershots.org#@#.advert_area
 ||adk2.com^$popup
 ||adk2x.com^$popup
 ||adlogists.com^$popup
+||adlserq.com^$popup
 ||adltserv.com^$popup
 ||adlure.net^$popup
 ||admedit.net^$popup
@@ -47990,6 +48003,7 @@ browsershots.org#@#.advert_area
 ||elizathings.com^$popup
 ||eloquentformallyrelapse.com^$popup
 ||elsewherebuckle.com^$popup
+||emeraldhecticteapot.com^$popup
 ||emonito.xyz^$popup
 ||employmentsuppressedbeautiful.com^$popup
 ||emptivetss.space^$popup
@@ -48127,6 +48141,7 @@ browsershots.org#@#.advert_area
 ||frestlinker.com^$popup
 ||friendlyduck.com^$popup
 ||friesel-mustin.com^$popup
+||fronthlpr.com^$popup
 ||fronthlpric.com^$popup
 ||frrdlass.com^$popup
 ||frtya.com^$popup
@@ -48168,6 +48183,7 @@ browsershots.org#@#.advert_area
 ||genialsleptworldwide.com^$popup
 ||geniusdexchange.com^$popup
 ||genuinelybruises.com^$popup
+||geotrkclknow.com^$popup
 ||geras-con.com^$popup
 ||germinateensue.com^$popup
 ||get-datinghere.life^$popup
@@ -48618,6 +48634,7 @@ browsershots.org#@#.advert_area
 ||lptrak.com^$popup
 ||luckyads.pro^$popup
 ||luckyforbet.com^$popup
+||luckypapa.xyz^$popup
 ||lucretius-ada.com^$popup
 ||lurgaimt.net^$popup
 ||luublimaluulo.com^$popup
@@ -49761,6 +49778,7 @@ browsershots.org#@#.advert_area
 ||ultimate-captcha.com^$popup
 ||ultracdn.top^$popup
 ||ultralove.net^$popup
+||ultrapartners.com^$popup
 ||ultravpnoffers.com^$popup
 ||ultrlove.com^$popup
 ||ulukdliketobeparto.xyz^$popup
@@ -49769,6 +49787,7 @@ browsershots.org#@#.advert_area
 ||unblockedapi.com^$popup
 ||undergosermon.com^$popup
 ||understoodreceivermisunderstand.com^$popup
+||underwearsourorb.com^$popup
 ||unfaithfulmakeryearly.com^$popup
 ||unforgivablegrowl.com^$popup
 ||unhappyporkform.com^$popup
@@ -49960,6 +49979,7 @@ browsershots.org#@#.advert_area
 ||worthyrid.com^$popup
 ||wovensur.com^$popup
 ||wowshortvideos.com^$popup
+||wuqconn.com^$popup
 ||wwija.com^$popup
 ||wwow.xyz^$popup
 ||wwowww.xyz^$popup
@@ -50712,6 +50732,7 @@ browsershots.org#@#.advert_area
 ! *** easylist:easylist/easylist_thirdparty.txt ***
 ||000webhost.com/images/banners/
 ||1003454530.rsc.cdn77.org^
+||1035360789.rsc.cdn77.org^
 ||1080872514.rsc.cdn77.org^
 ||1183537888.rsc.cdn77.org^
 ||1380535010.rsc.cdn77.org^
@@ -50719,6 +50740,7 @@ browsershots.org#@#.advert_area
 ||1675450967.rsc.cdn77.org^
 ||1698632923.rsc.cdn77.org^
 ||1728445846.rsc.cdn77.org^
+||1736253261.rsc.cdn77.org^
 ||a-delivery.rmbl.ws^
 ||a.ucoz.net^
 ||ad-serve.b-cdn.net^

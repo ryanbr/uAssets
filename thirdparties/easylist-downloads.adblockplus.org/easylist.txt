@@ -8218,6 +8218,7 @@ _800x80_
 ###in-article-ad
 ###in-article-mpu
 ###in-content-ad
+###inArticleAdv
 ###inarticlead
 ###inc-ads-bigbox
 ###incontent-ad-2
@@ -13772,6 +13773,7 @@ _800x80_
 ##.adsenseformat
 ##.adsenseframe
 ##.adsenseleaderboard
+##.adsensemobile
 ##.adsep
 ##.adserve_728
 ##.adserverBox
@@ -15111,6 +15113,7 @@ _800x80_
 ##.banner-adsense
 ##.banner-adv
 ##.banner-advert
+##.banner-advert-wrapper
 ##.banner-advertisement
 ##.banner-advertising
 ##.banner-adverts

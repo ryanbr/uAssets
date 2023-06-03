@@ -31315,6 +31315,7 @@ browsershots.org#@#.advert_area
 ||functionspresidespiral.com^
 ||fundamentalenvironmental.com^
 ||fundardsesaz.club^
+||fundsbe.com^
 ||fungianjaggier.digital^
 ||fungus.online^
 ||funkerpep.com^
@@ -32787,6 +32788,7 @@ browsershots.org#@#.advert_area
 ||hpk42r7a.de^
 ||hpmarzhnny.com^
 ||hppvkbfcuq.com^
+||hpychofen.com^
 ||hpyjmp.com^
 ||hpyrdr.com^
 ||hq3x.com^
@@ -48655,6 +48657,7 @@ browsershots.org#@#.advert_area
 ||fstsrv.com^$popup
 ||ftte.xyz^$popup
 ||functionsprecision.com^$popup
+||fundsbe.com^$popup
 ||funmatrix.net^$popup
 ||furrowparabledisplay.com^$popup
 ||furstraitsbrowse.com^$popup

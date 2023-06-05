@@ -8504,6 +8504,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||handyfield.com^
 ||handyfireman.com^$third-party
 ||happenhistory.com^
+||harborcaption.com^
 ||harborcub.com^
 ||hardtofindmilk.com^
 ||hatefulrequest.com^
@@ -8562,6 +8563,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||informengine.com^
 ||innocentinvention.com^$third-party
 ||innocentwax.com^
+||inputicicle.com^
 ||inquisitiveice.com^
 ||inquisitiveinvention.com^$third-party
 ||instrumentinsect.com^
@@ -8614,6 +8616,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lizardslaugh.com^$third-party
 ||longinglettuce.com^
 ||longingtrees.com^
+||looseloaf.com^
 ||lorenzourban.com^$third-party
 ||losslace.com^
 ||loudlunch.com^$third-party
@@ -9099,6 +9102,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stringsmile.com^
 ||stripedburst.com^
 ||strivesidewalk.com^
+||strivesquirrel.com^
 ||structurerod.com^
 ||stupendousselection.com^
 ||stupendoussleet.com^
@@ -11128,6 +11132,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||felix.data.tm-awx.com/batch
 ||felix.data.tm-awx.com/pageConfig
 ||felix.data.tm-awx.com/pageview
+||fennec.atp.fox^
 ||filament-stats.herokuapp.com^
 ||filesonic.com/referral/$third-party
 ||fingerprinter-production.herokuapp.com^
@@ -11174,6 +11179,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||futurecdn.net/bordeaux.js$xmlhttprequest
 ||futurecdn.net^*/abp.js
 ||futurehybrid.tech^$third-party
+||futureplc.com/push_metrics/
 ||fw.tv/embed/impressions
 ||fwix.com/ref.js
 ||fwix.com^*/trackclicks_

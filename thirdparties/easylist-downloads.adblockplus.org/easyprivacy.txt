@@ -8373,6 +8373,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||frailoffer.com^
 ||franticcarpenter.com^
 ||frantictrail.com^
+||freezingbuilding.com^
 ||fretfulfurniture.com^
 ||friendlyfold.com^
 ||friendwool.com^
@@ -8783,6 +8784,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||realizevacation.com^$third-party
 ||rebelhen.com^
 ||rebelsubway.com^
+||rebelswing.com^
 ||receptivebranch.com^
 ||receptiveink.com^
 ||receptivereaction.com^$third-party

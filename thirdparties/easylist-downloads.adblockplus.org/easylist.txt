@@ -26051,7 +26051,6 @@ browsershots.org#@#.advert_area
 ||bigotpenniless.com^
 ||bigprizesonline.com^
 ||bigrourg.net^
-||bigsport.today^
 ||bijitsoa.com^
 ||bijwawr.com^
 ||bikehowfaded.com^
@@ -27579,7 +27578,6 @@ browsershots.org#@#.advert_area
 ||click.scour.com^
 ||click4free.info^
 ||clickadin.com^
-||clickadu.com^
 ||clickagy.com^
 ||clickallow.net^
 ||clickaslu.com^
@@ -46702,6 +46700,7 @@ browsershots.org#@#.advert_area
 ||clickable.com^$third-party
 ||clickad.pl^$third-party
 ||clickadilla.com^$third-party
+||clickadu.com^$third-party
 ||clickbet88.com^$third-party
 ||clickcertain.com^$third-party
 ||clickdaly.com^$third-party
@@ -50838,7 +50837,6 @@ browsershots.org#@#.advert_area
 ||chatinator.com^$third-party
 ||chereogatsa.art^
 ||citysex.com^$third-party
-||clickadu.com^$third-party
 ||clickaine.com^$third-party
 ||clipxn.com^$third-party
 ||cross-system.com^$script,third-party
@@ -52926,6 +52924,7 @@ browsershots.org#@#.advert_area
 ||fantasti.cc/ajax/gw.php?$popup
 ||fapcandy.com^$popup,third-party
 ||flirthits.com/landing/$popup
+||go.xhamsterlive.com^$popup
 ||hdporn.to^$popup,third-party
 ||hentaiheroes.com/landing/$popup,third-party
 ||icgirls.com^$popup
@@ -58903,6 +58902,7 @@ bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
 ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
 ! Advanced element hiding rules for Adblock Plus
+fairwaymarket.com,thefreshgrocer.com#?#div[class^="ProductCard"]:-abp-has(div[data-testid^="Sponsored"])
 nordstrom.com#?#.ivm_G:-abp-contains(Sponsored)
 noon.com#?#span[class*="productContaine"]:-abp-has(div:-abp-contains(Sponsored))
 mg.co.za#?#article:-abp-has(.sponsored-single)
@@ -59252,6 +59252,7 @@ topinsearch.com##.TelkiTeasersBlock
 hentaivideo.tube##.UVPAnnotationJavascriptNormal
 xtube.com##.ZBTBTTr93ez9.ktZk9knDKFfB
 porndoe.com##.\-f-banners
+xhamster.com##._029ef-containerBottomSpot
 xhamster.com##._80e65-containerBottomSpot
 xhamster.com##._80e65-containerPauseSpot
 tubepornclassic.com##.___it0h1l3u2se2lo
@@ -59376,6 +59377,7 @@ pornwhite.com##.bottom-items
 teenpornvideo.xxx##.bottom-spots
 youtubelike.com##.bottom-thumbs
 youtubelike.com##.bottom-top
+xhamster.com##.bottom-widget-section
 rexxx.com##.bottom_banners
 porn-plus.com##.bottom_player_a
 dixyporn.com##.bottom_spot
@@ -59868,6 +59870,8 @@ xhamster.com##.yfd-fdcam-thumb
 xhamster.com##.yfd-fdcams-widget
 xhamster.com##.yfd-fdclipstore-bottom
 xhamster.com##.yfd-fdsp-b
+xhamster.com##.yld-mdcam-thumb
+xhamster.com##.yld-mdsp-b
 xhamster.com##.ytd-jcam-thumb
 xhamster.com##.ytd-jcams-widget
 xhamster.com##.ytd-jsp-a

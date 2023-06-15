@@ -4966,6 +4966,7 @@ _mongo_stats/
 ||aptrinsic.com^$third-party
 ||aqtracker.com^$third-party
 ||aralego.net^$third-party
+||arc.io^$third-party
 ||arcadeweb.com^$third-party
 ||ardalio.com^$third-party
 ||arena-quantum.co.uk^$third-party
@@ -8356,6 +8357,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||memorycobweb.com^
 ||mentorsticks.com^
 ||meremark.com^
+||merequartz.com^
 ||messagenovice.com^
 ||messyoranges.com^
 ||metroaverage.com^

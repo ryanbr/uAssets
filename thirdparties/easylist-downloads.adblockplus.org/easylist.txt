@@ -790,6 +790,7 @@
 /adfuncs.
 /adfunction.
 /adfunctions.
+/adfurikun/*$~image
 /adhandler/*$~subdocument
 /adhandlers-
 /adheader.
@@ -970,6 +971,7 @@
 /ads.jsp
 /ads.pl?
 /ads/!rotator/*
+/ads/300.
 /ads/acctid=
 /ads/ads/*
 /ads/adv/*
@@ -1744,7 +1746,7 @@
 /assets/ads_
 /assets/doubleclick/*
 /asyncadload.
-/asyncjs.$domain=~asyncjs.com
+/asyncjs.$domain=~asyncjs.com|~asyncjs.today
 /asyncspc.
 /atcode-bannerize/*
 /atlads/*
@@ -2954,6 +2956,7 @@
 /popunder?
 /popunder_
 /popunderjs/*
+/popunders/*
 /popunderWeb-
 /popundr.
 /popundr/*
@@ -3066,6 +3069,7 @@
 /rdm-ad-
 /RdmAdFeed.
 /rdrr/renderer.js
+/re-ads-
 /realmedia/ads/*
 /realmedia_mjx.
 /realmedia_mjx_
@@ -3658,6 +3662,7 @@
 ?adfox_
 ?adslot=
 ?adspot_
+?adunitid=
 ?advertiser=
 ?advertiser_id=$domain=~ads.pinterest.com|~panel.rightflow.com
 ?bannerid=
@@ -11419,6 +11424,7 @@ _800x80_
 ##.adAlert
 ##.adArea
 ##.adAreaLC
+##.adAreaNative
 ##.adAreaTopTitle
 ##.adArticleBanner
 ##.adArticleBody
@@ -18172,6 +18178,7 @@ _800x80_
 ##.nu2ad
 ##.nuffnangad
 ##.nui-ad-layout
+##.nuk-ad-placeholder
 ##.nw-ad
 ##.nw-ad-468x60
 ##.nw-ad-label
@@ -22381,6 +22388,7 @@ browsershots.org#@#.advert_area
 ||8s32e590un.com^
 ||8sbdjfsdf88.monster^
 ||8skjdnkfsdf88.monster^
+||8stream-ai.com^
 ||8ue9q7i.com^
 ||8wtkfxiss1o2.com^
 ||9001476746.com^
@@ -22580,6 +22588,7 @@ browsershots.org#@#.advert_area
 ||ablatesgascon.cam^
 ||ablesasmetotr.monster^
 ||ablitleoor.com^
+||abluentshinny.com^
 ||abluvdiscr.com^
 ||ablybeastssarcastic.com^
 ||ablyfought.com^
@@ -24683,6 +24692,7 @@ browsershots.org#@#.advert_area
 ||aubergearise.com^
 ||aubergeswots.com^
 ||auberginecorny.com^
+||auboaksa.com^
 ||aubpfvvsiyf.xyz^
 ||auburn9819.com^
 ||auchoocm.com^
@@ -31340,6 +31350,7 @@ browsershots.org#@#.advert_area
 ||glazegha.com^
 ||glazilyvenues.com^
 ||glbtrk.com^
+||gleagainedam.info^
 ||gleameddelightprosperity.com^
 ||gleaminsist.com^
 ||glecmaim.net^
@@ -33773,6 +33784,7 @@ browsershots.org#@#.advert_area
 ||kidnapbushesfuse.com^
 ||kidsboilingbeech.com^
 ||kidslinecover.com^
+||kihwmtvzvi.com^
 ||kikibobo.top^
 ||kikiloobily.com^
 ||kikoosso.net^
@@ -34680,6 +34692,7 @@ browsershots.org#@#.advert_area
 ||ltassrv.com^
 ||ltckrqiy.com^
 ||ltengronsa.com^
+||ltiagmkphobd.com^
 ||ltibabjux.com^
 ||ltijuzoqm.com^
 ||ltingcoempa.info^
@@ -36179,6 +36192,7 @@ browsershots.org#@#.advert_area
 ||nieveni.com^
 ||nifiel.com^
 ||niftiesrotonde.com^
+||nigerm.com^
 ||nighter.club^
 ||nightfallroad.com^
 ||nigion.com^
@@ -37353,6 +37367,7 @@ browsershots.org#@#.advert_area
 ||oxygenblobsglass.com^
 ||oxynticarkab.com^
 ||oyi9f1kbaj.com^
+||oylwerbntui.com^
 ||oysterexhalereview.com^
 ||ozardoog.net^
 ||ozdfhysr.com^
@@ -45346,6 +45361,7 @@ browsershots.org#@#.advert_area
 ||xoyuxostayam.com^
 ||xpctraffic.com^
 ||xpectthatmy.shop^
+||xpkftctvei.com^
 ||xpollo.com^
 ||xporn.in^
 ||xprivate.cc^
@@ -47588,6 +47604,7 @@ browsershots.org#@#.advert_area
 ||7vuoh5i80tys.top^$popup
 ||888media.net^$popup
 ||888promos.com^$popup
+||8stream-ai.com^$popup
 ||8wtkfxiss1o2.com^$popup
 ||900bets10.com^$popup
 ||95urbehxy2dh.top^$popup
@@ -48615,6 +48632,7 @@ browsershots.org#@#.advert_area
 ||glareart.com^$popup
 ||glassmilheart.com^$popup
 ||glauvoob.com^$popup
+||gleagainedam.info^$popup
 ||glegatemi.pro^$popup
 ||glersakr.com^$popup
 ||glersooy.net^$popup
@@ -49683,6 +49701,7 @@ browsershots.org#@#.advert_area
 ||rechanque.com^$popup
 ||reclod.com^$popup
 ||recodetime.com^$popup
+||recommendedseizedbewildered.com^$popup
 ||recompensecombinedlooks.com^$popup
 ||record.commissionkings.ag^$popup
 ||recyclinganewupdated.com^$popup
@@ -55637,6 +55656,7 @@ wowhead.com##.blocks
 mail.com##.blocks-3
 wowway.net##.blocks_container-size_containerSize
 failory.com##.blog-column-ad
+syfy.com##.blog-post-section__zergnet
 blogto.com##.blogto-sticky-banner
 manhwaindo.id##.blox
 techspot.com##.blu
@@ -58765,7 +58785,7 @@ dearbornmarket.com,fairwaymarket.com,gourmetgarage.com,priceritemarketplace.com,
 nordstrom.com#?#.ivm_G:-abp-contains(Sponsored)
 noon.com#?#span[class*="productContaine"]:-abp-has(div:-abp-contains(Sponsored))
 mg.co.za#?#article:-abp-has(.sponsored-single)
-metager.org#?#.result:-abp-has(.advertisement-mark)
+metager.org#?#.result:-abp-has(.mark:-abp-contains(Ad))
 metager.org#?#.result:-abp-has(span:-abp-contains(partnershop))
 rakuten.com#?#div[data-productid]:-abp-has(div.productList_sponsoredAds_RUS)
 alibaba.com#?#.J-offer-wrapper:-abp-contains(Top sponsor listing)
@@ -59516,10 +59536,10 @@ viptube.com##.promotion
 3dtube.xxx,milf.dk,nakedtube.com,pornmaki.com##.promotionbox
 tnaflix.com##.pspBanner
 spankbang.com##.ptgncdn_holder
-pornjam.com##.publ1s-b0ttom
+pornjam.com##.publ11s-b0ttom
 watchmygf.me##.publicity
 freemovies.tv##.publis-bottom
-pornjam.com##.r1ght-pl4yer-169
+pornjam.com##.r11ght-pl4yer-169
 pornjam.com##.r1ght-pl4yer-43
 gaymovievids.com,me-gay.com,ts-tube.net,verygayboys.com##.random-td
 tnaflix.com##.rbsd
@@ -59535,7 +59555,7 @@ pervclips.com##.remove-spots
 cam4.com##.removeAds
 cyberleaks.to##.responsive_banner
 cumlouder.com##.resumecard
-porndroids.com##.resumecard__banner
+porndroids.com,pornjam.com##.resumecard__banner
 bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,porntop.com##.right
 pornoreino.com##.right-side
 definebabe.com##.right-sidebar
@@ -59575,7 +59595,7 @@ amateurfapper.com,iceporn.tv,pornmonde.com##.sources
 hd-easyporn.com##.spc_height_80
 gotporn.com##.spnsrd
 hotgirlclub.com##.spnsrd-block-aside-250
-18porn.sex,amateur8.com,anyporn.com,bigtitslust.com,eachporn.com,fapster.xxx,fpo.xxx,freeporn8.com,hentai-moon.com,its.porn,izlesimdiporno.com,pervertslut.com,porngem.com,porntop.com,sexpornimages.com,sexvid.xxx,sortporn.com,uiporn.com,xhamster.com##.sponsor
+18porn.sex,amateur8.com,anyporn.com,area51.porn,bigtitslust.com,eachporn.com,fapster.xxx,fpo.xxx,freeporn8.com,hentai-moon.com,its.porn,izlesimdiporno.com,pervertslut.com,porngem.com,porntop.com,sexpornimages.com,sexvid.xxx,sortporn.com,uiporn.com,xhamster.com##.sponsor
 teenpornvideo.fun##.sponsor-link-desk
 teenpornvideo.fun##.sponsor-link-mob
 pornpics.com,pornpics.de##.sponsor-type-4
@@ -59876,6 +59896,7 @@ theyarehuge.com##div[data-nosnippet]
 hentai2read.com##div[data-type="leaderboard-top"]
 hentaistream.com##div[id^="adx_ad-"]
 pornez.net##div[id^="cb0"]
+pornsitetest.com##div[id^="eroti-"]
 pornstarbyface.com##div[id^="sponcored-content-"]
 lewdgamer.com##div[id^="spot-"]
 hentaiff.com##div[id^="teaser"]

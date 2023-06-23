@@ -35340,6 +35340,7 @@ browsershots.org#@#.advert_area
 ||mediapalmtree.com^
 ||mediapeartree.com^
 ||mediapush1.com^
+||mediasama.com^
 ||mediaserf.net^
 ||mediasprucetree.com^
 ||mediategenericburden.com^
@@ -40176,6 +40177,7 @@ browsershots.org#@#.advert_area
 ||rhxdsplm.com^
 ||rhythmxchange.com^
 ||rhytic.com^
+||ribbondoorbell.com^
 ||ribsaiji.com^
 ||ribumpin.com^
 ||ribunews.com^
@@ -49936,6 +49938,7 @@ browsershots.org#@#.advert_area
 ||pleasetrack.com^$popup
 ||plexop.net^$popup
 ||plsrcmp.com^$popup
+||pluckfigburst.com^$popup
 ||pocofh.com^$popup
 ||pointclicktrack.com^$popup
 ||pointlimitedzen.online^$popup

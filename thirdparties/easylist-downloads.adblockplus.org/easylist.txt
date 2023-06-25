@@ -24014,6 +24014,7 @@ browsershots.org#@#.advert_area
 ||amusingsnow.pro^
 ||amuyonpastour.top^
 ||amwoukrks.autos^
+||amwswkqh.com^
 ||amyeubhbnugjum.xyz^
 ||amygdalbrittle.com^
 ||amylatesating.com^
@@ -36908,6 +36909,7 @@ browsershots.org#@#.advert_area
 ||objureexamen.life^
 ||oblivionwatcherrebellious.com^
 ||oblong-pool.pro^
+||oblongcondition.com^
 ||oblongseller.com^
 ||obmnimarmos.com^
 ||obnarium.com^
@@ -44362,6 +44364,7 @@ browsershots.org#@#.advert_area
 ||ustive.com^
 ||usuade.com^
 ||usuadr.com^
+||usuads.com^
 ||usuage.com^
 ||usualaurated.com^
 ||usuallyaltered.com^
@@ -45172,6 +45175,7 @@ browsershots.org#@#.advert_area
 ||weaselbubblehue.com^
 ||weatherpeanutnegligence.com^
 ||weatherplllatform.com^
+||weatherpopularitypassage.com^
 ||weavelurkwiden.com^
 ||weaveradrenaline.com^
 ||web-affiliation.com^
@@ -55064,7 +55068,6 @@ openloading.com###fakeplayer
 asianjournal.com###fancybox-overlay
 asianjournal.com###fancybox-wrap
 thedrinknation.com###fcBanner
-fandom.com###featured-video__player
 fandom.com###featured-video__player-container
 investing.com###findABroker
 healthshots.com###fitnessTools
@@ -56822,6 +56825,7 @@ savemyexams.co.uk##.fuse-h-90
 fxstreet.com##.fxs_leaderboard
 aframnews.com,afro.com,aurn.com,aviacionline.com,borneobulletin.com.bn,businessday.ng,businessofapps.com,chicagodefender.com,chimpreports.com,coinweek.com,dailynews.co.zw,dailysport.co.uk,dallasvoice.com,draxe.com,gatewaynews.co.za,gayexpress.co.nz,gematsu.com,islandecho.co.uk,jacksonvillefreepress.com,mediaplaynews.com,moviemaker.com,newpittsburghcourier.com,nondoc.com,richmondshiretoday.co.uk,sammobile.com,savannahtribune.com,talkers.com,talkradioeurope.com,thegolfnewsnet.com,waamradio.com,womensagenda.com.au##.g
 coinweek.com##.g-389
+nytimes.com##.g-paid
 domainnamewire.com,goodthingsguy.com##.g-single
 yellowise.com##.g-widget-block
 titantv.com##.gAd

@@ -55266,7 +55266,7 @@ pastemagazine.com###middle_rectangle
 myjoyonline.com###mjo-article-left_rectangle_mid
 dbltap.com###mm-player-placeholder-large-screen
 mmorpg.com###mmorpg_desktop_list_1
-byrdie.com,instyle.com,investopedia.com,thespruce.com,verywellhealth.com###mntl-leaderboard-header_1-0
+brides.com,byrdie.com,instyle.com,investopedia.com,lifewire.com,thespruce.com,verywellhealth.com###mntl-leaderboard-header_1-0
 sportskeeda.com###mob3-cnx-container-bottom
 pocketgamer.com###mobile-background
 express.co.uk###mobile_floating_test
@@ -56464,7 +56464,7 @@ goal.com,thisislondon.co.uk##.commercial
 telegraph.co.uk##.commercial-unit
 goal.com##.component-ad
 hunker.com,livestrong.com##.component-article-section-jwplayer-wrapper
-binnews.com,iheart.com##.component-pushdown
+binnews.com,iheart.com,steveharveyfm.com##.component-pushdown
 binnews.com,iheart.com##.component-recommendation
 dailymail.co.uk,thisismoney.co.uk##.connatix-wrapper
 realsport101.com##.connatixPS
@@ -57712,6 +57712,7 @@ redferret.net##.redfads
 arras.io##.referral
 al-monitor.com##.region--after-content
 middleeasteye.net##.region-before-navigation
+steveharveyfm.com##.region-recommendation-right
 mrctv.org##.region-sidebar
 futbol24.com##.rek
 wcostream.com##.reklam_pve
@@ -58427,6 +58428,7 @@ bellinghamherald.com##.zone-el
 exchangerates.org.uk##[alt="banner"]
 urbandictionary.com##[aria-label*="Advertise"]
 gab.com##[aria-label*="Sponsored:"]
+thepointsguy.com##[aria-label="Advertisement"]
 wsj.com##[aria-label="Sponsored Offers"]
 everydaykoala.com,playjunkie.com##[class*="__adspot-title-container"]
 everydaykoala.com,playjunkie.com##[class*="__adv-block"]

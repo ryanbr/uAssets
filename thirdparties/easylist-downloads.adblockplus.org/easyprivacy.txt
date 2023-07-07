@@ -102,7 +102,7 @@
 .siteclarity.
 .sitetracking.
 .skimlinks.js
-.snowplowanalytics.
+.snowplowanalytics.$domain=~snowplowanalytics.com
 .stats?action=
 .svc/?tracking_id=
 .tv/log?event

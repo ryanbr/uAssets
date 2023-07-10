@@ -418,7 +418,6 @@
 /analyticsjs/*
 /analyticsScript.
 /analyticsscript_
-/analyticssdk.js
 /analyticstick.
 /analyticstrack.
 /analyticstracking.
@@ -3694,7 +3693,6 @@
 /wmxtracker.js
 /woocommerce-google-adwords-conversion-tracking-tag/*
 /woopra.js
-/worldwide_analytics/*
 /wp-click-track/*
 /wp-clickmap/*
 /wp-content/plugins/confection/bridge.php

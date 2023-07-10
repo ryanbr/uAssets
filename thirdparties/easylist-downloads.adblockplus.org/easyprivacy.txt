@@ -5335,7 +5335,6 @@ _mongo_stats/
 ||europuls.eu^$third-party
 ||europuls.net^$third-party
 ||everestjs.net^$third-party
-||evergage.com^$third-party
 ||evisitanalyst.com^$third-party
 ||evorra.net^$third-party
 ||evyy.net^$third-party
@@ -10720,6 +10719,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.whisk.com^
 ||events.yourcx.io^
 ||eveonline.com/redir.asp$third-party
+||evergage.com/beacon/
 ||everyaction.com/v1/Track/
 ||evidon.com/pub/
 ||eviesays.com/js/analytics/

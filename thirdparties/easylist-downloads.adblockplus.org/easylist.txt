@@ -21656,6 +21656,7 @@ browsershots.org#@#.advert_area
 ||1aa3097b7b.com^
 ||1aqi93ml4.de^
 ||1b14e0ee42d5e195c9aa1a2f5b42c710.com^
+||1b264a0ca0.com^
 ||1b73a49a1b.com^
 ||1b9cvfi0nwxqelxu.pro^
 ||1bm3n8sld.de^
@@ -26019,6 +26020,7 @@ browsershots.org#@#.advert_area
 ||bopexacta.com^
 ||bopvetgel.com^
 ||borary.com^
+||bordsnewsjule.com^
 ||boreasinflash.com^
 ||boredactress.com^
 ||boredinitial.com^
@@ -26322,6 +26324,7 @@ browsershots.org#@#.advert_area
 ||bunbeautifullycleverness.com^
 ||buncoswosh.com^
 ||bundleddayal.com^
+||bungalowdispleasedwheeled.com^
 ||bungalowlame.com^
 ||bungalowsimply.com^
 ||bunnimide.com^
@@ -27515,6 +27518,7 @@ browsershots.org#@#.advert_area
 ||comedyrent.com^
 ||comedyrepair.com^
 ||comermormal.com^
+||comezz.xyz^
 ||comfortclick.co.uk^
 ||comfreeads.com^
 ||comicplanet.net^
@@ -27983,6 +27987,7 @@ browsershots.org#@#.advert_area
 ||ctmdtrvikipjfv.xyz^
 ||ctnsnet.com^
 ||ctoatwoxxnk.com^
+||ctoosqtuxgaq.com^
 ||ctoziphius.com^
 ||ctqwlbxq.com^
 ||ctrlaltdel99.com^
@@ -32095,6 +32100,7 @@ browsershots.org#@#.advert_area
 ||guuewhkwtrvab.com^
 ||guwait.com^
 ||guwfusqa.com^
+||guwgkuaxbvuw.com^
 ||guxsxexlkdk.xyz^
 ||gvbgvrjmap.com^
 ||gvcmiz3vze3n.com^
@@ -37791,6 +37797,7 @@ browsershots.org#@#.advert_area
 ||ourselscarid.com^
 ||oursiignaboaor.cc^
 ||oursiignaboaord.xyz^
+||ourtecads.com^
 ||ourteeko.com^
 ||ourzitemu.com^
 ||ousinouk.xyz^
@@ -39182,6 +39189,7 @@ browsershots.org#@#.advert_area
 ||pro-advert.de^
 ||pro-market.net^
 ||pro-pro-go.com^
+||pro-suprport-act.com^
 ||pro-web.net^
 ||pro119marketing.com^
 ||proadscdn.com^
@@ -40152,6 +40160,7 @@ browsershots.org#@#.advert_area
 ||reclineburp.com^
 ||reclod.com^
 ||recloseclouty.com^
+||recoiltravellingbreach.com^
 ||recomendedsite.com^
 ||recommendationfurnace.com^
 ||recommendedforyou.xyz^
@@ -40495,6 +40504,7 @@ browsershots.org#@#.advert_area
 ||retrievalvariedbudge.com^
 ||retrosshowily.com^
 ||retryngs.com^
+||returt.com^
 ||reuded.com^
 ||reudoh.com^
 ||reukandthis.xyz^
@@ -41319,6 +41329,7 @@ browsershots.org#@#.advert_area
 ||scrapethrillmostly.com^
 ||scratchy-deep.pro^
 ||scratchy-kind.pro^
+||scrawny-pipe.com^
 ||scrawnyarticle.pro^
 ||scrazeunwaged.com^
 ||screechadulthood.com^
@@ -43039,6 +43050,7 @@ browsershots.org#@#.advert_area
 ||tacananbouffon.com^
 ||tacklerloin.com^
 ||tacticmuseumbed.com^
+||tacticschangebabysitting.com^
 ||tadadamads.com^
 ||tadamads.com^
 ||tadsbelver.com^
@@ -43254,6 +43266,7 @@ browsershots.org#@#.advert_area
 ||temperacaimans.com^
 ||tempergleefulvariability.com^
 ||temperrunnersdale.com^
+||temporarilybrancheshideous.com^
 ||temporarilylocate.com^
 ||temporarilyruinconsistent.com^
 ||temporarilysearchingcomputer.com^
@@ -43897,6 +43910,7 @@ browsershots.org#@#.advert_area
 ||towdpdn.store^
 ||towerycacara.com^
 ||towmonterses.com^
+||towtinsel.com^
 ||toxicrookie.com^
 ||toykifojsyufdba.xyz^
 ||toykiykmjbr.xyz^
@@ -55315,6 +55329,8 @@ thebugle.co.za###adz
 apkonline.net###adzz
 purplepainforums.com,snow-forecast.com###affiliates
 exportfromnigeria.info###affs
+osdn.net###after-download-ad
+prepostseo.com###after_button_ad_desktop
 amgreatness.com###ag-lead
 alchetron.com###alchetronFreeStarVideoAdContainer
 djchuang.com###amazon3
@@ -58336,6 +58352,7 @@ hypebeast.com##.shopping-break-container
 indiatoday.in##.shopping__widget
 mirror.co.uk##.shopwindow-adslot
 mirror.co.uk##.shopwindow-advertorial
+chess.com##.short-sidebar-ad-component
 axios.com##.shortFormNativeAd
 siliconrepublic.com##.show-for-medium-up
 thepointsguy.com##.showBb

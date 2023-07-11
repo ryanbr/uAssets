@@ -54123,6 +54123,7 @@ browsershots.org#@#.advert_area
 ||manytoon.com/script/$script
 ||marineterms.com/images/banners/
 ||marketscreener.com/content_openx.php
+||marketwatch.com/asset/ace/ace.min.js
 ||mas.martech.yahoo.com^$domain=mail.yahoo.com
 ||masternodes.online/baseimages/
 ||maxgames.com/img/sponsor_
@@ -59096,6 +59097,7 @@ health.news,naturalnews.com,newstarget.com##[href^="https://www.brighteon.tv"]
 seganerds.com##[href^="https://www.canadacasino.ca/"]
 seganerds.com##[href^="https://www.casinonic.com/"]
 anonfiles.com##[href^="https://www.encrouter.com/"]
+rebelnews.com##[href^="https://www.eventbrite.com/"]
 seganerds.com##[href^="https://www.ewinracing.com/"]
 gamecopyworld.com,gamecopyworld.eu##[href^="https://www.kinguin.net/"]
 perezhilton.com##[href^="https://www.mytrue10.com/"]

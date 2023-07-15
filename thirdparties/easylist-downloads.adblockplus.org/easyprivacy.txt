@@ -452,6 +452,7 @@
 /api/v1/stat?
 /api/v1/streamtelemetry
 /api/v2/collector
+/api/v2/jsonlogger
 /api/v3/getPageVisits
 /api/v3/trackSegmentEvent
 /api/video/stats/*$xmlhttprequest
@@ -3972,6 +3973,7 @@ _WebVitalsReporter_
 /click.*/q/*$image
 /click.em.nike.com/*$image
 /click.email.$image
+/click.php?c=
 /clicks.*/q/*$image
 /clicks.email.$image
 /cmail2.com/t/*

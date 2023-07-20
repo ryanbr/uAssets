@@ -9272,6 +9272,7 @@ _800x80_
 ##.AdUnit300
 ##.AdUnit300x250
 ##.AdUnitBox
+##.AdWidget_ImageWidget
 ##.AdWrapper--sticky-block
 ##.Ad_C
 ##.Ad_D
@@ -30495,6 +30496,7 @@ browsershots.org#@#.advert_area
 ||fiumaralupin.space^
 ||fivelegant.com^
 ||fivetrafficroads.com^
+||fivulsou.xyz^
 ||fiwhibse.com^
 ||fixbreakthrough.com^
 ||fixchidie.com^
@@ -32826,6 +32828,7 @@ browsershots.org#@#.advert_area
 ||iihcjcil.com^
 ||iistillstayherea.com^
 ||ijatsapphiresanda.com^
+||ijeetsie.com^
 ||ijorecepous.com^
 ||ijspro-code.com^
 ||ijtomh.com^
@@ -36153,6 +36156,7 @@ browsershots.org#@#.advert_area
 ||mybetterdl.com^
 ||mybettermb.com^
 ||mybmrtrg.com^
+||mycamlover.com^
 ||mycasinoaccounts.com^
 ||mycdn.co^
 ||mycdn2.co^
@@ -36967,6 +36971,7 @@ browsershots.org#@#.advert_area
 ||obbdarhmos.com^
 ||obbfpykcoa.com^
 ||obbjkyxcenu.com^
+||obdoboli.xyz^
 ||obduratecommence.com^
 ||obediencepulse.com^
 ||obedientrock.com^
@@ -39285,6 +39290,7 @@ browsershots.org#@#.advert_area
 ||psoageeb.com^
 ||psoageph.com^
 ||psoalreh.com^
+||psognaih.xyz^
 ||psoolikoagy.com^
 ||psoonuxo.net^
 ||psoorgou.com^
@@ -46300,6 +46306,7 @@ browsershots.org#@#.advert_area
 ||xdkvvtucvbqhv.xyz^
 ||xdmanage.com^
 ||xdserv.com^
+||xduvqslud.com^
 ||xebadu.com^
 ||xegluwate.com^
 ||xel-xel-fie.com^

@@ -13499,6 +13499,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.global.sky.com^
 ||analytics.hashnode.com^
 ||analytics.kaggle.io^
+||analytics.kooapp.com^
 ||analytics.makeitmeme.com^
 ||analytics.ml.homedepot.ca^
 ||analytics.mouthshut.com^
@@ -13811,6 +13812,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||formula1.com/api/track
 ||foursquare.com/v2/private/logactions
 ||foxsports.com.au/akam/
+||fp.heavybit.com^
 ||fp.measure.office.com^
 ||fpa-cdn.adweek.com^
 ||fpa-cdn.arstechnica.com^

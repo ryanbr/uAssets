@@ -5937,7 +5937,6 @@ _800x80_
 ###adsframe_2
 ###adsfundo
 ###adside
-###adsiframe
 ###adsimage
 ###adsitem
 ###adskinleft
@@ -21090,7 +21089,7 @@ spoilertv.com#@##adsensewide
 browsershots.org#@#.advert_area
 !---------------------------Third-party advertisers---------------------------!
 ! *** easylist:easylist/easylist_adservers.txt ***
-! Non-flagged (Generic blocks)
+!! Non-flagged (Generic blocks)
 ||0-000.store^
 ||0008d6ba2e.com^
 ||004809f9da.com^
@@ -21309,6 +21308,7 @@ browsershots.org#@#.advert_area
 ||1p1eqpotato.com^
 ||1p8ln1dtr.de^
 ||1phads.com^
+||1pqfa71mc.de^
 ||1push.io^
 ||1r4g65b63.de^
 ||1r8435gsqldr.com^
@@ -24105,6 +24105,7 @@ browsershots.org#@#.advert_area
 ||asgclickpp.com^
 ||asgildedall.info^
 ||asgildedalloverw.com^
+||asgmtalconde.com^
 ||asgorebysschan.com^
 ||asgust.com^
 ||ashadofe.com^
@@ -27875,6 +27876,7 @@ browsershots.org#@#.advert_area
 ||d2ship.com^
 ||d30ts2zph80iw7.cloudfront.net^
 ||d31rse9wo0bxcx.cloudfront.net^
+||d31s5xi4eq6l6p.cloudfront.net^
 ||d37aacdbcc.com^
 ||d38190um0l9h9v.cloudfront.net^
 ||d3d98dc11c.com^
@@ -29244,6 +29246,7 @@ browsershots.org#@#.advert_area
 ||easyvids.info^
 ||easyvids.online^
 ||easyvids.space^
+||eatasesetitoefanyo.info^
 ||eatencurvature.com^
 ||eatinerhitles.xyz^
 ||eationslieem.xyz^
@@ -30798,6 +30801,7 @@ browsershots.org#@#.advert_area
 ||formerlyerotic.com^
 ||formerlyrelationshipserver.com^
 ||formingcunninghump.com^
+||formsassistanceclassy.com^
 ||formulacountess.com^
 ||fornvjvi.com^
 ||forognal.com^
@@ -31729,6 +31733,7 @@ browsershots.org#@#.advert_area
 ||governessmagnituderecoil.com^
 ||governorpicklestraight.com^
 ||governorretired.com^
+||gowgycwrfbukst.com^
 ||gowhutho.com^
 ||gowpengagster.com^
 ||gpnjknuqas.xyz^
@@ -32408,6 +32413,7 @@ browsershots.org#@#.advert_area
 ||hieramuriel.com^
 ||hierarchymicrophonerandom.com^
 ||hierarchytotal.com^
+||hievel.com^
 ||higgiens23c5l8asfrk.com^
 ||highconvertingformats.com^
 ||highcpmrevenuenetwork.com^
@@ -33713,6 +33719,7 @@ browsershots.org#@#.advert_area
 ||jestbiases.com^
 ||jestinvaderspeedometer.com^
 ||jestthankfulcaption.com^
+||jesulf.com^
 ||jetordinarilysouvenirs.com^
 ||jetsomkhulda.com^
 ||jetsowilk.com^
@@ -39743,6 +39750,7 @@ browsershots.org#@#.advert_area
 ||pupilmudwort.com^
 ||pupilorgansmad.com^
 ||pupspu.com^
+||puqobfkghmyb.com^
 ||purchasefastidiouswindfall.com^
 ||purchaserteddy.com^
 ||purchasertormentscoundrel.com^
@@ -43965,6 +43973,7 @@ browsershots.org#@#.advert_area
 ||tingshospical.xyz^
 ||tinkerta.com^
 ||tinkerwidth.com^
+||tinmanernst.com^
 ||tinsupposedlycinnamon.com^
 ||tinsus.com^
 ||tintedparticular.com^
@@ -45181,6 +45190,7 @@ browsershots.org#@#.advert_area
 ||usuallyblack.com^
 ||usualt.com^
 ||usucaptlardoon.life^
+||usurerspoind.life^
 ||usurv.com^
 ||uszaodwya.com^
 ||utaitlastwebe.com^
@@ -45686,6 +45696,7 @@ browsershots.org#@#.advert_area
 ||vnrherdsxr.com^
 ||vntsm.com^
 ||vntsm.io^
+||vnvqoihbwgjqpa.com^
 ||voacheph.xyz^
 ||voadeezu.net^
 ||voaglazy.com^
@@ -45936,6 +45947,7 @@ browsershots.org#@#.advert_area
 ||washdaycalmly.com^
 ||washedinmate.com^
 ||washergnome.com^
+||washincozing.space^
 ||washinexhaustible.com^
 ||washpiggyabdomen.com^
 ||wasoffspring.com^
@@ -46528,6 +46540,7 @@ browsershots.org#@#.advert_area
 ||wossaung.net^
 ||woudaufe.net^
 ||woujoami.com^
+||woukrkskillsom.info^
 ||wouldmakefeag.info^
 ||wouldnotspea.info^
 ||woulin.com^
@@ -47149,6 +47162,7 @@ browsershots.org#@#.advert_area
 ||ywyeetvrjx.xyz^
 ||yx-ads6.com^
 ||yxajqsrsij.com^
+||yxguqmcemyjiwb.com^
 ||yxkhpk.com^
 ||yxpoprve.com^
 ||yy9s51b2u05z.com^
@@ -54503,6 +54517,7 @@ browsershots.org#@#.advert_area
 ||porngames.adult^*=$popup,third-party
 ||pornoh.info^$popup
 ||prelanding3.cuntempire.com/?utm_$popup
+||tgp1.brazzersnetwork.com^$popup
 ||tm-offers.gamingadult.com^$popup
 ||tour.mrskin.com^$popup,third-party
 ||zillastream.com/api/$popup

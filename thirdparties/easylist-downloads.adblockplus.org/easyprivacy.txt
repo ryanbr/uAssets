@@ -616,7 +616,6 @@
 /bunsen/events/*
 /byside_webcare.
 /bytro/logs/*
-/bz?*__comet_req=
 /c.gif?
 /c.wrating.com/*
 /c2_count.js
@@ -3760,6 +3759,9 @@ _trackWebtrekkEvents.
 _view_pixel&$image
 _webanalytics.
 _WebVitalsReporter_
+! Facebook pixels
+/ajax/bnzai?_
+/ajax/bz?_
 ! parked domains
 /ls.php?t=
 /track.php?domain=

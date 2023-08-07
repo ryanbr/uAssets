@@ -6277,6 +6277,7 @@ _800x80_
 ###article-ads
 ###article-advert
 ###article-advert-dfp
+###article-aside-top-ad
 ###article-billboard-ad-1
 ###article-bottom-ad
 ###article-box-ad
@@ -14009,6 +14010,7 @@ _800x80_
 ##.article-advert-container
 ##.article-advert-dfp
 ##.article-aside-ad
+##.article-aside-top-ad
 ##.article-body-affiliate-box
 ##.article-body__suppl_content--inline-ad
 ##.article-content-ad
@@ -23481,6 +23483,7 @@ browsershots.org#@#.advert_area
 ||analogousmindlesshonour.com^
 ||analogydid.com^
 ||analysecrappy.com^
+||analyticbz.com^
 ||anamaembush.com^
 ||anamuel-careslie.com^
 ||anandanudish.com^
@@ -30122,6 +30125,7 @@ browsershots.org#@#.advert_area
 ||eyquvllh.com^
 ||eyrarbuggers.com^
 ||eyrasmamluks.space^
+||ezaicmee.xyz^
 ||ezcgojaamg.com^
 ||ezenxathyim.hair^
 ||ezeraf.com^
@@ -31212,6 +31216,7 @@ browsershots.org#@#.advert_area
 ||gamersad.com^
 ||games-tuz.site^
 ||gamescarousel.com^
+||gamescdnfor.com^
 ||gamesims.ru^
 ||gamesrevenu24.com^
 ||gamesrevenue.com^
@@ -31716,6 +31721,7 @@ browsershots.org#@#.advert_area
 ||gobiaesker.uno^
 ||gobicyice.com^
 ||gobitta.info^
+||goblocker.xyz^
 ||gobmodfoe.com^
 ||godating.pw^
 ||goddamnhowks.tech^
@@ -35978,6 +35984,7 @@ browsershots.org#@#.advert_area
 ||mentrandi.com^
 ||mentsecono.xyz^
 ||mentxviewsinte.info^
+||menui.xyz^
 ||menuoverridemotherhood.com^
 ||meo257na3rch.com^
 ||meoem.lol^
@@ -37428,6 +37435,7 @@ browsershots.org#@#.advert_area
 ||nwehirapbk.com^
 ||nwhocamewi.xyz^
 ||nxiqvhhm.com^
+||nxt-psh.com^
 ||nxtck.com^
 ||nxthost-1.info^
 ||nxthost-2.info^
@@ -40317,6 +40325,7 @@ browsershots.org#@#.advert_area
 ||qajigu.xyz^
 ||qajvfiqafqto.com^
 ||qalruhvcoa.com^
+||qalscihrolwu.com^
 ||qamwm5o8dlgijte.com^
 ||qanatn.com^
 ||qarewien.com^
@@ -44714,6 +44723,7 @@ browsershots.org#@#.advert_area
 ||totalactualnewz.com^
 ||totaladblock.com^
 ||totalcoolblog.com^
+||totalfreshwords.com^
 ||totallifeguru.com^
 ||totalnicefeed.com^
 ||totalnicestories.com^
@@ -44968,6 +44978,7 @@ browsershots.org#@#.advert_area
 ||trklnks.com^
 ||trklvs.com^
 ||trkn1.com^
+||trknk.com^
 ||trkrdel.com^
 ||trkrspace.com^
 ||trks.us^
@@ -48076,6 +48087,7 @@ browsershots.org#@#.advert_area
 ||zvwhrc.com^
 ||zwaar.net^
 ||zwbbkjvzqbyba.top^
+||zwbbkjvzqembe.top^
 ||zwnoeqzsuz.com^
 ||zwqpqrtpjt.com^
 ||zwqzxh.com^
@@ -49810,6 +49822,7 @@ browsershots.org#@#.advert_area
 ||amira-efz.com^$popup
 ||ammankeyan.com^$popup
 ||ammunitionconsiderinstitution.com^$popup
+||analyticbz.com^$popup
 ||anamuel-careslie.com^$popup
 ||ancientsend.com^$popup
 ||andbegant.one^$popup
@@ -52606,6 +52619,7 @@ browsershots.org#@#.advert_area
 ||trkbng.com^$popup
 ||trkings.com^$popup
 ||trklnks.com^$popup
+||trknk.com^$popup
 ||trlxcf05.com^$popup
 ||trmobc.com^$popup
 ||trotletekphore.com^$popup
@@ -60893,6 +60907,7 @@ greatist.com##aside
 everydayrussianlanguage.com##aside img[src^="/wp-content/themes/edr/img/"]
 thefinancialbrand.com##aside[class][style*="cursor:"]
 geoguessr.com##aside[class^="ad_"]
+filecrypt.co##button:not(.deleteall):not(.clearup):not(#cnl_btn):not(.dlcdownload):not(.pff):not(.addnew):not(.submit)
 psycom.net##center > .vh-quiz-qborder
 mangas-raw.com##center > div[style]
 greekreporter.com##center > p > [href]
@@ -61706,7 +61721,6 @@ tripadvisor.at,tripadvisor.be,tripadvisor.ca,tripadvisor.ch,tripadvisor.cl,tripa
 tumblr.com#?#.ge_yK:-abp-has(.hM19_)
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#div[data-testid="UserCell"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion,twitter.com##div[data-testid="cellInnerDiv"] > div.css-1dbjc4n > div[class="css-1dbjc4n"] > div[class="css-1dbjc4n"][data-testid="placementTracking"]
-
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#div[data-testid="eventHero"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#article[data-testid="tweet"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion#?#div[data-testid="trend"]:-abp-has(path[d$="10H8.996V8h7v7z"])
@@ -61723,6 +61737,7 @@ xing.com#?#div[class^="styles-grid-col-"]:-abp-has(span[class^="MediaObject-Medi
 yelp.at,yelp.be,yelp.ca,yelp.ch,yelp.cl,yelp.co.jp,yelp.co.nz,yelp.co.uk,yelp.com,yelp.com.ar,yelp.com.au,yelp.com.br,yelp.com.hk,yelp.com.mx,yelp.com.ph,yelp.com.sg,yelp.com.tr,yelp.cz,yelp.de,yelp.dk,yelp.es,yelp.fi,yelp.fr,yelp.ie,yelp.it,yelp.my,yelp.nl,yelp.no,yelp.pl,yelp.pt,yelp.se#?#div[class^=" container_"]:-abp-has(a[href^="/adredir?"])
 1001tracklists.com#?#a[onclick^='gaLnkTr']
 bestbuy.com#?#[id^="atwb-ninja-carousel"]
+filecrypt.co#?#div:-abp-properties(max-width: 900px;)
 metager.org#?#.result:-abp-has(a[href^="https://r.search.yahoo.com/"])
 metager.org#?#.result:-abp-has(a[href^="https://metager.org"][href*="/partner/r?"])
 ! *** easylist:easylist_adult/adult_specific_hide.txt ***

@@ -5431,6 +5431,7 @@ _800x80_
 ###ads-header-728
 ###ads-home-468
 ###ads-horizontal
+###ads-inread
 ###ads-inside-content
 ###ads-leader
 ###ads-leaderboard
@@ -12132,6 +12133,7 @@ _800x80_
 ##.ads-decorator
 ##.ads-desktop
 ##.ads-div
+##.ads-end-content
 ##.ads-express
 ##.ads-favicon
 ##.ads-feed
@@ -12199,6 +12201,7 @@ _800x80_
 ##.ads-mini-3rows
 ##.ads-mobile
 ##.ads-module
+##.ads-module-alignment
 ##.ads-movie
 ##.ads-mpu
 ##.ads-narrow

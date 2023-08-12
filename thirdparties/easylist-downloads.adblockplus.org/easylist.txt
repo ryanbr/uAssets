@@ -22914,6 +22914,7 @@ browsershots.org#@#.advert_area
 ||aj1913.online^
 ||aj1985.online^
 ||aj2031.online^
+||aj2218.online^
 ||aj2397.online^
 ||aj2430.online^
 ||aj2495.online^
@@ -29307,6 +29308,7 @@ browsershots.org#@#.advert_area
 ||effectiveperformanceformat.com^
 ||effectiveperformancenetwork.com^
 ||effectsglancefirmly.com^
+||effectuallyaudition.com^
 ||effectuallydeliriumparalysis.com^
 ||effectuallyimitation.com^
 ||effectuallyrefrigerator.com^

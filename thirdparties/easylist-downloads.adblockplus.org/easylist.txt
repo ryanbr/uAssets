@@ -4407,7 +4407,6 @@ _800x80_
 ###ad-main-top
 ###ad-makeup
 ###ad-manager
-###ad-manager-ad-top-0
 ###ad-masthead
 ###ad-medium
 ###ad-medium-lower
@@ -4582,7 +4581,6 @@ _800x80_
 ###ad300X250
 ###ad300_250
 ###ad300x250Module
-###ad300x250_336x280_300x600_336x850
 ###ad31
 ###ad32
 ###ad336
@@ -6241,7 +6239,6 @@ _800x80_
 ###block-openads-3
 ###block-openads-4
 ###block-openads-5
-###block-sidebarad1
 ###block-sponsors
 ###blockAd
 ###blockAds
@@ -7675,10 +7672,8 @@ _800x80_
 ###post_adspace
 ###post_advert
 ###post_id_ad_bot
-###postads
 ###postads0
 ###postpageaddiv
-###pp-ad-slot
 ###ppcAdverts
 ###ppvideoadvertisement
 ###pr_ad
@@ -7735,12 +7730,9 @@ _800x80_
 ###pushdown_ad
 ###pusher-ad
 ###pvadscontainer
-###qpon_big_ad-teaser
-###qtopAd-graybg
 ###quads-ad1_widget
 ###quads-ad2_widget
 ###quads-admin-ads-js
-###quick_ads_frame_bottom
 ###quidgetad
 ###quigo
 ###quigo-ad
@@ -7920,8 +7912,6 @@ _800x80_
 ###rightside_ad
 ###rightsideadstop
 ###rightskyad
-###ringtone-ad-bottom
-###ringtone-ad-top
 ###river_sponsors_hiring
 ###rladvt
 ###rm-adslot-bigsizebanner_1
@@ -8150,8 +8140,6 @@ _800x80_
 ###source_ad
 ###source_content_ad
 ###sp-adv-banner-top
-###sp-advtop1
-###sp-advtop3
 ###sp-top-ad-wrapper
 ###spec_offer_ad2
 ###special-deals-ad
@@ -8206,7 +8194,6 @@ _800x80_
 ###sponsor_300x250
 ###sponsor_ad
 ###sponsor_ads
-###sponsor_banderole
 ###sponsor_bar
 ###sponsor_bottom
 ###sponsor_box
@@ -8216,13 +8203,11 @@ _800x80_
 ###sponsor_header
 ###sponsor_link
 ###sponsor_no
-###sponsor_partner_single
 ###sponsor_posts
 ###sponsor_right
 ###sponsored-ads
 ###sponsored-bucket
 ###sponsored-carousel-nucleus
-###sponsored-features
 ###sponsored-footer
 ###sponsored-inline
 ###sponsored-links
@@ -8299,13 +8284,10 @@ _800x80_
 ###squareAds
 ###squareGoogleAd
 ###square_ad
-###square_lat_adv
 ###squaread
-###squareadAdvertiseHere
 ###squareadevertise
 ###squareadvert
 ###squared_ad
-###srp-mid-ad-desktop-banner
 ###ss-ad-overlay
 ###ss-ads-container
 ###st_topads
@@ -8382,14 +8364,11 @@ _800x80_
 ###tfm_admanagerTeaser
 ###theotherads
 ###third_party_ads
-###thisisnotanad
 ###thistad
 ###thread-ad
-###ti-sway-ad
 ###tile-ad
 ###tileAds
 ###tmInfiniteAd
-###tmglBannerAd
 ###tmn_ad_1
 ###tmn_ad_2
 ###tmn_ad_3
@@ -8403,8 +8382,6 @@ _800x80_
 ###top-ad-div
 ###top-ad-google
 ###top-ad-iframe
-###top-ad-menu
-###top-ad-position-inner
 ###top-ad-rect
 ###top-ad-slot
 ###top-ad-slot-0
@@ -8417,7 +8394,6 @@ _800x80_
 ###top-ads-1
 ###top-ads-contain
 ###top-ads-container
-###top-ads-tabs
 ###top-adspot
 ###top-advert
 ###top-advertisement
@@ -8434,7 +8410,6 @@ _800x80_
 ###top-not-ads
 ###top-right-ad
 ###top-right-ad-slot
-###top-search-ad-wrapper
 ###top-skin-ad
 ###top-skin-ad-bg
 ###top-sponsor-ad
@@ -9082,10 +9057,8 @@ _800x80_
 ##.WidthAd
 ##.WikiaTopAds
 ##.XEad
-##._300_ad
 ##._SummaryPageHeaderAdView
 ##._SummaryPageSidebarStickyAdView
-##.___top-ad-wrap
 ##.__isboostOverContent
 ##._ads
 ##._ads-full
@@ -9571,7 +9544,6 @@ _800x80_
 ##.ad-codes
 ##.ad-col
 ##.ad-col-02
-##.ad-collapsible-container
 ##.ad-colour
 ##.ad-column
 ##.ad-comment
@@ -11073,7 +11045,6 @@ _800x80_
 ##.ad__content
 ##.ad__create
 ##.ad__desk
-##.ad__disclosure
 ##.ad__full--width
 ##.ad__gapfix
 ##.ad__header
@@ -14135,9 +14106,6 @@ _800x80_
 ##.block-itg-ads
 ##.block-ltadvertising
 ##.block-maniad
-##.block-module-ad
-##.block-module-ad-300x250
-##.block-module-ad-300x600
 ##.block-nyx-ads-ninja
 ##.block-nyx-ads-ninja-ad-block
 ##.block-openads
@@ -19438,7 +19406,6 @@ _800x80_
 ##.widget_cpxadvert_widgets
 ##.widget_customad_widget
 ##.widget_customadvertising
-##.widget_cxad
 ##.widget_dfp
 ##.widget_dfp_lb-widget
 ##.widget_doubleclick_widget
@@ -57945,7 +57912,7 @@ oann.com##.ad-slot__ad-label
 freepressjournal.in##.ad-slots
 techinformed.com##.ad-text-styles
 trueachievements.com##.ad-wrap
-smithsonianmag.com##.ad-wrapper
+smithsonianmag.com,tasty.co##.ad-wrapper
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,gamesadshopper.com,iamgujarat.com,lolcounter.com,mpog100.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,mpog100.com##.ad2
 allscrabblewords.com,mpog100.com##.ad3

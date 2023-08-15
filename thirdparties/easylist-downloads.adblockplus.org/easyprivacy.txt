@@ -13860,6 +13860,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||isharemetric.rediff.com^
 ||ivx.lacompagnie.com^
 ||j927.statnews.com^
+||jansatta.com/api/capture/ua
 ||jav4tv.com/player/analytics
 ||javhd.com/ascripts/gcu.js
 ||javhd.com/rstat
@@ -31851,6 +31852,7 @@ arketing.indianadunes.com^
 ||navigation-timing.meinestadt.de^
 ||nct.ui-portal.de^
 ||netzwelt.de/log?
+||news.de/track.php
 ||newsdeutschland.com/RPC.php
 ||nickles.de/ivw/
 ||nius.de/monitoring

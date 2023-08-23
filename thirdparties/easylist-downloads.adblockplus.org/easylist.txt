@@ -1836,6 +1836,7 @@
 /images/adv_
 /images/adz/*
 /images/vghd
+/images2/Ads/*
 /imfloat.
 /img-ads.
 /img-ads/*
@@ -54707,6 +54708,8 @@ browsershots.org#@#.advert_area
 ||br.fling.com^
 ||br.realitykings.com^
 ||brazzers.com/ads/
+||bullz-eye.com/blog_ads/
+||bullz-eye.com/images/ads/
 ||bursa.conxxx.pro^
 ||byxxxporn.com/300x250.html
 ||c3s.bionestraff.pro^

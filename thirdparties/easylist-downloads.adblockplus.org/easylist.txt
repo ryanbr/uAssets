@@ -996,16 +996,10 @@
 /adv-scroll.
 /adv-socialbar-
 /adv.css?
-/adv.jsp
-/adv/?rad_$domain=~rakuten.co.jp
 /adv/adriver
-/adv/box-
-/adv/kelkoo/*
 /adv/kelkoo_
 /adv/mjx.
-/adv/mobile/*
 /adv/preroll_
-/adv/search.
 /adv/skin.
 /adv/skin_
 /adv/sponsor/*
@@ -10822,7 +10816,6 @@ _800x80_
 ##.adbutton
 ##.adbutton-block
 ##.adbuttons
-##.adbygoogle
 ##.adcard
 ##.adcasing
 ##.adcenter
@@ -29256,6 +29249,7 @@ browsershots.org#@#.advert_area
 ||ff4eaea9ba.com^
 ||ff5bd8d9f8df.com^
 ||ff9ffc838f.com^
+||ffcclqkmmlmecf.xyz^
 ||ffffff0000ff.com^
 ||ffffffdcdcdc.name^
 ||ffortyimagist.com^
@@ -43989,6 +43983,7 @@ browsershots.org#@#.advert_area
 ||tradeadexchange.com^
 ||trading21s.com^
 ||tradingken.com^
+||tradingpancreasdevice.com^
 ||traditionallymeasuringwire.com^
 ||traditionallyobjectlessblinked.com^
 ||traff0221.com^

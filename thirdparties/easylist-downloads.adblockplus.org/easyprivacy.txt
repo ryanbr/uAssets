@@ -6067,6 +6067,7 @@ _mongo_stats/
 ||reedbusiness.net^$third-party
 ||referer.org^$third-party
 ||referforex.com^$third-party
+||referralrock.com^$third-party
 ||refersion.com^$third-party
 ||reinvigorate.net^$third-party
 ||relead.com^$third-party
@@ -10380,6 +10381,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dw.com.com^$script
 ||dx.mountain.com^
 ||dynamicyield.com/batch?
+||dynamicyield.com/clog
 ||dynamicyield.com/dpx?
 ||dynamicyield.com/imp?
 ||dynamicyield.com/uia?
@@ -12033,6 +12035,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d1cdnlzf6usiff.cloudfront.net^
 ||d1clfvuu2240eh.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
+||d1f0tbk1v3e25u.cloudfront.net^
 ||d1f1eryiqyjs0r.cloudfront.net^*/track.
 ||d1gp8joe0evc8s.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^

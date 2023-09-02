@@ -13846,7 +13846,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lendingtree.com/analytics/
 ||lendingtree.com/pixel/
 ||letsdoeit.com/tracking/
-||lexa.realestate.com.au^
 ||lexology.com/pd.js
 ||libhunt.com/api/ahoy/event
 ||librato-collector.genius.com^
@@ -14278,6 +14277,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.freelancer.com^
 ||t.imgur.com^
 ||t.indeed.com^
+||t.ionos.com^
 ||t.jossandmain.com^
 ||t.kck.st^
 ||t.nypost.com^
@@ -14334,6 +14334,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||thriftbooks.com/scripts/sp.js
 ||thtk.temu.com^
 ||tiendeo.*/_statsapi/
+||tif.ionos.com^
 ||tiktok.com/captcha/report
 ||tiktok.com/ttwid/check/
 ||tiktok.com/v1/list

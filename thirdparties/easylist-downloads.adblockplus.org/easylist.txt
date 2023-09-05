@@ -21138,6 +21138,7 @@ browsershots.org#@#.advert_area
 ||aesand.com^
 ||aesary.com^
 ||aesaul.com^
+||aevpinebvmdhih.com^
 ||afbatqo.com^
 ||afboskruta.com^
 ||afcnuchxgo.com^
@@ -23971,6 +23972,7 @@ browsershots.org#@#.advert_area
 ||bonesinoffensivebook.com^
 ||bonfiresaltymilk.com^
 ||bongacams7.com^
+||bongauns.xyz^
 ||bonnetiere-infrangible-burthening.xyz^
 ||bonnettaking.com^
 ||bonnnesfoxily.com^
@@ -24440,6 +24442,7 @@ browsershots.org#@#.advert_area
 ||bwbmyzvjnqlwv.top^
 ||bwjjrmmxgdax.xyz^
 ||bwmvzwkbqlmrz.top^
+||bwnmwhblsf.com^
 ||bwpcsycysm.xyz^
 ||bwvqjqmlkezkl.top^
 ||bwzlmmqwrrarv.top^
@@ -34475,6 +34478,7 @@ browsershots.org#@#.advert_area
 ||lxfsimoastsiite.xyz^
 ||lxheot.com^
 ||lxmwfqqvyvmsxlw.com^
+||lxmynmdcsavsdl.com^
 ||lxstat.com^
 ||lxudshpck.com^
 ||lybunbacwf.com^
@@ -34528,6 +34532,7 @@ browsershots.org#@#.advert_area
 ||ma2gs3wne3gfej70osium.com^
 ||ma3ryh8l6v.de^
 ||maboazolsamp.com^
+||mabtcaraqdho.com^
 ||macan-native.com^
 ||macedonjesse.life^
 ||macemaninbond.com^
@@ -37856,6 +37861,7 @@ browsershots.org#@#.advert_area
 ||pbcde.com^
 ||pbdjtlghawpiuoq.com^
 ||pbdo.net^
+||pbhjohrx.xyz^
 ||pbkqidejmes.ru^
 ||pblcpush.com^
 ||pblinq.com^
@@ -46161,6 +46167,7 @@ browsershots.org#@#.advert_area
 ||waushool.com^
 ||waust.at^
 ||wauthaik.net^
+||wauwitew.net^
 ||wavablehood.com^
 ||waveclks.com^
 ||wavermerchandiseweird.com^
@@ -46195,6 +46202,7 @@ browsershots.org#@#.advert_area
 ||wboptim.online^
 ||wboux.com^
 ||wbsads.com^
+||wbvjhlaljp.com^
 ||wcadlvruvrq.xyz^
 ||wccprfxgbes.com^
 ||wchctzzkzkhx.com^
@@ -60791,6 +60799,7 @@ bikeroar.com##[href^="https://www.roaradventures.com/"]
 searchcommander.com##[href^="https://www.searchcommander.com/rec/"]
 censored.news,newstarget.com##[href^="https://www.survivalnutrition.com"]
 protrumpnews.com##[href^="https://www.twc.health/"]
+ultimate-guitar.com##[href^="https://www.ultimate-guitar.com/send?ug_from=redirect"]
 upload.ee##[href^="https://www.upload.ee/click.php"]
 gametracker.com##[href^="https://www.vultr.com/"]
 wakingtimes.com##[href^="https://www.wendymyersdetox.com/"]

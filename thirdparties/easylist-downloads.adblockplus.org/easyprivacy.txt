@@ -3374,7 +3374,7 @@
 /wp-powerstat/*
 /wp-rum/*
 /wp-slimstat/*
-/wp-statistics/v2/hit?
+/wp-statistics/v2/*
 /wp-stats-manager/js/wsm_new.js
 /wp-useronline/useronline.
 /wp_stat.php?
@@ -4207,6 +4207,10 @@ _mongo_stats/
 ||whale3.io^
 ||widgetbe.com^
 ||wknd.ai^
+||wlct-one.de^
+||wlct-two.de^
+||wlt-alice.de^
+||wlt-jupiter.de^
 ||wmgroup.us^
 ||woodpeckerlog.com^
 ||yardianalytics.com^
@@ -13665,7 +13669,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||generalblue.com/js/pages/shared/analytics.min.js
 ||generic-function-log-data-7il2midpaa-nn.a.run.app^$domain=telus.com
 ||geo.brobible.com^
-||geo.gfycat.com^
 ||geo.nbcsports.com^
 ||geo.yahoo.com^
 ||geoip.boredpanda.com^
@@ -14203,6 +14206,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stat.vulkanvegas.com^
 ||stategg.cdngeek.com^
 ||statista.com/data/ptm.gif
+||statistics.streamdav.com^
 ||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
 ||stats.aerotime.aero^
 ||stats.calcalist.co.il^
@@ -32771,7 +32775,6 @@ arketing.indianadunes.com^
 ||top.mail.ru/tpc.js
 ||top.mail.ru/tt?js
 ||trk.mail.ru^$image,script
-||tut.by/stat/
 ||vedomosti.ru/boom?
 ||vesti.ru/counter/
 ||xapi.ozon.ru^

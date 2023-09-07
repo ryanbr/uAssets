@@ -36,7 +36,6 @@
 -ad.php?
 -adbanner.
 -adbox-
--adimage-
 -ads-banner.
 -ads-bottom.
 -ads-management/
@@ -21319,6 +21318,7 @@ browsershots.org#@#.advert_area
 ||ahgcumvpyal.com^
 ||ahjopnbimr.com^
 ||ahjrinrucmp.com^
+||ahjshyoqlo.com^
 ||ahlbhiaq.com^
 ||ahlefind.com^
 ||ahnioppshfwq.com^
@@ -23837,6 +23837,7 @@ browsershots.org#@#.advert_area
 ||bmmauazi.com^
 ||bmpgkspo.xyz^
 ||bmptbyb.com^
+||bmqtvmdg.xyz^
 ||bmvjxiiijtebtu.com^
 ||bmybkeo.com^
 ||bmycupptafr.com^
@@ -24405,6 +24406,7 @@ browsershots.org#@#.advert_area
 ||buytieposer.com^
 ||buzzardcraizey.com^
 ||buzzvids-direct.com^
+||bvcsfcx.com^
 ||bvmcdn.com^
 ||bvmcdn.net^
 ||bvnlrqvinhsje.com^
@@ -25252,6 +25254,7 @@ browsershots.org#@#.advert_area
 ||cjvdfw.com^
 ||cjxomyilmv.com^
 ||ckeckstatus.biz^
+||ckofrnk.com^
 ||ckohixbcyzm.com^
 ||ckrf1.com^
 ||ckuwrlxngdrfk.com^
@@ -27996,6 +27999,7 @@ browsershots.org#@#.advert_area
 ||eergaroa.com^
 ||eergithi.com^
 ||eeroawug.com^
+||eersutoo.net^
 ||eeshemto.com^
 ||eesihighlyrec.xyz^
 ||eessoost.net^
@@ -36013,6 +36017,7 @@ browsershots.org#@#.advert_area
 ||nedouseso.com^
 ||neechube.net^
 ||neechuce.net^
+||needeevo.xyz^
 ||needierstraits.website^
 ||needleworkemmaapostrophe.com^
 ||neednguarded.space^
@@ -39867,6 +39872,7 @@ browsershots.org#@#.advert_area
 ||qxeemdpaerfjer.xyz^
 ||qxhspimg.com^
 ||qxrbu.com^
+||qxuelcdfvgecwpb.com^
 ||qxyam.com^
 ||qxycdoexyj.com^
 ||qyajwjyjnavzq.top^
@@ -41980,6 +41986,7 @@ browsershots.org#@#.advert_area
 ||sighcrowdivorce.com^
 ||sigherdoless.com^
 ||sighsuspectshaped.com^
+||sightercanidae.com^
 ||sightjutfar.com^
 ||sighttermportent.com^
 ||sigilsspeiss.com^
@@ -46277,6 +46284,7 @@ browsershots.org#@#.advert_area
 ||watchnewpics.info^
 ||watchnewpics.space^
 ||watchnewvids.online^
+||watchnewvids.space^
 ||watchnewvids.today^
 ||watchtaro.com^
 ||watchthistop.net^
@@ -48286,6 +48294,7 @@ browsershots.org#@#.advert_area
 ||allmediadesk.com^$third-party
 ||alpha-affiliates.com^$third-party
 ||alright.network^$third-party
+||amateur.cash^$third-party
 ||amobee.com^$third-party
 ||andbeyond.media^$third-party
 ||anicli.click^$third-party
@@ -54209,6 +54218,7 @@ browsershots.org#@#.advert_area
 ||yastatic.net/pcode/adfox/header-bidding.js
 ||yield-op-idsync.live.streamtheworld.com^
 ||yieldmanager.edgesuite.net^
+||yimg.com/dy/ads/native.js
 ||yimg.com/dy/ads/readmo.js
 ||z3x-team.com/wp-content/*-banner-
 ||zergnet.com/zerg.js
@@ -62184,7 +62194,7 @@ youjizz.com###rightVideoPrs
 sexuhot.com###right_div_1
 sexuhot.com###right_div_2
 badjojo.com###rightcol
-porntop.com###s-suggesters
+onlyporn.tube,porntop.com###s-suggesters
 homemade.xxx###scrollhere
 sexyandfunny.com###sexy-links
 javtiful.com###showerm
@@ -62488,6 +62498,7 @@ badjojo.com##.footera
 mansurfer.com##.footerbanner
 videocelebs.net##.fp-brand
 xpics.me##.frequently
+onlyporn.tube##.ft
 jizzbunker.com,jizzbunker2.com##.ftrzx1
 teenpornvideo.fun##.full-ave
 kompoz2.com,pornvideos4k.com,roleplayers.co##.full-bns-block
@@ -62689,7 +62700,7 @@ cam4.com##.removeAds
 cyberleaks.to##.responsive_banner
 cumlouder.com##.resumecard
 porndroids.com,pornjam.com##.resumecard__banner
-bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,porntop.com##.right
+bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,onlyporn.tube,porntop.com##.right
 pornoreino.com##.right-side
 definebabe.com##.right-sidebar
 empflix.com##.rightBarBannersx

@@ -1861,6 +1861,7 @@
 /np?log=
 /npm/perfops-rom
 /npssurvey.
+/nr-spa-1216.min.js
 /nsimpression/*
 /nsmg-tracking/*
 /nStat/*
@@ -2766,6 +2767,7 @@
 /TealeafTarget.
 /tealeaftarget?
 /tealium-analytics.
+/tealium-external/utag.js
 /tealium-utag-
 /tealiumAnalytics.
 /tealiumTagsData.
@@ -5730,6 +5732,7 @@ _mongo_stats/
 ||outbid.io^$third-party
 ||outboundlink.me^$third-party
 ||overstat.com^$third-party
+||owltrack.com^$third-party
 ||ownpage.fr^$third-party
 ||ox-bio.com^$third-party
 ||oxidy.com^$third-party

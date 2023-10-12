@@ -7665,6 +7665,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jimny.pro^
 ||joblessdrum.com^
 ||joyoussurprise.com^
+||jubilantcanyon.com^
 ||justicejudo.com^
 ||k54nw.pw^
 ||kitesquirrel.com^
@@ -7921,6 +7922,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||proudprose.com^
 ||psychedelicarithmetic.com^
 ||psychedelicchess.com^
+||pubimgs.com^
 ||puffyloss.com^
 ||puffypaste.com^
 ||puffypull.com^
@@ -8460,6 +8462,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||whirlwealth.com^
 ||whiskyqueue.com^
 ||whisperingbadge.com^
+||whisperingcascade.com^
 ||whisperingcrib.com^
 ||whisperingsummit.com^
 ||whispermeeting.com^

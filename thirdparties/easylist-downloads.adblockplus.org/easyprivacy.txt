@@ -2075,6 +2075,7 @@
 /pvcounter/*
 /pvcounter?
 /PvCountUp.action
+/pvevents.gif?
 /pvmax.js
 /pvnoju.js
 /px.gif?
@@ -9198,6 +9199,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||musiccounter.ru^$third-party
 ||mystat-in.net^$third-party
 ||mytopf.com^$third-party
+||netlog.ru^$third-party
 ||opentracking.ru^$third-party
 ||otclick-adv.ru^$third-party
 ||pladform.ru^$third-party
@@ -12354,7 +12356,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||js.static.m1905.cn/pingd.js
 ||log.hiiir.com^
 ||log.tagtic.cn^
+||mcs.zijieapi.com^
 ||mlt01.com/cmp.htm$third-party
+||mon.zijieapi.com^
 ||msg.71.am^
 ||netease.com/track/
 ||netease.com/web/performance?
@@ -12403,6 +12407,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||videostats.kakao.com^
 ||w3t.cn^*/fx.js
 ||web-trace.ksapisrv.com^
+||webstat.qiumibao.com^
 ||webtrack.pospal.cn^
 ||wlog.kuaishou.com^
 ||yigouw.com/c.js
@@ -12707,6 +12712,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
 ||recobell.io/rest/logs?
+||saluton.cizion.com^
 ||sas.nsm-corp.com^
 ||skplanet.com/pixel?
 ||skplanet.com/pixelb?
@@ -12951,6 +12957,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mtm.qdqmedia.com^
 ||pub.servidoresge.com^
 ||recogerconsentimiento.com/consent/
+||report.botm.transparentedge.io^
+||rt.cdnmedia.tv^
 ||s3wfg.com/js/vortexloader.js
 ||smarte.rs/log
 ||sp.vtex.com^
@@ -12991,12 +12999,16 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.prom.ua^
 ||webvitals.luxnet.ua^
 ! Vietnamese
+||accesstrade.vn/js/trackingtag/
 ||analytics.yomedia.vn^
 ||countervov.emitech.vn^
 ||f-emc.ngsp.gov.vn^
 ||fpt.shop/fa_tracking.js
+||px.dmp.zaloapp.com^
+||st-a.cdp.asia^
 ||tracking.aita.gov.vn^
 ||tracking3.vnncdn.net^
+||za.zalo.me^
 ||za.zdn.vn^
 ||zalo.me/v3/w/_zaf.gif
 !-----------------Individual tracking systems-----------------!
@@ -13118,6 +13130,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.slashdotmedia.com^
 ||analytics.synchrony.com^
 ||analytics.synedat.com^
+||analytics.ticketmaster.
 ||analytics.tradedoubler.com^
 ||analytics.vedantu.com^
 ||analytics.wavebox.io^
@@ -14371,6 +14384,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zerohedge.com/statistics-ajax?
 ||zillowstatic.com/contact-pixel/$image,domain=zillow.com
 ||zion-telemetry.api.cnn.io^
+||zoosk.com/cs/tp.png?
 ! OpenTable
 ://track.opentable.
 ! Vinted
@@ -31907,6 +31921,7 @@ arketing.indianadunes.com^
 ||analytics.cnblogs.com^
 ||analytics.oceanengine.com^
 ||analytics.shop.hisense.com^
+||api.ea3w.com/hits.js
 ||apilog-web.acfun.cn^
 ||apiwmda.58.com.cn^
 ||applog.yiche.com^
@@ -31963,6 +31978,7 @@ arketing.indianadunes.com^
 ||jcm.jd.com^$script,third-party
 ||jcmonitor.xcar.com.cn^
 ||jiayuan.com^*/pv.js
+||js.ea3w.com/pv.js
 ||kn007.net/snmp.php
 ||le.com/op/
 ||log.aliyuncs.com^
@@ -32116,10 +32132,12 @@ arketing.indianadunes.com^
 ||ylog.huya.com^
 ||youku.com/log/
 ||yxdown.com/count.js
+||zcool.com.cn/track/
 ||zhihu-web-analytics.zhihu.com^
 ||zhihu.com/collector/
 ||zhihu.com/zbst/events/
 ||zio.xcar.com.cn^
+||zol-img.com.cn^*/logger.js
 ||zongheng.com^*/logger.min.js
 ||zz.bdstatic.com^
 ! Croatian
@@ -32184,6 +32202,7 @@ arketing.indianadunes.com^
 ||topspin.npo.nl^
 ||track.pexi.nl^
 ||tracking.voordeeluitjes.nl^
+||tvgids.nl/collect
 ||tweakers.net/x/build/wedonttrack.
 ||tweakers.net/x/scripts/min/os1a2z.js
 ||txrx.bol.com^
@@ -32456,6 +32475,7 @@ arketing.indianadunes.com^
 ||auction.co.kr/ad/log.js
 ||auction.co.kr/montelena.js
 ||bizlog-gateway.myrealtrip.com^
+||cdp.yna.co.kr^
 ||chosun.com/hitlog/
 ||count.munhwa.com^
 ||data-logdelivery.wconcept.co.kr^

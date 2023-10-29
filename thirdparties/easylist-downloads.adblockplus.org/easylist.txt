@@ -23215,6 +23215,7 @@ browsershots.org#@#.advert_area
 ||blunksdaler.uno^
 ||blurbigdoable.com^
 ||blurlorum.uno^
+||blurmesses.com^
 ||blushbuiltonboard.com^
 ||blushmossy.com^
 ||blzjhbvams.com^
@@ -29998,6 +29999,7 @@ browsershots.org#@#.advert_area
 ||girliewinding.com^
 ||giroxxha.com^
 ||girsescrawk.website^
+||gishejuy.com^
 ||gistblemishparking.com^
 ||gitoku.com^
 ||giufjcfjdv.com^
@@ -36877,6 +36879,7 @@ browsershots.org#@#.advert_area
 ||oatchelt.com^
 ||oatmealaspectpulp.com^
 ||oatmeallump.com^
+||oatsouje.net^
 ||oaujswgofu.com^
 ||oaxoulro.com^
 ||oaxpcohp.com^
@@ -38031,6 +38034,7 @@ browsershots.org#@#.advert_area
 ||paliglaiks.life^
 ||pallaliven.com^
 ||palpablefungussome.com^
+||palroudi.xyz^
 ||paltryheadline.com^
 ||palycaid.life^
 ||palzscurou.com^
@@ -39688,6 +39692,7 @@ browsershots.org#@#.advert_area
 ||psvgnczo.com^
 ||psychalwamble.com^
 ||psychicbowel.com^
+||psycholjicaque.com^
 ||psychologyairport.com^
 ||psychologycircumvent.com^
 ||psychologydistinguishnest.com^
@@ -41012,6 +41017,7 @@ browsershots.org#@#.advert_area
 ||rethowilmari.com^
 ||reticencecarefully.com^
 ||retinaebiaxal.guru^
+||retinaspealer.com^
 ||retinuedisposablerecuperate.com^
 ||retinuegigoh.com^
 ||retionattings.xyz^
@@ -41283,6 +41289,7 @@ browsershots.org#@#.advert_area
 ||roadmappenal.com^
 ||roakicat.net^
 ||roambedroom.com^
+||roastoup.com^
 ||roataisa.net^
 ||robberyinscription.com^
 ||robberysordid.com^
@@ -41795,6 +41802,7 @@ browsershots.org#@#.advert_area
 ||sandhiswiggish.top^
 ||sandyconference.com^
 ||sanfordcessor.space^
+||sangeiunzen.com^
 ||sanggilregard.com^
 ||sangogne.com^
 ||sanhitaamerce.uno^
@@ -41936,6 +41944,7 @@ browsershots.org#@#.advert_area
 ||schavsorpines.guru^
 ||schemeabsolutejanuary.com^
 ||schinuskolobia.com^
+||schizypdq.com^
 ||schjmp.com^
 ||schochesaynay.website^
 ||scholarovertakealimony.com^
@@ -54933,7 +54942,6 @@ browsershots.org#@#.advert_area
 ||ad.22betpartners.com^
 ||ad.about.co.kr^
 ||ad.bitmedia.io^
-||ad.doubleclick.net/ddm/clk/$domain=ad.doubleclick.net
 ||ad.edugram.com^
 ||ad.kubiccomps.icu^
 ||ad.mail.ru/static/admanhtml/
@@ -54974,7 +54982,6 @@ browsershots.org#@#.advert_area
 ||allsportsflix.
 ||amazonaws.com/campaigns-ad/
 ||amazonaws.com/mailcache.appinthestore.com/
-||amazonaws.com^$domain=downloadpirate.com|hexupload.net|krunkercentral.com|uploadhaven.com
 ||an.yandex.ru^$domain=~e.mail.ru
 ||any.gs/visitScript/
 ||api-player.globalsun.io/api/publishers/player/content?category_id=*&adserver_id=$xmlhttprequest
@@ -55045,9 +55052,7 @@ browsershots.org#@#.advert_area
 ||clicknplay.to/api/spots/
 ||cloud.setupad.com^
 ||cloudbet.com/ad/
-||cloudfront.net/ads/$domain=wdwmagic.com
 ||cloudfront.net/js/script_tag/new/sca_affiliate_
-||cloudfront.net^*/sponsors/$domain=pbs.org
 ||coinmama.com/assets/img/banners/
 ||commercial.daznservices.com^
 ||contentexchange.me/widget/$third-party
@@ -55204,7 +55209,7 @@ browsershots.org#@#.advert_area
 ||onnetwork.tv/widget/
 ||ooproxy.azurewebsites.net^$xmlhttprequest,domain=imasdk.googleapis.com
 ||orangebuddies.nl/image/banners/
-||outbrain.com^$domain=bgr.com|buzzfeed.com|tvline.com
+||outbrainimg.com/transform/$media,third-party
 ||ow.pubmatic.com^
 ||p.jwpcdn.com/player/plugins/vast/
 ||p.smartertravel.com^
@@ -55309,7 +55314,6 @@ browsershots.org#@#.advert_area
 ||static.tradetracker.net^$third-party
 ||storage.googleapis.com/adtags/
 ||storage.googleapis.com/ba_utils/stab.js
-||storage.googleapis.com/cdn.newsfirst.lk/advertisements/$domain=newsfirst.lk
 ||stunserver.net/frun.js
 ||sunflowerbright104.io/sdk.js
 ||supply.upjers.com^
@@ -55318,7 +55322,6 @@ browsershots.org#@#.advert_area
 ||sweeva.com/images/banner250.gif
 ||syndicate.payloadz.com^
 ||taboola.com/vpaid/
-||taboola.com^$domain=independent.co.uk|outlook.live.com|technobuffalo.com
 ||tag.regieci.com^
 ||takefile.link/promo/$third-party
 ||targeting.vdo.ai^
@@ -55362,7 +55365,6 @@ browsershots.org#@#.advert_area
 ||weby.aaas.org^
 ||whatismyipaddress.cyou/assets/images/ip-banner.png
 ||wheelify.cartzy.com^
-||widenetworks.net^$domain=flysat.com
 ||widget.engageya.com/engageya_loader.js
 ||widget.golfscape.com^
 ||widget.searchschoolsnetwork.com^
@@ -55374,7 +55376,6 @@ browsershots.org#@#.advert_area
 ||widgets.outbrain.com^*/widget.js
 ||widgets.progrids.com^
 ||widgets.tree.com^
-||windows.net/banners/$domain=hortidaily.com
 ||wistia.com/assets/external/googleAds.js
 ||wowtcgloot.com/share/?d=$third-party
 ||wp.com/assets.sheetmusicplus.com/banner/
@@ -56636,6 +56637,7 @@ browsershots.org#@#.advert_area
 ||4f.to/spns/
 ||aboutmyarea.co.uk/images/imgstore/
 ||ad.animehub.ac^
+||ad.doubleclick.net/ddm/clk/$domain=ad.doubleclick.net
 ||ad.imp.joins.com^
 ||ad.itweb.co.za^
 ||ad.khan.co.kr^
@@ -56662,6 +56664,7 @@ browsershots.org#@#.advert_area
 ||amazon.com/aan/$subdocument
 ||amazonaws.com/cdn.mobverify.com
 ||amazonaws.com/jsstore/$domain=babylonbee.com
+||amazonaws.com^$domain=downloadpirate.com|hexupload.net|krunkercentral.com|uploadhaven.com
 ||amcdn.co.za/scripts/javascript/dfp.js
 ||americanlookout.com////
 ||americanlookout.com/29-wE/
@@ -56717,9 +56720,11 @@ browsershots.org#@#.advert_area
 ||celebstoner.com/assets/images/img/sidebar/$image
 ||centent.stemplay.cc^
 ||clarksvilleonline.com/cols/
+||cloudfront.net/ads/$domain=wdwmagic.com
 ||cloudfront.net/j/wsj-prod.js$domain=wsj.com
 ||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.br|amazon.com.mx|amazon.com.tr|amazon.de|amazon.eg|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.nl|amazon.pl|amazon.sa|amazon.se|amazon.sg
 ||cloudfront.net^$domain=titantv.com
+||cloudfront.net^*/sponsors/$domain=pbs.org
 ||coincheck.com/images/affiliates/
 ||coingolive.com/assets/img/partners/
 ||coins4days.com/*_ext_iframe/
@@ -56969,6 +56974,7 @@ browsershots.org#@#.advert_area
 ||oontent.powzers.lol^
 ||openstack.org/api/public/v1/sponsored-projects?
 ||optics.org/banners/
+||outbrain.com^$domain=bgr.com|buzzfeed.com|tvline.com
 ||outlookads.live.com^
 ||outputter.io/uploads/$subdocument
 ||ownedcore.com/forums/ocpbanners/
@@ -57057,6 +57063,7 @@ browsershots.org#@#.advert_area
 ||static.fastpic.org^$subdocument
 ||staticflickr.com/ap/build/javascripts/prbd-$script,domain=flickr.com
 ||steamanalyst.com/steeem/delivery/
+||storage.googleapis.com/cdn.newsfirst.lk/advertisements/$domain=newsfirst.lk
 ||strcloud.club/mainstream
 ||streamoupload.*/api/spots/$script
 ||streams.tv/js/slidingbanner.js
@@ -57069,6 +57076,7 @@ browsershots.org#@#.advert_area
 ||survivalblog.com/marketplace/
 ||szm.com/reklama
 ||taadd.com/files/js/site_skin.js
+||taboola.com^$domain=independent.co.uk|outlook.live.com|technobuffalo.com
 ||tampermonkey.net/s.js
 ||techgeek365.com/advertisements/
 ||techonthenet.com/javascript/pb.js
@@ -57120,7 +57128,9 @@ browsershots.org#@#.advert_area
 ||webcamtests.com/MyShowroom/view.php?
 ||webstick.blog/images/images-ads/
 ||welovemanga.one/uploads/bannerv.gif
+||widenetworks.net^$domain=flysat.com
 ||wikihow.com/x/zscsucgm?
+||windows.net/banners/$domain=hortidaily.com
 ||wonkychickens.org/data/statics/s2g/$domain=torrentgalaxy.to
 ||worldofmods.com/wompush-init.js
 ||wqah.com/images/banners/
@@ -59783,7 +59793,7 @@ gamemodding.com##.big_banner
 hellenicshippingnews.com##.bigbanner
 scienceabc.com##.bigincontentad
 snokido.com##.bigsquare
-bundesliga.com,hotstar.com,talksport.com##.billboard
+bundesliga.com,hotstar.com,talksport.com,the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie##.billboard
 nypost.com,pagesix.com##.billboard-overlay
 electronicproducts.com##.billboard-wrap
 weatherpro.com##.billboard-wrapper
@@ -60141,6 +60151,8 @@ breakingnews.ie##.custom-mpu-container
 ehitavada.com##.custom-popup
 fandomwire.com##.customad
 total-croatia-news.com##.custombanner
+the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie##.customiser-v2-layout-1-billboard
+the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie##.customiser-v2-layout-three-native-ad-container
 coincarp.com##.customspon
 citywire.com##.cw-top-advert
 futurecurrencyforecast.com##.cwc-tor-widget
@@ -63348,10 +63360,14 @@ bing.com##.b_adLastChild
 bing.com##.b_adPATitleBlock
 bing.com##.b_spa_adblock
 bing.com##.mapsTextAds
+bing.com##.mma_il
 bing.com##.pa_sb
 bing.com##.productAd
 bing.com##[id$="adsMvCarousel"]
 bing.com##a[href*="/aclick?ld="]
+bing.com##div[aria-label$="ProductAds"]
+bing.com##div[class="ins_exp tds"]
+bing.com##div[class="ins_exp vsp"]
 ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
 ! Advanced element hiding rules for Adblock Plus
 ! Sorted alphabetically by the domain
@@ -64995,7 +65011,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||sc2casts.com^$generichide
 @@||spanishdict.com^$generichide
 @@||stream4free.live^$generichide
-@@||tweaktown.com^$generichide
 @@||up-load.io^$generichide
 @@||userload.co/adpopup.js$script
 @@||waaw.to/adv/ads/popunder.js$script

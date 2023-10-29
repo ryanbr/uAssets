@@ -1503,12 +1503,9 @@
 /mistat-data/*
 /mistats/*
 /mixpanel-init.
-/mixpanel-measurement.
 /mixpanel.$domain=~mixpanel.com
-/mixpanel_beacon.
 /mixpanel_tracker.
 /mlopen_track.
-/mm-metrics.
 /mm_track/*
 /mmclient.js
 /mmcore.js
@@ -12661,6 +12658,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aftonbladet.se/blogportal/view/statistics?$third-party
 ||collector.schibsted.io^
 ||eniro.com/pixel/
+||evt-api.ntm.eu^
 ||vizzit.se^$third-party
 ! Tajik
 ||pixel.smartmedia.tj^

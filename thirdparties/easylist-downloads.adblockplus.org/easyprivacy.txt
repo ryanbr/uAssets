@@ -211,10 +211,8 @@
 /akam/10/*
 /akam/11/*
 /akam/13/*
-/akamai_analytics_
-/AkamaiAnalytics.
 /alog.min.js
-/amazon-affiliate-
+/amazon_linker.min.js
 /amp-access/cta/*
 /amp-access/cta?
 /amp-access/ping?
@@ -497,8 +495,9 @@
 /boomerang/beacon
 /boomLogger.
 /boomr.js
-/boost_stats.
-/bootstrap/metrics.
+/boost-sd-analytic.js
+/boost_stats.php
+/bootstrap/metrics.js
 /botd.gif?
 /bower_components/fp/fp.js
 /bpsma.js
@@ -730,6 +729,7 @@
 /counter/stat.
 /counter/views/*
 /counter1.gif?
+/counter2.gif?
 /counter5.min.js
 /counter?action=
 /counter?id=
@@ -3368,6 +3368,7 @@ _mongo_stats/
 ||lsdm.co^
 ||maggieeatstheangel.com^
 ||matheranalytics.com^
+||maxepv.com^
 ||maxtrafixx.tech^
 ||mb-tracking.com^
 ||mcangelus.com^
@@ -9557,6 +9558,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
 ||collect.alphastream.io^
+||collect.bannercrowd.net^
 ||collect.cloudsponge.com^
 ||collect.igodigital.com^
 ||collect.iteam-dress.com^
@@ -11115,6 +11117,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.td3x.com^
 ||track.uc.cn^
 ||track.untd.com^
+||track.uppromote.com^
 ||track.venatusmedia.com^
 ||track.vscash.com^
 ||track.yfret.com^
@@ -12167,6 +12170,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ! Georgian
 ||links.boom.ge^
 ! Greek
+||analytics.skroutz.gr^
 ||glami.gr/js/compiled/pt.js
 ||kwikmotion.com^*/videojs-kwikstat.min.js
 ! Hebrew

@@ -19542,6 +19542,7 @@ browsershots.org#@#.advert_area
 ||9a52364ae8.com^
 ||9a5cb35bf2.com^
 ||9a63a7ab4d.com^
+||9a7c81f58e.com^
 ||9ac0da939a.com^
 ||9ads.mobi^
 ||9af022123c.com^
@@ -21379,6 +21380,7 @@ browsershots.org#@#.advert_area
 ||anywaybreeches.com^
 ||aofzkovajqti.com^
 ||aogkfujgtmfwp.xyz^
+||aoihaizo.xyz^
 ||aojgggbwish.xyz^
 ||aojqjblt.xyz^
 ||aojuoaevugad.xyz^
@@ -23645,6 +23647,7 @@ browsershots.org#@#.advert_area
 ||broughtalienshear.com^
 ||broughtenragesince.com^
 ||broweb.site^
+||brown-gas.com^
 ||broworker4s.com^
 ||broworker6s.com^
 ||broworker7.com^
@@ -30903,6 +30906,7 @@ browsershots.org#@#.advert_area
 ||harvardunions.com^
 ||harvesttheory.com^
 ||harvintact.com^
+||harzpzbsr.com^
 ||hasdrs.com^
 ||hash-hash-tag.com^
 ||hashbitewarfare.com^
@@ -31167,6 +31171,7 @@ browsershots.org#@#.advert_area
 ||hffxc.com^
 ||hfib5s-sdds-248d.xyz^
 ||hfk128dfs-dsfbheuoys.xyz^
+||hfnzhczqgdp.com^
 ||hfudugo.com^
 ||hfufkifmeni.com^
 ||hfuostp.com^
@@ -34530,6 +34535,7 @@ browsershots.org#@#.advert_area
 ||lp247p.com^
 ||lpaqjnfmxftqfx.com^
 ||lpawakkabpho.com^
+||lpetooopz.com^
 ||lpfulinotaherere.info^
 ||lpfztnyr.com^
 ||lplimjxiyx.com^
@@ -37824,6 +37830,7 @@ browsershots.org#@#.advert_area
 ||ouphoarg.com^
 ||ouphouch.com^
 ||oupushee.com^
+||ouranosmoyener.com^
 ||ourcommonnews.com^
 ||ourcommonstories.com^
 ||ourcoolposts.com^
@@ -38689,6 +38696,7 @@ browsershots.org#@#.advert_area
 ||phmqqbm.com^
 ||phoaglee.com^
 ||phoalard.net^
+||phoampun.net^
 ||phoapsoo.com^
 ||phoaptee.net^
 ||phoaraut.com^
@@ -40110,6 +40118,7 @@ browsershots.org#@#.advert_area
 ||puwpush.com^
 ||puxonsir.net^
 ||puyjjq.com^
+||puysis.com^
 ||puzzlepursued.com^
 ||pvawydmmj.com^
 ||pvclouds.com^
@@ -41575,6 +41584,7 @@ browsershots.org#@#.advert_area
 ||rozamimo9za10.com^
 ||rpmsophiashoe.com^
 ||rprinc6etodn9kunjiv.com^
+||rpsoybm.com^
 ||rpts.org^
 ||rqakljxbs.com^
 ||rqfedjzveel.com^
@@ -41745,6 +41755,7 @@ browsershots.org#@#.advert_area
 ||ruthrequire.com^
 ||rutpunishsnitch.com^
 ||ruttedagnat.com^
+||ruutjhlmv.com^
 ||ruuwkftrtegqj.com^
 ||ruwertur.com^
 ||ruwookri.xyz^
@@ -47601,6 +47612,7 @@ browsershots.org#@#.advert_area
 ||whobabsaim.com^
 ||whodouth.net^
 ||whoevercloakroom.com^
+||whofiguredso.org^
 ||whoftits.xyz^
 ||wholaums.xyz^
 ||whole-win.pro^
@@ -47870,6 +47882,7 @@ browsershots.org#@#.advert_area
 ||womanedlithite.guru^
 ||wombalayah.com^
 ||wombsaimscary.com^
+||womerasecocide.com^
 ||womsauph.com^
 ||woncherish.com^
 ||woncrawford.com^
@@ -48670,6 +48683,7 @@ browsershots.org#@#.advert_area
 ||ytfotjfrttgyal.com^
 ||ytgzz.com^
 ||ythjhk.com^
+||ytimewornan.org^
 ||ytimm.com^
 ||ytndjaefvan.xyz^
 ||ytqnzvqfsr.com^
@@ -49024,6 +49038,7 @@ browsershots.org#@#.advert_area
 ||zwaar.net^
 ||zwbbkjvzqbyba.top^
 ||zwbbkjvzqembe.top^
+||zwmvyzyrlvava.top^
 ||zwnoeqzsuz.com^
 ||zwqpqrtpjt.com^
 ||zwqzxh.com^
@@ -56593,10 +56608,12 @@ browsershots.org#@#.advert_area
 ||creative.imagetwistcams.com^$subdocument
 ||creative.myasian.live/widgets/
 ||creative.stripchat.com^
+||creative.stripchat.global^
 ||creative.strpjmp.com^
 ||ddfcash.com^$third-party
 ||deliver.ptgncdn.com^
 ||dnk2wr2ch6zxa.cloudfront.net^
+||dontblock.jaaavjavs1.buzz^
 ||dontblock.jav1jav2.buzz^
 ||dq06u9lt5akr2.cloudfront.net^
 ||elitepaysites.com/ae-banners/
@@ -57050,6 +57067,7 @@ browsershots.org#@#.advert_area
 ||howtogeek.com/emv2/
 ||howtogermany.com/images/bnr-
 ||i-tech.com.au/media/wysiwyg/banner/
+||iamcdn.net/players/custom-banner.js
 ||iamcdn.net/players/playhydraxs.min.js$domain=player-cdn.com
 ||ianimes.cc/z-
 ||ibb.co^$domain=ghostbin.me

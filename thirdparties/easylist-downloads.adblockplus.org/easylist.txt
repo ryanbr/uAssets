@@ -18430,6 +18430,7 @@ azclick.jp,tubefilter.com#@##topAd
 soundandvision.com,stereophile.com#@##topbannerad
 gamingcools.com#@#.Adsense
 m.motonet.fi#@#.ProductAd
+flightview.com#@#.ad-160-600
 job.inshokuten.com#@#.ad-area
 kincho.co.jp,niji-gazo.com#@#.ad-block
 ikkaku.net#@#.ad-bottom
@@ -56624,6 +56625,7 @@ browsershots.org#@#.advert_area
 ||celebstoner.com/assets/components/bdlistings/uploads/
 ||celebstoner.com/assets/images/img/sidebar/$image
 ||centent.stemplay.cc^
+||chasingcars.com.au/ads/
 ||clarksvilleonline.com/cols/
 ||cloudfront.net/ads/$domain=wdwmagic.com
 ||cloudfront.net/j/wsj-prod.js$domain=wsj.com
@@ -58105,6 +58107,7 @@ musescore.com###ad_cs_12219747_300_250
 musescore.com###ad_cs_12219747_728_90
 all-nettools.com,britsabroad.com,filesharingtalk.com,kiwibiker.co.nz,printroot.com###ad_global_below_navbar
 coinarbitragebot.com###adathm
+offidocs.com###adbottomoffidocs
 4qrcode.com###addContainer
 odditycentral.com###add_160x600
 lifenews.com###adds
@@ -58127,7 +58130,7 @@ radioonline.fm###advertise_center
 steamcardexchange.net,unshorten.it###advertisement
 lifenews.com###advertisement-top
 allthetests.com,bom.gov.au,cadenaazul.com,lapoderosa.com###advertising
-apkonline.net###adxx
+apkonline.net,offidocs.com###adxx
 thebugle.co.za###adz
 apkonline.net###adzz
 purplepainforums.com,snow-forecast.com###affiliates
@@ -58503,6 +58506,9 @@ allnewspipeline.com###isg_add
 newshub.co.nz###island-unit-2
 icon-icons.com###istockphoto-placeholder
 fakeupdate.net###itemz
+offidocs.com###ja-container-prev
+offidocs.com###ja-container-prev-b
+offidocs.com###ja-container-prev-c
 9gag.com###jsid-ad-container-page_adhesion
 dhakatribune.com###jw-popup
 variety.com###jwplayer_xH3PjHXT_plsZnDJi_div
@@ -59894,6 +59900,7 @@ nrl.com##.card-content__sponsor
 devdiscourse.com##.carousel
 faroutmagazine.co.uk,hitc.com##.carpet-border
 chemistwarehouse.com.au##.category-product-mrec
+ghacks.net##.category-sponsored
 renonr.com##.category-sponsored-content
 notebooks.com##.cb-block
 thegoodchoice.ca,wandering-bird.com##.cb-box
@@ -62061,7 +62068,7 @@ domaingang.com##.widget_execphp
 bestlifeonline.com,hellogiggles.com##.widget_gm_karmaadunit_widget
 faroutmagazine.co.uk##.widget_grv_mpu_widget
 theiphoneappreview.com##.widget_links
-247media.com.ng,aboutcrypto.info,appleworld.today,captainaltcoin.com,closerweekly.com,cozyberries.com,dbknews.com,deshdoaba.com,foreverconscious.com,glitched.online,granitegrok.com,intouchweekly.com,kashmirreader.com,kkfm.com,lifeandstylemag.com,londonnewsonline.co.uk,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,sportsspectrum.com,theoverclocker.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
+247media.com.ng,aboutcrypto.info,appleworld.today,captainaltcoin.com,closerweekly.com,cozyberries.com,dbknews.com,deshdoaba.com,foreverconscious.com,glitched.online,granitegrok.com,intouchweekly.com,kashmirreader.com,kkfm.com,lifeandstylemag.com,londonnewsonline.co.uk,marqueesportsnetwork.com,mensjournal.com,nikonrumors.com,patriotfetch.com,pctechmag.com,prajwaldesai.com,robinhoodnews.com,rok.guide,rsbnetwork.com,showbiz411.com,sportsspectrum.com,stacyknows.com,theoverclocker.com,ubuntu101.co.za,wakingtimes.com,washingtonmonthly.com,webscrypto.com,wgow.com,wgowam.com,wlevradio.com##.widget_media_image
 cracked-games.org##.widget_metaslider_widget
 nypost.com##.widget_nypost_dfp_ad_widget
 nypost.com##.widget_nypost_vivid_concerts_widget
@@ -62661,7 +62668,7 @@ timesofindia.com##div[class^="ATF_container_"]
 arkadium.com##div[class^="Ad-adContainer"]
 dailymotion.com##div[class^="AdBanner"]
 thingiverse.com##div[class^="AdCard__card"]
-breastcancer.org,topgear.com##div[class^="AdContainer"]
+breastcancer.org,emojipedia.org,topgear.com##div[class^="AdContainer"]
 reuters.com##div[class^="AdSlot__container"]
 tunefind.com##div[class^="AdSlot_inner_"]
 usnews.com##div[class^="Ad__Container-"]

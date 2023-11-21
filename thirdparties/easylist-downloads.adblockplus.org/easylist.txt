@@ -19858,6 +19858,7 @@ browsershots.org#@#.advert_area
 ||accustomreview.com^
 ||acdbidoxmfu.com^
 ||acdcdn.com^
+||acdcmarimo.com^
 ||acdn01.vidox.net^
 ||acediscover.com^
 ||acedtousles.com^
@@ -21201,6 +21202,7 @@ browsershots.org#@#.advert_area
 ||amysaghurtful.com^
 ||amywhereby.com^
 ||amzargfaht.com^
+||amzbtuolwp.com^
 ||amzosmcuhci.com^
 ||amzpzylzo.com^
 ||anaguahoagies.com^
@@ -23862,6 +23864,7 @@ browsershots.org#@#.advert_area
 ||buyseoblog.com^
 ||buytieposer.com^
 ||buzzardcraizey.com^
+||buzzdancing.com^
 ||buzzvids-direct.com^
 ||bvcsfcx.com^
 ||bvmcdn.com^
@@ -30753,6 +30756,7 @@ browsershots.org#@#.advert_area
 ||habovethecityon.info^
 ||habrasysteleii.xyz^
 ||habusima.uno^
+||hadabqhbewcrt.com^
 ||hadesleta.com^
 ||hadeti.xyz^
 ||hadsans.com^
@@ -32274,6 +32278,7 @@ browsershots.org#@#.advert_area
 ||instantrefused.com^
 ||instantresp.com^
 ||instantshingle.com^
+||instaruptilt.com^
 ||insteadprincipleshearted.com^
 ||instinctcringe.com^
 ||instinctiveads.com^
@@ -34538,6 +34543,7 @@ browsershots.org#@#.advert_area
 ||lreqmoonpjka.com^
 ||lrkenrerjkbly.top^
 ||lrkenrerjkljb.top^
+||lrqknpk.com^
 ||lrqvmaverkabb.top^
 ||lrugxmpxyfb.com^
 ||lrvrayrnqjzjw.top^
@@ -37725,6 +37731,7 @@ browsershots.org#@#.advert_area
 ||oskiwood.com^
 ||oskxpvmnalfb.com^
 ||osmanlikaraite.com^
+||osmatecosh.com^
 ||osmosewatch.top^
 ||osmost.com^
 ||osmoticchalah.com^
@@ -39747,6 +39754,7 @@ browsershots.org#@#.advert_area
 ||psauwush.net^
 ||psclicks.com^
 ||psdn.xyz^
+||pseeghud.com^
 ||pseekree.com^
 ||pseekseecm.com^
 ||pseemsee.com^
@@ -40219,6 +40227,7 @@ browsershots.org#@#.advert_area
 ||qgnlbjkxrzb.com^
 ||qgoqkcpw.xyz^
 ||qgsgnqhqgjw.com^
+||qgsjtgvjz.com^
 ||qgxbluhsgad.com^
 ||qhnwj.com^
 ||qhskskb.com^
@@ -40308,6 +40317,7 @@ browsershots.org#@#.advert_area
 ||qrclevrfjw.com^
 ||qreakingoutinteah.xyz^
 ||qrlsx.com^
+||qroagwadndwy.com^
 ||qrprobopassor.com^
 ||qruohmguna.com^
 ||qrzlaatf.xyz^
@@ -44995,6 +45005,7 @@ browsershots.org#@#.advert_area
 ||tmjhdyghjm.com^
 ||tmmkhspf.xyz^
 ||tmnbocewmddu.com^
+||tmnsstf.com^
 ||tmrjaghtledm.com^
 ||tmrjmp.com^
 ||tmyzer.com^
@@ -46408,6 +46419,7 @@ browsershots.org#@#.advert_area
 ||vacant-writer.com^
 ||vacationambulancekin.com^
 ||vacationinvolve.com^
+||vaccinationinvalidphosphate.com^
 ||vaccinationwear.com^
 ||vaccinegrownparliamentary.com^
 ||vacuolewhilter.com^
@@ -47615,6 +47627,7 @@ browsershots.org#@#.advert_area
 ||whotrundledthe.com^
 ||whoumtip.xyz^
 ||whoungoz.net^
+||whounoag.xyz^
 ||whourgie.com^
 ||whoursie.com^
 ||whoururt.xyz^
@@ -49792,7 +49805,6 @@ browsershots.org#@#.advert_area
 ||infinityads.com^$third-party
 ||influads.com^$third-party
 ||infolinks.com^$third-party
-||inmobi.com^$third-party
 ||innity.com^$third-party
 ||innovid.com^$third-party
 ||insideall.com^$third-party
@@ -55027,6 +55039,7 @@ browsershots.org#@#.advert_area
 ||1080872514.rsc.cdn77.org^
 ||10945-5.s.cdn15.com^
 ||1100058268.rsc.cdn77.org^
+||1102734998.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1267779480.rsc.cdn77.org^
 ||1276665960.rsc.cdn77.org^
@@ -63766,7 +63779,7 @@ truthsocial.com#?#div[item="[object Object]"]:-abp-has(path[d="M9.83333 1.83398H
 truthsocial.com#?#div[item="[object Object]"]:-abp-has(path[d="M17 7l-10 10"])
 tumblr.com#?#.ge_yK:-abp-has(.hM19_)
 twitter.com#?#.tweet:-abp-has(.promo)
-twitter.com#?#[data-testid="primaryColumn"] [data-testid="cellInnerDiv"]:-adb-has([data-testid="top-impression-pixel"])
+twitter.com#?#[data-testid="primaryColumn"] [data-testid="cellInnerDiv"]:-abp-has([data-testid="top-impression-pixel"])
 twitter.com#?#article[data-testid="tweet"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com#?#div[data-testid="eventHero"]:-abp-has(path[d$="10H8.996V8h7v7z"])
 twitter.com#?#div[data-testid="trend"]:-abp-has(path[d$="10H8.996V8h7v7z"])

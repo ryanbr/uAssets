@@ -33111,6 +33111,7 @@ arketing.indianadunes.com^
 !---------- Danish ----------
 !
 @@||nemlog-in.dk/resources/js/adrum.js$~third-party
+@@||spoc.sydtrafik.dk/CherwellPortal/dist/app/common/analytics/Analytics.js$~third-party
 !
 !---------- Dutch ----------
 !

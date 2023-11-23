@@ -3403,6 +3403,7 @@ _mongo_stats/
 ||sjpf.io^
 ||snptrk.com^
 ||soapfighters.com^
+||soapps.net^
 ||solutionshindsight.net^
 ||speedyfox.io^
 ||speedyrhino.co^
@@ -6444,6 +6445,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||addictedattention.com^
 ||additionant.com^
 ||adorableanger.com^
+||adorableattention.com^
 ||adventurousamount.com^
 ||advertisementafterthought.com^
 ||afraidlanguage.com^
@@ -6557,6 +6559,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||blackbrake.com^
 ||bleachbubble.com^
 ||bleachscarecrow.com^
+||bleedlight.com^
 ||blesspizzas.com^
 ||blotburn.com^
 ||blushingbeast.com^
@@ -6648,6 +6651,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ceciliavenus.com^
 ||celestialspectra.com^
 ||chairscrack.com^
+||chairsdonkey.com^
 ||chalkoil.com^
 ||channelcamp.com^
 ||chargecracker.com^
@@ -6749,6 +6753,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cuddlycake.com^
 ||culturedcamera.com^
 ||culturedcrayon.com^
+||culturedfeather.com^
 ||cumbersomecake.com^
 ||cumbersomecar.com^
 ||cumbersomecloud.com^
@@ -6772,6 +6777,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||damdoor.com^
 ||dampdock.com^
 ||dancemistake.com^
+||dangerouswinter.com^
 ||dapperdiscussion.com^
 ||dapperfloor.com^
 ||dashingdirt.com^
@@ -6814,6 +6820,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||detectdiscovery.com^
 ||differentcoat.com^
 ||difficultfog.com^
+||digestiondrawer.com^
+||dinnerquartz.com^
 ||diplomahawaii.com^
 ||direfuldesk.com^
 ||disagreeabledrop.com^
@@ -6861,6 +6869,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||earthquakeend.com^
 ||earthquakescarf.com^
 ||earthycopy.com^
+||eatablesquare.com^
 ||echoinghaven.com^
 ||economicpizzas.com^
 ||educatedeggnog.com^
@@ -6868,6 +6877,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ejyymghi.com^
 ||elasticchange.com^
 ||elasticducks.com^
+||elderlybean.com^
 ||elderlyinsect.com^
 ||elderlyscissors.com^
 ||elderlytown.com^
@@ -7020,6 +7030,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gorgeousground.com^
 ||gracefulsock.com^
 ||grandfatherguitar.com^
+||grandiosefire.com^
 ||grandioseguide.com^
 ||grandmotherunit.com^
 ||grayoranges.com^
@@ -7297,6 +7308,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||omniscientfeeling.com^
 ||omniscientspark.com^
 ||operationchicken.com^
+||operationnail.com^
 ||opinionsurprise.com^
 ||oppositeoperation.com^
 ||oppositeparcel.com^
@@ -7369,6 +7381,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pocketfaucet.com^
 ||podiumpresto.com^
 ||poeticpackage.com^
+||pointdigestion.com^
 ||pointlesshour.com^
 ||pointlesspocket.com^
 ||pointlessprofit.com^
@@ -7440,6 +7453,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||quizzicalzephyr.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
+||radiantcanopy.com^
 ||radiateprose.com^
 ||railwayrainstorm.com^
 ||railwayreason.com^
@@ -7466,6 +7480,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rebelhen.com^
 ||rebelsubway.com^
 ||rebelswing.com^
+||receiptcent.com^
 ||receptivebranch.com^
 ||receptiveink.com^
 ||receptivereaction.com^
@@ -7480,6 +7495,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||regulatesleet.com^
 ||rehabilitatereason.com^
 ||rejectfairies.com^
+||relationrest.com^
 ||rememberdiscussion.com^
 ||repeatsweater.com^
 ||replaceroute.com^
@@ -7653,6 +7669,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||snailscart.com^
 ||snailsengine.com^
 ||snakemineral.com^
+||snakeslang.com^
 ||snakesshop.com^
 ||snakesstone.com^
 ||sneakystew.com^
@@ -7755,6 +7772,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stimulatingsneeze.com^
 ||stingsquirrel.com^
 ||stingycrush.com^
+||stingyshoe.com^
 ||stockingsneeze.com^
 ||stomachscience.com^
 ||stopstomach.com^
@@ -7771,6 +7789,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stretchsneeze.com^
 ||stretchsquirrel.com^
 ||stringsmile.com^
+||stripedbat.com^
 ||stripedburst.com^
 ||strivesidewalk.com^
 ||strivesquirrel.com^
@@ -7936,6 +7955,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||unwieldyhealth.com^
 ||unwieldyplastic.com^
 ||unwrittenspot.com^
+||uppitytime.com^
 ||usedexample.com^
 ||uselesslumber.com^
 ||uttermosthobbies.com^
@@ -7943,6 +7963,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vanishmemory.com^
 ||velvetnova.com^
 ||vengefulgrass.com^
+||venomousvessel.com^
 ||venusgloria.com^
 ||verdantanswer.com^
 ||verifyvegetable.com^

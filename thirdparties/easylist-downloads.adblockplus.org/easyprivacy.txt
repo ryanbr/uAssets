@@ -6624,6 +6624,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||butterbulb.com^
 ||butterburst.com^
 ||buttonladybug.com^
+||cabledemand.com^
 ||calculatingcircle.com^
 ||calculatingtoothbrush.com^
 ||calculatorcamera.com^
@@ -6931,6 +6932,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||exchangedetail.com^
 ||excitingtub.com^
 ||exclusivebrass.com^
+||exhibitsneeze.com^
 ||expansioneggnog.com^
 ||experienceeggs.com^
 ||extractobservation.com^
@@ -7026,6 +7028,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fuzzyerror.com^
 ||fuzzyflavor.com^
 ||fuzzyweather.com^
+||fvl1f.pw^
 ||gammamaximum.com^
 ||gaudybeginner.com^
 ||generalprose.com^
@@ -7195,6 +7198,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lameletters.com^
 ||lamplow.com^
 ||languagelake.com^
+||largebrass.com^
 ||laughablecopper.com^
 ||laughablelizards.com^
 ||laughcloth.com^
@@ -7418,6 +7422,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pointlessprofit.com^
 ||pointlessrifle.com^
 ||poisedpig.com^
+||polarismagnet.com^
 ||politegoldfish.com^
 ||politeplanes.com^
 ||politicalporter.com^
@@ -7604,6 +7609,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scintillatingscissors.com^
 ||scintillatingsilver.com^
 ||scintillatingspace.com^
+||scissorsstatement.com^
 ||scrapesleep.com^
 ||scratchsofa.com^
 ||screechingfurniture.com^
@@ -7869,6 +7875,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||swordgoose.com^
 ||symbolizebeast.com^
 ||synonymousrule.com^
+||synonymoussticks.com^
 ||synthesizespoon.com^
 ||systemizecoat.com^
 ||talentedsteel.com^
@@ -7947,6 +7954,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||translateoatmeal.com^
 ||trappush.com^
 ||trapteaching.com^
+||traytouch.com^
 ||treadbun.com^
 ||tremendousearthquake.com^
 ||tremendousplastic.com^
@@ -8016,6 +8024,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||voicevegetable.com^
 ||volatileprofit.com^
 ||volatilerainstorm.com^
+||volatilevessel.com^
 ||voraciousgrip.com^
 ||voyagepotato.com^
 ||vq1qi.pw^
@@ -13868,6 +13877,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.justpaste.it^
 ||stats.newsweek.com^
 ||stats.pstream.net^
+||stats.qwant.com^
 ||stats.sandberg.world^
 ||stats.searchftps.net^
 ||stats.suenicholls.com^

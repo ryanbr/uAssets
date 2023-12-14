@@ -8804,6 +8804,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||logger.co.kr^$third-party
 ||oevery.com^$third-party
 ||rainbownine.net^$third-party
+||smlog.co.kr^$third-party
 ||tenping.kr^$third-party
 ! Latvian
 ||cms.lv^$third-party
@@ -12550,6 +12551,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||naver.com/mcollector/
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
+||pxl.retaku.net^
 ||recobell.io/rest/logs?
 ||saluton.cizion.com^
 ||sas.nsm-corp.com^
@@ -14202,6 +14204,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||waaw.ac/cdn-cgi/trace
 ||waaw.to/cdn-cgi/trace
 ||waaw1.tv/cdn-cgi/trace
+||waitrose.com/gDaVC7/
 ||wal.wolfram.com^
 ||walmart.ca/api/bsp/logger
 ||walmart.ca/api/home-page/logger
@@ -31546,6 +31549,7 @@ arketing.indianadunes.com^
 ||cpx.golem.de^
 ||cpxl.golem.de^
 ||d.rp-online.de^
+||dasoertliche.de/js/liwAnalytics.js
 ||data.sportdeutschland.tv^
 ||dd.betano.com^
 ||dein-plan.de/t.gif

@@ -25540,6 +25540,7 @@ browsershots.org#@#.advert_area
 ||croplake.com^
 ||crossroaddividerecorded.com^
 ||crossroadoutlaw.com^
+||crossroadparalysisnutshell.com^
 ||crottlerennin.com^
 ||croupyjacu.life^
 ||crowbarorchat.uno^
@@ -26717,6 +26718,7 @@ browsershots.org#@#.advert_area
 ||dmnprx.com^
 ||dmopqjaswvmvopm.com^
 ||dmowvblljmkqx.com^
+||dmrdnujvzo.com^
 ||dmrtx.com^
 ||dmsrlnssynhqhl.com^
 ||dmvbdfblevxvx.com^
@@ -27798,6 +27800,7 @@ browsershots.org#@#.advert_area
 ||enbclpbyi.com^
 ||enbjrjyjrbynexl.xyz^
 ||encampmentgeologydetective.com^
+||enchainwalker.com^
 ||enchanted-stretch.pro^
 ||enchroe.com^
 ||encirclesheriffemit.com^
@@ -34167,6 +34170,7 @@ browsershots.org#@#.advert_area
 ||lgdmconwvygoo.com^
 ||lgfiufyaycsh.com^
 ||lghqdjhilj.com^
+||lgqqhbnvfywo.com^
 ||lgse.com^
 ||lgtdkpfnor.com^
 ||lgviqkrimvmy.xyz^
@@ -34431,6 +34435,7 @@ browsershots.org#@#.advert_area
 ||lnkyqvkyznkvz.top^
 ||lntriguingdate.net^
 ||lntrigulngdates.com^
+||lnvabjwmrlmzb.top^
 ||lnzqmaqzjlnnw.top^
 ||lo8ve6ygour3pea4cee.com^
 ||loachesmanjeri.space^
@@ -35090,6 +35095,7 @@ browsershots.org#@#.advert_area
 ||marormesole.com^
 ||marphezis.com^
 ||marquegoosey.space^
+||marreerouens.com^
 ||marriageappetiteillegimateillegimate.com^
 ||marriervertep.digital^
 ||marrowopener.com^
@@ -37657,6 +37663,7 @@ browsershots.org#@#.advert_area
 ||oongouha.xyz^
 ||oonsaigu.xyz^
 ||oopatet.com^
+||oopoawee.xyz^
 ||oopodmomenta.website^
 ||oopsauwa.xyz^
 ||oopukrecku.com^
@@ -39492,6 +39499,7 @@ browsershots.org#@#.advert_area
 ||ppvmhhpxuomjwo.xyz^
 ||pqaz.xyz^
 ||pqnnjjpzarpb.com^
+||pqsymknliiwzlr.com^
 ||pqulqqpmx.com^
 ||pqxbcydpv.xyz^
 ||practicalframingfiddle.com^
@@ -45064,6 +45072,7 @@ browsershots.org#@#.advert_area
 ||thygrepuwo.pro^
 ||thymeneoctic.digital^
 ||thyouglasuntilj.info^
+||thyroidaketon.com^
 ||ti583.com^
 ||tianmel.xyz^
 ||tiaraedmessing.uno^
@@ -46660,6 +46669,7 @@ browsershots.org#@#.advert_area
 ||uyfpmhmqh.xyz^
 ||uyjmbaiogdtkgwt.com^
 ||uyojnhqeipyb.xyz^
+||uzbxnfwcvhwnz.com^
 ||uzelruth.com^
 ||uzoamtee.xyz^
 ||uzouptel.xyz^
@@ -47516,6 +47526,7 @@ browsershots.org#@#.advert_area
 ||waspfestivalchampionship.com^
 ||waspilysagene.com^
 ||waspishamendbulb.com^
+||waspishoverhear.com^
 ||wasqimet.net^
 ||wastablrupture.com^
 ||wastedclassmatemay.com^
@@ -48230,6 +48241,7 @@ browsershots.org#@#.advert_area
 ||worred.com^
 ||worriesteapotairborne.com^
 ||worseobscureplastic.com^
+||worsesziara.com^
 ||worshipstubborn.com^
 ||worstideatum.com^
 ||worstnumidae.com^
@@ -55510,6 +55522,7 @@ browsershots.org#@#.advert_area
 ||clicknplay.to/api/spots/
 ||cloud.setupad.com^
 ||cloudbet.com/ad/
+||cloudfront.net/css/*.min.js$script,third-party
 ||cloudfront.net/js/script_tag/new/sca_affiliate_
 ||coinmama.com/assets/img/banners/
 ||commercial.daznservices.com^
@@ -55642,6 +55655,7 @@ browsershots.org#@#.advert_area
 ||linkconnector.com/traffic_record.php
 ||linkshrink.net^$script,third-party
 ||linkspy.cc/js/fullPageScript.min.js
+||linkx.ix.tc^
 ||lottoelite.com/banners/
 ||ltkcdn.net/ltkrev.js
 ||marketing.888.com^

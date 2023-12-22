@@ -101,6 +101,7 @@
 /__imp_apg__/*
 /__rmn.gif?
 /__ssobj/core.js
+/__ssobj/rum?
 /__ssobj/sync?$image
 /__sttm.gif?
 /__ub.gif?
@@ -338,6 +339,7 @@
 /api/video/stats/*$xmlhttprequest
 /api_ip_info.php
 /apilog?
+/apmrum.min.js
 /app-measurement?
 /appdynamics/adrum-
 /appGoogleTagManager-
@@ -10836,6 +10838,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||richrelevance.com/rrserver/tracking?
 ||rltd.io/tags/
 ||rodale.com/ga/
+||route.com/collect
 ||routeapp.io/route-analytics/
 ||rs.sinajs.cn^
 ||rt.flix360.com^

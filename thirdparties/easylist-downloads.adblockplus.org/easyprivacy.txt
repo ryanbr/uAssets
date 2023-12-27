@@ -11548,6 +11548,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wspisp.net/logger.php
 ||wt.viagogo.net^
 ||wtbevents.pricespider.com^
+||wtr-digital-analytics.ew.r.appspot.com^
 ||x.babe.today^
 ||x.disq.us^
 ||x.weather.com^

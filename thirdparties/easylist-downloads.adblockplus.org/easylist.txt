@@ -18381,6 +18381,7 @@ about.com#@##adcontainer1
 guloggratis.dk#@##adcontent
 lifeinvader.com#@##ads-col
 ads.nipr.ac.jp#@##ads-header
+miuithemers.com#@##ads-left
 ads.nipr.ac.jp#@##ads-menu
 finvtech.com,herstage.com,scitechi.com,soulfitr.com,sportynew.com,travel13.com,usatravel.tips,watchinfilm.com#@##ads-wrapper
 mafagames.com#@##adsContainer
@@ -18474,6 +18475,7 @@ bdsmlr.com#@#.ads-container
 ads.nipr.ac.jp,burzahrane.hr#@#.ads-header
 heatware.com#@#.ads-image
 t3.com#@#.ads-inline
+miuithemers.com#@#.ads-left
 hatenacorp.jp,milf300.com#@#.ads-link
 forbes.com#@#.ads-loaded
 fireload.com#@#.ads-mobile
@@ -20732,6 +20734,7 @@ browsershots.org#@#.advert_area
 ||ahscdn.com^
 ||ahstrelgnh.com^
 ||ahtalcruzv.com^
+||ahuacasheely.top^
 ||ahwbedsd.xyz^
 ||aibsgc.com^
 ||aibwjqpo.xyz^
@@ -21492,6 +21495,7 @@ browsershots.org#@#.advert_area
 ||aquavitpathway.com^
 ||aquentlytujim.com^
 ||aquiliapistrix.guru^
+||aqwihyjpglzdr.com^
 ||arabdevastatingpatty.com^
 ||arablucidlygrease.com^
 ||aracts.com^
@@ -23531,6 +23535,7 @@ browsershots.org#@#.advert_area
 ||breedtagask.com^
 ||brewailmentsubstance.com^
 ||brewedprovost.digital^
+||brewingjoie.com^
 ||brewseryngo.com^
 ||breynvqbjrww.top^
 ||briareddollier.com^
@@ -27556,6 +27561,7 @@ browsershots.org#@#.advert_area
 ||edlilu.com^
 ||edncewvfadqrkr.com^
 ||ednewsbd.com^
+||edodtfnyfpf.com^
 ||edomz.net^
 ||edoumeph.com^
 ||edqbparlheuj.com^
@@ -27579,6 +27585,7 @@ browsershots.org#@#.advert_area
 ||edwate.com^
 ||edwfdhkgnx.com^
 ||ee43ed4973.com^
+||ee625e4b1d.com^
 ||ee6a35c1eeee.com^
 ||eea605742d.com^
 ||eeab79bf10.com^
@@ -30157,6 +30164,7 @@ browsershots.org#@#.advert_area
 ||girlsglowdate.life^
 ||gishejuy.com^
 ||gistblemishparking.com^
+||gitajwl.com^
 ||gitoku.com^
 ||giufjcfjdv.com^
 ||givaphofklu.com^
@@ -30334,6 +30342,7 @@ browsershots.org#@#.advert_area
 ||gloywin04.com^
 ||glpctwalwq.com^
 ||glpeaoauwevlns.com^
+||glquynodiflhw.com^
 ||glssp.net^
 ||gltjtkqoxhbgvlx.com^
 ||glueluthern.digital^
@@ -31139,6 +31148,7 @@ browsershots.org#@#.advert_area
 ||hdbcome.com^
 ||hdbkell.com^
 ||hdbkome.com^
+||hdfoweey.com^
 ||hditers.com^
 ||hdjfeed.top^
 ||hdphumepmtikhbg.xyz^
@@ -32851,6 +32861,7 @@ browsershots.org#@#.advert_area
 ||iyfnz.com^
 ||iyfnzgb.com^
 ||iyqaosd.com^
+||iywttijabeyb.com^
 ||izapteensuls.com^
 ||izavugne.com^
 ||izitrckr.com^
@@ -33264,6 +33275,7 @@ browsershots.org#@#.advert_area
 ||jqcyacoxrvada.com^
 ||jqlqmeveax.com^
 ||jqlumzbdtet.com^
+||jqmebwvmbzrz.top^
 ||jqtree.com^
 ||jquerycdn.host^
 ||jqueryoi.com^
@@ -34380,6 +34392,7 @@ browsershots.org#@#.advert_area
 ||lfnwqrghxqrqb.com^
 ||lfstmedia.com^
 ||lfsuigdrtsszog.com^
+||lfufujhxmy.com^
 ||lfwujowkcf.com^
 ||lgbxelnukhsil.xyz^
 ||lgdmconwvygoo.com^
@@ -36115,6 +36128,7 @@ browsershots.org#@#.advert_area
 ||moolasghazism.guru^
 ||moonads.net^
 ||mooncklick.com^
+||moonheappyr.com^
 ||moonicorn.network^
 ||moonjahaphodal.com^
 ||moonovernegril.com^
@@ -36288,6 +36302,7 @@ browsershots.org#@#.advert_area
 ||mt34iofvjay.com^
 ||mtburn.com^
 ||mtdkhfguafqijx.com^
+||mthvjim.com^
 ||mtjrhfww.com^
 ||mtjwxcdjierrmw.com^
 ||mtwdmk9ic.com^
@@ -37700,6 +37715,7 @@ browsershots.org#@#.advert_area
 ||okayfreemanknot.com^
 ||okdigital.me^
 ||okehsominous.com^
+||okfgsbtmcnh.com^
 ||okienamare.com^
 ||okitwpyslqm.com^
 ||oklahi.com^
@@ -46597,6 +46613,7 @@ browsershots.org#@#.advert_area
 ||unaccustomedchessoldest.com^
 ||unaces.com^
 ||unafeed.com^
+||unairedcushite.com^
 ||unanac.com^
 ||unanimouslyrejectproperly.com^
 ||unaptsullens.com^
@@ -49285,6 +49302,7 @@ browsershots.org#@#.advert_area
 ||yinthesprin.xyz^
 ||yiqetu.uno^
 ||yirtaycyytr.xyz^
+||yistkechauk.org^
 ||yiteattends.tech^
 ||yixios.com^
 ||yizawe.xyz^
@@ -56107,6 +56125,7 @@ browsershots.org#@#.advert_area
 ||jobtarget.com/distrib_pages/
 ||join.megaphonetv.com^$third-party
 ||js.mangakl.su^
+||js.mangalove.top^
 ||js.phoenixmanga.com^
 ||jsdelivr.net/gh/InteractiveAdvertisingBureau/
 ||jsdelivr.net/npm/prebid-
@@ -61481,7 +61500,6 @@ fixya.com##.fixya_primis_container
 whatismyipaddress.com##.fl-module-wipa-concerns
 whatismyipaddress.com##.fl-photo
 omniglot.com##.flex-container
-bgr.com##.flex.bg-black
 libhunt.com##.flex.mt-5.boxed
 ice.hockey##.flex_container_werbung
 klmanga.net,shareae.com##.float-ck
@@ -63117,7 +63135,7 @@ spectrum.ieee.org##.top-leader-container
 sportingnews.com##.top-mpu-container
 webmd.com##.top-picks
 speedtest.net##.top-placeholder
-financemagnates.com##.top-side-unit
+financemagnates.com,forexlive.com##.top-side-unit
 cryptoslate.com##.top-sticky
 playbuzz.com##.top-stickyplayer-container
 news18.com##.topAdd
@@ -64268,6 +64286,7 @@ backgrounds.wetransfer.net##we-wallpaper
 ! :has()
 tumblr.com##.ge_yK:has(.hM19_)
 qwant.com##.is-sidebar:has(a[data-testid="advertiserAdsLink"])
+content.dictionary.com##.lp-code:has(> [class$="Ad"])
 metager.org##.result:has(a[href^="https://metager.org"][href*="/partner/r?"])
 metager.org##.result:has(a[href^="https://r.search.yahoo.com/"])
 qwant.com##.result__ext:has([data-testid="adResult"])

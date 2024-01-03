@@ -29427,6 +29427,7 @@ browsershots.org#@#.advert_area
 ||fortatoneterrow.com^
 ||fortdaukthw.hair^
 ||forthdigestive.com^
+||forthemoonh.com^
 ||fortlachanhecksof.com^
 ||fortorterrar.com^
 ||fortpush.com^
@@ -30382,7 +30383,6 @@ browsershots.org#@#.advert_area
 ||gnvpmftcgp.com^
 ||go-rillatrack.com^
 ||go-srv.com^
-||go.mnaspm.com^
 ||go2.global^
 ||go2affise.com^
 ||go2app.org^
@@ -31122,6 +31122,7 @@ browsershots.org#@#.advert_area
 ||hbloveinfo.com^
 ||hboffshadh.com^
 ||hbowywpeqhfpwru.com^
+||hbozuumx.com^
 ||hbpcjmegtll.com^
 ||hcckkyoo.com^
 ||hcdmhyq.com^
@@ -31475,6 +31476,7 @@ browsershots.org#@#.advert_area
 ||hleuindnjcixxep.com^
 ||hlftbsgj.com^
 ||hligh.com^
+||hljmdaz.com^
 ||hlmiq.com^
 ||hlserve.com^
 ||hlunlean.com^
@@ -36995,6 +36997,7 @@ browsershots.org#@#.advert_area
 ||nmcsqihltjdnheq.com^
 ||nmkli.com^
 ||nmqwdmtwjleb.com^
+||nmrjnqiwocfyi.com^
 ||nmthpcanvokjbkh.xyz^
 ||nmxqtuyyojgm.com^
 ||nmybyxnjscf.com^
@@ -37233,6 +37236,7 @@ browsershots.org#@#.advert_area
 ||nsultingcoe.net^
 ||nsyywkq.com^
 ||ntanaerc.cyou^
+||ntcqmdif.com^
 ||ntdvjlvau.com^
 ||ntedbycathyhou.info^
 ||ntiaxofk.xyz^
@@ -37403,6 +37407,7 @@ browsershots.org#@#.advert_area
 ||oarcompartmentexaggerate.com^
 ||oardilin.com^
 ||oaredtroth.com^
+||oargaung.com^
 ||oarsmenmytilid.uno^
 ||oarsmorsel.com^
 ||oarsouss.net^
@@ -39510,6 +39515,7 @@ browsershots.org#@#.advert_area
 ||pnsqsv.com^
 ||pnuhondppw.com^
 ||pnvbfxwbeg.com^
+||pnyjzdtirvufft.com^
 ||poacawhe.net^
 ||poachfirewoodboast.com^
 ||poanouwy.net^
@@ -41298,7 +41304,6 @@ browsershots.org#@#.advert_area
 ||redij.online^
 ||redir4.net^
 ||redir9.net^
-||redirect-ads.com^
 ||redirect-path1.com^
 ||redirecting7.eu^
 ||redirection.one^
@@ -41885,6 +41890,7 @@ browsershots.org#@#.advert_area
 ||rkgwzfwjgk.com^
 ||rkjnazpgfihz.com^
 ||rkomf.com^
+||rkwithcatuk.org^
 ||rlaa.xyz^
 ||rlcdn.com^
 ||rldfgcehgh.com^
@@ -44640,6 +44646,7 @@ browsershots.org#@#.advert_area
 ||suzanne.pro^
 ||svarajwens.com^
 ||svbzpenplok.com^
+||sviakavgwjg.xyz^
 ||sviter2s1olenyami1.com^
 ||svkmxwssih.com^
 ||svntrk.com^
@@ -45619,6 +45626,7 @@ browsershots.org#@#.advert_area
 ||toabuck.xyz^
 ||toaduroo.xyz^
 ||toaglaun.xyz^
+||toaglegi.com^
 ||toaioi.lol^
 ||toaioi.xyz^
 ||toajephu.com^
@@ -48168,6 +48176,7 @@ browsershots.org#@#.advert_area
 ||wfthumty.pm^
 ||wfuwlkgm.com^
 ||wg-aff.com^
+||wgbwlgzthobp.com^
 ||wgchrrammzv.com^
 ||wgkggub.com^
 ||wgplayer.com^
@@ -48408,6 +48417,7 @@ browsershots.org#@#.advert_area
 ||wilslide.com^
 ||wilsomearghan.com^
 ||wiltedfuture.pro^
+||wimatnngqaeqgwj.com^
 ||wimmon.com^
 ||wimpeelt.com^
 ||wimplesbooklet.com^
@@ -50288,7 +50298,6 @@ browsershots.org#@#.advert_area
 ||bidfilter.com^$third-party
 ||bidgear.com^$third-party
 ||bidscape.it^$third-party
-||bidsxchange.com^$third-party
 ||bidvertiser.com^$third-party
 ||bidvol.com^$third-party
 ||biggboss16.de^$third-party
@@ -50645,7 +50654,6 @@ browsershots.org#@#.advert_area
 ||klakus.com^$third-party
 ||komoona.com^$third-party
 ||kovla.com^$third-party
-||kueezrtb.com^$third-party
 ||laim.tv^$third-party
 ||lanistaconcepts.com^$third-party
 ||lcwfab1.com^$third-party
@@ -50842,7 +50850,6 @@ browsershots.org#@#.advert_area
 ||points2shop.com^$third-party
 ||polyvalent.co.in^$third-party
 ||popmajor.com^$third-party
-||popmonetizer.com^$third-party
 ||poponclick.com^$third-party
 ||popundertotal.com^$third-party
 ||popunderzone.com^$third-party
@@ -55395,7 +55402,6 @@ browsershots.org#@#.advert_area
 ||imglnkb.com^$third-party
 ||imglnkc.com^$third-party
 ||imlive.com^$script,third-party,domain=~imnude.com
-||impactslam.com^$third-party
 ||impressionmonster.com^$third-party
 ||in3x.net^$third-party
 ||inheart.ru^$third-party
@@ -55491,9 +55497,7 @@ browsershots.org#@#.advert_area
 ||nscash.com^$third-party
 ||nudedworld.com^$third-party
 ||nummobile.com^$third-party
-||oakbustrp.com^$third-party
 ||oconner.biz^$third-party
-||octopuspop.com^$third-party
 ||offaces-butional.com^$third-party
 ||ohmygosh.info^
 ||omynews.net^$third-party
@@ -55585,7 +55589,6 @@ browsershots.org#@#.advert_area
 ||reliablebanners.com^$third-party
 ||rivcash.com^$third-party
 ||royal-cash.com^$third-party
-||rtbsystem.com^$third-party
 ||rubanners.com^$third-party
 ||rukplaza.com^$third-party
 ||runetki.com^$third-party
@@ -55689,7 +55692,6 @@ browsershots.org#@#.advert_area
 ||tubesweet.com^$third-party
 ||twistyscash.com^$third-party
 ||unaspajas.com^$third-party
-||uuidksinc.net^$third-party
 ||uxernab.com^$third-party
 ||valuepornmedia.com^$third-party
 ||ver-pelis.net^$third-party
@@ -56155,7 +56157,6 @@ browsershots.org#@#.advert_area
 ||ooproxy.azurewebsites.net^$xmlhttprequest,domain=imasdk.googleapis.com
 ||orangebuddies.nl/image/banners/
 ||outbrainimg.com/transform/$media,third-party
-||ow.pubmatic.com^
 ||p.jwpcdn.com/player/plugins/vast/
 ||p.smartertravel.com^
 ||pacontainer.s3.amazonaws.com^
@@ -56214,7 +56215,6 @@ browsershots.org#@#.advert_area
 ||rotabanner.kulichki.net^
 ||rotator.tradetracker.net^
 ||rubylife.go2cloud.org^
-||s.0cf.io^
 ||s1.wp.com^$subdocument,third-party
 ||saambaa.com^$third-party
 ||safarinow.com/affiliate-zone/
@@ -56343,7 +56343,6 @@ browsershots.org#@#.advert_area
 ||ziffstatic.com/zmg/pogoadk.js
 ||zv.7vid.net^
 ! CNAME
-||primeroll.go2affise.com^
 ! https://d3ward.github.io/toolz/src/adblock.html
 ||ad.intl.xiaomi.com^
 ||ad.samsungadhub.com^
@@ -56915,6 +56914,7 @@ browsershots.org#@#.advert_area
 ||d3j9574la231rm.cloudfront.net^
 ||d3jdulus8lb392.cloudfront.net^
 ||d3jdzopz39efs7.cloudfront.net^
+||d3jzhqnvnvdy34.cloudfront.net^
 ||d3kblkhdtjv0tf.cloudfront.net^
 ||d3kd7yqlh5wy6d.cloudfront.net^
 ||d3klfyy4pvmpzb.cloudfront.net^
@@ -57328,7 +57328,6 @@ browsershots.org#@#.advert_area
 ||avatraffic.com/b/
 ||awempt.com/embed/
 ||awestat.com^*/banner/
-||b.isbnrs.com^
 ||babes-mansion.s3.amazonaws.com^
 ||bangdom.com^$third-party
 ||banner.themediaplanets.com^
@@ -57526,7 +57525,6 @@ browsershots.org#@#.advert_area
 ||smartmovies.net/promo_$third-party
 ||smpop.icfcdn.com^$third-party
 ||smyw.org/smyw_anima_1.gif
-||snipersex.com/banners/
 ||snrcash.com/profilerotator/$third-party
 ||st.ipornia.com^$third-party
 ||static.twincdn.com/special/license.packed
@@ -57542,7 +57540,6 @@ browsershots.org#@#.advert_area
 ||teenspirithentai.com^$third-party
 ||theporndude.com/graphics/tpd-$third-party
 ||thescript.javfinder.xyz^
-||titsandtits.com/api/spots/
 ||tlavideo.com/affiliates/$third-party
 ||tm-banners.gamingadult.com^
 ||tm-offers.gamingadult.com^
@@ -57559,7 +57556,6 @@ browsershots.org#@#.advert_area
 ||virtualhottie2.com/cash/tools/banners/
 ||visit-x.net/promo/$third-party
 ||vodconcepts.com^*/banners/
-||vs3.com/_special/banners/
 ||vs4.com/req.php?z=
 ||vtbe.to/vtu_$script
 ||vy1.click/wp-comment/?form=$subdocument
@@ -64056,6 +64052,7 @@ timeout.com##div[id^="ad-side-"]
 nowgoal8.com##div[id^="ad_"]
 javacodegeeks.com##div[id^="adngin-"]
 agoda.com##div[id^="ads-"]
+pixiv.net##div[id^="adsdk-"]
 antiguanewsroom.com##div[id^="antig-"]
 slidesgo.com##div[id^="article_ads"]
 business-standard.com##div[id^="between_article_content_"]

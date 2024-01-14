@@ -4512,6 +4512,7 @@ omni.soundestlink.com$image
 ||instapage.com^$third-party,domain=~pagedemo.co
 ||instapagemetrics.com^$third-party
 ||instore.biz^$third-party
+||intake-lr.com^$third-party
 ||intelli-direct.com^$third-party
 ||intelligencefocus.com^$third-party
 ||intellimize.co^$third-party
@@ -6606,6 +6607,7 @@ omni.soundestlink.com$image
 ||decoroustitle.com^
 ||decoycreation.com^
 ||deerbeginner.com^
+||defeatedbadge.com^
 ||defectivedress.com^
 ||defiantrice.com^
 ||delegatediscussion.com^

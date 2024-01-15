@@ -7241,6 +7241,7 @@ omni.soundestlink.com$image
 ||piquantstove.com^
 ||pizzasnut.com^
 ||placeframe.com^
+||placidactivity.com^
 ||placidperson.com^
 ||plainplayground.com^
 ||plainrequest.com^
@@ -7471,6 +7472,7 @@ omni.soundestlink.com$image
 ||screechingslip.com^
 ||screechingstocking.com^
 ||screechingstove.com^
+||scribbleson.com^
 ||scribblestring.com^
 ||scrollservice.com^
 ||scrubswim.com^

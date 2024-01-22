@@ -19376,6 +19376,7 @@ browsershots.org#@#.advert_area
 ||6d789c3692.com^
 ||6db7837ac4.com^
 ||6dd4a8313e.com^
+||6de72955d8.com^
 ||6e3ee87ff2.com^
 ||6ef2279e3d.com^
 ||6f752f73ce.com^
@@ -21806,6 +21807,7 @@ browsershots.org#@#.advert_area
 ||asleavannychan.com^
 ||asleepplatforms.com^
 ||aslnk.link^
+||aslofrnbrphlp.com^
 ||aslonejulyha.info^
 ||asmetotreatwab.com^
 ||asmileesidesu.info^
@@ -32090,6 +32092,7 @@ browsershots.org#@#.advert_area
 ||hrscompetepickles.com^
 ||hrscouchoutbreak.com^
 ||hrtennaarn.com^
+||hrtvluy.com^
 ||hrtyc.com^
 ||hrtye.com^
 ||hrxjqyxvdqidpv.com^
@@ -33692,6 +33695,7 @@ browsershots.org#@#.advert_area
 ||jqueryoi.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
+||jrbbavbmwqwjl.top^
 ||jrfkurohvql.xyz^
 ||jrfwfwk.com^
 ||jrilbcd.com^
@@ -33874,6 +33878,7 @@ browsershots.org#@#.advert_area
 ||jzeapwlruols.com^
 ||jzleekzkrwjll.top^
 ||jzokkejmqrbyj.top^
+||jzpdjbpusgcbr.com^
 ||jzqbyykbrrzvq.top^
 ||jzqgyccwefd.com^
 ||jzsqwkjvnz.com^
@@ -34170,6 +34175,7 @@ browsershots.org#@#.advert_area
 ||kjuftmdofmsrhq.com^
 ||kjvaqbyebqkzy.top^
 ||kkghcdvxdfvsq.com^
+||kkixbfuihbhhrj.com^
 ||kkjrwxs.com^
 ||kkjuu.xyz^
 ||kkmacsqsbf.info^
@@ -35367,6 +35373,7 @@ browsershots.org#@#.advert_area
 ||lteyrcwpoh.xyz^
 ||ltiagmkphobd.com^
 ||ltingcoempa.info^
+||ltmtuseetgmt.com^
 ||ltnyzlrqggx.com^
 ||ltyabkihjsecl.xyz^
 ||ltyscmtia.xyz^
@@ -35501,6 +35508,7 @@ browsershots.org#@#.advert_area
 ||lycopinrekey.com^
 ||lycopuscris.com^
 ||lycoty.com^
+||lydebbqcuam.com^
 ||lyemiatteffulrf.xyz^
 ||lyemmayrabawe.top^
 ||lyemmayrabzew.top^
@@ -35514,6 +35522,7 @@ browsershots.org#@#.advert_area
 ||lyjznnanarmen.top^
 ||lyjznnanaryaj.top^
 ||lylufhuxqwi.com^
+||lylydevelope.com^
 ||lympin.com^
 ||lynormationpas.com^
 ||lynotquitesou.info^
@@ -35743,6 +35752,7 @@ browsershots.org#@#.advert_area
 ||manewadninth.com^
 ||manfjgo2jgb8mg09.com^
 ||mangoalmahs.com^
+||mangzoi.xyz^
 ||maniconclavis.com^
 ||manicurereprimand.com^
 ||manifefashiona.info^
@@ -38353,6 +38363,7 @@ browsershots.org#@#.advert_area
 ||omoahope.net^
 ||omoonsih.net^
 ||omopeemt.net^
+||ompanythat.org^
 ||omphantumpom.com^
 ||omruihaeaf.com^
 ||omshedinjaor.com^
@@ -39023,6 +39034,7 @@ browsershots.org#@#.advert_area
 ||ozectynptd.com^
 ||ozhhujt.com^
 ||ozihechzlcsgs.com^
+||ozlofsviborc.com^
 ||oznhkuilvrsdf.com^
 ||ozobsaib.com^
 ||ozonemedia.com^
@@ -42420,6 +42432,7 @@ browsershots.org#@#.advert_area
 ||rhldcmsheqhci.com^
 ||rhoecusteased.life^
 ||rhombicsomeday.com^
+||rhpjzjqhgz.com^
 ||rhubarbraise.com^
 ||rhudsplm.com^
 ||rhufmdelxa.com^
@@ -42542,6 +42555,7 @@ browsershots.org#@#.advert_area
 ||rldfgcehgh.com^
 ||rldwideorganizat.org^
 ||rlfqwlstxhq.xyz^
+||rliksgcixgf.com^
 ||rlittleboywhowas.com^
 ||rlivhtenqapsew.com^
 ||rliwkyil.com^
@@ -45885,6 +45899,7 @@ browsershots.org#@#.advert_area
 ||tfmgqdj.com^
 ||tfmkdrcjpcdf.xyz^
 ||tfosrv.com^
+||tfqrqdpgarskxv.com^
 ||tgandmotivat.com^
 ||tgboghbslgrkg.com^
 ||tgfqtwlwts.com^
@@ -46115,6 +46130,7 @@ browsershots.org#@#.advert_area
 ||thoupsuk.net^
 ||thousandfalteralbeit.com^
 ||thousandfixedlyyawn.com^
+||thousicefall.top^
 ||thoved.com^
 ||threatdetect.org^
 ||threatenedorientalavailable.com^
@@ -48015,6 +48031,7 @@ browsershots.org#@#.advert_area
 ||vehiclehenriettaassociation.com^
 ||vehine.com^
 ||vehmickharaj.website^
+||vehosw.com^
 ||veildiscotacky.com^
 ||veilsuccessfully.com^
 ||veinletunapart.com^
@@ -62758,6 +62775,7 @@ theinertia.com##.inertia-ad-top
 inews.co.uk##.inews__advert
 inews.co.uk##.inews__mpu
 motorcycle.com##.infeed-ads
+sevenforums.com##.infeed1
 heatmap.news##.infinite-container
 filmibeat.com##.infinite-scroll-add
 stocksnap.io##.info-col
@@ -67350,7 +67368,6 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@/banner/ad/*$image,domain=achaloto.com
 @@||about.smartnews.com/ja/wp-content/assets/img/advertisers/ad_$~third-party
 @@||ad-api-v01.uliza.jp^$script,xmlhttprequest,domain=golfnetwork.co.jp|tv-asahi.co.jp
-@@||ad-img.gmarket.com/ads/$image,domain=gmarket.co.kr
 @@||ad.atown.jp/adserver/$domain=ad.atown.jp
 @@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr
 @@||adfurikun.jp/adfurikun/images/$~third-party

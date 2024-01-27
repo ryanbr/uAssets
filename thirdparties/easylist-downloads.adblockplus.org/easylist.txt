@@ -14733,6 +14733,7 @@ _800x80_
 ##.m-ad-region
 ##.m-ad-unit
 ##.m-ad__wrapper
+##.m-adaptive-ad-component
 ##.m-advert
 ##.m-advertisement
 ##.m-advertisement--container

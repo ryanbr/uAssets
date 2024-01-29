@@ -1475,6 +1475,7 @@
 /vast/?zid=
 /VASTAdPlugin.
 /vclkads.
+/velvet_stack_cmp.js
 /vendor-ads-
 /vendors~ads.
 /vert_ad.
@@ -53690,6 +53691,7 @@ browsershots.org#@#.advert_area
 ||xmlmonetize.com^$third-party
 ||xmtrading.com^$third-party
 ||xtendmedia.com^$third-party
+||yeloads.com^$third-party
 ||yieldkit.com^$third-party
 ||yieldlove.com^$third-party
 ||yieldmo.com^$third-party
@@ -64813,6 +64815,7 @@ fieldandstream.com,popsci.com##.mtc-unit-prefill-container
 myinstants.com##.multiaspect-banner-ad
 spy.com##.multiple-products
 zerolives.com##.munder-fn5udnsn
+cutecoloringpagesforkids.com##.mv-trellis-feed-unit
 cannabishealthnews.co.uk##.mvp-side-widget img
 marijuanamoment.net##.mvp-widget-ad
 malwaretips.com##.mwt_ads
@@ -65629,6 +65632,7 @@ swimswam.com##.swimswam-acf
 khmertimeskh.com##.swiper-container-horizontal
 khmertimeskh.com##.swiper-wrapper
 presearch.com##.sx-top-bar-products
+html-online.com##.szekcio4
 patriotnationpress.com##.t2ampmgy
 sbenny.com##.t3-masthead
 emoneyspace.com##.t_a_c

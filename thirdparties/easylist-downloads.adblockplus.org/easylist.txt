@@ -754,7 +754,6 @@
 /direct.hd?n=
 /discourse-adplugin-
 /display-ad/*
-/display-ads-$domain=~google.co.uk|~google.com|~google.com.au
 /display-ads/*
 /displayad.$~script
 /displayad/*
@@ -43656,6 +43655,7 @@ browsershots.org#@#.advert_area
 ||reliablemore.com^
 ||reliableorientdelirium.com^
 ||reliantstacklaugh.com^
+||relicsheer.com^
 ||reliefindividual.com^
 ||relievedgeoff.com^
 ||relishcoincidencehandbag.com^
@@ -52263,6 +52263,7 @@ browsershots.org#@#.advert_area
 ||zoagremo.net^
 ||zoaheeth.com^
 ||zoaptaup.com^
+||zoawhoal.com^
 ||zoawufoy.net^
 ||zobsaims.com^
 ||zodiacranbehalf.com^

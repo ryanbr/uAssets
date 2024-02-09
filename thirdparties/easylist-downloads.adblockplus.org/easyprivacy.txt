@@ -3228,6 +3228,7 @@ omni.soundestlink.com$image
 ||mb-tracking.com^
 ||mcangelus.com^
 ||mdhv.io^
+||mdstats.info^
 ||mediamathrdrt.com^
 ||mirabelanalytics.com^
 ||mitour.de^

@@ -17638,6 +17638,7 @@ _800x80_
 ##a[href^="https://engine.phn.doublepimp.com/"]
 ##a[href^="https://fc.lc/ref/"]
 ##a[href^="https://financeads.net/tc.php?"]
+##a[href^="https://get-link.xyz/"]
 ##a[href^="https://go.cmtaffiliates.com/"]
 ##a[href^="https://go.dmzjmp.com"]
 ##a[href^="https://go.etoro.com/"] > img
@@ -17658,6 +17659,7 @@ _800x80_
 ##a[href^="https://go.xxxiijmp.com"]
 ##a[href^="https://go.xxxijmp.com"]
 ##a[href^="https://go.xxxjmp.com"]
+##a[href^="https://golinks.work/"]
 ##a[href^="https://hot-growngames.life/"]
 ##a[href^="https://hotplaystime.life/"]
 ##a[href^="https://intenseaffiliates.com/redirect/"]
@@ -17678,6 +17680,7 @@ _800x80_
 ##a[href^="https://lead1.pl/"]
 ##a[href^="https://leg.xyz/?track="]
 ##a[href^="https://lijavaxa.com/"]
+##a[href^="https://linkboss.shop/"]
 ##a[href^="https://lnkxt.bannerator.com/"]
 ##a[href^="https://lobimax.com/"]
 ##a[href^="https://losingoldfry.com/"]
@@ -24192,6 +24195,7 @@ browsershots.org#@#.advert_area
 ||carmeleanurous.com^
 ||caroakitab.com^
 ||carpenterexplorerdemolition.com^
+||carpfreshtying.com^
 ||carpi3fnusbetgu5lus.com^
 ||carpincur.com^
 ||carredwithblao.xyz^
@@ -26061,6 +26065,7 @@ browsershots.org#@#.advert_area
 ||cuunpsyhsb.com^
 ||cuyynol.com^
 ||cvastico.com^
+||cvixthukvgac.com^
 ||cvjfmrrgyrqnsnw.xyz^
 ||cvkilmfhorl.com^
 ||cvkvtsjjrs.xyz^
@@ -26471,6 +26476,7 @@ browsershots.org#@#.advert_area
 ||decknetwork.net^
 ||declarationfascinatedrace.com^
 ||declarcercket.org^
+||declareave.com^
 ||declaredjuvenile.com^
 ||declaredpolitics.com^
 ||declarefollowersuspected.com^
@@ -26531,6 +26537,7 @@ browsershots.org#@#.advert_area
 ||defenseneckpresent.com^
 ||defensive-bad.com^
 ||defensiveevidence.pro^
+||deferapproximately.com^
 ||defiancebelow.com^
 ||defiantsniffbitterly.com^
 ||deficiencyluckrapt.com^
@@ -28178,6 +28185,7 @@ browsershots.org#@#.advert_area
 ||efwmpduvgedai.com^
 ||egafopmtv.xyz^
 ||egallsylvate.com^
+||egazedatthe.xyz^
 ||egcqohrksmlmu.xyz^
 ||egczvoopdo.com^
 ||egerssarcel.com^
@@ -34877,6 +34885,7 @@ browsershots.org#@#.advert_area
 ||juniorapplesconsonant.com^
 ||juniorsalloquy.guru^
 ||junipe3rus4virginiana.com^
+||junivmr.com^
 ||junkeach.com^
 ||junkieenthusiasm.com^
 ||junkieswudge.com^
@@ -38164,6 +38173,7 @@ browsershots.org#@#.advert_area
 ||muchotrust.com^
 ||mucinyak.com^
 ||mucmoapa.com^
+||mucopussamkhya.com^
 ||muddiedbubales.com^
 ||muddychronicstuffed.com^
 ||muddytransplantinsert.com^
@@ -43293,6 +43303,7 @@ browsershots.org#@#.advert_area
 ||qvjpjsglmvhcbv.xyz^
 ||qvlczhitbsqpl.com^
 ||qvol.tv^
+||qvtcigr.com^
 ||qwa3ldhn9u0t.com^
 ||qwaapgxfahce.com^
 ||qwbaiftlbfbnt.com^
@@ -44183,6 +44194,7 @@ browsershots.org#@#.advert_area
 ||rgtqgsgwkopgnf.com^
 ||rguxbwbj.xyz^
 ||rgvqcsxqge.com^
+||rhdhdmxeqx.com^
 ||rhendam.com^
 ||rhesusvitrite.com^
 ||rhjcnfypo.com^
@@ -44952,6 +44964,7 @@ browsershots.org#@#.advert_area
 ||sapsixysho.pro^
 ||saptiledispatch.com^
 ||saptorge.com^
+||saracsoxcpa.com^
 ||sarcasmidentifiers.com^
 ||sarcasticdismalconstrue.com^
 ||sarcineamender.store^
@@ -55041,6 +55054,7 @@ browsershots.org#@#.advert_area
 ||countypuddleillusion.com^$popup
 ||cpalabtracking.com^$popup
 ||cpaoffers.network^$popup
+||cpasbien.cloud^$popup
 ||cpayard.com^$popup
 ||cpm20.com^$popup
 ||cpmclktrk.online^$popup
@@ -55276,6 +55290,7 @@ browsershots.org#@#.advert_area
 ||effectdrape.com^$popup
 ||effectivecpmcontent.com^$popup
 ||effectiveperformancenetwork.com^$popup
+||egazedatthe.xyz^$popup
 ||egmyz.com^$popup
 ||egretswamper.com^$popup
 ||eighteenderived.com^$popup
@@ -55529,6 +55544,7 @@ browsershots.org#@#.advert_area
 ||geotrkclknow.com^$popup
 ||germinateensue.com^$popup
 ||get-browseprotection.com^$popup
+||get-link.xyz^$popup
 ||get-me-wow.in^$popup
 ||getalinkandshare.com^$popup
 ||getalltraffic.com^$popup
@@ -56081,6 +56097,7 @@ browsershots.org#@#.advert_area
 ||liliy9aydje10.com^$popup
 ||limitationvolleyballdejected.com^$popup
 ||limoners.com^$popup
+||linkboss.shop^$popup
 ||linkchangesnow.com^$popup
 ||linkmepu.com^$popup
 ||linknotification.com^$popup
@@ -57411,6 +57428,7 @@ browsershots.org#@#.advert_area
 ||taroads.com^$popup
 ||tauphaub.net^$popup
 ||tausoota.xyz^
+||tcare.today^$popup
 ||tchinaprecenta.info^$popup
 ||tczzzlwpss.com^$popup
 ||td563.com^$popup

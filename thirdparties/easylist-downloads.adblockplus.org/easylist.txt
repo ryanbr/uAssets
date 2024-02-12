@@ -53591,6 +53591,7 @@ browsershots.org#@#.advert_area
 ||ibannerexchange.com^$third-party
 ||ibillboard.com^$third-party
 ||icorp.ro^$third-party
+||idevaffiliate.com^$third-party
 ||idreammedia.com^$third-party
 ||imediaaudiences.com^$third-party
 ||imho.ru^$third-party
@@ -67367,6 +67368,7 @@ greatist.com##hl-adsense
 drive.com.au##hr
 carls-sims-4-guide.com##hr.post_separator + .windowbg
 avanigo.com##iframe.lazyloaded
+nordstrom.com##iframe[name*="revjet-single-iframe"]
 coincodex.com,yourbittorrent.com##iframe[src]
 realgearonline.com##iframe[src^="http://www.adpeepshosted.com/"]
 beyondtheflag.com,buffalowdown.com##iframe[src^="https://tallysight.com/widget/offers/"]
@@ -67940,6 +67942,8 @@ checkfelix.com,kayak.ae,kayak.bo,kayak.ch,kayak.cl,kayak.co.cr,kayak.co.id,kayak
 checkfelix.com,kayak.ae,kayak.bo,kayak.ch,kayak.cl,kayak.co.cr,kayak.co.id,kayak.co.in,kayak.co.jp,kayak.co.kr,kayak.co.th,kayak.co.uk,kayak.co.ve,kayak.com,kayak.com.ar,kayak.com.au,kayak.com.br,kayak.com.co,kayak.com.do,kayak.com.ec,kayak.com.gt,kayak.com.hk,kayak.com.hn,kayak.com.mx,kayak.com.my,kayak.com.ni,kayak.com.pa,kayak.com.pe,kayak.com.ph,kayak.com.pr,kayak.com.py,kayak.com.sv,kayak.com.tr,kayak.com.uy,kayak.de,kayak.dk,kayak.es,kayak.fr,kayak.ie,kayak.it,kayak.nl,kayak.no,kayak.pl,kayak.pt,kayak.sa,kayak.se,kayak.sg,swoodoo.com##div[class$="-adInner"]
 checkfelix.com,kayak.ae,kayak.bo,kayak.ch,kayak.cl,kayak.co.cr,kayak.co.id,kayak.co.in,kayak.co.jp,kayak.co.kr,kayak.co.th,kayak.co.uk,kayak.co.ve,kayak.com,kayak.com.ar,kayak.com.au,kayak.com.br,kayak.com.co,kayak.com.do,kayak.com.ec,kayak.com.gt,kayak.com.hk,kayak.com.hn,kayak.com.mx,kayak.com.my,kayak.com.ni,kayak.com.pa,kayak.com.pe,kayak.com.ph,kayak.com.pr,kayak.com.py,kayak.com.sv,kayak.com.tr,kayak.com.uy,kayak.de,kayak.dk,kayak.es,kayak.fr,kayak.ie,kayak.it,kayak.nl,kayak.no,kayak.pl,kayak.pt,kayak.sa,kayak.se,kayak.sg,swoodoo.com##div[data-resultid]:has(a.IZSg-adlink)
 ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
+coles.com.au#?#.coles-targeting-UnitContainer:has(ul.product__top_messaging)
+ulta.com#?#li.ProductListingResults__productCard:has(.ProductCard__badge:-abp-contains(Sponsored))
 leadership.ng#?#.jeg_postblock:-abp-contains(SPONSORED)
 doordash.com#?#div > a[data-anchor-id="StoreCard"] + div:-abp-contains(Sponsored)
 acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,randalls.com,safeway.com,shaws.com,starmarket.com,tomthumb.com,vons.com#?#.product-card-col:-abp-contains(Sponsored)
@@ -67988,7 +67992,7 @@ loblaws.ca,provigo.ca,valumart.ca,yourindependentgrocer.ca,zehrs.ca#?#.chakra-co
 lovenovels.net#?#center:-abp-contains(Advertisement)
 noelleeming.co.nz#?#div.product-tile:-abp-has(span:-abp-contains(Sponsored))
 noon.com#?#span[class*="productContaine"]:-abp-has(div:-abp-contains(Sponsored))
-nordstrom.com#?#.ivm_G:-abp-contains(Sponsored)
+nordstrom.com#?#article:has(.Yw5es:-abp-contains(Sponsored))
 petco.com#?#[class^="CitrusCatapult-styled__LeftContent"]:-abp-has(div:-abp-contains(Sponsored))
 petco.com#?#[class^="HorizontalWidget"]:-abp-has(div:-abp-contains(Sponsored))
 petco.com#?#li:-abp-contains(Sponsored)
@@ -69399,6 +69403,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||upload.wikimedia.org/wikipedia/$image,media
 @@||v.fwmrm.net/ad/g/*Nelonen$script
 @@||v.fwmrm.net/ad/g/1$domain=uktv.co.uk|vevo.com
+@@||v.fwmrm.net/ad/g/1?*mtv_desktop$xmlhttprequest
 @@||v.fwmrm.net/ad/g/1?csid=vcbs_cbsnews_desktop_$xmlhttprequest
 @@||v.fwmrm.net/ad/p/1?$domain=cc.com|channel5.com|cmt.com|eonline.com|foodnetwork.com|nbcnews.com|ncaa.com|player.theplatform.com|simpsonsworld.com|today.com
 @@||v.fwmrm.net/crossdomain.xml$xmlhttprequest

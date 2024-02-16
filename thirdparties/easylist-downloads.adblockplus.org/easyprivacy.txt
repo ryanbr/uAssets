@@ -5208,6 +5208,7 @@ omni.soundestlink.com$image
 ||sayutracking.co.uk^$third-party
 ||sbbanalytics.com^$third-party
 ||scaledb.com^$third-party
+||scarf.sh^$third-party
 ||sciencerevenue.com^$third-party
 ||scorecardresearch.com^$third-party
 ||scoutanalytics.net^$third-party
@@ -5378,6 +5379,7 @@ omni.soundestlink.com$image
 ||ssm.codes^$third-party
 ||star-cntr-5.com^$third-party
 ||stat-track.com^$third-party
+||stat.re^$third-party
 ||stat.social^$third-party
 ||stat24.com^$third-party
 ||statcounter.com^$third-party
@@ -10451,6 +10453,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||p.typekit.net^
 ||p.yotpo.com^
 ||p0.com/1x1
+||paddle.com/paddle/assets/images/health-check.gif?
 ||paddle.com^*/analytics.js
 ||page-events-ustats.udemy.com^
 ||pagecloud.com/event
@@ -12994,6 +12997,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||docs.github.com/events
 ||domainit.com/scripts/track.js
 ||dominos.co.uk/qRgAwS/
+||dot.nonolive.com^
 ||dotesports.com/sp.js
 ||dp.shoprunner.com^
 ||drop.com/impressionsBeacon
@@ -13910,6 +13914,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.christianpost.com^
 ||tracking.digitalocean.com^
 ||tracking.engineering.cloud.seek.com.au^
+||tracking.game8.co^
 ||tracking.hsn.com^
 ||tracking.shopstyle.co.uk^
 ||tracking.shopstyle.com^

@@ -3054,6 +3054,7 @@ omni.soundestlink.com$image
 ||altopd.com^
 ||analys.live^
 ||analysis.fi^
+||analyt.ir^
 ||anonstat.pw^
 ||apeagle.io^
 ||apenterprise.io^
@@ -7981,7 +7982,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ppcprotect.com^$third-party
 ||push4site.com^$third-party
 ||ravelin.net^$third-party
-||sabavision.com^$third-party
 ||simility.com^$third-party
 ||spideraf.com^$third-party
 !-----------------International third-party tracking domains-----------------!
@@ -12981,7 +12981,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||deovr.com/api_logs/
 ||dev.to/fallback_activity_recorder
 ||developer.mozilla.org/submit/
-||df.infra.shopee.ph^
+||df.infra.shopee.
 ||dhl.com/g8Dj6P8TAg/
 ||dhresource.com/dhs/fob/js/common/track/$domain=dhgate.com
 ||digg.com/library/tracker.js
@@ -13948,8 +13948,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||uber.com/_events
 ||uber.com/_track
 ||uber.com/careers/apply/_log
+||ubereats.com/_errors
+||ubereats.com/_events
 ||ubereats.com/_track
-||ubt.tracking.shopee.ph^
+||ubt.tracking.shopee.
 ||ubuyanalytics.ubuy.com^
 ||ucoz.com/stat/
 ||ucweb.com/collect/
@@ -49465,6 +49467,12 @@ abema.tv##+js(rmnt, script, NREUM)
 ||stats.proff.no^
 ||tdep.hema.nl/main.js
 ||vg.no/stats/
+! Persian
+||abadis.ir/ajaxcmd/setvisit/
+||abadis.ir/ajaxcmd/stat/
+||aparat.com/gogol/
+||namnak.com/act/stats.json
+||namnak.com/ga.js
 ! Polish
 |http://x.o2.pl^
 ||analytics.gazeta.pl^

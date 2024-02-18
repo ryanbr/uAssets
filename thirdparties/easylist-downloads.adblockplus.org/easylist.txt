@@ -18056,7 +18056,6 @@ _800x80_
 ##.OUTBRAIN[data-widget-id^="FMS_REELD_"]
 ##.adv_outbrain
 ##.js-outbrain-container
-##.ob-dynamic-rec-containeoutBrainWrapper
 ##.ob-p.ob-dynamic-rec-container
 ##.outBrainWrapper
 ##.outbrain-ad-slot
@@ -41771,7 +41770,6 @@ browsershots.org#@#.advert_area
 ||pixelspivot.com^
 ||pixfuture.net^
 ||pixinform.com^
-||pixiv.org^
 ||pixxur.com^
 ||piybineqejjswp.com^
 ||piz7ohhujogi.com^
@@ -59680,7 +59678,6 @@ browsershots.org#@#.advert_area
 ||widgets.business.com^
 ||widgets.lendingtree.com^
 ||widgets.oddschecker.com^
-||widgets.outbrain.com/widgetMonitor/
 ||widgets.outbrain.com^*/widget.js
 ||widgets.progrids.com^
 ||widgets.tree.com^
@@ -69576,7 +69573,6 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||2mdn.net/instream/html5/ima3.js$script,domain=earthtv.com|techrepublic.com|zdnet.com
 @@||4cdn.org/adv/$image,xmlhttprequest,domain=4channel.org
 @@||4channel.org/adv/$image,xmlhttprequest,domain=4channel.org
-@@||a.pixiv.org/yufulight-image/$domain=pixiv.net
 @@||abcnews.com/assets/js/prebid.min.js$~third-party
 @@||abcnews.com/assets/player/$script,~third-party
 @@||accuweather.com/bundles/prebid.$script

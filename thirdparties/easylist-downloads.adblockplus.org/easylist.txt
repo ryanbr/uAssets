@@ -25795,6 +25795,7 @@ browsershots.org#@#.advert_area
 ||cqrvwq.com^
 ||cqwajn.com^
 ||cr-brands.net^
+||cr.adsappier.com^
 ||cr08.biz^
 ||crabdefend.com^
 ||craccaanybody.com^
@@ -35195,6 +35196,7 @@ browsershots.org#@#.advert_area
 ||kedasensiblemot.com^
 ||kedasensiblemot.info^
 ||keechavy.com^
+||keedaipa.xyz^
 ||keefeezo.net^
 ||keegesta.com^
 ||keegleedaphi.com^
@@ -40354,6 +40356,7 @@ browsershots.org#@#.advert_area
 ||opsaupsa.com^
 ||opshuckleor.com^
 ||opsivesh.net^
+||opsookiz.net^
 ||opsoomet.net^
 ||opsoudaw.xyz^
 ||optad360.io^
@@ -51301,6 +51304,7 @@ browsershots.org#@#.advert_area
 ||whamplempangwe.top^
 ||whamukoji.pro^
 ||whamuthygle.com^
+||whandpolista.com^
 ||wharployn.com^
 ||whartaug.net^
 ||whartfidalgo.life^
@@ -63664,8 +63668,8 @@ marketscreener.com###zppRight2
 ultrabookreview.com###zzifhome
 ultrabookreview.com###zzifhome2
 arydigital.tv###zzright
-androidauthority.com##.--_-___Mb
-androidauthority.com##.--_-___jb
+androidauthority.com##.--_-___Yb
+androidauthority.com##.--_-___mb
 talkingpointsmemo.com##.--span\:12.AdSlot
 bigissue.com##.-ad
 gamejolt.com##.-ad-widget

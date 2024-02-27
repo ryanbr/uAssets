@@ -21096,6 +21096,7 @@ browsershots.org#@#.advert_area
 ||ap3lorf0il.com^
 ||apaboqrqbpa.com^
 ||apalbs.com^
+||apardonslaving.com^
 ||apatheticdrawerscolourful.com^
 ||apatheticformingalbeit.com^
 ||apavskmykcm.xyz^
@@ -21747,6 +21748,7 @@ browsershots.org#@#.advert_area
 ||auforau.com^
 ||aufr67i8sten.com^
 ||auftithu.xyz^
+||augaiksu.xyz^
 ||augailou.com^
 ||augigous.net^
 ||augladraugne.com^
@@ -23265,6 +23267,7 @@ browsershots.org#@#.advert_area
 ||bonyspecialist.pro^
 ||bonzai.ad^
 ||boodaisi.xyz^
+||boodymauves.com^
 ||boogopee.com^
 ||bookadil.com^
 ||bookbannershop.com^
@@ -23679,6 +23682,7 @@ browsershots.org#@#.advert_area
 ||bubonicgraters.space^
 ||buccanslabby.top^
 ||buchaumpo.com^
+||buckersregiven.com^
 ||buckeyekantars.com^
 ||buckonealodies.com^
 ||bucojjqcica.com^
@@ -24393,6 +24397,7 @@ browsershots.org#@#.advert_area
 ||cellistbeats.com^
 ||cellojapanelmo.info^
 ||cellsmonitor.com^
+||cellspsoatic.com^
 ||cemaaxyhrcaf.com^
 ||cematuran.com^
 ||cementadodunk.com^
@@ -26999,6 +27004,7 @@ browsershots.org#@#.advert_area
 ||disavowhers.com^
 ||disbarpensy.com^
 ||disbeliefplaysgiddiness.com^
+||disbendcrumby.com^
 ||dischargeinsularbroadly.com^
 ||discloseprogramwednesday.com^
 ||discodjxkqya.com^
@@ -29911,6 +29917,7 @@ browsershots.org#@#.advert_area
 ||flannelbeforehand.com^
 ||flapgroundless.com^
 ||flapicyconquered.com^
+||flarby.com^
 ||flarebania.com^
 ||flarytapuyan.com^
 ||flashb.id^
@@ -30803,6 +30810,7 @@ browsershots.org#@#.advert_area
 ||gaulshiite.life^
 ||gaumishhipshot.com^
 ||gaumoata.com^
+||gaunchdelimes.com^
 ||gaupingjaguar.com^
 ||gaupsaur.xyz^
 ||gaushaih.xyz^
@@ -31656,6 +31664,7 @@ browsershots.org#@#.advert_area
 ||grapseex.com^
 ||grapselu.com^
 ||grartoag.xyz^
+||graspfungoes.com^
 ||grasshopperprudencecondiment.com^
 ||grasutie.net^
 ||grataeraghu.digital^
@@ -32318,6 +32327,7 @@ browsershots.org#@#.advert_area
 ||hearthinfuriate.com^
 ||heartilyscales.com^
 ||heartlessrigid.com^
+||heartperopus.top^
 ||heartsawpeat.com^
 ||heaterrobotscompute.com^
 ||heatertried.com^
@@ -33544,6 +33554,7 @@ browsershots.org#@#.advert_area
 ||imgwebfeed.com^
 ||imiclk.com^
 ||imiddleagedspacious.com^
+||imidicsecular.com^
 ||iminsoux.com^
 ||imith.com^
 ||imitrck.net^
@@ -39791,6 +39802,7 @@ browsershots.org#@#.advert_area
 ||obedirectukly.info^
 ||obeus.com^
 ||obeyedortostr.cc^
+||obeyersshewn.com^
 ||obeyfreelanceloan.com^
 ||obeysatman.com^
 ||obhggjchjkpb.xyz^
@@ -43285,6 +43297,7 @@ browsershots.org#@#.advert_area
 ||pushynations.com^
 ||pushzolo.com^
 ||pusishegre.com^
+||pussesmoile.com^
 ||pussl3.com^
 ||pussl48.com^
 ||pusvfedhsxwj.com^
@@ -44154,6 +44167,7 @@ browsershots.org#@#.advert_area
 ||reenakun.com^
 ||reenginee.club^
 ||reephaus.com^
+||reepteen.com^
 ||reerfdfgourgo.xyz^
 ||reerfdfgourgoldpie.com^
 ||reesounoay.com^
@@ -45351,6 +45365,7 @@ browsershots.org#@#.advert_area
 ||salettamein.com^
 ||salivanmobster.com^
 ||salleeairings.life^
+||sallespaid.com^
 ||salletspluvian.com^
 ||sallyfundamental.com^
 ||sallyoxenstops.com^
@@ -67937,6 +67952,7 @@ sbs.com.au##div.css-1wbfa8
 steamgifts.com##div.dont_block_me
 easypet.com##div.kt-inside-inner-col > div.wp-block-kadence-rowlayout
 baking-forums.com,windows10forums.com##div.message--post.message
+expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hotels.com,orbitz.com,travelocity.ca,travelocity.com##div.not_clustered[id^="uitk-eg-maps-container-"]
 tld-list.com##div.row > .text-center > .ib
 forward.com##div.sticky-container:first-child
 newegg.com##div.swiper-slide[data-sponsored-catalyst]

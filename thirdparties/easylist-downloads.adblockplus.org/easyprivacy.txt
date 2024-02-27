@@ -1986,6 +1986,7 @@
 /smmch-mine.js
 /smmch-own.js
 /snowman.gif?p=
+/snowplow-tracker.tatest.js
 /snowplow.js
 /snowplow/*$script
 /snowplow_$script
@@ -4474,6 +4475,7 @@ omni.soundestlink.com$image
 ||intervigil.com^$third-party
 ||investingchannel.com^$third-party
 ||invitemedia.com^$third-party
+||invitereferrals.com^$third-party
 ||invoc.us^$third-party
 ||invoca.net^$third-party
 ||invoca.solutions^$third-party

@@ -1303,6 +1303,7 @@
 /log/log-event-
 /log/log.php?
 /log/logs?
+/log/metrics?
 /log/page-view
 /log/pageview
 /log/report/*
@@ -3012,6 +3013,7 @@ _WebVitalsReporter_
 /t.yesware.com/t/*$image
 /T/OFC4/*$image
 /track/open.php?
+/track/open/*$image
 /track/open?
 /tracking.fanbridge.com/*
 /tracking.srv2.de/op/*$image
@@ -3544,6 +3546,7 @@ omni.soundestlink.com$image
 ||aimediagroup.com^$third-party
 ||air2s.com^$third-party
 ||airbrake.io^$third-party
+||airlogak.com^$third-party
 ||airpr.com^$third-party
 ||airserve.net^$third-party
 ||aivalabs.com^$third-party
@@ -4359,6 +4362,7 @@ omni.soundestlink.com$image
 ||hiconversion.com^$third-party
 ||hif.to^$third-party
 ||higherengine.com^$third-party
+||highlight.io^$third-party
 ||highlight.run^$third-party
 ||highmetrics.com^$third-party
 ||hira-meki.jp^$third-party
@@ -6098,6 +6102,7 @@ omni.soundestlink.com$image
 ||ajaralarm.com^
 ||ak0gsh40.com^
 ||alertafterthought.com^
+||alertarithmetic.com^
 ||alertfaucet.com^
 ||aliasanvil.com^
 ||alikeaddition.com^
@@ -6120,6 +6125,7 @@ omni.soundestlink.com$image
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
 ||ambitiousanimal.com^
+||ambrosialsummit.com^
 ||amethystzenith.com^
 ||amuckafternoon.com^
 ||amusedbucket.com^
@@ -6580,6 +6586,7 @@ omni.soundestlink.com$image
 ||enchantedskyline.com^
 ||enchantedtop.com^
 ||enchantingbear.com^
+||enchantingenchantment.com^
 ||enchantingvalley.com^
 ||encourageidea.com^
 ||encourageshock.com^
@@ -6606,6 +6613,7 @@ omni.soundestlink.com$image
 ||enviousthread.com^
 ||equablekettle.com^
 ||erraticreaction.com^
+||etherealquasar.com^
 ||etherealripple.com^
 ||evaluateend.com^
 ||evanescentedge.com^
@@ -6733,6 +6741,7 @@ omni.soundestlink.com$image
 ||giftedthumb.com^
 ||giraffepiano.com^
 ||givevacation.com^
+||gladglen.com^
 ||gleamingcow.com^
 ||gleamingtrade.com^
 ||glisteningguide.com^
@@ -6892,6 +6901,7 @@ omni.soundestlink.com$image
 ||justicejudo.com^
 ||k54nw.pw^
 ||kaputquill.com^
+||kindhush.com^
 ||kitesquirrel.com^
 ||kittyaction.com^
 ||knitstamp.com^
@@ -6953,6 +6963,7 @@ omni.soundestlink.com$image
 ||magnificentmeasure.com^
 ||magnificentmist.com^
 ||mailboxmeeting.com^
+||majesticmountainrange.com^
 ||makeshiftmine.com^
 ||maliciousmusic.com^
 ||maniacalappliance.com^
@@ -7035,6 +7046,7 @@ omni.soundestlink.com$image
 ||nappyneck.com^
 ||neatshade.com^
 ||nebulacrescent.com^
+||nebulousamusement.com^
 ||nebulousripple.com^
 ||necessarywax.com^
 ||needlessnorth.com^
@@ -7063,6 +7075,7 @@ omni.soundestlink.com$image
 ||numerousnest.com^
 ||nutritiousbean.com^
 ||nuttyorganization.com^
+||oafishchance.com^
 ||oafishobservation.com^
 ||obscenesidewalk.com^
 ||observantice.com^
@@ -7131,6 +7144,7 @@ omni.soundestlink.com$image
 ||piquantpigs.com^
 ||piquantprice.com^
 ||piquantstove.com^
+||piquantvortex.com^
 ||pizzasnut.com^
 ||placeframe.com^
 ||placidactivity.com^
@@ -7312,6 +7326,7 @@ omni.soundestlink.com$image
 ||roomyreading.com^
 ||roseincome.com^
 ||rottenray.com^
+||roughharmony.com^
 ||roughroll.com^
 ||ruddycast.com^
 ||ruddywash.com^
@@ -7382,6 +7397,7 @@ omni.soundestlink.com$image
 ||secretturtle.com^
 ||sedatebun.com^
 ||seedscissors.com^
+||seemlysuggestion.com^
 ||selectionship.com^
 ||selectivesummer.com^
 ||selfishsea.com^
@@ -7525,6 +7541,7 @@ omni.soundestlink.com$image
 ||spookyskate.com^
 ||spookysleet.com^
 ||spookyslope.com^
+||spookystitch.com^
 ||spoonsilk.com^
 ||spotlessstamp.com^
 ||spotstring.com^
@@ -7534,6 +7551,7 @@ omni.soundestlink.com$image
 ||springaftermath.com^
 ||springsister.com^
 ||springsnails.com^
+||sprydelta.com^
 ||spuriousair.com^
 ||spuriousbase.com^
 ||spurioussquirrel.com^
@@ -7639,6 +7657,7 @@ omni.soundestlink.com$image
 ||superficialspring.com^
 ||superficialsquare.com^
 ||supervisegoldfish.com^
+||superviseshoes.com^
 ||supportwaves.com^
 ||suspectmark.com^
 ||suspendseed.com^
@@ -7730,6 +7749,7 @@ omni.soundestlink.com$image
 ||toweringrun.com^
 ||tradetooth.com^
 ||tranquilamulet.com^
+||tranquilarchipelago.com^
 ||tranquilcanyon.com^
 ||tranquilplume.com^
 ||tranquilside.com^
@@ -7853,6 +7873,7 @@ omni.soundestlink.com$image
 ||workableachiever.com^
 ||workoperation.com^
 ||worriednumber.com^
+||worriedwine.com^
 ||wrapstretch.com^
 ||wreckvolcano.com^
 ||writewealth.com^
@@ -9558,6 +9579,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||connect.bolt.com/v1/log
 ||connect.facebook.net/signals/$third-party
 ||connect.facebook.net^*/fbds.js$third-party
+||connect.facebook.net^*/pcm.js$third-party
 ||connect.idocdn.com^
 ||connext-cdn.azureedge.net^
 ||consensu.org/?log=
@@ -10042,6 +10064,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hydro-ma-proxy.akamaized.net^
 ||hypercomments.com/widget/*/analytics.html
 ||i.compendium.com^
+||i.posthog.com^
 ||i.s-microsoft.com/wedcs/ms.js
 ||i.viafoura.co^
 ||iabusprivacy.pmc.com^
@@ -13434,6 +13457,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||medium.com/_/batch
 ||meduza.io/stat/
 ||megaplay.cc/cdn-cgi/trace
+||megatron.igraal.com^
 ||mensjournal.com/.bootscripts/analytics.min.js
 ||mercedes-benz.com/datadog-
 ||merriam-webster.com/lapi/v1/mwol-search/stats/lookup
@@ -14023,6 +14047,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||upi.com/story/stat/
 ||uprinting.com/muffins/UPTracker-
 ||ups.com/img/icp.gif
+||upwork.com/shasta/suit
 ||upwork.com/upi/jslogger
 ||urs.metacritic.com^
 ||user-metrics.onthemarket.com^
@@ -48880,6 +48905,7 @@ abema.tv##+js(rmnt, script, NREUM)
 ||s3r.zerkalo.io^
 ||zerkalo.io/stat/
 ! Arabic
+||khamsat.com/ajax/account_stats?
 ||mosoah.com/analytics.js
 ||tags.aljazeera.net^
 ! Bosnian
@@ -49360,6 +49386,7 @@ abema.tv##+js(rmnt, script, NREUM)
 ||amazonaws.com/ai-img/aia.js
 ||ameba.jp/cookie/
 ||ameblo.jp/accesslog/
+||analysis.aws.locondo.jp^
 ||analytics.castel.jp^
 ||analytics.cocolog-nifty.com^
 ||analytics.ikyu.com^

@@ -8243,7 +8243,6 @@ _800x80_
 ##.ad-slot-header
 ##.ad-slot-horizontal
 ##.ad-slot-inview
-##.ad-slot-ph
 ##.ad-slot-placeholder
 ##.ad-slot-rail
 ##.ad-slot-replies

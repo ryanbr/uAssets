@@ -17564,6 +17564,7 @@ _800x80_
 ##a[href^="https://pb-front.com/"]
 ##a[href^="https://pb-imc.com/"]
 ##a[href^="https://pb-track.com/"]
+##a[href^="https://play1ad.shop/"]
 ##a[href^="https://playnano.online/offerwalls/?ref="]
 ##a[href^="https://porntubemate.com/"]
 ##a[href^="https://postback1win.com/"]
@@ -23440,6 +23441,7 @@ browsershots.org#@#.advert_area
 ||bqeuffmdobmpoe.xyz^
 ||bqiajdqye.com^
 ||bqieaijre.xyz^
+||bqimhnhltoili.com^
 ||bqklioghtnqs.com^
 ||bqkwfioyd.xyz^
 ||bqlhwrgxoedsm.com^
@@ -26940,6 +26942,7 @@ browsershots.org#@#.advert_area
 ||digitalmediapp.com^
 ||dignifiedclipbum.com^
 ||dignityhourmulticultural.com^
+||dignityunattractivefungus.com^
 ||digqvvtb.com^
 ||diguver.com^
 ||digyniahuffle.com^
@@ -28213,6 +28216,7 @@ browsershots.org#@#.advert_area
 ||eertogro.net^
 ||eeshemto.com^
 ||eesihighlyrec.xyz^
+||eespekw.com^
 ||eessoong.com^
 ||eessoost.net^
 ||eetchaid.net^
@@ -31246,6 +31250,7 @@ browsershots.org#@#.advert_area
 ||gjzbcvatvn.com^
 ||gk79a2oup.com^
 ||gkbvnyk.com^
+||gkcltxp.com^
 ||gkencyarcoc.com^
 ||gkfehrdhbm.com^
 ||gkkchmjdndovu.xyz^
@@ -37095,6 +37100,7 @@ browsershots.org#@#.advert_area
 ||lumaktoys.com^
 ||luminosoocchio.com^
 ||lumnstoodthe.info^
+||lumpilap.net^
 ||lumpmancommos.guru^
 ||lumptaxmen.com^
 ||lumpy-skirt.pro^
@@ -46243,6 +46249,7 @@ browsershots.org#@#.advert_area
 ||sharieta.com^
 ||sharkbiz.lol^
 ||sharkflowing.com^
+||sharonwhiledemocratic.com^
 ||sharpofferlinks.com^
 ||sharpphysicallyupcoming.com^
 ||shartems.com^
@@ -47588,6 +47595,7 @@ browsershots.org#@#.advert_area
 ||stoaxugi.com^
 ||stockingsight.com^
 ||stogerde.com^
+||stokoaks.net^
 ||stolenforensicssausage.com^
 ||stoltoog.net^
 ||stonkphymata.com^
@@ -52706,6 +52714,7 @@ browsershots.org#@#.advert_area
 ||xdmicjkveqlgllp.com^
 ||xdohrleybrd.com^
 ||xduvqslud.com^
+||xdvorqmcxpyvy.com^
 ||xdvsijtlhr.com^
 ||xdycqcoefditwj.com^
 ||xebadu.com^
@@ -57800,6 +57809,7 @@ browsershots.org#@#.advert_area
 ||planningunavoidablenull.com^$popup
 ||planyourbackup.co^$popup
 ||platitudezeal.com^$popup
+||play1ad.shop^$popup
 ||playamopartners.com^$popup
 ||playbook88a2.com^$popup
 ||playeranyd.org^$popup
@@ -58375,6 +58385,7 @@ browsershots.org#@#.advert_area
 ||special-trending-news.com^$popup
 ||specialisthuge.com^$popup
 ||specialityharmoniousgypsy.com^$popup
+||specialtymet.com^$popup
 ||speednetwork14.com^$popup
 ||speedsupermarketdonut.com^$popup
 ||spellingunacceptable.com^$popup

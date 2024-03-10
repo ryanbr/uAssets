@@ -62202,7 +62202,6 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||phuketwan.com/img/b/
 ||picrew.me/vol/ads/
 ||pimpandhost.com/mikakoki/
-||plagiarismchecker.co/imgimg$image
 ||plainenglish.io/assets/sponsors/
 ||planetlotus.org/images/partners/
 ||player.twitch.tv^$domain=go.theconomy.me
@@ -64820,6 +64819,7 @@ gayvegas.com,looktothestars.org,nintandbox.net,plurk.com,rockpasta.com,thebarent
 radaris.com##.adsense-responsive-bottom
 temporary-phone-number.com##.adsense-top-728
 101soundboards.com##.adsense_matched_content
+awesomeopensource.com##.adsense_uas
 bolnews.com##.adsheading
 nepallivetoday.com##.adsimage
 search.b1.org##.adslabel
@@ -64981,6 +64981,7 @@ people.com##.articleContainer__rail
 audizine.com##.articleIMG
 financemagnates.com##.article__mpu-banner
 empireonline.com##.article_adContainer--filled__vtAYe
+pianu.com##.article_add
 empireonline.com##.article_billboard__X_edx
 ubergizmo.com##.article_card_promoted
 wikiwand.com##.article_footerStickyAd__wvdui

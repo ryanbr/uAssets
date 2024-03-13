@@ -49514,6 +49514,7 @@ abema.tv##+js(rmnt, script, NREUM)
 ||tekoki-fuzoku-joho.com/js/ALinkPrepare_
 ||tower.jp/bundle/beacon
 ||track.buyma.com^
+||track.prod.smash.pet^
 ||tracking.ai.rakuten.co.jp^
 ||tracking.game8.jp^
 ||tracking.gnavi.co.jp^

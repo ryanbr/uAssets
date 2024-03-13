@@ -22900,6 +22900,7 @@ browsershots.org#@#.advert_area
 ||biteneverthelessnan.com^
 ||bitesized-commission.pro^
 ||biticesar.com^
+||bitsspiral.com^
 ||bitterborder.pro^
 ||bitterlyimprovegreat.com^
 ||bitternessjudicious.com^
@@ -23768,6 +23769,8 @@ browsershots.org#@#.advert_area
 ||bungalowsimply.com^
 ||bungarovet.com^
 ||bunintruder.com^
+||bunkr.si^
+||bunkrr.su^
 ||bunnymediaserver.com^
 ||bunth.net^
 ||buoyant-force.pro^
@@ -27897,6 +27900,7 @@ browsershots.org#@#.advert_area
 ||dzjv9gbu8a.com^
 ||dzkpopetrf.com^
 ||dzliege.com^
+||dzoavjjfet.com^
 ||dzprcdskxn.com^
 ||dzsorpf.com^
 ||dzubavstal.com^
@@ -36429,6 +36433,7 @@ browsershots.org#@#.advert_area
 ||lepetitdiary.com^
 ||lephaush.net^
 ||lepiotaspectry.com^
+||leptidunhaunt.com^
 ||leqjnmmyqtb.com^
 ||lerrdoriak.com^
 ||leskdywzbfk.com^
@@ -39930,6 +39935,7 @@ browsershots.org#@#.advert_area
 ||nxiqvhhm.com^
 ||nxlreuwdto.com^
 ||nxpdotflwcmrcfh.com^
+||nxqolxelijv.com^
 ||nxt-psh.com^
 ||nxtck.com^
 ||nxthost-1.info^
@@ -42248,6 +42254,7 @@ browsershots.org#@#.advert_area
 ||pjqchcfwtw.com^
 ||pjslwort.com^
 ||pjvartonsbewand.info^
+||pjvunkjgh.com^
 ||pjwshrlhyjyhqu.xyz^
 ||pjyvgdpvjp.com^
 ||pjzgggywd.com^
@@ -45135,6 +45142,7 @@ browsershots.org#@#.advert_area
 ||rmmyqc.com^
 ||rmndme.com^
 ||rmrtgsheui.com^
+||rmuuspy.com^
 ||rmvvawqobqvaq.top^
 ||rmvvawqobqvmv.top^
 ||rmwzbomjvmlej.top^
@@ -47745,6 +47753,7 @@ browsershots.org#@#.advert_area
 ||stoorsoy.com^
 ||stootsee.xyz^
 ||stootsou.net^
+||stopapaumari.com^
 ||stopgapdentoid.top^
 ||stopperlovingplough.com^
 ||stopscondole.com^
@@ -49985,6 +49994,7 @@ browsershots.org#@#.advert_area
 ||txouliypi.com^
 ||txrhpjddhbal.com^
 ||txtcompert.com^
+||txumirk.com^
 ||txwhfmxlmu.com^
 ||txzaazmdhtw.com^
 ||tyatedgrogs.xyz^
@@ -50056,6 +50066,7 @@ browsershots.org#@#.advert_area
 ||uazwqqlt.com^
 ||ubadzufyfjcd.com^
 ||ubbfpm.com^
+||ubdiysvv.com^
 ||ubeestis.net^
 ||uberouspolitei.com^
 ||ubiirddtnmja.com^
@@ -56000,6 +56011,7 @@ browsershots.org#@#.advert_area
 ||bayshorline.com^$popup
 ||bbccn.org^$popup
 ||bbcrgate.com^$popup
+||bbrdbr.com^$popup
 ||bbuni.com^$popup
 ||becomeapartner.io^$popup
 ||becoquin.com^$popup
@@ -56077,6 +56089,7 @@ browsershots.org#@#.advert_area
 ||biserka.xyz^$popup
 ||bit-system.org^$popup
 ||bitadexchange.com^$popup
+||bitsspiral.com^$popup
 ||bitterstrawberry.com^$popup
 ||biturl.co^$popup
 ||bitzv.com^$popup
@@ -56149,6 +56162,8 @@ browsershots.org#@#.advert_area
 ||bumpyremittancecarnivorous.com^$popup
 ||bungalowsimply.com^$popup
 ||bunintruder.com^$popup
+||bunkr.si^$popup
+||bunkrr.su^$popup
 ||bunth.net^$popup
 ||buqkrzbrucz.com^$popup
 ||buranablated.digital^$popup
@@ -60204,8 +60219,10 @@ browsershots.org#@#.advert_area
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
 ||1187531871.rsc.cdn77.org^
+||1212588358.rsc.cdn77.org^
 ||1300460716.rsc.cdn77.org^
 ||1307952151.rsc.cdn77.org^
+||1360334243.rsc.cdn77.org^
 ||1427208974.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
@@ -67654,7 +67671,7 @@ brila.net,cgmagonline.com,cycling.today,gayexpress.co.nz,theyeshivaworld.com##.t
 boxthislap.org,ticgn.com,wtf1.co.uk##.td-footer-wrapper
 techyv.com##.td-header-header
 healthyceleb.com##.td-header-header-full
-androidcommunity.com##.td-header-rec-wrap
+androidcommunity.com,techworm.net##.td-header-rec-wrap
 5pillarsuk.com,babeltechreviews.com,cybersecuritynews.com,sonorannews.com,techviral.net,thestonedsociety.com,weekendspecial.co.za##.td-header-sp-recs
 runnerstribe.com##.td-post-content a[href^="https://tarkine.com/"]
 antiguanewsroom.com,gadgetstouse.com##.td-ss-main-sidebar

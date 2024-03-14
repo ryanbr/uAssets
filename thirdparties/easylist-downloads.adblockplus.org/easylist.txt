@@ -17604,6 +17604,7 @@ _800x80_
 ##a[href^="https://trk.sportsflix4k.club/"]
 ##a[href^="https://turnstileunavailablesite.com/"]
 ##a[href^="https://twinrdsrv.com/"]
+##a[href^="https://witnessjacket.com/"]
 ##a[href^="https://www.adskeeper.com"]
 ##a[href^="https://www.adultempire.com/"][href*="?partner_id="]
 ##a[href^="https://www.adxsrve.com/"]
@@ -23798,8 +23799,6 @@ browsershots.org#@#.advert_area
 ||bungalowsimply.com^
 ||bungarovet.com^
 ||bunintruder.com^
-||bunkr.si^
-||bunkrr.su^
 ||bunnymediaserver.com^
 ||bunth.net^
 ||buoyant-force.pro^
@@ -52654,6 +52653,7 @@ browsershots.org#@#.advert_area
 ||withoutcontrol.com^
 ||witlayvet.com^
 ||witnessedworkerplaid.com^
+||witnessjacket.com^
 ||witnessremovalsoccer.com^
 ||witnesssimilarindoors.com^
 ||wittilyfrogleg.com^
@@ -56432,8 +56432,6 @@ browsershots.org#@#.advert_area
 ||bumpyremittancecarnivorous.com^$popup
 ||bungalowsimply.com^$popup
 ||bunintruder.com^$popup
-||bunkr.si^$popup
-||bunkrr.su^$popup
 ||bunth.net^$popup
 ||buqkrzbrucz.com^$popup
 ||buranablated.digital^$popup
@@ -59652,6 +59650,7 @@ browsershots.org#@#.advert_area
 ||withdrawcosmicabundant.com^$popup
 ||withholdstandstill.com^$popup
 ||withmefeyauknaly.com^$popup
+||witnessjacket.com^$popup
 ||wlafx4trk.com^$popup
 ||wnt-s0me-push.net^$popup
 ||woafoame.net^$popup
@@ -60601,6 +60600,8 @@ browsershots.org#@#.advert_area
 ||bs-adserver.b-cdn.net^
 ||btguard.com/images/
 ||btr.domywife.com^
+||bunkr.si/lazyhungrilyheadlicks.js
+||bunkrr.su/lazyhungrilyheadlicks.js
 ||c.bannerflow.net^
 ||c2shb.pubgw.yahoo.com^
 ||caffeine.tv/embed/$third-party
@@ -66587,7 +66588,7 @@ everythingrf.com##.headerblock
 semiconductor-today.com##.headermiddle
 phonearena.com##.heading-deal
 autoplius.lt##.headtop
-nationalworld.com##.helper__AdContainer-sc-12ggaoi-0
+lincolnshireworld.com,nationalworld.com##.helper__AdContainer-sc-12ggaoi-0
 igorslab.de##.herald-sidebar
 provideocoalition.com##.hero-promotions
 newsnow.co.uk##.hero-wrapper

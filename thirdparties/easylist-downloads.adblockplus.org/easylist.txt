@@ -18166,6 +18166,7 @@ grist.org,ing.dk,version2.dk#@#.advertorial
 stjornartidindi.is#@#.adverttext
 staircase.pl#@#.adwords
 consumerist.com#@#.after-post-ad
+clickorlando.com#@#.anyClipWrapper
 dailymail.co.uk,thisismoney.co.uk#@#.article-advert
 deluxemusic.tv#@#.article_ad
 adeam.com#@#.atf-wrapper
@@ -54788,7 +54789,6 @@ browsershots.org#@#.advert_area
 ||bannersmania.com^$third-party
 ||bannersnack.com^$third-party,domain=~bannersnack.dev
 ||bannersnack.net^$third-party,domain=~bannersnack.dev
-||bannertrack.net^$~script,third-party
 ||bannerweb.com^$third-party
 ||bannieres-a-gogo.com^$third-party
 ||baronsoffers.com^$third-party
@@ -62998,7 +62998,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ! firework
 ||fireworkapi1.com^$domain=boldsky.com
 ! In-page video advertising.
-||anyclip.com^$third-party,domain=~dictionary.com|~heute.at|~video.timeout.com
+||anyclip.com^$third-party,domain=~clickorlando.com|~dictionary.com|~heute.at|~video.timeout.com
 ||api.dailymotion.com^$domain=philstarlife.com
 ||api.fw.tv^
 ||avantisvideo.com^$third-party
@@ -70175,6 +70175,7 @@ sss.xxx##.fel-item
 tuberel.com##.fel-list
 javfor.tv##.fel-playclose
 hotmovs.com,thegay.com##.fiioed
+homemoviestube.com##.film-item:not(#showpop)
 sexyandfunny.com##.firstblock
 ah-me.com,gaygo.tv##.flirt-block
 asiangaysex.net,gaysex.tv##.float-ck

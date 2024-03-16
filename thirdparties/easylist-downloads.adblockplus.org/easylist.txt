@@ -125,6 +125,7 @@
 .popunder.js
 .pw/ads/
 .ru/ads/
+/?abt_opts=1&
 /?fp=*&poru=$subdocument
 /?view=ad
 /_adslot/*
@@ -35984,6 +35985,7 @@ browsershots.org#@#.advert_area
 ||koolawet.net^
 ||koophaip.net^
 ||koosaipiph.com^
+||kootovouz.com^
 ||kootzjkz.com^
 ||koovaubi.xyz^
 ||koowhoos.com^
@@ -66728,6 +66730,7 @@ bestlifeonline.com,eatthis.com##.inline
 manitobacooperator.ca##.inline--2
 forbes.com##.inline-article-ed-placeholder
 swiftcurrentonline.com##.inline-billboard
+dexerto.com##.inline-block
 freebeacon.com##.inline-campaign-wrapper
 stocksnap.io##.inline-carbon
 parkers.co.uk##.inline-leaderboard-ad-wrapper

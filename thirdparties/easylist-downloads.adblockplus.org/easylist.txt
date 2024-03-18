@@ -1010,7 +1010,6 @@
 /page-links-to/dist/new-tab.js
 /page-peel
 /page/ad/*
-/pagead.
 /pagead/1p-user-list/*
 /pagead/ads?
 /pagead/conversion.js
@@ -17322,6 +17321,7 @@ _800x80_
 ##[data-ad-width]
 ##[data-adblockkey]
 ##[data-adbridg-ad-class]
+##[data-adid]
 ##[data-adshim]
 ##[data-advadstrackid]
 ##[data-block-type="ad"]

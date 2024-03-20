@@ -17297,7 +17297,6 @@ _800x80_
 ##[data-ad-width]
 ##[data-adblockkey]
 ##[data-adbridg-ad-class]
-##[data-adid]
 ##[data-adshim]
 ##[data-advadstrackid]
 ##[data-block-type="ad"]

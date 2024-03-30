@@ -7068,6 +7068,7 @@ omni.soundestlink.com$image
 ||nappyneck.com^
 ||neatshade.com^
 ||nebulacrescent.com^
+||nebulajubilee.com^
 ||nebulousamusement.com^
 ||nebulousripple.com^
 ||necessarywax.com^
@@ -10789,6 +10790,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scripts.psyma.com^
 ||sd-tagging.azurefd.net^
 ||sdiapi.com/reporter/
+||sdk.51.la^$third-party
 ||sdrive.skoda-auto.com^
 ||sdtagging.azureedge.net^
 ||searchcompletion.com/BannerHandler.ashx

@@ -21632,6 +21632,7 @@ browsershots.org#@#.advert_area
 ||automatedtraffic.com^
 ||automateyourlist.com^
 ||automaticallyindecisionalarm.com^
+||automenunct.com^
 ||autoperplexturban.com^
 ||autopsycarrel.com^
 ||autopsyfowl.com^
@@ -22824,7 +22825,6 @@ browsershots.org#@#.advert_area
 ||bitemisuse.com^
 ||biteneverthelessnan.com^
 ||bitesized-commission.pro^
-||bits.avcdn.net^
 ||bitsspiral.com^
 ||bittenlacygreater.com^
 ||bitterborder.pro^
@@ -36996,6 +36996,7 @@ browsershots.org#@#.advert_area
 ||lecythleche.website^
 ||ledaoutrush.com^
 ||ledgesprimely.com^
+||ledgingalcaid.com^
 ||ledhatbet.com^
 ||ledrapti.net^
 ||ledslevier.com^
@@ -37557,6 +37558,7 @@ browsershots.org#@#.advert_area
 ||logicdate.com^
 ||logicdripping.com^
 ||logicorganized.com^
+||logicschort.com^
 ||loglabitrufly.top^
 ||loglaupt.com^
 ||logsgroupknew.com^
@@ -42782,6 +42784,7 @@ browsershots.org#@#.advert_area
 ||pesterunusual.com^
 ||pestilenttidefilth.org^
 ||petalycnida.com^
+||petasmaeryops.com^
 ||petasmaupbore.website^
 ||petasusawber.com^
 ||petchesa.net^
@@ -43400,6 +43403,7 @@ browsershots.org#@#.advert_area
 ||pohsoneche.info^
 ||poi3d.space^
 ||poignantsensitivenessforming.com^
+||poilloiter.top^
 ||poinct.com^
 ||poined.com^
 ||pointed-deal.pro^
@@ -55489,7 +55493,6 @@ browsershots.org#@#.advert_area
 ||bhlom.com^$document
 ||bincatracs.com^$document
 ||binomtrcks.site^$document
-||bits.avcdn.net^$document
 ||blehcourt.com^$document
 ||brenn-wck.com^$document
 ||bunth.net^$document
@@ -59084,6 +59087,7 @@ browsershots.org#@#.advert_area
 ||locooler-ageneral.com^$popup
 ||lody24.com^$popup
 ||logicdate.com^$popup
+||logicschort.com^$popup
 ||loodauni.com^$popup
 ||looew.club^$popup
 ||lookandfind.me^$popup
@@ -59737,6 +59741,7 @@ browsershots.org#@#.advert_area
 ||pnperf.com^$popup
 ||pocofh.com^$popup
 ||podefr.net^$popup
+||poilloiter.top^$popup
 ||pointclicktrack.com^$popup
 ||pointlimitedzen.online^$popup
 ||pointroll.com^$popup
@@ -64217,6 +64222,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||sciencefocus.com/pricecomparison/$subdocument
 ||scoot.co.uk/delivery.php
 ||scrolller.com/scrolller/affiliates/
+||search.brave.com/api/ads/
 ||search.brave.com/serp/v1/static/serp-js/paid/
 ||search.brave.com/serp/v1/static/serp-js/shopping/
 ||searchenginereports.net/theAdGMC/$image

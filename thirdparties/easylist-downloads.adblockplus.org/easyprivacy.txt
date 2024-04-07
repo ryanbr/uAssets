@@ -1704,6 +1704,7 @@
 /pmc-cxense.js
 /pointeur.gif?
 /pomegranate.js
+/pongAudienceLS?
 /postcounter.php?
 /postlog?
 /postview.gif?
@@ -4164,7 +4165,6 @@ omni.soundestlink.com$image
 ||exorigos.com^$third-party
 ||experianmarketingservices.digital^$third-party
 ||explore-123.com^$third-party
-||exponea.com^$third-party
 ||exposebox.com^$third-party
 ||extole.com^$third-party
 ||extrawatch.com^$third-party
@@ -48932,12 +48932,14 @@ abema.tv##+js(rmnt, script, NREUM)
 ||hits.porn.fr^
 ||hlms.ecologie.gouv.fr^
 ||ianimes.org/img/tracker.gif
+||ici.radio-canada.ca/v5/*/trace/
 ||igen.fr/modules/statistics/statistics.php
 ||insights.decathlon.net^
 ||iphoneaddict.fr/wp-content/*/counter.php
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
 ||kwgs.letudiant.fr^
+||l.francetvinfo.fr^$script
 ||l.nicematin.com/pv.js
 ||lacentrale.fr/collect
 ||lacentrale.fr/static/fragment-sentry/lc-sentry.js
@@ -49893,6 +49895,7 @@ abema.tv##+js(rmnt, script, NREUM)
 ||hits.antena3.com^
 ||horizon-track.globo.com^
 ||matt.mercadolibre.
+||mediaserver.emol.cl/rtracker/
 ||mega.promodescuentos.com^
 ||mercadolibre.com/tracks^
 ||mundodesconocido.com/tracker/
@@ -49901,6 +49904,7 @@ abema.tv##+js(rmnt, script, NREUM)
 ||px-intl.ucweb.com^
 ||realtime.bbcl.cl^
 ||rvv.emol.com^
+||sst.cooperativa.cl^
 ||statsmp2.emol.com^
 ||t-pan.triodos.com^
 ||t13.cl/hit/
@@ -50006,7 +50010,6 @@ abema.tv##+js(rmnt, script, NREUM)
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
-@@||api.us1.exponea.com^$script,xmlhttprequest,domain=walmartpetrx.com
 @@||appboycdn.com/web-sdk/$script,domain=magicseaweed.com
 @@||aramex.co.nz/Umbraco/Api/Tracking/$~third-party
 @@||assets.msn.com/staticsb/statics/latest/adboxes/$script,~third-party
@@ -50239,6 +50242,7 @@ abema.tv##+js(rmnt, script, NREUM)
 @@||sephora-track.inside-graph.com/gtm/$domain=sephora.com
 @@||sephora-track.inside-graph.com/ig.js$domain=sephora.com
 @@||sephora.com/js/ufe/isomorphic/thirdparty/fp.min.js$script,~third-party
+@@||sephora.com/js/ufe/isomorphic/thirdparty/VisitorAPI.js$~third-party
 @@||service.apport.net/apport-spa-common/src/tracking/tracking.js$~third-party
 @@||services.chipotle.com/__imp_apg__/$~third-party
 @@||shoonya.finvasia.com/fingerprint2.min.js$script,~third-party

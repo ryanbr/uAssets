@@ -1104,6 +1104,7 @@
 /script/npa2.min.js
 /script/nwsu.js
 /script/suv4r.js
+/script/thankYou.js
 /script/wait.php?*=$xmlhttprequest
 /scripts/afc/*
 /scripts/chatur.js
@@ -39911,6 +39912,7 @@ browsershots.org#@#.advert_area
 ||ndtsusmqnuslkqx.com^
 ||ndwouldmeu.info^
 ||ndxdcbgwxwqhre.com^
+||ndzoaaa.com^
 ||neads.delivery^
 ||neahbutwehavein.info^
 ||neapsberne.digital^
@@ -42095,6 +42097,7 @@ browsershots.org#@#.advert_area
 ||oyoperseduca.com^
 ||oypucuqsuwabnxy.com^
 ||oysterexhalereview.com^
+||oywzrri.com^
 ||oyxctgotabvk.com^
 ||oyyihttyklfwcgy.xyz^
 ||ozationsuchasric.org^
@@ -51216,6 +51219,7 @@ browsershots.org#@#.advert_area
 ||turvykingly.com^
 ||tuscanyaskant.com^
 ||tuskercampe.life^
+||tuskhautein.com^
 ||tusno.com^
 ||tutphiarcox.com^
 ||tutsterblanche.com^

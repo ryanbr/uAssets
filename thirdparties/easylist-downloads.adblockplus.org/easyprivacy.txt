@@ -3349,6 +3349,7 @@ omni.soundestlink.com$image
 ||speedyfox.io^
 ||speedyrhino.co^
 ||spinnaker-js.com^
+||srmdata-eur.com^
 ||stack-sonar.com^
 ||stat.ovh^
 ||statisticplatform.com^
@@ -9552,7 +9553,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cmail19.com/t/$image,third-party
 ||cmmeglobal.com/evt?
 ||cmmeglobal.com^*/page-view?
-||cmp.datasign.co^
 ||cnetcontent.com/log?
 ||cnevids.com/metrics/
 ||cnnx.io^*/tracker.js

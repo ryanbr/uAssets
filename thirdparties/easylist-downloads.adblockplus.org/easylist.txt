@@ -17132,6 +17132,7 @@ _800x80_
 ##a[href^="//staRtgamIng.Net/tienda/"]
 ##a[href^="http://adultfriendfinder.com/go/"]
 ##a[href^="http://affiliate.glbtracker.com/"]
+##a[href^="http://annulmentequitycereals.com/"]
 ##a[href^="http://avthelkp.net/"]
 ##a[href^="http://bc.vc/?r="]
 ##a[href^="http://bongacams.com/track?"]
@@ -21517,6 +21518,7 @@ browsershots.org#@#.advert_area
 ||auchoocm.com^
 ||auchoons.net^
 ||auciuqxoyqobj.xyz^
+||aucoudsa.net^
 ||aucred.com^
 ||audacitycompare.com^
 ||audiblereflectionsenterprising.com^
@@ -29392,6 +29394,7 @@ browsershots.org#@#.advert_area
 ||ewtgmfajrdhsyn.xyz^
 ||exacdn.com^
 ||exactconfigurationhasten.com^
+||exactsag.com^
 ||exaggeratekindnessvocal.com^
 ||exaggeratestamppost.com^
 ||exaltationinsufficientintentional.com^
@@ -42781,6 +42784,7 @@ browsershots.org#@#.advert_area
 ||perseverehang.com^
 ||persevereindirect.com^
 ||perseverevoice.com^
+||persistarcticthese.com^
 ||persistbrittle.com^
 ||personalityhamlet.com^
 ||personalityleftoverwhiskers.com^
@@ -46217,6 +46221,7 @@ browsershots.org#@#.advert_area
 ||rkomf.com^
 ||rkvyhuyab.com^
 ||rkwithcatuk.org^
+||rkymfevzeq.com^
 ||rkyynuthufhutew.xyz^
 ||rlaa.xyz^
 ||rlcdn.com^
@@ -52294,6 +52299,7 @@ browsershots.org#@#.advert_area
 ||valuermainly.com^
 ||valuerstray.com^
 ||valuesgloryprovocation.com^
+||valueslinear.com^
 ||valuethemarkets.info^
 ||valvalnumbest.com^
 ||valvedreknow.top^
@@ -57554,6 +57560,7 @@ browsershots.org#@#.advert_area
 ||ankdoier.com^$popup
 ||anmdr.link^$popup
 ||annual-gamers-choice.com^$popup
+||annulmentequitycereals.com^$popup
 ||anopportunitytost.info^$popup
 ||ansf.shop^$popup
 ||answered-questions.com^$popup
@@ -57626,6 +57633,7 @@ browsershots.org#@#.advert_area
 ||attachedkneel.com^$popup
 ||attractbestbonuses.life^$popup
 ||atzekromchan.com^$popup
+||aucoudsa.net^$popup
 ||audiblereflectionsenterprising.com^$popup
 ||audienceravagephotocopy.com^$popup
 ||auforau.com^$popup
@@ -59949,6 +59957,7 @@ browsershots.org#@#.advert_area
 ||psychicbowel.com^$popup
 ||psychologycircumvent.com^$popup
 ||psychologydistinguishnest.com^$popup
+||ptaupsom.com^$popup
 ||ptistyvymi.com^$popup
 ||ptongouh.net^$popup
 ||ptsixwereksbef.info^$popup

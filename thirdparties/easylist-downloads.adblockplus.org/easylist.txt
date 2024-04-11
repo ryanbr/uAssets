@@ -1098,6 +1098,7 @@
 /script/intrf.js
 /script/ippg.js
 /script/java.php?$xmlhttprequest
+/script/jeSus.js
 /script/naN.js
 /script/native_render.js
 /script/native_server.js
@@ -20503,6 +20504,7 @@ browsershots.org#@#.advert_area
 ||alreadyballetrenting.com^
 ||alreadywailed.com^
 ||alreau.com^
+||alrightcorozo.com^
 ||alrightlemonredress.com^
 ||alrotdrfhsc.com^
 ||alsatiapolynia.com^
@@ -23391,6 +23393,7 @@ browsershots.org#@#.advert_area
 ||braiderichu.guru^
 ||braidformulathick.com^
 ||braidprosecution.com^
+||braidsagria.com^
 ||brainient.com^
 ||brainlessshut.com^
 ||brainlyads.com^
@@ -24226,6 +24229,7 @@ browsershots.org#@#.advert_area
 ||cattleabruptlybeware.com^
 ||cattledisplace.com^
 ||catukhyistk.org^
+||catukhyistke.info^
 ||catwalkoutled.com^
 ||catwenbat.com^
 ||catwrite.com^
@@ -27029,6 +27033,7 @@ browsershots.org#@#.advert_area
 ||devotionhundredth.com^
 ||devoutdoubtfulsample.com^
 ||devoutprinter.com^
+||dewartilty.top^
 ||dewcommode.space^
 ||dewierhagger.com^
 ||dewiestsards.com^
@@ -28399,6 +28404,7 @@ browsershots.org#@#.advert_area
 ||edacityedacityhandicraft.com^
 ||edacityedacitystrawcrook.com^
 ||edalloverwiththinl.info^
+||edallthroughthe.info^
 ||edassiumw.xyz^
 ||edbehindforhewa.info^
 ||edbritingsynt.info^
@@ -28698,6 +28704,7 @@ browsershots.org#@#.advert_area
 ||elaifmeauswvlki.xyz^
 ||elasticad.net^
 ||elasticdestruct.com^
+||elasticmujeres.com^
 ||elaterconditin.info^
 ||elaterconditing.info^
 ||elatorfatback.com^
@@ -31543,6 +31550,7 @@ browsershots.org#@#.advert_area
 ||geolsoul.life^
 ||geometryworstaugust.com^
 ||geompzr.com^
+||geonicbashara.com^
 ||georgianabamboorehearse.com^
 ||geotrkclknow.com^
 ||geraflows.com^
@@ -32933,6 +32941,7 @@ browsershots.org#@#.advert_area
 ||havagedhyana.com^
 ||havamedia.net^
 ||havanese.top^
+||haveflat.com^
 ||havegrosho.com^
 ||havenadverb.com^
 ||havenalcoholantiquity.com^
@@ -34275,6 +34284,7 @@ browsershots.org#@#.advert_area
 ||iloptrex.com^
 ||ilovemakingpics.com^
 ||iloxvxenlwsv.com^
+||iluabuiukgpjb.com^
 ||ilumtoux.net^
 ||ilvpbrvrpzrys.com^
 ||ilxhsgd.com^
@@ -38701,6 +38711,7 @@ browsershots.org#@#.advert_area
 ||mellodur.net^
 ||mellonidolon.com^
 ||mellsrecta.com^
+||melnhroru.com^
 ||melodramaticlaughingbrandy.com^
 ||melodyplans.com^
 ||melongetplume.com^
@@ -40839,6 +40850,7 @@ browsershots.org#@#.advert_area
 ||nuraghireels.com^
 ||nurewsawan.org^
 ||nurewsawaninc.info^
+||nurlscleping.com^
 ||nurno.com^
 ||nurobi.info^
 ||nuroflem.com^
@@ -46534,6 +46546,7 @@ browsershots.org#@#.advert_area
 ||rorserdy.com^
 ||rosafun.com^
 ||roscoehanafi.com^
+||rose2919.com^
 ||rosebrandy.com^
 ||rosebudemphasizelesson.com^
 ||rosebudspurarmies.com^
@@ -47892,6 +47905,7 @@ browsershots.org#@#.advert_area
 ||shruggedhighwaydetached.com^
 ||shrupsthan.life^
 ||shrust.com^
+||shrweea.lat^
 ||shticksconturb.com^
 ||shubad2u8ba09.com^
 ||shubadubadlskjfkf.com^
@@ -48612,6 +48626,7 @@ browsershots.org#@#.advert_area
 ||sovereigngoesintended.com^
 ||sovereignidentificationconfirmed.com^
 ||sovism.com^
+||sowp.cloud^
 ||soyjlnfatgxpfd.com^
 ||soysapslad.com^
 ||soytdpb.com^
@@ -48635,6 +48650,7 @@ browsershots.org#@#.advert_area
 ||spargedunhot.website^
 ||sparidssimps.life^
 ||sparkle-industries-i-205.site^
+||sparkleagings.com^
 ||sparklesnoop.com^
 ||sparklespaghetti.com^
 ||sparkrainstorm.host^
@@ -51752,6 +51768,7 @@ browsershots.org#@#.advert_area
 ||uknsyenergyfle.info^
 ||ukrait.com^
 ||ukrkskillsombine.info^
+||ukskxmh.com^
 ||uksqotykpmjtdgw.com^
 ||uktureukworekt.info^
 ||ukworlowedonh.com^
@@ -53231,6 +53248,7 @@ browsershots.org#@#.advert_area
 ||vvtadblk.online^
 ||vvvljeqasz.com^
 ||vvwbjuaerbgmrjm.com^
+||vvwkfxidtw.com^
 ||vvyqxxgxlnptc.com^
 ||vvzzphefzcdfr.com^
 ||vwchbsoukeq.xyz^
@@ -53697,6 +53715,7 @@ browsershots.org#@#.advert_area
 ||wfodwkk.com^
 ||wfredir.net^
 ||wfthumty.pm^
+||wfuossjholw.com^
 ||wfutphkrendhr.com^
 ||wfuwlkgm.com^
 ||wg-aff.com^
@@ -54476,6 +54495,7 @@ browsershots.org#@#.advert_area
 ||wxseedslpi.com^
 ||wxvfhgdeis.com^
 ||wydtxpctgipa.xyz^
+||wyeczfx.com^
 ||wyeszcj.com^
 ||wyfsddsucblzu.com^
 ||wyglyvaso.com^
@@ -54610,6 +54630,7 @@ browsershots.org#@#.advert_area
 ||xgmtlmrweyasy.com^
 ||xgraph.net^
 ||xgrqvhbml.com^
+||xgtfptm.com^
 ||xgwhrvnxvhqgi.com^
 ||xhfitpvxqog.com^
 ||xhfvljklvq.com^
@@ -57774,6 +57795,7 @@ browsershots.org#@#.advert_area
 ||allsportsflix.top^$popup
 ||allsporttv.com^$popup
 ||almightyexploitjumpy.com^$popup
+||almstda.tv^$popup
 ||aloha-news.net^$popup
 ||alpha-news.org^$popup
 ||alpheratzscheat.top^$popup
@@ -58966,6 +58988,7 @@ browsershots.org#@#.advert_area
 ||hatsamevill.org^$popup
 ||hatwasallokmv.info^$popup
 ||hauchiwu.com^$popup
+||haveflat.com^$popup
 ||havegrosho.com^$popup
 ||hazoopso.net^$popup
 ||hdcommunity.online^$popup
@@ -60420,6 +60443,7 @@ browsershots.org#@#.advert_area
 ||rootzaffiliates.com^$popup
 ||ropedm.com^$popup
 ||rosafun.com^$popup
+||rose2919.com^$popup
 ||rosymap.pro^$popup
 ||rosyruffian.com^$popup
 ||rotumal.com^$popup
@@ -62229,12 +62253,14 @@ browsershots.org#@#.advert_area
 ||1080872514.rsc.cdn77.org^
 ||10945-2.s.cdn15.com^
 ||10945-5.s.cdn15.com^
+||1097248889.rsc.cdn77.org^
 ||1141658275.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
 ||1274355588.rsc.cdn77.org^
 ||1350112703.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1453683541.rsc.cdn77.org^
+||1459292291.rsc.cdn77.org^
 ||1472566097.rsc.cdn77.org^
 ||1513825105.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
@@ -67568,7 +67594,7 @@ gamemodding.com##.big_banner
 hellenicshippingnews.com##.bigbanner
 scienceabc.com##.bigincontentad
 snokido.com##.bigsquare
-9gag.com,bundesliga.com,hotstar.com,scotsman.com,talksport.com,the-sun.com,thescottishsun.co.uk,thesun.co.uk,thesun.ie##.billboard
+9gag.com,blackpoolgazette.co.uk,bundesliga.com,hotstar.com,lep.co.uk,northamptonchron.co.uk,scotsman.com,shieldsgazette.com,talksport.com,the-sun.com,thescottishsun.co.uk,thestar.co.uk,thesun.co.uk,thesun.ie##.billboard
 nypost.com,pagesix.com##.billboard-overlay
 electronicproducts.com##.billboard-wrap
 weatherpro.com##.billboard-wrapper
@@ -70428,6 +70454,7 @@ ldoceonline.com##[id^="ad_contentslot"]
 bestbuy.ca,bestbuy.com##[id^="atwb-ninja-carousel"]
 beforeitsnews.com##[id^="banners_"]
 pluggedingolf.com##[id^="black-studio-tinymce-"]
+hola.com##[id^="div-hola-slot-"]
 designtaxi.com##[id^="dt-small-"]
 eatthis.com##[id^="gm_karmaadunit_widget"]
 designtaxi.com##[id^="in-news-link-"]
@@ -71220,6 +71247,9 @@ amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.be,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg##span[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.be,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg##span[cel_widget_id^="MAIN-loom-desktop-brand-footer-slot_hsa-id-CARDS-"]
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.be,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.eg,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.pl,amazon.sa,amazon.se,amazon.sg##span[cel_widget_id^="MAIN-loom-desktop-top-slot_hsa-id-CARDS-"]
+!
+modivo.at,modivo.bg,modivo.cz,modivo.de,modivo.ee,modivo.fr,modivo.gr,modivo.hr,modivo.hu,modivo.it,modivo.lt,modivo.lv,modivo.pl,modivo.ro,modivo.si,modivo.sk,modivo.ua##.display-container
+modivo.at,modivo.bg,modivo.cz,modivo.de,modivo.ee,modivo.fr,modivo.gr,modivo.hr,modivo.hu,modivo.it,modivo.lt,modivo.lv,modivo.pl,modivo.ro,modivo.si,modivo.sk,modivo.ua##.promoted-slider-wrapper
 ! Expedia
 cheaptickets.com,ebookers.com,expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##.uitk-card:has(.uitk-badge-sponsored)
 cheaptickets.com,ebookers.com,expedia.at,expedia.be,expedia.ca,expedia.ch,expedia.co.id,expedia.co.in,expedia.co.jp,expedia.co.kr,expedia.co.nz,expedia.co.th,expedia.co.uk,expedia.com,expedia.com.ar,expedia.com.au,expedia.com.br,expedia.com.hk,expedia.com.my,expedia.com.ph,expedia.com.sg,expedia.com.tw,expedia.com.vn,expedia.de,expedia.dk,expedia.es,expedia.fi,expedia.fr,expedia.ie,expedia.it,expedia.mx,expedia.net,expedia.nl,expedia.no,expedia.se,hoteis.com,hoteles.com,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##[data-stid="meso-similar-properties-carousel"]
@@ -73318,6 +73348,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||microapp.bytedance.com/docs/page-data/$~third-party
 @@||minigame.aeriagames.jp/*/ae-tpgs-$~third-party
 @@||minigame.aeriagames.jp/css/videoad.css
+@@||minyu-net.com/parts/ad/banner/$image,~third-party
 @@||mistore.jp/content/dam/isetan_mitsukoshi/advertise/$~third-party
 @@||mjhobbymassan.se/r/annonser/$image,~third-party
 @@||musictrack.jp/a/ad/banner_member.jpg
@@ -73335,7 +73366,9 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
 @@||s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js$domain=yahoo.co.jp
 @@||s0.2mdn.net/ads/studio/Enabler.js$domain=yuukinohana.co.jp
+@@||sanyonews.jp/files/image/ad/okachoku.jpg$~third-party
 @@||search.spotxchange.com/vmap/*&content_page_url=www.bsfuji.tv$xmlhttprequest,domain=imasdk.googleapis.com
+@@||shikoku-np.co.jp/img/ad/$~third-party
 @@||site-banner.hange.jp/adshow?$domain=animallabo.hange.jp
 @@||smartadserver.com/genericpost$domain=filmweb.pl
 @@||so-net.ne.jp/access/hikari/minico/ad/images/$~third-party

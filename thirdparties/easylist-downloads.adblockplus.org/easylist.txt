@@ -22493,7 +22493,6 @@ browsershots.org#@#.advert_area
 ||berideshaptin.com^
 ||berinsestoray.com^
 ||berkshiretoday.xyz^
-||berlagu.com^
 ||berlindespraque.life^
 ||berlinsnevoid.com^
 ||berlipurplin.com^
@@ -38814,7 +38813,6 @@ browsershots.org#@#.advert_area
 ||metricfast.com^
 ||metrics.io^
 ||metricswpsh.com^
-||metrolagu.cam^
 ||metsaubs.net^
 ||mettlecrating.com^
 ||metumpscageful.com^

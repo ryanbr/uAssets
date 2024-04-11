@@ -12370,22 +12370,33 @@ co.cz
 
 // CDN77.com : http://www.cdn77.com
 // Submitted by Jan Krpes <jan.krpes@cdn77.com>
-c.cdn77.org
+cdn77-storage.com
+rsc.contentproxy9.cz
 cdn77-ssl.net
 r.cdn77.net
-rsc.cdn77.org
 ssl.origin.cdn77-secure.org
+c.cdn77.org
+rsc.cdn77.org
 
 // Cloud DNS Ltd : http://www.cloudns.net
-// Submitted by Aleksander Hristov <noc@cloudns.net>
+// Submitted by Aleksander Hristov <noc@cloudns.net> & Boyan Peychev <boyan@cloudns.net>
 cloudns.asia
+cloudns.be
 cloudns.biz
-cloudns.club
 cloudns.cc
+cloudns.ch
+cloudns.cl
+cloudns.club
+dnsabr.com
+cloudns.cx
 cloudns.eu
 cloudns.in
 cloudns.info
+dns-cloud.net
+dns-dynamic.net
+cloudns.nz
 cloudns.org
+cloudns.ph
 cloudns.pro
 cloudns.pw
 cloudns.us
@@ -12397,6 +12408,11 @@ cnpy.gdn
 // Codeberg e. V. : https://codeberg.org
 // Submitted by Moritz Marquardt <git@momar.de>
 codeberg.page
+
+// CodeSandbox B.V. : https://codesandbox.io
+// Submitted by Ives van Hoorne <abuse@codesandbox.io>
+csb.app
+preview.csb.app
 
 // CoDNS B.V.
 co.nl
@@ -12955,6 +12971,10 @@ easypanel.host
 // Submitted by <infracloudteam@namecheap.com>
 *.ewp.live
 
+// Electromagnetic Field : https://www.emfcamp.org
+// Submitted by <noc@emfcamp.org>
+at.emf.camp
+
 // Elementor : Elementor Ltd.
 // Submitted by Anton Barkan <antonb@elementor.com>
 elementor.cloud
@@ -13329,6 +13349,12 @@ gentapps.com
 gentlentapis.com
 lab.ms
 cdn-edges.net
+
+// Getlocalcert: https://www.getlocalcert.net
+// Submitted by Robert Alexander <support@getlocalcert.net>
+localcert.net
+localhostcert.net
+corpnet.work
 
 // Ghost Foundation : https://ghost.org
 // Submitted by Matt Hanley <security@ghost.org>
@@ -14252,8 +14278,9 @@ ngrok.pro
 torun.pl
 
 // Nimbus Hosting Ltd. : https://www.nimbushosting.co.uk/
-// Submitted by Nicholas Ford <nick@nimbushosting.co.uk>
+// Submitted by Nicholas Ford <dev@nimbushosting.co.uk>
 nh-serv.co.uk
+nimsite.uk
 
 // NFSN, Inc. : https://www.NearlyFreeSpeech.NET/
 // Submitted by Jeff Wheelhouse <support@nearlyfreespeech.net>
@@ -14480,6 +14507,11 @@ operaunite.com
 // Submitted by Alexandre Linte <alexandre.linte@orange.com>
 tech.orange
 
+// OsSav Technology Ltd. : https://ossav.com/
+// TLD Nic: http://nic.can.re - TLD Whois Server: whois.can.re
+// Submitted by OsSav Technology Ltd. <support@ossav.com>
+can.re
+
 // Oursky Limited : https://authgear.com/, https://skygear.io/
 // Submitted by Authgear Team <hello@authgear.com>, Skygear Developer <hello@skygear.io>
 authgear-staging.com
@@ -14530,10 +14562,14 @@ pagexl.com
 
 // pcarrier.ca Software Inc: https://pcarrier.ca/
 // Submitted by Pierre Carrier <pc@rrier.ca>
+*.xmit.co
 bar0.net
 bar1.net
 bar2.net
 rdv.to
+srv.us
+gh.srv.us
+gl.srv.us
 
 // .pl domains (grandfathered)
 art.pl
@@ -15032,9 +15068,9 @@ small-web.org
 vp4.me
 
 // Snowflake Inc : https://www.snowflake.com/
-// Submitted by Faith Olapade <faith.olapade@snowflake.com>
-snowflake.app
-privatelink.snowflake.app
+// Submitted by Sam Haar <psl@snowflake.com>
+*.snowflake.app
+*.privatelink.snowflake.app
 streamlit.app
 streamlitapp.com
 
@@ -15464,6 +15500,10 @@ reserve-online.net
 reserve-online.com
 bookonline.app
 hotelwithflight.com
+
+// WebWaddle Ltd: https://webwaddle.com/
+// Submitted by Merlin Glander <hostmaster@webwaddle.com>
+*.wadl.top
 
 // WeDeploy by Liferay, Inc. : https://www.wedeploy.com
 // Submitted by Henrique Vicente <security@wedeploy.com>

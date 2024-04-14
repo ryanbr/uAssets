@@ -3098,6 +3098,7 @@ omni.soundestlink.com$image
 ||blueoyster.click^
 ||bonne-terre-data-layer.com^
 ||boomtrain.com^
+||botsrv2.com^
 ||bounceexchange.com^
 ||bqstreamer.com^
 ||bringmethehats.com^
@@ -6915,6 +6916,7 @@ omni.soundestlink.com$image
 ||inventionpassenger.com^
 ||investigatepin.com^
 ||invitesugar.com^
+||itemslice.com^
 ||ivykiosk.com^
 ||j93557g.com^
 ||jadedjoke.com^
@@ -13842,6 +13844,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||search.ch/audit/
 ||searchenginejournal.com/xcs0MhRsfxHG.js
 ||searchiq.co/api/tr?
+||secure.checkout.visa.com/logging/
 ||seekingalpha.com/mone_event
 ||servo-report.dvdfab.
 ||sexu.com/api/events

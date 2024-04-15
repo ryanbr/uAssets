@@ -2853,6 +2853,7 @@ _WebVitalsReporter_
 .doubleclick.net/$image
 .duolingo.com/open/
 .efeedbacktrk.com/$third-party
+.elaine-asp.de/action/view/$image
 .email.*/tr/op/$image
 .emltrk.com/
 .epicgames.com/O/
@@ -2970,6 +2971,7 @@ _WebVitalsReporter_
 /gate.amnesty-international.*/open.php?
 /gp/r.html?$image
 /gridinbound.blob.core.
+/i?aid=*&se_ac=open&$image
 /impression?mkevt=
 /inbox.*/imp?$image
 /is-tracking-pixel-
@@ -49823,6 +49825,7 @@ abema.tv##+js(rmnt, script, NREUM)
 ||dxlive.com/js/dtrace.js
 ||eq-beacon.stream.co.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
+||eropuru.com/plugin/tracking/
 ||event.lib.visumo.io/js/hbn_track.js
 ||fensi.plus^*/tracking/
 ||fspark-ap.com/ft/analytics_log

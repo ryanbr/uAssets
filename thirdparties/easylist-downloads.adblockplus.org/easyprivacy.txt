@@ -6457,6 +6457,7 @@ omni.soundestlink.com$image
 ||crawlclocks.com^
 ||crayoncompetition.com^
 ||creatorcherry.com^
+||creatorpassenger.com^
 ||creditcreature.com^
 ||crimsonmeadow.com^
 ||critictruck.com^
@@ -6699,6 +6700,7 @@ omni.soundestlink.com$image
 ||fifthborder.com^
 ||finalizeforce.com^
 ||financefear.com^
+||firstendpoint.com^
 ||firstfrogs.com^
 ||firsttexture.com^
 ||fixedfold.com^

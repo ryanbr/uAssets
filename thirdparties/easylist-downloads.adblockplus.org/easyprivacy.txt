@@ -2276,6 +2276,7 @@
 /track/pixel/*
 /track/site/*
 /track/statistic/*
+/track/svbaff01/*
 /track/visitors/?
 /track/visits/?
 /track?*&event=
@@ -12985,6 +12986,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||blockworks.co/_vercel/insights/
 ||blue.nbc4i.com^
 ||bmoharris.com/www/assets/analytics/loader.js
+||bonprix.*/ajax/landmarks/
+||bonprix.*/ajax/marketing-parameters/
 ||booking.com/c360/v1/track
 ||booking.com/collector/
 ||booking.com/logo?
@@ -13753,6 +13756,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||poki.com/observer/
 ||politico.com/resource/assets/js.min/video-tracking.
 ||poptropica.com/brain/track.php?
+||pornbox.com/event/
+||pornbox.com/stats/
 ||pornhublive.com/api/events
 ||pornhublive.com/api/metrics
 ||porzo.com/js/analytics
@@ -49190,6 +49195,7 @@ abema.tv##+js(rmnt, script, NREUM)
 ||wa.gmx.net^
 ||wa.web.de^
 ||walbusch.de^$ping
+||weltbild.de/tracking/
 ||werkenntdenbesten.de/js/tracking.
 ||werkenntdenbesten.de/pd.js
 ||wikipedia.de/tracking.js

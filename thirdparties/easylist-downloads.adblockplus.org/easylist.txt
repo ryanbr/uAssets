@@ -23296,6 +23296,7 @@ browsershots.org#@#.advert_area
 ||brainient.com^
 ||brainlessshut.com^
 ||brainlyads.com^
+||brainsdulc.com^
 ||braintb.com^
 ||brairdcaratch.digital^
 ||brakercorvet.top^
@@ -31729,6 +31730,7 @@ browsershots.org#@#.advert_area
 ||ghethe.com^
 ||ghettoschanse.com^
 ||ghfnlorkormcmr.com^
+||ghilliebottles.com^
 ||ghisiva.top^
 ||ghjhucekiywqrk.com^
 ||ghnvfncbleiu.xyz^
@@ -41971,6 +41973,7 @@ browsershots.org#@#.advert_area
 ||ooswxraxqm.com^
 ||ootchaig.xyz^
 ||ootchoft.com^
+||oothupeelobs.com^
 ||ootibsay.xyz^
 ||ootsoobs.net^
 ||oourmarketingefifor.info^
@@ -49968,6 +49971,7 @@ browsershots.org#@#.advert_area
 ||sukedrevenued.org^
 ||sukoqgdpej.com^
 ||sukultingecauy.info^
+||sulcusmantels.com^
 ||sulelysr.com^
 ||sulkvulnerableexpecting.com^
 ||sullageprofre.com^
@@ -51420,6 +51424,7 @@ browsershots.org#@#.advert_area
 ||topflownews.com^
 ||topfreenewsfeeds.com^
 ||topiccorruption.com^
+||toplesscrimps.com^
 ||toplinkz.ru^
 ||topmostolddoor.com^
 ||topmoststramp.com^
@@ -54486,6 +54491,7 @@ browsershots.org#@#.advert_area
 ||whittenchorded.com^
 ||whizduly.com^
 ||whizzerknucks.com^
+||whizzerlollard.top^
 ||whkyiuufzjt.com^
 ||whoachoh.com^
 ||whoajeex.xyz^
@@ -66994,6 +67000,7 @@ eldersweather.com.au###desktop_new_forecast_top_wxh
 homestuck.com###desktop_skyscraper
 pikalytics.com###dex-list-0
 flyordie.com###dgad
+tmo.report###directad
 realclearpolitics.com###distro_right_rail
 tribunnews.com###div-Inside-MediumRectangle
 designtaxi.com###div-center-wrapper
@@ -67471,7 +67478,10 @@ accuradio.com###slot2Wrapper
 orteil.dashnet.org###smallSupport
 point2homes.com###smartAsset
 givemesport.com###sn_gg_ad_wrapper
-gpfans.com###snack_ldb
+forums.bluemoon-mcfc.co.uk###snack_dmpu
+forums.bluemoon-mcfc.co.uk,gpfans.com###snack_ldb
+forums.bluemoon-mcfc.co.uk###snack_mpu
+forums.bluemoon-mcfc.co.uk###snack_sky
 ghacks.net###snhb-snhb_ghacks_bottom-0
 who-called.co.uk###snigel_ads-mobile
 thedriven.io###solarchoice_banner_1

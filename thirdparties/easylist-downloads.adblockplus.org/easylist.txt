@@ -25499,6 +25499,7 @@ browsershots.org#@#.advert_area
 ||conduit-banners.com^
 ||conduit-services.com^
 ||conetizable.com^
+||confabureas.com^
 ||confdatabase.com^
 ||confectioneryconnected.com^
 ||confectionerycrock.com^
@@ -26653,6 +26654,7 @@ browsershots.org#@#.advert_area
 ||deadly-variety.pro^
 ||deadlyrelationship.com^
 ||deadlysafe.pro^
+||deadmentionsunday.com^
 ||deadrafflewildest.com^
 ||dealbuzznews.com^
 ||dealcurrent.com^
@@ -29716,6 +29718,7 @@ browsershots.org#@#.advert_area
 ||exuharpxs.com^
 ||exurbdaimiel.com^
 ||exwotics6heomrthaoi4r.com^
+||exxaygm.com^
 ||eyauknalyticafra.info^
 ||eycameoutoft.info^
 ||eychroi.com^
@@ -30632,6 +30635,7 @@ browsershots.org#@#.advert_area
 ||flowwiththetide.xyz^
 ||floyme.com^
 ||flpfsqgjsarghs.com^
+||flqwvojijhqqlq.com^
 ||flrdra.com^
 ||fluemantappall.guru^
 ||fluencyinhabited.com^
@@ -33138,6 +33142,7 @@ browsershots.org#@#.advert_area
 ||hayfatduh.com^
 ||hayjvhirir.com^
 ||haymishlytta.com^
+||haymowsrakily.com^
 ||haywarn.com^
 ||hayyad.com^
 ||hazairgo.net^
@@ -45544,6 +45549,7 @@ browsershots.org#@#.advert_area
 ||qmhffrogjeca.com^
 ||qmqjvreqwywbk.top^
 ||qmqjvreqwywla.top^
+||qmqnnovstcdblm.com^
 ||qmrelvezookoo.top^
 ||qmrwbzwalrmry.top^
 ||qmtqzsczx.com^
@@ -55501,6 +55507,7 @@ browsershots.org#@#.advert_area
 ||xgrqvhbml.com^
 ||xgtfptm.com^
 ||xgwhrvnxvhqgi.com^
+||xhapsebkdargwd.com^
 ||xhfitpvxqog.com^
 ||xhfvljklvq.com^
 ||xhhaakxn.xyz^
@@ -55755,6 +55762,7 @@ browsershots.org#@#.advert_area
 ||xyjaewocysv.com^
 ||xylaoppress.com^
 ||xylenylyetapa.uno^
+||xylomavivat.com^
 ||xynkxvrvusoh.com^
 ||xyooepktyy.xyz^
 ||xyrkotsqhaf.com^
@@ -57001,6 +57009,7 @@ browsershots.org#@#.advert_area
 ||pretrackings.com^$document
 ||priestsuede.click^$document
 ||proffering.xyz^$document
+||propellerclick.com^$document
 ||proscholarshub.com^$document
 ||proteinairn.top^$document
 ||pshtop.com^$document
@@ -59543,6 +59552,7 @@ browsershots.org#@#.advert_area
 ||difice-milton.com^$popup
 ||digitaldsp.com^$popup
 ||dilruwha.net^$popup
+||dinerbreathtaking.com^$popup
 ||dingingmaat.top^$popup
 ||directcpmfwr.com^$popup
 ||directcpmrev.com^$popup
@@ -59771,6 +59781,7 @@ browsershots.org#@#.advert_area
 ||externalfavlink.com^$popup
 ||extractdissolve.com^$popup
 ||extractionatticpillowcase.com^$popup
+||exxaygm.com^$popup
 ||eyauknalyticafra.info^$popup
 ||ezadblocker.com^$popup
 ||ezcgojaamg.com^$popup
@@ -63381,9 +63392,11 @@ browsershots.org#@#.advert_area
 ||1437953666.rsc.cdn77.org^
 ||1454023398.rsc.cdn77.org^
 ||1529462937.rsc.cdn77.org^
+||1562574750.rsc.cdn77.org^
 ||1623381916.rsc.cdn77.org^
 ||1673213558.rsc.cdn77.org^
 ||1675450967.rsc.cdn77.org^
+||1693805549.rsc.cdn77.org^
 ||1736253261.rsc.cdn77.org^
 ||1917516666.rsc.cdn77.org^
 ||1946546359.rsc.cdn77.org^
@@ -71595,6 +71608,7 @@ daijiworld.com##[href="http://www.expertclasses.org/"]
 gametracker.com##[href="http://www.gameservers.com"]
 allnewspipeline.com##[href="http://www.sqmetals.com/"]
 bitcoiner.tv##[href="https://bitcoiner.tv/buy-btc.php"]
+cracked.io##[href="https://cutt.ly/U7s7Wu8"]
 spys.one##[href="https://fineproxy.org/ru/"]
 freedomfirstnetwork.com##[href="https://freedomfirstcoffee.com"]
 summit.news##[href="https://infowarsstore.com/"]
@@ -71604,6 +71618,7 @@ conservativeplaybook.com##[href="https://ourgoldguy.com/contact/"]
 davidwalsh.name##[href="https://requestmetrics.com/"]
 unknowncheats.me##[href="https://securecheats.com/"]
 slaynews.com##[href="https://slaynews.com/ads/"]
+cracked.io##[href="https://sweet-accounts.com"]
 complaintsingapore.com##[href="https://thechillipadi.com/"]
 walletinvestor.com##[href="https://walletinvestor.com/u/gnrATE"]
 nettv4u.com##[href="https://www.badshahcric.net/"]
@@ -71652,6 +71667,7 @@ brighteon.com##[href^="https://support.brighteon.com/"]
 beforeitsnews.com,highshortinterest.com##[href^="https://tinyurl.com/"]
 tripsonabbeyroad.com##[href^="https://tp.media/"]
 minidl.org##[href^="https://uploadgig.com/premium/index/"]
+cracked.io##[href^="https://vshield.com/"]
 mailshub.in##[href^="https://www.amazon.in/"]
 workhouses.org.uk##[href^="https://www.awin1.com"]
 businessonhome.com##[href^="https://www.binance.com/en/register?ref="]

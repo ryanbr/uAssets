@@ -11264,10 +11264,8 @@ _800x80_
 ##.advt
 ##.advt-banner-3
 ##.advt-block
-##.advt-box
 ##.advt-right
 ##.advt-sec
-##.advt-text
 ##.advt300
 ##.advt720
 ##.advtBlock
@@ -11381,6 +11379,8 @@ _800x80_
 ##.ajaxads
 ##.ajdg_bnnrwidgets
 ##.ajdg_grpwidgets
+##.alice-adslot
+##.alice-root-header-ads__ad--top
 ##.align.Ad
 ##.alignads
 ##.alt_ad
@@ -12135,6 +12135,7 @@ _800x80_
 ##.c-advertisement--rectangle
 ##.c-advertising
 ##.c-advertising__banner-area
+##.c-adverts
 ##.c-advscrollingzone
 ##.c-box--advert
 ##.c-button--adchoices
@@ -14942,9 +14943,6 @@ _800x80_
 ##.player_ima-ad-container
 ##.playerad
 ##.playerdads
-##.plistaList > .itemLinkPET
-##.plistaList > .plista_widget_underArticle_item[data-type="pet"]
-##.plista_inimg_box
 ##.plugin-ad
 ##.plugin-ad-container
 ##.pm-ad
@@ -14960,7 +14958,6 @@ _800x80_
 ##.polarisMarketing
 ##.polaris__ad
 ##.polaris__below-header-ad-wrapper
-##.polaris__teads
 ##.position-ads
 ##.post--native-ad
 ##.post-ad
@@ -15340,19 +15337,16 @@ _800x80_
 ##.rightcol-adbox
 ##.rightcol-block-ads
 ##.rightcol_boxad
-##.rightcol_div_openx2
 ##.rightcolads
 ##.rightcoladvert
 ##.rightcoltowerad
 ##.rightnav_adsense
-##.rightpanelad
 ##.rightrail-ad-atf
 ##.rightrail-ad-block
 ##.rightrail-ad-placed
 ##.rightrail-display-ad
 ##.rightrail_ads
 ##.rightsideAd
-##.righttop-advt
 ##.ringtone-ad
 ##.river-item-sponsored
 ##.riverAdLoaded
@@ -15361,11 +15355,9 @@ _800x80_
 ##.rj-ads-wrap-sq
 ##.rj-ads-wrapper
 ##.rm-adslot
-##.rngtAd
 ##.rolloverad
 ##.roof-ad
 ##.root-ad-anchor
-##.rot_ads
 ##.rotatead-container
 ##.rotating-ad
 ##.rotating-ads
@@ -15373,16 +15365,12 @@ _800x80_
 ##.rotatingBannerWidget
 ##.rotatingadsection
 ##.rotator_ad_overlay
-##.round_box_advert
-##.roundedCornersAd
-##.row--gh-ad
 ##.row-ad
 ##.row-ad-leaderboard
 ##.rowAd
 ##.rowAds
 ##.row_header_ads
 ##.rowad
-##.rowgoogleads
 ##.rpd_ads
 ##.rr-300x250-ad
 ##.rr-300x600-ad
@@ -15405,21 +15393,15 @@ _800x80_
 ##.s-ads
 ##.s-ads-metrics
 ##.s-body-ad
-##.s-hidden-sponsored-item
 ##.s_ads
 ##.s_ads_label
 ##.s_sponsored_ads
-##.sa-mainad
-##.sabavision-ads
-##.sad_posterad
 ##.sadvert
 ##.sagreklam
 ##.sal-adv-gpt
 ##.sam_ad
 ##.sb-ad
-##.sb-ad-margin
 ##.sb-ads
-##.sb-top-sec-ad
 ##.sbAd
 ##.sbAdUnitContainer
 ##.sbTopadWrapper
@@ -15427,9 +15409,6 @@ _800x80_
 ##.sb_ad_holder
 ##.sc-ad
 ##.scad
-##.scanAd
-##.scb-ad
-##.scoopads
 ##.script-ad
 ##.scroll-ad-item-container
 ##.scroll-ads
@@ -15589,10 +15568,7 @@ _800x80_
 ##.sidebar-col-ad-left
 ##.sidebar-col-ad-right
 ##.sidebar-content-ad
-##.sidebar-digiads
 ##.sidebar-header-ads
-##.sidebar-paid-ad-label
-##.sidebar-product-ad
 ##.sidebar-skyscraper-ad
 ##.sidebar-sponsored
 ##.sidebar-sponsors
@@ -15601,7 +15577,6 @@ _800x80_
 ##.sidebar-text-ad
 ##.sidebar-top-ad
 ##.sidebar-tower-ad
-##.sidebar300adblock
 ##.sidebarAD
 ##.sidebarAd
 ##.sidebarAdBlock
@@ -15610,13 +15585,8 @@ _800x80_
 ##.sidebarAdUnit
 ##.sidebarAds300px
 ##.sidebarAdvert
-##.sidebarCloseAd
 ##.sidebarNewsletterAd
 ##.sidebar__ad
-##.sidebar__block--ad
-##.sidebar__block-advertisement
-##.sidebar__item-spacer--advert-top
-##.sidebar__module--ad
 ##.sidebar_ad
 ##.sidebar_ad_300
 ##.sidebar_ad_300_250
@@ -17319,7 +17289,6 @@ _800x80_
 ##.article-connatix-wrap
 ##.article-detail-ad
 ##.avp-p-wrapper
-##.card-captioned.crd > .crd--cnt > .s2nPlayer
 ##.ck-anyclips
 ##.ck-anyclips-article
 ##.exco-container

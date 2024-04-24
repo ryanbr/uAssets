@@ -19461,6 +19461,7 @@ browsershots.org#@#.advert_area
 ||adsrv.wtf^
 ||adstarget.net^
 ||adstargets.com^
+||adstean.com^
 ||adstico.io^
 ||adstook.com^
 ||adstracker.info^
@@ -35965,6 +35966,7 @@ browsershots.org#@#.advert_area
 ||jrtqaliyucgpaes.com^
 ||jrvrkzrbkqaoz.top^
 ||jrvrkzrbkqqob.top^
+||jrvrkzrbkqqqj.top^
 ||jryymvudjqlraa.com^
 ||js-check.com^
 ||js.j8jp.com^
@@ -46658,6 +46660,7 @@ browsershots.org#@#.advert_area
 ||rgbvgxfcp.xyz^
 ||rgbvncnqzlvwr.com^
 ||rgcxmzrmcvbxem.com^
+||rgddist.com^
 ||rgentssep.xyz^
 ||rgjlpgkzagf.com^
 ||rglxzqlqcp.com^
@@ -48060,6 +48063,7 @@ browsershots.org#@#.advert_area
 ||serversoursmiling.com^
 ||serverssignshigher.com^
 ||servetag.com^
+||servetean.site^
 ||servetraff.com^
 ||servg1.net^
 ||servicegetbook.net^
@@ -53869,6 +53873,7 @@ browsershots.org#@#.advert_area
 ||vptzqnjwguap.com^
 ||vpumfeghiall.com^
 ||vpwhhtpwhmd.com^
+||vpwyehsh.com^
 ||vqagwoaetsahu.com^
 ||vqcjmtorgexlxpg.xyz^
 ||vqcuzypju.com^
@@ -54566,6 +54571,7 @@ browsershots.org#@#.advert_area
 ||whistlingvowel.com^
 ||whiteaccompanypreach.com^
 ||whitenoisenews.com^
+||whitepark9.com^
 ||whittenchorded.com^
 ||whizduly.com^
 ||whizzerknucks.com^
@@ -58325,6 +58331,7 @@ browsershots.org#@#.advert_area
 ||4e68.xyz^$document,popup
 ||657475b7-0095-478d-90d4-96ce440604f9.online^$document,popup
 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site^$document,popup
+||7fc8.site^$document,popup
 ||8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online^$document,popup
 ||b211.xyz^$document,popup
 ||b59c.xyz^$document,popup
@@ -58672,6 +58679,7 @@ browsershots.org#@#.advert_area
 ||adspredictiv.com^$popup
 ||adspyglass.com^$popup
 ||adsrv4k.com^$popup
+||adstean.com^$popup
 ||adstracker.info^$popup
 ||adstreampro.com^$popup
 ||adsupply.com^$popup
@@ -59978,6 +59986,7 @@ browsershots.org#@#.advert_area
 ||haveflat.com^$popup
 ||havegrosho.com^$popup
 ||hazoopso.net^$popup
+||hbloveinfo.com^$popup
 ||hdcommunity.online^$popup
 ||headirtlseivi.org^$popup
 ||headlightgranulatedflee.com^$popup
@@ -61538,6 +61547,7 @@ browsershots.org#@#.advert_area
 ||servehub.info^$popup
 ||serverfritterdisability.com^$popup
 ||serversmatrixaggregation.com^$popup
+||servetean.site^$popup
 ||servicetechtracker.com^$popup
 ||serving-passthrough.com^$popup
 ||serving-sys.com^$popup
@@ -61719,6 +61729,7 @@ browsershots.org#@#.advert_area
 ||statsmobi.com^$popup
 ||statueofthe.info^$popup
 ||stawhoph.com^$popup
+||stemboastfulrattle.com^$popup
 ||stenadewy.pro^$popup
 ||sthoutte.com^$popup
 ||stickervillain.com^$popup
@@ -62365,6 +62376,7 @@ browsershots.org#@#.advert_area
 ||whistledprocessedsplit.com^$popup
 ||whistlingbeau.com^$popup
 ||whitenoisenews.com^$popup
+||whitepark9.com^$popup
 ||whodouth.net^$popup
 ||wholedailyjournal.com^$popup
 ||wholefreshposts.com^$popup

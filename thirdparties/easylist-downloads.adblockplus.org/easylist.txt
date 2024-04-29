@@ -24874,7 +24874,6 @@ browsershots.org#@#.advert_area
 ||clickgate08.biz^
 ||clickintext.com^
 ||clickiocdn.com^
-||clickmagick.com^
 ||clickmi.net^
 ||clickmobad.net^
 ||clicknano.com^
@@ -57571,6 +57570,7 @@ browsershots.org#@#.advert_area
 ||clickfuse.com^$third-party
 ||clickinc.com^$third-party
 ||clickintext.net^$third-party
+||clickmagick.com^$third-party
 ||clickmon.co.kr^$third-party
 ||clickoutcare.io^$third-party
 ||clickpoint.com^$third-party

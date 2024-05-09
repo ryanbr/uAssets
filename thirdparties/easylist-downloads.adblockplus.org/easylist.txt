@@ -9462,6 +9462,7 @@ _800x80_
 ##.ads-outer
 ##.ads-panel
 ##.ads-parent
+##.ads-pholder
 ##.ads-placeholder
 ##.ads-placeholder-inside
 ##.ads-placeholder-wrapper

@@ -142,7 +142,6 @@
 /?abt_opts=1&
 /?fp=*&poru=$subdocument
 /?view=ad
-/_adslot/*
 /_xa/ads?
 /_xa/ads_batch?
 /a-ads.$third-party
@@ -233,7 +232,6 @@
 /adcount.js
 /adcount.php
 /addons/ads.
-/addons/ads/*
 /addyn/3.0/*
 /addyn|*;adtech;
 /addyn|*|adtech;
@@ -329,7 +327,6 @@
 /ads/top-
 /ads/top.
 /ads/tso
-/ads/v2/*
 /ads/video/controller.php
 /ads/view.php
 /ads/xtcore.
@@ -350,9 +347,7 @@
 /ads?param=
 /ads?zone=
 /ads?zone_id=
-/ads_160_
 /ads_300.
-/ads_assets/*
 /ads_banners/*$image
 /ads_bg.
 /ads_bottom.js
@@ -437,7 +432,6 @@
 /advert8.
 /advert?
 /advertbanner.
-/advertising/banner_
 /advertising/banners/*$image
 /advertisingWebRenderer.min.js
 /advertisment-
@@ -450,7 +444,6 @@
 /advscript.js
 /advtBanner.
 /adx2.
-/adx_exo_
 /adz/js/adz.
 /adzones.js
 /aff-ads.
@@ -460,7 +453,6 @@
 /aff_banner/*$image
 /aff_banners/*$image
 /affad?
-/affads/*
 /affbanners/*$image
 /affiliate/ad/*$image
 /affiliate/ads/*$image
@@ -586,7 +578,6 @@
 /delivery/avw.php
 /delivery/fc.php
 /delivery/lg.php
-/delivery_ads/*
 /dfp.min.js$third-party
 /dfp_async.js
 /dfpNew.min.js
@@ -619,9 +610,8 @@
 /export/ltv_popup.php
 /exports/tour/*$third-party
 /exports/tour_20/*
-/extban/*/creatives/*
 /external/ad.
-/external/ads/*
+/external/ads/*$image
 /external_ad?
 /external_ads.
 /fel456.js$script
@@ -637,7 +627,6 @@
 /floatads.
 /floating-ad-
 /floatingad.js
-/FloatingAd_
 /floatingads.js
 /flyad.js
 /footer-ad-
@@ -646,11 +635,9 @@
 /footer_ad.php
 /footer_ads.php
 /footer_ads.png
-/footer_ads_
 /footerad.
 /footerads.
 /footerads/*
-/forum/ads/*
 /fro_lo.js
 /froloa.js
 /frontend_loader.js
@@ -684,7 +671,7 @@
 /ht.js?site_
 /image/ad/*$image
 /image/ads/*$image,domain=~edatop.com
-/image/affiliate/*
+/image/affiliate/*$image
 /image_ads/*
 /imageads/*$image
 /images-ad/*
@@ -764,8 +751,8 @@
 /module-ads-html-$script
 /module-ads/*
 /module/ads/*
-/modules/ad/*
-/modules/ads/*
+/modules/ad/*$~xmlhttprequest
+/modules/ads/*$~xmlhttprequest
 /MPUAdHelper.js
 /mydirtyhobby.$domain=~mydirtyhobby.com|~mydirtyhobby.de|~mydirtyhobby.to
 /mysimpleads/mysa_output.php
@@ -821,13 +808,13 @@
 /pioneersuspectedjury.com/*
 /pix/ads/*$image
 /pixel/puclc?
-/pixel/pure
+/pixel/pure$~xmlhttprequest
 /pixel/purs?
 /pixel/purst?
 /pixel/sbe?
 /placeholder-ad-
 /player/ads/*$~xmlhttprequest
-/plugin/ad/*
+/plugin/ad/*$script
 /plugins/ad-invalid-click-protector/*$script
 /plugins/adrotate-pro/*
 /plugins/adrotate/*$script
@@ -885,7 +872,7 @@
 /public/ad/*$image
 /public/ads/*$image
 /publicidad.$~object,~stylesheet
-/publicidad/*
+/publicidad/*$~xmlhttprequest
 /publicidad_$~stylesheet
 /publicidade.
 /publicidade/*$~xmlhttprequest
@@ -979,7 +966,7 @@
 /size=*/random=*/viewid=
 /skin-ad_
 /skin/ad/*$image,script
-/skin/adv/*
+/skin/adv/*$~xmlhttprequest
 /skin_ad-
 /skinad.
 /skyadright.
@@ -1001,14 +988,12 @@
 /sponsor-links.html
 /sponsorad.jpg
 /sponsorad.png
-/sponsorbanners/*
 /sponsored-links-
 /sponsored-links.
 /sponsored-links/*
 /sponsored-widget
 /sponsored_ad.
 /sponsored_link.
-/sponsored_links_
 /sponsored_text.
 /sponsoredlinks.
 /sponsoredlinks?
@@ -1062,11 +1047,10 @@
 /video_ad.
 /video_ad_
 /video_ads.
-/video_ads/*
 /video_slider3.js
 /videoad.$domain=~videoad.in
 /videoad/*$script
-/videoads/*
+/videoads/*$~xmlhttprequest
 /videojs.ads-
 /videojs.sda.js
 /view/ad/*$subdocument
@@ -1394,7 +1378,7 @@ _widget_ad.
 /prebid_v4.
 /prebidAdcall.
 /prebidLibrary.
-/prebidlink/*
+/prebidlink/*$script
 /prodprebidheader-
 /pubfig.min.js
 /tagman/*$domain=~abelssoft.de
@@ -65566,6 +65550,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||sponsors.vuejs.org^
 ||sportlemon24.com/img/301.jpg
 ||sportshub.to/player-source/images/banners/
+||spotify.com/ads/
 ||spox.com/daznpic/
 ||srilankamirror.com/images/banners/
 ||srware.net/iron/assets/img/av/
@@ -65629,6 +65614,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||tubeoffline.com/vpn2.php
 ||tubeoffline.com/vpnimg/
 ||turbobit.net/pus/
+||twitter.com/*/videoads/
 ||twt-assets.washtimes.com^$script,domain=washingtontimes.com
 ||ubuntugeek.com/images/ubuntu1.png
 ||uhdmovies.eu/axwinpop.js
@@ -67925,6 +67911,7 @@ slideshare.net##.StickyVerticalInterstitialAd_root__f7Qki
 coin360.com##.Sticky_Promo
 slant.co##.SummaryPage-LustreEmbed
 westword.com##.SurveyLinkSlideModal
+newser.com##.TaboolaP1P2
 dictionary.com##.TeixwVbjB8cchva8bDlg
 imgur.com##.Top300x600
 cnbc.com##.TopBanner-container
@@ -72066,6 +72053,7 @@ fctables.com##div[style^="background:#e3e3e3;position:fixed"]
 footybite.cc##div[style^="border: 2px solid "]
 pastebin.com##div[style^="color: #999; font-size: 12px; text-align: center;"]
 realpython.com##div[style^="display:block;position:relative;"]
+newser.com##div[style^="display:inline-block;width:728px;"]
 elitepvpers.com##div[style^="font-size:11px;"]
 add0n.com,crazygames.com##div[style^="height: 90px;"]
 apkdone.com,crazygames.com,english-hindi.net,livesoccertv.com,malaysiakini.com,sporticos.com##div[style^="height:250px"]

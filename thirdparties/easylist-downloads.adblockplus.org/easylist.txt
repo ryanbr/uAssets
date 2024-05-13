@@ -750,7 +750,7 @@
 /mod_pagepeel_banner/*$image,script
 /module-ads-html-$script
 /module-ads/*
-/module/ads/*
+/module/ads/*$~xmlhttprequest
 /modules/ad/*$~xmlhttprequest
 /modules/ads/*$~xmlhttprequest
 /MPUAdHelper.js
@@ -16232,6 +16232,7 @@ _800x80_
 ##a[href^="https://ak.hauchiwu.com/"]
 ##a[href^="https://ak.oalsauwy.net/"]
 ##a[href^="https://ak.psaltauw.net/"]
+##a[href^="https://auesk.cfd/"]
 ##a[href^="https://ausoafab.net/"]
 ##a[href^="https://aweptjmp.com/"]
 ##a[href^="https://awptjmp.com/"]
@@ -20688,6 +20689,7 @@ browsershots.org#@#.advert_area
 ||auditude.com^
 ||audmrk.com^
 ||audrault.xyz^
+||auesk.cfd^
 ||aufeeque.com^
 ||auficxqpyfgcd.xyz^
 ||auforau.com^
@@ -24861,6 +24863,7 @@ browsershots.org#@#.advert_area
 ||conquerleaseholderwiggle.com^
 ||conquestafloat.com^
 ||conquestdrawers.com^
+||conscienciaecompletude.com^
 ||consciousnessmost.com^
 ||consciousslice.com^
 ||consecutionwrigglesinge.com^
@@ -27230,6 +27233,7 @@ browsershots.org#@#.advert_area
 ||drctcldfffwr.com^
 ||dreadbreakupsomeone.com^
 ||dreadfullyclarifynails.com^
+||dreadfulprofitable.com^
 ||dreadluckdecidedly.com^
 ||dreadshavingmammal.com^
 ||dreambooknews.com^
@@ -32611,6 +32615,7 @@ browsershots.org#@#.advert_area
 ||helpfulrectifychiefly.com^
 ||helpingnauseous.com^
 ||helplessdanpavilion.com^
+||helseeftie.net^
 ||hemaglnkrvdcgxe.com^
 ||hembrandsteppe.com^
 ||hemhiveoccasion.com^
@@ -35218,6 +35223,7 @@ browsershots.org#@#.advert_area
 ||jmpmedia.club^
 ||jmqrogtmvfo.com^
 ||jmrnews.pro^
+||jmt7mbwce.com^
 ||jmtbmqchgpw.xyz^
 ||jmtbyiohpgugcsk.com^
 ||jmvscgd.com^
@@ -35374,6 +35380,7 @@ browsershots.org#@#.advert_area
 ||jqueryoi.com^
 ||jqueryserve.org^
 ||jqueryserver.com^
+||jquturir.com^
 ||jqwsldso.com^
 ||jrbbavbmwmleb.top^
 ||jrbbavbmwqwjl.top^
@@ -35383,6 +35390,7 @@ browsershots.org#@#.advert_area
 ||jrhsjmwtrwiam.com^
 ||jrilbcd.com^
 ||jrilkvjehrjlri.com^
+||jriravntivf.com^
 ||jrkbnvkrvamky.top^
 ||jrkkcssob.com^
 ||jrkkmpeqtlsawgf.com^
@@ -37034,6 +37042,7 @@ browsershots.org#@#.advert_area
 ||liningemigrant.com^
 ||liningreduction.com^
 ||link2thesafeplayer.click^
+||linkadvdirect.com^
 ||linkbuddies.com^
 ||linkchangesnow.com^
 ||linkedassassin.com^
@@ -37792,6 +37801,7 @@ browsershots.org#@#.advert_area
 ||m4clicks.com^
 ||m73lae5cpmgrv38.com^
 ||m8ppac2on0xy.com^
+||m9w6ldeg4.xyz^
 ||ma2gs3wne3gfej70osium.com^
 ||ma3ion.com^
 ||maaivkgdulv.com^
@@ -38042,6 +38052,7 @@ browsershots.org#@#.advert_area
 ||mapakrogngi.com^
 ||mapamnni.com^
 ||mapbovdpdy.com^
+||maper.info^
 ||maquiags.com^
 ||maraewid.com^
 ||marantaarmures.guru^
@@ -40509,6 +40520,7 @@ browsershots.org#@#.advert_area
 ||nrnma.com^
 ||nrqppdgnhaagjq.com^
 ||nrrdxyauavkdrc.com^
+||nrs6ffl9w.com^
 ||nrunmoldy.com^
 ||nrvbadypy.com^
 ||nryanocytqc.com^
@@ -48254,6 +48266,7 @@ browsershots.org#@#.advert_area
 ||skjwebmr.com^
 ||sklsnpqr.com^
 ||sknkwpvrkz.com^
+||skohssc.cfd^
 ||skolvortex.com^
 ||skuligpzifan.com^
 ||skulkspreppie.com^
@@ -54249,6 +54262,7 @@ browsershots.org#@#.advert_area
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whoptoorsaub.com^
 ||whorlysenior.top^
 ||whotchie.net^
 ||whotrundledthe.com^
@@ -55169,6 +55183,7 @@ browsershots.org#@#.advert_area
 ||xruolsogwsi.com^
 ||xsjc4smhbyjf.com^
 ||xskctff.com^
+||xsknvlmjvrdqo.com^
 ||xsqfyvsc.com^
 ||xsrs.com^
 ||xstreamsoftwar3x.com^
@@ -55647,6 +55662,7 @@ browsershots.org#@#.advert_area
 ||ytimm.com^
 ||ytlhsmwu.com^
 ||ytndjaefvan.xyz^
+||ytnkdhmtdubhk.com^
 ||ytoworkwi.org^
 ||ytqnzvqfsr.com^
 ||ytsa.net^
@@ -58656,6 +58672,7 @@ browsershots.org#@#.advert_area
 ||aucoudsa.net^$popup
 ||audiblereflectionsenterprising.com^$popup
 ||audienceravagephotocopy.com^$popup
+||auesk.cfd^$popup
 ||auforau.com^$popup
 ||augailou.com^$popup
 ||augu3yhd485st.com^$popup
@@ -60221,6 +60238,7 @@ browsershots.org#@#.advert_area
 ||limitationvolleyballdejected.com^$popup
 ||limoners.com^$popup
 ||liningemigrant.com^$popup
+||linkadvdirect.com^$popup
 ||linkboss.shop^$popup
 ||linkchangesnow.com^$popup
 ||linkmepu.com^$popup
@@ -60304,6 +60322,7 @@ browsershots.org#@#.advert_area
 ||lylydevelope.com^$popup
 ||lywasnothycanty.info^$popup
 ||m73lae5cpmgrv38.com^$popup
+||m9w6ldeg4.xyz^$popup
 ||ma3ion.com^$popup
 ||macan-native.com^$popup
 ||maddenbusy.com^$popup
@@ -60328,6 +60347,7 @@ browsershots.org#@#.advert_area
 ||manicurereprimand.com^$popup
 ||mannehill.com^$popup
 ||maomaotang.com^$popup
+||maper.info^$popup
 ||maquiags.com^$popup
 ||marenfu11.cn^$popup
 ||marepuffy.com^$popup
@@ -61423,6 +61443,7 @@ browsershots.org#@#.advert_area
 ||sitpactrip.live^$popup
 ||sixft-apart.com^$popup
 ||skiptheadz.net^$popup
+||skohssc.cfd^$popup
 ||skouns.club^$popup
 ||skymobi.agency^$popup
 ||slakyroeneng.top^$popup

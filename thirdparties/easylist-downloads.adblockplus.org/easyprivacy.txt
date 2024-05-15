@@ -6354,6 +6354,7 @@ omni.soundestlink.com$image
 ||charmingcough.com^
 ||charmingplate.com^
 ||cheerfulrange.com^
+||cheerycraze.com^
 ||chemicalcoach.com^
 ||chemicalsnake.com^
 ||cherriescare.com^
@@ -6676,6 +6677,7 @@ omni.soundestlink.com$image
 ||familiarrod.com^
 ||famousquarter.com^
 ||fancyactivity.com^
+||fancydune.com^
 ||fangfeeling.com^
 ||fantasticsmash.com^
 ||farethief.com^
@@ -6935,6 +6937,7 @@ omni.soundestlink.com$image
 ||jamexistence.com^
 ||jimny.pro^
 ||joblessdrum.com^
+||jollylens.com^
 ||joyfulkeen.com^
 ||joyoussurprise.com^
 ||jubilantcanyon.com^

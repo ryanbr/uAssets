@@ -6230,6 +6230,7 @@ omni.soundestlink.com$image
 ||begintrain.com^
 ||beneficialbeef.com^
 ||benthose.com^
+||bespokesandals.com^
 ||bestboundary.com^
 ||bewilderedbattle.com^
 ||bewilderedblade.com^
@@ -6619,6 +6620,7 @@ omni.soundestlink.com$image
 ||enchantedtop.com^
 ||enchantingbear.com^
 ||enchantingenchantment.com^
+||enchantingtundra.com^
 ||enchantingvalley.com^
 ||encourageidea.com^
 ||encourageshock.com^
@@ -6910,6 +6912,7 @@ omni.soundestlink.com$image
 ||impossiblemove.com^
 ||impulsehands.com^
 ||impulsejewel.com^
+||impulselumber.com^
 ||incompetentjoke.com^
 ||inconclusiveaction.com^
 ||infamousstream.com^
@@ -6936,6 +6939,7 @@ omni.soundestlink.com$image
 ||j93557g.com^
 ||jadedjoke.com^
 ||jadeitite.com^
+||jaderooster.com^
 ||jailbulb.com^
 ||jamexistence.com^
 ||jimny.pro^
@@ -7421,6 +7425,7 @@ omni.soundestlink.com$image
 ||scarcecard.com^
 ||scarceshock.com^
 ||scarcesign.com^
+||scarcestructure.com^
 ||scarcesurprise.com^
 ||scarecrowslip.com^
 ||scarecrowslope.com^
@@ -7596,6 +7601,7 @@ omni.soundestlink.com$image
 ||soundstocking.com^
 ||sowlettuce.com^
 ||spadelocket.com^
+||sparkgoal.com^
 ||sparklesleet.com^
 ||sparklingnumber.com^
 ||sparklingshelf.com^
@@ -7650,6 +7656,7 @@ omni.soundestlink.com$image
 ||standingnest.com^
 ||standingsack.com^
 ||standtrouble.com^
+||startingcars.com^
 ||stat.pet^
 ||statementsweater.com^
 ||statuesquebrush.com^
@@ -7899,6 +7906,7 @@ omni.soundestlink.com$image
 ||venomousvessel.com^
 ||venusgloria.com^
 ||verdantanswer.com^
+||verdantsculpture.com^
 ||verifyvegetable.com^
 ||verseballs.com^
 ||vibranthaven.com^
@@ -7974,6 +7982,7 @@ omni.soundestlink.com$image
 ||zephyrcatalyst.com^
 ||zephyrlabyrinth.com^
 ||zestycrime.com^
+||zestyhorizon.com^
 ||zestywire.com^
 ||zipperxray.com^
 ||zippywind.com^

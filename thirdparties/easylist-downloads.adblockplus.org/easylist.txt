@@ -66343,9 +66343,10 @@ uinterview.com###above-content
 slideshare.net###above-recs-desktop-ad-sm
 jezebel.com,pastemagazine.com###above_logo
 peacemakeronline.com###above_top_banner
-ftw.usatoday.com,mmajunkie.usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium
-ftw.usatoday.com,mmajunkie.usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium_after_share
+usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium
+usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium_after_share
 nextdoor.com,sptfy.be###ad
+touchdownwire.usatoday.com###ad--home-well-wrapper
 lasvegassun.com###ad-colB-
 retrostic.com,sickchirpse.com,thetimes.co.uk###ad-header
 livescore.com###ad-holder-gad-news-article-item
@@ -67290,7 +67291,7 @@ returnyoutubedislike.com###top-donors
 breakingdefense.com###top-header
 openspeedtest.com###top-lb
 capetownmagazine.com###top-leader-wrapper
-austinchronicle.com,carmag.co.za,thegazette.com,vodacomsoccer.com###top-leaderboard
+austinchronicle.com,carmag.co.za,shawlocal.com,thegazette.com,vodacomsoccer.com###top-leaderboard
 gogetaroomie.com###top-space
 progameguides.com###top-sticky-sidebar-container
 gamepur.com###top-sticky-sidebar-wrapper
@@ -67360,6 +67361,7 @@ walterfootball.com###wf_brow_box
 sportscardforum.com###wgo_affiliates
 itnews.com.au###whitepapers-container
 tribunnews.com###wideskyscraper
+shawlocal.com###widget-html-box-ownlocal
 watnopaarpunjabinews.com###widget_sp_image-2
 conversanttraveller.com###widget_sp_image-28
 watnopaarpunjabinews.com###widget_sp_image-3
@@ -67620,6 +67622,8 @@ convertingcolors.com,slickdeals.net,whitecoatinvestor.com##.abc
 britannica.com,merriam-webster.com##.abl
 imgbb.com##.abnr
 rankedboost.com##.above-article-section
+oilcity.news##.above-footer-widgets
+hollywoodreporter.com##.above-header-ad
 creativeuncut.com##.abox-s_i
 creativeuncut.com##.abox-s_i2
 roblox.com##.abp
@@ -68017,6 +68021,7 @@ phillyvoice.com##.article-sponsor-sticky
 thelocal.com,thelocal.dk,thelocal.se##.article-sponsored
 people.com##.articleContainer__rail
 audizine.com##.articleIMG
+accessonline.com##.article__content__desktop_banner
 financemagnates.com##.article__mpu-banner
 empireonline.com##.article_adContainer--filled__vtAYe
 pianu.com##.article_add
@@ -69204,6 +69209,7 @@ indianexpress.com##.ie-int-campign-ad
 fifetoday.co.uk##.iehxDO
 guides.gamepressure.com##.if-no-baner
 techmeme.com##.ifsp
+coingape.com##.image-ads
 instacart.com##.image-banner-a-9l2sjs
 instacart.com##.image-banner-a-ak0wn
 flicksmore.com##.image_auto
@@ -69778,6 +69784,7 @@ thehackernews.com##.okayjon
 forums.somethingawful.com##.oma_pal
 etonline.com##.omni-skybox-plus-stick-placeholder
 oneindia.com##.one-ad
+techspot.com##.onejob
 gameworldobserver.com##.only_link_area
 decrypt.co##.opacity-75
 lowtoxlife.com##.openpay-footer
@@ -70565,6 +70572,7 @@ ghpage.com##.td-a-ad
 antiguanewsroom.com,aptoslife.com,aviacionline.com,bohemian.com,carnewschina.com,constructionreviewonline.com,corvetteblogger.com,cyberparse.co.uk,darkhorizons.com,eastbayexpress.com,eindhovennews.com,ericpetersautos.com,fenuxe.com,gameplayinside.com,gamezone.com,ghpage.com,gilroydispatch.com,gizmochina.com,goodtimes.sc,goonhammer.com,greekreporter.com,greenfieldnews.com,healdsburgtribune.com,indianapolisrecorder.com,industryhit.com,jewishpress.com,kenyan-post.com,kingcityrustler.com,lankanewsweb.net,maltabusinessweekly.com,metrosiliconvalley.com,morganhilltimes.com,musictech.net,mycariboonow.com,nasilemaktech.com,newsnext.live,newstalkflorida.com,nme.com,pacificsun.com,pajaronian.com,pakobserver.net,pipanews.com,pressbanner.com,radioink.com,runnerstribe.com,salinasvalleytribune.com,sanbenito.com,scrolla.africa,sonorannews.com,telugubullet.com,theindependent.co.zw,unlockboot.com,wrestling-online.com,zycrypto.com##.td-a-rec
 zycrypto.com##.td-a-rec-id-content_bottom
 zycrypto.com##.td-a-rec-id-custom_ad_2
+thediplomat.com##.td-ad-container--labeled
 unlockboot.com##.td-ads-home
 techgenyz.com##.td-adspot-title
 bizasialive.com##.td-all-devices
@@ -70777,6 +70785,7 @@ tetris.com##.vAxContainer-R
 zillow.com##.vPTHT
 osuskins.net##.vad-container
 lasvegassun.com##.varWrapper
+tech.co##.vc_col-sm-4
 salaamedia.com##.vc_custom_1527667859885
 salaamedia.com##.vc_custom_1527841947209
 businessday.ng##.vc_custom_1627979893469

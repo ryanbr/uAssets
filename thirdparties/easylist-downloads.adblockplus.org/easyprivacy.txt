@@ -3922,6 +3922,7 @@ omni.soundestlink.com$image
 ||conversionlogic.net^$third-party
 ||conversionly.com^$third-party
 ||conversionruler.com^$third-party
+||convertagain.net^$third-party
 ||convertcart.com^$third-party
 ||convertexperiments.com^$third-party
 ||convertglobal.com^$third-party
@@ -10359,6 +10360,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lit.connatix.com^
 ||literally-analytics.appspot.com^
 ||live-partner.com/tags?
+||live-tv.top/js/k.min.js
 ||live.mrf.io/statics/marfeel/gardac-sync.js
 ||live2support.com^*/js_lstrk.
 ||livechatinc.com^*/control.cgi?
@@ -10799,7 +10801,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qzzr.com/_uid.gif
 ||r.mail.ru^$script
 ||r.skimresources.com^
-||r.stripe.com^$script
+||r.stripe.com^$script,xmlhttprequest
 ||rackcdn.com/gate.js
 ||rackcdn.com/stf.js
 ||radiotime.com/Report.ashx?

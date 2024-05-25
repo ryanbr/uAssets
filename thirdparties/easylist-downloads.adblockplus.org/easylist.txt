@@ -9456,6 +9456,7 @@ _800x80_
 ##.ads_middle
 ##.ads_middle-container
 ##.ads_middle_container
+##.ads_mobile_vert
 ##.ads_mpu
 ##.ads_outer
 ##.ads_outline
@@ -17272,6 +17273,7 @@ browsershots.org#@#.advert_area
 ||a-waiting.com^
 ||a00s.net^
 ||a06bbd98194c252.com^
+||a11d3c1b4d.com^
 ||a11k.com^
 ||a14net.com^
 ||a14refresh.com^
@@ -17462,6 +17464,7 @@ browsershots.org#@#.advert_area
 ||abpicsrc.com^
 ||abpjs23.com^
 ||abqmfewisf.com^
+||abqnupogcwhi.com^
 ||abrasivematch.com^
 ||abrhydona.com^
 ||abridebouch.com^
@@ -19650,6 +19653,7 @@ browsershots.org#@#.advert_area
 ||artisticcount.pro^
 ||artistictastesnly.info^
 ||artistperhapscomfort.com^
+||artistspipe.top^
 ||artlessdeprivationunfriendly.com^
 ||artlessdevote.com^
 ||artonsbewasand.com^
@@ -20295,6 +20299,7 @@ browsershots.org#@#.advert_area
 ||azjmp.com^
 ||azkcqs.com^
 ||azkwwrerlejqv.top^
+||azlmizbvgjfe.com^
 ||azmjosvecyye.com^
 ||azmsmufimw.com^
 ||aznapoz.info^
@@ -22625,6 +22630,7 @@ browsershots.org#@#.advert_area
 ||caperedlevi.com^
 ||capetumbledcrag.com^
 ||caphaiks.com^
+||caphrizing.com^
 ||capitalistblotbits.com^
 ||capitalistlukewarmdot.com^
 ||capletstyldia.com^
@@ -24062,6 +24068,7 @@ browsershots.org#@#.advert_area
 ||compositereconnectadmiral.com^
 ||composureenfold.com^
 ||comprehendpaying.com^
+||comprehensive3x.fun^
 ||comprehensiveunconsciousblast.com^
 ||compresshumpenvious.com^
 ||compresssavvydetected.com^
@@ -25731,6 +25738,7 @@ browsershots.org#@#.advert_area
 ||dfuaqw.com^
 ||dfvlaoi.com^
 ||dgafgadsgkjg.top^
+||dgamapxs.com^
 ||dggwqknub.com^
 ||dgjyqdkxmxq.com^
 ||dgkajwnbrazepe.com^
@@ -26191,6 +26199,7 @@ browsershots.org#@#.advert_area
 ||dkrely.com^
 ||dkrqyly.com^
 ||dkrxtdnlg.com^
+||dkuekrwiwr.com^
 ||dl-rms.com^
 ||dlazblsihdoi.com^
 ||dle-news.xyz^
@@ -27172,6 +27181,7 @@ browsershots.org#@#.advert_area
 ||edwate.com^
 ||edwfdhkgnx.com^
 ||edxfquupejhbrey.com^
+||edzuahkymbureo.com^
 ||edzwmobmj.com^
 ||ee625e4b1d.com^
 ||ee6a35c1eeee.com^
@@ -33359,6 +33369,7 @@ browsershots.org#@#.advert_area
 ||inaneamenvote.com^
 ||inanityacromia.life^
 ||inanitystorken.com^
+||inappropriate2.fun^
 ||inappropriateoutdoorsconfiguration.com^
 ||inareputaonforha.com^
 ||inasmedia.com^
@@ -35710,6 +35721,7 @@ browsershots.org#@#.advert_area
 ||kxhbyjljkmyp.xyz^
 ||kxhmyeedwkbgrh.xyz^
 ||kxkqqycs.xyz^
+||kxkqxdgp.com^
 ||kxnaaxml.com^
 ||kxnggkh2nj.com^
 ||kxowmbwprnck.com^
@@ -39797,6 +39809,7 @@ browsershots.org#@#.advert_area
 ||notionfoggy.com^
 ||notionsshrivelcustomer.com^
 ||notionstayed.com^
+||notjdyincro.com^
 ||notonthebedsheets.com^
 ||notorietycheerypositively.com^
 ||notorietynoblemanproposition.com^
@@ -44763,6 +44776,7 @@ browsershots.org#@#.advert_area
 ||rapidshookdecide.com^
 ||rapingdistil.com^
 ||rapolok.com^
+||rappjsps.com^
 ||raptapee.com^
 ||raptingy.net^
 ||raptorserrano.com^
@@ -46084,6 +46098,7 @@ browsershots.org#@#.advert_area
 ||rriodxsmyjk.com^
 ||rrjnjnioxfbqaj.com^
 ||rrmlejvyqebk.top^
+||rrnhilainbjii.com^
 ||rrobbybvvbybj.top^
 ||rrolqae.com^
 ||rronsep.com^
@@ -48991,6 +49006,7 @@ browsershots.org#@#.advert_area
 ||suchbasementdarn.com^
 ||suchcesusar.org^
 ||suchroused.com^
+||suckae.xyz^
 ||suckfaintlybooking.com^
 ||sucocesisfulylyde.info^
 ||sucter.com^
@@ -53320,6 +53336,7 @@ browsershots.org#@#.advert_area
 ||wcjiaclw.com^
 ||wcltbpbnlf.com^
 ||wcmcs.net^
+||wcnhhqqueu.com^
 ||wcnndaazbwmane.com^
 ||wcqtgwsxur.xyz^
 ||wct.link^
@@ -55391,6 +55408,7 @@ browsershots.org#@#.advert_area
 ||zizoxozoox.com^
 ||zizulw.org^
 ||zjbzzmnnkbjzy.top^
+||zjhebfwr.com^
 ||zjlbugpawe.com^
 ||zjmmkjayjjazy.top^
 ||zjo0tjqpm1.com^
@@ -63023,6 +63041,7 @@ browsershots.org#@#.advert_area
 ||t.co^$subdocument,domain=kshow123.tv
 ||taboola.com/vpaid/
 ||tag.regieci.com^
+||tags.profitsence.com^
 ||takefile.link/promo/$third-party
 ||targeting.vdo.ai^
 ||tcadserver.rain-digital.ca^
@@ -63136,6 +63155,7 @@ browsershots.org#@#.advert_area
 ||d11tybz5ul8vel.cloudfront.net^
 ||d11zevc9a5598r.cloudfront.net^
 ||d126kahie2ogx0.cloudfront.net^
+||d127s3e8wcl3q6.cloudfront.net^
 ||d12czbu0tltgqq.cloudfront.net^
 ||d12dky1jzngacn.cloudfront.net^
 ||d12t7h1bsbq1cs.cloudfront.net^
@@ -64801,7 +64821,6 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||idrive.com/include/images/idrive-120240.png
 ||ientent.stre4mplay.one^
 ||ientent.streampiay.fun^
-||igg-games.com/maven/
 ||ih1.fileforums.com^
 ||ii.apl305.me/js/pop.js
 ||illicium.web.money^$subdocument
@@ -67802,6 +67821,7 @@ groovyhistory.com,lifebuzz.com,toocool2betrue.com,videogameschronicle.com##.adwr
 animesuge.to,aniwave.to##.adx
 mail.google.com##.aeF > .nH > .nH[role="main"] > .aKB
 revolver.news##.af-slim-promo
+promocodie.com##.afc-container
 real-fix.com##.afc_popup
 fandom.com##.aff-unit__wrapper
 f1i.com##.affiche
@@ -67812,6 +67832,7 @@ thebeet.com##.affiliate-disclaimer
 express.co.uk##.affiliate-widget
 usatoday.com##.affiliate-widget-wrapper
 topsmerch.com##.affix-placeholder
+promocodie.com##.afs-wrapper
 domainnamewire.com##.after-header
 insidemydream.com##.afxshop
 venea.net##.ag_banner

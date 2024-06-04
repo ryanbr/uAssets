@@ -69283,6 +69283,7 @@ finextra.com##.section--minitextad
 finextra.com##.section--mpu
 sowetanlive.co.za##.section-article-sponsored
 nzherald.co.nz##.section-iframe
+lawinsider.com##.section-inline-partner-ad
 tvarticles.me##.section-post-about
 pipeflare.io##.section-promo-banner
 thesun.co.uk##.section-sponsorship-wrapper-article
@@ -69463,6 +69464,7 @@ cssbattle.dev##.sponsor-container
 dallasinnovates.com##.sponsor-footer
 jquery.com##.sponsor-line
 newsroom.co.nz##.sponsor-logos2
+fimfiction.net##.sponsor-reminder
 compellingtruth.org##.sponsor-sidebar
 cricketireland.ie##.sponsor-strip
 arizonasports.com,ktar.com##.sponsorBy

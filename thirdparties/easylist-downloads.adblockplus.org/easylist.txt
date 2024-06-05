@@ -21791,6 +21791,7 @@ browsershots.org#@#.advert_area
 ||buggerygruffed.com^
 ||bugits.com^
 ||bugleczmoidgxo.com^
+||buglesembarge.top^
 ||bugraubs.com^
 ||bugs2022.com^
 ||bugsattended.com^
@@ -22826,6 +22827,7 @@ browsershots.org#@#.advert_area
 ||chimneylouderflank.com^
 ||china-netwave.com^
 ||chinagranddad.com^
+||chinaslauras.com^
 ||chineegibbet.com^
 ||chinemcg.website^
 ||chinoismoras.com^
@@ -24158,6 +24160,7 @@ browsershots.org#@#.advert_area
 ||credibilityyowl.com^
 ||creditbitesize.com^
 ||creditorapido.xyz^
+||credotrigona.com^
 ||credulityicicle.com^
 ||creedoverwork.com^
 ||creeguilds.com^
@@ -28457,6 +28460,7 @@ browsershots.org#@#.advert_area
 ||findslofty.com^
 ||findswiftresults.com^
 ||fine-wealth.pro^
+||finedbawrel.com^
 ||finedintersection.com^
 ||finednothue.com^
 ||fineporno.com^
@@ -38278,6 +38282,7 @@ browsershots.org#@#.advert_area
 ||naneducate.com^
 ||nanesbewail.com^
 ||nanfleshturtle.com^
+||nangalupeose.com^
 ||nangelsaidthe.info^
 ||nangkasec.com^
 ||nanhermione.com^
@@ -39386,6 +39391,7 @@ browsershots.org#@#.advert_area
 ||oasazedy.com^
 ||oasishonestydemented.com^
 ||oasqrthubiub.com^
+||oastoamox.com^
 ||oataltaul.com^
 ||oatbcxnhacfjnc.com^
 ||oatchelt.com^
@@ -42750,6 +42756,7 @@ browsershots.org#@#.advert_area
 ||prosecutorcommaeligible.com^
 ||prosecutorkettle.com^
 ||prosedisavow.com^
+||proselyaltars.com^
 ||proseoverlook.com^
 ||prositzapas.com^
 ||prosocrawm.com^
@@ -46134,6 +46141,7 @@ browsershots.org#@#.advert_area
 ||separationharmgreatest.com^
 ||separationheadlight.com^
 ||separationreverttap.com^
+||sepianshap.com^
 ||sepstough.com^
 ||septemberautomobile.com^
 ||septfd2em64eber.com^
@@ -50389,6 +50397,7 @@ browsershots.org#@#.advert_area
 ||typicalsecuritydevice.com^
 ||typiccor.com^
 ||typiconrices.com^
+||typojesuit.com^
 ||typsxumcsjw.com^
 ||tyqptghilt.com^
 ||tyract.com^
@@ -70856,6 +70865,7 @@ groupon.com##figure[data-clickurl^="https://api.groupon.com/sponsored/"]
 imgburn.com##font[face="Arial"][size="1"]
 realitytvworld.com##font[size="1"][color="gray"]
 dailydot.com##footer
+geoguessr.com##footer[class^="ad_wrapper_"]
 law.com,topcultured.com##h3
 kazwire.com##h3.tracking-widest
 drive.com.au##hr

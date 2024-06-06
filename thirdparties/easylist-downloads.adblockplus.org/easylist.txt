@@ -22965,6 +22965,7 @@ browsershots.org#@#.advert_area
 ||cifqfyafsolzb.com^
 ||cigaretteintervals.com^
 ||cigarettenotablymaker.com^
+||ciizxsdr.com^
 ||ciksolre.net^
 ||ciliarycetus.com^
 ||cilvhypjiv.xyz^
@@ -26517,6 +26518,7 @@ browsershots.org#@#.advert_area
 ||eaxhsjrlq.com^
 ||eayeewlvmeqel.top^
 ||eazyleads.com^
+||eb36c9bf12.com^
 ||eb5232b35d.com^
 ||ebannertraffic.com^
 ||ebb174824f.com^
@@ -31339,6 +31341,7 @@ browsershots.org#@#.advert_area
 ||heftygift.pro^
 ||hegazedatthe.info^
 ||hehighursoo.com^
+||hehnpryefuq.com^
 ||heiressplane.com^
 ||heiressscore.com^
 ||heiresstolerance.com^
@@ -54570,6 +54573,7 @@ browsershots.org#@#.advert_area
 ||zpcfnzjq.com^
 ||zpdnisvzedgbw.com^
 ||zpgetworker11.com^
+||zphgadwnjro.com^
 ||zpreland.com^
 ||zprelandappslab.com^
 ||zprelanding.com^
@@ -73388,6 +73392,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||kincho.co.jp/cm/img/bnr_ad_$image,~third-party
 @@||ladsp.com/script-sf/$script,domain=str.toyokeizai.net
 @@||live.lequipe.fr/thirdparty/prebid.js$~third-party
+@@||lostpod.space/static/streaming-playlists/$xhr,domain=videos.john-livingston.fr
 @@||mail.bg/mail/index/getads/$xmlhttprequest
 @@||microapp.bytedance.com/docs/page-data/$~third-party
 @@||minigame.aeriagames.jp/*/ae-tpgs-$~third-party

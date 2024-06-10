@@ -66564,6 +66564,7 @@ thingiverse.com##.AdBanner__adBanner--GpB5d
 surfline.com##.AdBlock_modal__QwIcG
 jagranjosh.com##.AdCont
 topgear.com##.AdContainer-sc-cy9ye3-4
+tvnz.co.nz##.AdOnPause
 racingamerica.com##.AdPlacement
 petfinder.com##.AdUnitParagraph-module--adunitContainer--2b7a6
 therealdeal.com##.AdUnit_adUnitCenter__FKOWE
@@ -67572,6 +67573,7 @@ stuff.tv##.c-ad--leftpageskin
 stuff.tv##.c-ad--mpu-bottom
 stuff.tv##.c-ad--mpu-top
 stuff.tv##.c-ad--rightpageskin
+theglobeandmail.com##.c-ad-sticky
 globalnews.ca##.c-adChoices
 zdnet.com##.c-adDisplay_container_incontent-all-top
 legit.ng,tuko.co.ke##.c-adv

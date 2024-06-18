@@ -16780,6 +16780,7 @@ browsershots.org#@#.advert_area
 ||76a7doiet256.com^
 ||76f74721ab.com^
 ||771703f2e9.com^
+||7757139f7b.com^
 ||775cf6f1ae.com^
 ||776173f9e6.com^
 ||777seo.com^
@@ -33257,6 +33258,7 @@ browsershots.org#@#.advert_area
 ||inventoryproducedjustice.com^
 ||invertangareb.top^
 ||investcoma.com^
+||investigationsuperbprone.com^
 ||investmentstar.org^
 ||investorequalityfrog.com^
 ||invibravaa.com^
@@ -38513,6 +38515,7 @@ browsershots.org#@#.advert_area
 ||ncpnth.xyz^
 ||ncpvxltfbsrcavo.com^
 ||ncpxhrurirscgsd.com^
+||ncubadmavfp.com^
 ||ncukankingwith.info^
 ||ncukgqjfaxjv.com^
 ||ncwabgl.com^
@@ -39150,6 +39153,7 @@ browsershots.org#@#.advert_area
 ||nougacoush.com^
 ||noughtefface.com^
 ||noughttrustthreshold.com^
+||noukotumorn.com^
 ||noumohur.com^
 ||nounaswarm.com^
 ||nounooch.com^
@@ -40760,6 +40764,7 @@ browsershots.org#@#.advert_area
 ||owlsalqrarab.com^
 ||owlunimmvn.com^
 ||owndata.network^
+||ownzzohggdfb.com^
 ||owoxauky.com^
 ||owqrtaodb.com^
 ||owrddzml.com^
@@ -58838,6 +58843,7 @@ browsershots.org#@#.advert_area
 ||inumbreonr.com^$popup
 ||invaderannihilationperky.com^$popup
 ||investcoma.com^$popup
+||investigationsuperbprone.com^$popup
 ||investing-globe.com^$popup
 ||inyoketuber.com^$popup
 ||iociley.com^$popup
@@ -71295,6 +71301,7 @@ autotrader.com##.col-xs-12.col-sm-4:has([data-cmp="inventorySpotlightListing"])
 costco.com##.col-xs-12:has([data-bi-placement^="Criteo_Product_Display"])
 corrosionhour.com##.corro-widget
 infinitestart.com##.cs-sidebar__inner > .widget:has(> ins.adsbygoogle)
+alphacoders.com##.css-grid-content:has(> .in-thumb-ad-css-grid)
 dollargeneral.com##.dg-product-card:has(.dg-product-card__sponsored[style="display: block;"])
 limetorrents.lol##.downloadareabig:has([title^="Anâ€Œonâ€Œymous Download"])
 tripsonabbeyroad.com##.e-con-inner:has(tp-cascoon)

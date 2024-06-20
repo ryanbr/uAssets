@@ -63985,6 +63985,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||aontent.powzers.lol^
 ||api.mumuglobal.com^
 ||apkmody.io/ads
+||arbiscan.io/images/gen/*_StylusBlitz_Arbiscan_Ad.png
 ||armyrecognition.com/images/stories/customer/
 ||artdaily.cc/banners/
 ||asgg.ghostbin.me^
@@ -64670,7 +64671,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||playwire.com/bolt/js/$script,third-party
 ||poptok.com^$third-party
 ||rumble.com^$domain=tiphero.com
-||sonar.viously.com^$domain=~aufeminin.com|~melty.fr
+||sonar.viously.com^$domain=~aufeminin.com|~melty.fr|~nextplz.fr
 ||sportrecs.com/redirect/embed/
 ||startpage.com/sp/PsVHP/
 ||tldw.me^$third-party
@@ -66244,6 +66245,7 @@ proprivacy.com###main-popup
 w3big.com,w3schools.com###mainLeaderboard
 planefinder.net###map-ad-container
 themeforest.net###market-banner
+citynews.ca###master-leaderboard
 defenseworld.net###mb-bar
 koreaherald.com###mbpAd022303
 active.com###med_rec_bottom
@@ -67018,7 +67020,7 @@ mobilesyrup.com##.ad-goes-here
 andscape.com##.ad-incontent-wrapper
 dailyuptea.com##.ad-info
 downloads.digitaltrends.com##.ad-kargo
-toronto.citynews.ca##.ad-load
+citynews.ca##.ad-load
 mariopartylegacy.com##.ad-long
 olympics.com##.ad-margin-big
 pixiv.net##.ad-mobile-anchor
@@ -67225,7 +67227,7 @@ cooking.nytimes.com##.adunit_ad-unit__IhpkS
 ip-address.org##.aduns
 ip-address.org##.aduns2
 ip-address.org##.aduns6
-ansamed.info,baltic-course.com,futbol24.com,gatewaynews.co.za,gsmarena.com,idealista.com,jetphotos.com,karger.com,mangaku.vip,maritimejobs.com,newagebd.net,prohaircut.com,railcolornews.com,titter.com,zbani.com##.adv
+ansamed.info,baltic-course.com,futbol24.com,gatewaynews.co.za,gsmarena.com,gulfnews.com,idealista.com,jetphotos.com,karger.com,mangaku.vip,maritimejobs.com,newagebd.net,prohaircut.com,railcolornews.com,titter.com,zbani.com##.adv
 blastingnews.com##.adv-box-content
 healthleadersmedia.com##.adv-con
 junauza.com##.adv-hd
@@ -68017,6 +68019,7 @@ fastpic.ru,freesteam.io##.d-lg-block
 calendar-canada.ca,osgamers.com##.d-md-block
 thestreamable.com##.d-md-flex
 publish0x.com##.d-md-none.text-center
+arbiscan.io##.d-none.text-center.pl-lg-4.pl-xll-5
 cutyt.com,onlineocr.net,publish0x.com##.d-xl-block
 artsy.net##.dDusYa
 yourstory.com##.dJEWSq
@@ -68435,6 +68438,7 @@ posemaniacs.com##.h-\[250px\]
 emojipedia.org##.h-\[282px\]
 businessinsider.in##.h-\[300px\]
 emojipedia.org##.h-\[312px\]
+supercarblondie.com##.h-\[660px\]
 thenewdaily.com.au##.h-home-ad-height-stop
 buzzly.art##.h-min.overflow-hidden
 target.com##.h-position-fixed-bottom
@@ -70275,6 +70279,7 @@ northernvirginiamag.com##.website-header__ad--leaderboard
 probuilds.net##.welcome-bnr
 taskcoach.org##.well
 gearlive.com##.wellvert
+pcguide.com##.wepc-takeover
 cpu-monkey.com,cpu-panda.com,gpu-monkey.com##.werb
 best-faucets.com,transfermarkt.co.uk,transfermarkt.com##.werbung
 transfermarkt.co.uk##.werbung-skyscraper
@@ -70662,6 +70667,7 @@ wakingtimes.com##[href^="https://www.wendymyersdetox.com/"]
 cars.com##[id$="-sponsored"]
 homedepot.com##[id*="sponsored"]
 producebluebook.com##[id^="BBS"]
+imgur.com##[id^="Col-Child-Imgur"][style$="min-height: 250px;"]
 ldoceonline.com##[id^="ad_contentslot"]
 bestbuy.ca,bestbuy.com##[id^="atwb-ninja-carousel"]
 beforeitsnews.com##[id^="banners_"]
@@ -71299,7 +71305,6 @@ gtaforums.com###ipsLayout_mainArea div:has(> #pwDeskLbAtf)
 aleteia.org###root > div[class]:has(> .adslot)
 bbc.com###sticky-mpu:has(.dotcom-ad-inner)
 kroger.com##.AutoGrid-cell:has(.ProductCard-tags > div > span[data-qa="featured-product-tag"])
-imgur.com##.FastGrid div[id^="Col-Child-Imgur"]:has(.AdHomeContainer)
 nationalgeographic.com##.FrameBackgroundFull--grey:has(.ad-wrapper)
 luxa.org##.MuiContainer-root:has(> ins.adsbygoogle)
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##.Ssfiu-:has([data-testid="popoverTriggersponsoredLabel"])

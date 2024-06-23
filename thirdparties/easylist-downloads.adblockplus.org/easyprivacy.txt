@@ -3257,6 +3257,7 @@ omni.soundestlink.com$image
 ||lsdm.co^
 ||lyfnh.io^
 ||maggieeatstheangel.com^
+||mapixl.com^
 ||matheranalytics.com^
 ||mathilde-ads.com^
 ||maxepv.com^
@@ -3265,6 +3266,7 @@ omni.soundestlink.com$image
 ||mdhv.io^
 ||mdstats.info^
 ||mediamathrdrt.com^
+||mgln.ai^
 ||mirabelanalytics.com^
 ||mircheigeshoa.com^
 ||mitour.de^
@@ -10739,6 +10741,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.blivenyc.com^
 ||pixel.byspotify.com^
 ||pixel.condenastdigital.com^
+||pixel.driveniq.com^
 ||pixel.inforsea.com^
 ||pixel.lilystyle.ai^
 ||pixel.locker2.com^
@@ -13448,6 +13451,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events2.www.edenfantasys.com^
 ||evs.icy-lake.kickstarter.com^
 ||evs.sgmt.loom.com^$script
+||excess.duolingo.com/batch
 ||expedia.*/cl/
 ||experiences.wyng.com/api/*/event-api/events
 ||expressvpn.com/__px.gif?
@@ -50564,6 +50568,7 @@ abema.tv##+js(rmnt, script, NREUM)
 ||haberler.com/dinamik/
 ||hit.cnbce.com^
 ||hstats.hepsiburada.com^
+||hstatstest.hepsiburada.com^
 ||iys.org.tr/mti-popts.js
 ||sahibinden.com/sbbi/
 ||stats.birgun.net^

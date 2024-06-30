@@ -23294,6 +23294,7 @@ browsershots.org#@#.advert_area
 ||coldhardcash.com^
 ||coldvain.com^
 ||colemalist.top^
+||colenhackbut.com^
 ||colerajute.com^
 ||colhickcommend.com^
 ||coliassfeurytheme.com^
@@ -23342,6 +23343,7 @@ browsershots.org#@#.advert_area
 ||combatboatsplaywright.com^
 ||combatdenotecasserole.com^
 ||combatundressaffray.com^
+||combersshirt.shop^
 ||combia-tellector.com^
 ||combinationpalmwhiskers.com^
 ||combinedexterior.com^
@@ -24310,6 +24312,7 @@ browsershots.org#@#.advert_area
 ||cymqhqxuchas.com^
 ||cymtiadhurrie.com^
 ||cyneburg-yam.com^
+||cynicochred.shop^
 ||cyprecaccia.guru^
 ||cypresslocum.com^
 ||cypressreel.com^
@@ -26264,6 +26267,7 @@ browsershots.org#@#.advert_area
 ||earningstwigrider.com^
 ||earphonespulse.com^
 ||earplugmolka.com^
+||earringsatisfiedsplice.com^
 ||earsanagep.com^
 ||earthenicings.com^
 ||earthlyyowe.com^
@@ -29937,6 +29941,7 @@ browsershots.org#@#.advert_area
 ||gnksplbu.com^
 ||gnqtageoyy.com^
 ||gnssivagwelwspe.xyz^
+||gntsrybdc.com^
 ||gnuppbsxa.xyz^
 ||gnvpmftcgp.com^
 ||go-cpa.click^
@@ -30662,6 +30667,7 @@ browsershots.org#@#.advert_area
 ||hainoruz.com^
 ||haircutmercifulbamboo.com^
 ||hairdresserbayonet.com^
+||hairletbollox.shop^
 ||hairoak.com^
 ||hairpinoffer.com^
 ||hairpintacticalartsy.com^
@@ -35619,6 +35625,7 @@ browsershots.org#@#.advert_area
 ||lostinfuture.com^
 ||losybsno.com^
 ||lotclergyman.com^
+||lothlyunfaith.com^
 ||lotionfortunate.com^
 ||lotosmarkkaa.com^
 ||lotreal.com^
@@ -39990,6 +39997,7 @@ browsershots.org#@#.advert_area
 ||overwhelmpeacock.com^
 ||overzoruaon.com^
 ||overzubatan.com^
+||ovethecityonatal.info^
 ||ovfjiktdr.com^
 ||ovgjveaokedo.xyz^
 ||ovhacmobpval.com^
@@ -40844,6 +40852,7 @@ browsershots.org#@#.advert_area
 ||pgssjxz.com^
 ||pgssl.com^
 ||pgtabxxmb.com^
+||pgvjhejpnnir.com^
 ||pgwcrtobrdjx.com^
 ||pgwlzodsll.com^
 ||phaarnsvqzlr.com^
@@ -42702,6 +42711,7 @@ browsershots.org#@#.advert_area
 ||pyrict.com^
 ||pyrincelewasgild.info^
 ||pyrroylceriums.com^
+||pysfhgdpi.com^
 ||pyxdajs.com^
 ||pyxiscablese.com^
 ||pyzwxkb.com^
@@ -45922,6 +45932,7 @@ browsershots.org#@#.advert_area
 ||sidewayfrosty.com^
 ||sidewaysuccession.com^
 ||sielsmaats.com^
+||sierradissolved.com^
 ||sierrasectormacaroni.com^
 ||sieveallegeministry.com^
 ||sievynaw.space^
@@ -52363,6 +52374,7 @@ browsershots.org#@#.advert_area
 ||worldwhoisq.org^
 ||worldwidemailer.com^
 ||worldwideor.info^
+||worlowedonhi.info^
 ||wormdehydratedaeroplane.com^
 ||wornie.com^
 ||wornshoppingenvironment.com^
@@ -53584,6 +53596,7 @@ browsershots.org#@#.advert_area
 ||zeyappland.com^
 ||zeydoo.com^
 ||zeypreland.com^
+||zfctrack.net^
 ||zfeaubp.com^
 ||zferral.com^
 ||zfgyvoarqreba.com^
@@ -53602,6 +53615,7 @@ browsershots.org#@#.advert_area
 ||zgtkxwqgebintr.com^
 ||zgxxvdlxc.com^
 ||zhaner.xyz^
+||zhctrack.net^
 ||zhedvge.com^
 ||zhej78i1an8w6ceu.com^
 ||zhfvwkkftg.com^
@@ -53667,6 +53681,7 @@ browsershots.org#@#.advert_area
 ||zkczzltlhp6y.com^
 ||zkqegdgj.com^
 ||zktsygv.com^
+||zkulupt.com^
 ||zkxggrwzswhpgn.com^
 ||zlacraft.com^
 ||zlbvewof.com^
@@ -69953,7 +69968,7 @@ timeout.com##div[class^="_inlineAdWrapper_"]
 timeout.com##div[class^="_sponsoredContainer_"]
 crictracker.com##div[class^="ad-block-"]
 sfchronicle.com##div[class^="ad-module-"]
-fodors.com##div[class^="ad-placeholder"]
+fodors.com,thehulltruth.com##div[class^="ad-placeholder"]
 cointelegraph.com##div[class^="ad-slot_"]
 reuters.com##div[class^="ad-slot__"]
 gamingdeputy.com##div[class^="ad-wrapper-"]

@@ -12634,6 +12634,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||smart-bdash.com/tracking-script/
 ||snva.jp/api/bcon/basic?
 ||snva.jp/javascripts/reco/
+||sp-trk.com^$third-party
 ||speee-ad.akamaized.net^
 ||spnx.jp/spnx-logger.js
 ||stats.streamhub.io^

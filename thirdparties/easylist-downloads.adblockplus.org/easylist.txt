@@ -402,7 +402,7 @@
 /adv.css?
 /adv/mjx.js
 /adv_468.
-/adv_out.js
+/adv_out.js$third-party
 /adv_teasers.js
 /adv_vert.js
 /AdvAdsV3/*$script,stylesheet
@@ -569,7 +569,6 @@
 /dmcads_$script
 /doubleclick.aspx
 /doubleclick.min
-/doublepimp2.js
 /drsup-admanager-ajax.js
 /dynamicad?
 /ec5bcb7487ff.js
@@ -1242,7 +1241,7 @@ _widget_ad.
 ! bc.vc (https://github.com/NanoMeow/QuickReports/issues/198)
 /earn.php?z=$popup,subdocument
 ! https://github.com/uBlockOrigin/uAssets/issues/2364
-/pop2.js
+/pop2.js?r=
 ! Ad-insertion script (see on: celebrityweightloss.com, myfirstclasslife.com, cultofmac.com)
 /beardeddragon/armadillo.js
 /beardeddragon/drake.js
@@ -20200,6 +20199,7 @@ browsershots.org#@#.advert_area
 ||bauweethie.com^
 ||bavxuhaxtqi.com^
 ||bawickie.com^
+||bawixi.xyz^
 ||bawlerhanoi.website^
 ||baxascpkean.com^
 ||baxotjdtesah.com^
@@ -26855,6 +26855,7 @@ browsershots.org#@#.advert_area
 ||enclosedswoopbarnacle.com^
 ||encodehelped.com^
 ||encodeinflected.com^
+||encoilinwove.com^
 ||encounterboastful.com^
 ||encounterfidelityarable.com^
 ||encouragedrealityirresponsible.com^
@@ -28455,6 +28456,7 @@ browsershots.org#@#.advert_area
 ||flowwiththetide.xyz^
 ||floyme.com^
 ||flpfsqgjsarghs.com^
+||flqdbbzd.com^
 ||flqwvojijhqqlq.com^
 ||flrdra.com^
 ||fluemantappall.guru^
@@ -31765,6 +31767,7 @@ browsershots.org#@#.advert_area
 ||hugysoral.digital^
 ||huhaxvawgwa.com^
 ||huigt6y.xyz^
+||hukogpanbs.com^
 ||hulabipptemux.com^
 ||hulledaries.top^
 ||humaffableconsulate.com^
@@ -33286,6 +33289,7 @@ browsershots.org#@#.advert_area
 ||jbzmwqmqwojlw.top^
 ||jbzmwqmqwokkq.top^
 ||jc32arlvqpv8.com^
+||jcdudokp.com^
 ||jcedzifarqa.com^
 ||jchklt.com^
 ||jcigoiimudrzow.com^
@@ -39040,6 +39044,7 @@ browsershots.org#@#.advert_area
 ||ofcamerupta.com^
 ||ofchildr.buzz^
 ||ofclaydolr.com^
+||ofdanpozlgha.com^
 ||ofdittor.com^
 ||ofdrapiona.com^
 ||ofdxfsho.com^
@@ -39168,6 +39173,7 @@ browsershots.org#@#.advert_area
 ||oilskinvulvar.digital^
 ||oinkedbowls.com^
 ||ointmentapathetic.com^
+||ointmentbarely.com^
 ||ointmentfloatingsaucepan.com^
 ||ointmenthind.com^
 ||oisqckeiqwyg.com^
@@ -49632,6 +49638,7 @@ browsershots.org#@#.advert_area
 ||tvqqrycnutpp.com^
 ||tvvon.coreforger.top^
 ||tvxrpdfgitlbsb.xyz^
+||twangruble.top^
 ||twaonhcjwoaouj.com^
 ||twazzyoidwlfe.com^
 ||twddsnvl.com^
@@ -65957,6 +65964,7 @@ outlook.live.com##._BAY1XlyQSIe6kyKPlYP
 gadgets360.com##.__wdgt_rhs_kpc
 gadgets360.com##._ad
 timeout.com##._ad_1elek_1
+sitepoint.com##._ap_apex_ad-container
 vscode.one##._flamelab-ad
 tampafp.com##._ning_outer
 filerox.com##._ozxowqadvert
@@ -67276,7 +67284,7 @@ filmdaily.co##.fd-article-top-banner
 filmdaily.co##.fd-home-sidebar-inline-rect
 foodbeast.com##.fdbst-ad-placement
 citybeat.com,riverfronttimes.com##.fdn-gpt-inline-content
-orlandoweekly.com,sacurrent.com##.fdn-interstitial-slideshow-block
+cltampa.com,orlandoweekly.com,sacurrent.com##.fdn-interstitial-slideshow-block
 browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.fdn-site-header-ad-block
 citybeat.com,riverfronttimes.com##.fdn-teaser-row-teaser
 w3techs.com##.feat
@@ -68521,6 +68529,7 @@ theparisreview.org##.rail-ad
 bookriot.com##.random-content-pro-wrapper
 dappradar.com##.rankings-ad-row
 rappler.com##.rappler-ad-container
+benzinga.com##.raptive-ad-placement
 wdwmagic.com##.raptive-custom-sidebar1
 atlantablackstar.com##.raptive-ddm-header
 epicdope.com##.raptive-placeholder-header
@@ -69572,6 +69581,7 @@ trakt.tv##[data-snigel-id]
 amp.theguardian.com##[data-sort-time="1"]
 vrbo.com##[data-stid="meso-ad"]
 etherscan.io##[data-t8xt5pt6kr-seq="0"]
+swimsuit.si.com##[data-target="ad"]
 coingecko.com##[data-target="ads.banner"]
 the-express.com##[data-tb-non-consent]
 woot.com##[data-test-ui^="advertisementLeaderboard"]
@@ -70000,6 +70010,7 @@ coffeeordie.com##div.HtmlModule > [href]
 web.telegram.org##div.bubbles > div.scrollable > div.bubbles-inner > div.is-sponsored
 sbs.com.au##div.css-1wbfa8
 steamgifts.com##div.dont_block_me
+sitepoint.com##div.inline-content
 easypet.com##div.kt-inside-inner-col > div.wp-block-kadence-rowlayout
 baking-forums.com,windows10forums.com##div.message--post.message
 thehackernews.com##div.rocking
@@ -70757,6 +70768,7 @@ swimswam.com##.polls-461
 avclub.com,deadspin.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com,thetakeout.com##.related-stories-inset-video
 kidspot.com.au##.secondary-video
 playbuzz.com##.stickyplayer-container
+swimsuit.si.com##.style_hfl21i-o_O-style_uhlm2
 mentalfloss.com##.style_k8mr7b-o_O-style_uhlm2
 gamesradar.com,tomsguide.com,tomshardware.com,whathifi.com##.vid-present
 petapixel.com##.video-aspect-wrapper

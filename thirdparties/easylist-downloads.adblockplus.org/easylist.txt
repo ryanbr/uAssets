@@ -26226,6 +26226,7 @@ browsershots.org#@#.advert_area
 ||dxfovuqib.com^
 ||dxhbdttlvchrgsh.com^
 ||dxmjyxksvc.com^
+||dxotbknruf.com
 ||dxryshpgyeu.com^
 ||dxtsqgnwn.com^
 ||dxuuvxweynac.com^
@@ -39691,6 +39692,7 @@ browsershots.org#@#.advert_area
 ||oplo.org^
 ||oplpectation.xyz^
 ||opmuudn.com^
+||opmxizgcacc.com^
 ||oponixa.com^
 ||opositeasysemblyjus.info^
 ||opoxv.com^
@@ -39715,6 +39717,7 @@ browsershots.org#@#.advert_area
 ||opsookiz.net^
 ||opsoomet.net^
 ||opsoudaw.xyz^
+||opsozouphy.com^
 ||optad360.io^
 ||optad360.net^
 ||optaivuy.net^
@@ -40022,6 +40025,7 @@ browsershots.org#@#.advert_area
 ||outfortbogwort.guru^
 ||outfoxnapalms.com^
 ||outglowkeysets.guru^
+||outgratingknack.com^
 ||outhauzours.com^
 ||outheelrelict.com^
 ||outhulem.net^
@@ -58826,6 +58830,7 @@ browsershots.org#@#.advert_area
 ||outaipoma.com^$popup
 ||outdoeslegacy.uno^$popup
 ||outgoingfan.pro^$popup
+||outgratingknack.com^$popup
 ||outhulem.net^$popup
 ||outlineappearbar.com^$popup
 ||outlookabsorb.com^$popup

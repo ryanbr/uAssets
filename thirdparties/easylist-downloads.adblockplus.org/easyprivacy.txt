@@ -8988,6 +8988,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cpaevent.ru^$third-party
 ||cszz.ru^$third-party
 ||culturaltracking.ru^$third-party
+||detmir-stats.ru^$third-party
 ||dircont3.com^$third-party
 ||directcrm.ru^$third-party
 ||e-kuzbass.ru^$third-party
@@ -12843,6 +12844,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||error.videonow.ru^
 ||events.auth.gid.ru^
 ||g4p.redtram.com^
+||ga-tracker-dot-detmir-bonus.appspot.com^
 ||gainings.biz/counter.php?
 ||gde.ru/isapi/tracker.dll?
 ||hubrus.com^$third-party
@@ -14494,6 +14496,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||upwork.com/shasta/suit
 ||upwork.com/upi/jslogger
 ||urs.metacritic.com^
+||useblackbox.io/telemetry
 ||user-metrics.onthemarket.com^
 ||usmetric.rediff.com^
 ||usnews.com/static/esi/usn-geo.json

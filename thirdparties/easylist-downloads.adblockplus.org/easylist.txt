@@ -16555,6 +16555,7 @@ browsershots.org#@#.advert_area
 ||49b6b77e56.com^
 ||4a136c118e.com^
 ||4a167ec12d.com^
+||4a9517991d.com^
 ||4b215e3bcf.com^
 ||4b41484f8e.com^
 ||4b6994dfa47cee4.com^
@@ -30719,6 +30720,7 @@ browsershots.org#@#.advert_area
 ||gyudlffoisng.com^
 ||gyxkmpf.com^
 ||gzcxtuxgqjrhz.com^
+||gzglmoczfzf.com^
 ||gzifhovadhf.com^
 ||gzigudxidz.com^
 ||gzkkbuvz.com^
@@ -44302,6 +44304,7 @@ browsershots.org#@#.advert_area
 ||rfaatlrdr.com^
 ||rfeablduda.com^
 ||rfhddwa.com^
+||rficarolnak.com^
 ||rfihub.com^
 ||rfihub.net^
 ||rfimzurarqk.com^
@@ -50904,6 +50907,7 @@ browsershots.org#@#.advert_area
 ||vauthaud.net^
 ||vavcashpop.com^
 ||vavhhpkmfc.com^
+||vavuwetus.com^
 ||vawauoggraokog.com^
 ||vawsmoocah.com^
 ||vax-boost.com^
@@ -69764,6 +69768,7 @@ antimusic.com##.zerg
 bellinghamherald.com,bnd.com,bradenton.com,centredaily.com,charlotteobserver.com,elnuevoherald.com,fresnobee.com,heraldonline.com,heraldsun.com,idahostatesman.com,islandpacket.com,kansas.com,kansascity.com,kentucky.com,ledger-enquirer.com,macon.com,mcclatchydc.com,mercedsunstar.com,miamiherald.com,modbee.com,myrtlebeachonline.com,newsobserver.com,sacbee.com,sanluisobispo.com,star-telegram.com,sunherald.com,thenewstribune.com,theolympian.com,thestate.com,tri-cityherald.com##.zone
 bellinghamherald.com##.zone-el
 cnn.com##.zone__ads
+marketscreener.com##.zppAds
 haxnode.net##[action^="//href.li/?"]
 news12.com##[alignitems="normal"][justifycontent][direction="row"][gap="0"]
 cloutgist.com,codesnse.com##[alt="AD DESCRIPTION"]
@@ -70756,6 +70761,7 @@ motortrend.com##.justify-center:has(.nativo-news)
 chewy.com##.kib-carousel-item:has(.kib-product-sponsor)
 golfdigest.com##.leaderboard-container
 content.dictionary.com##.lp-code:has(> [class$="Ad"])
+euronews.com##.m-object:has(.m-object__spons-quote)
 acmemarkets.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,shaws.com,starmarket.com,tomthumb.com,vons.com##.master-product-carousel:has([data-carousel-api*="search/sponsored-carousel"])
 acmemarkets.com,albertsons.com,andronicos.com,carrsqc.com,haggen.com,jewelosco.com,kingsfoodmarkets.com,pavilions.com,randalls.com,safeway.com,shaws.com,starmarket.com,tomthumb.com,vons.com##.master-product-carousel:has([data-carousel-driven="sponsored-products"])
 motortrend.com##.mb-6:has([data-ad="true"])

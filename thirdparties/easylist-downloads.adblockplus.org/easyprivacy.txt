@@ -6340,6 +6340,7 @@ omni.soundestlink.com$image
 ||bumpydevelopment.com^
 ||bunchance.com^
 ||burgerbrush.com^
+||burgersalt.com^
 ||burlywhistle.com^
 ||burnbubble.com^
 ||burntwist.com^
@@ -6573,6 +6574,7 @@ omni.soundestlink.com$image
 ||deerbeginner.com^
 ||defeatedbadge.com^
 ||defectivedress.com^
+||defensevest.com^
 ||defiantrice.com^
 ||delegatediscussion.com^
 ||delicatecascade.com^
@@ -6813,6 +6815,7 @@ omni.soundestlink.com$image
 ||functionalcrown.com^
 ||functionalfeather.com^
 ||funnyairplane.com^
+||funoverbored.com^
 ||furryfork.com^
 ||furryhorses.com^
 ||futuristicapparatus.com^
@@ -7075,6 +7078,7 @@ omni.soundestlink.com$image
 ||majesticmountainrange.com^
 ||makeshiftmine.com^
 ||maliciousmusic.com^
+||managedpush.com^
 ||maniacalappliance.com^
 ||marblediscussion.com^
 ||markedcrayon.com^
@@ -7122,6 +7126,7 @@ omni.soundestlink.com$image
 ||mightyspiders.com^
 ||militaryverse.com^
 ||mimosamajor.com^
+||mindfulgem.com^
 ||mindlessmark.com^
 ||minormeeting.com^
 ||minusmental.com^
@@ -7167,6 +7172,7 @@ omni.soundestlink.com$image
 ||negotiatetime.com^
 ||neighborlywatch.com^
 ||nervoussummer.com^
+||niftygraphs.com^
 ||niftyhospital.com^
 ||niftyjelly.com^
 ||nightwound.com^
@@ -7210,6 +7216,7 @@ omni.soundestlink.com$image
 ||organizationdogs.com^
 ||orientedargument.com^
 ||orionember.com^
+||ourblogthing.com^
 ||outgoinggiraffe.com^
 ||outstandingsnails.com^
 ||ovalweek.com^
@@ -7349,6 +7356,7 @@ omni.soundestlink.com$image
 ||pumpedpancake.com^
 ||pumpedpurpose.com^
 ||punyplant.com^
+||puppytooth.com^
 ||purchasesuggestion.com^
 ||purposepipe.com^
 ||pushypipe.com^
@@ -7416,6 +7424,7 @@ omni.soundestlink.com$image
 ||referdriving.com^
 ||reflectivereward.com^
 ||reflectivestatement.com^
+||refundradar.com^
 ||regularplants.com^
 ||regulatesleet.com^
 ||rehabilitatereason.com^
@@ -7448,6 +7457,7 @@ omni.soundestlink.com$image
 ||rightfulfall.com^
 ||rigidrobin.com^
 ||rigidveil.com^
+||rigorlab.com^
 ||ringplant.com^
 ||ringplayground.com^
 ||ringsrecord.com^
@@ -7455,6 +7465,7 @@ omni.soundestlink.com$image
 ||ritzyrepresentative.com^
 ||ritzyveil.com^
 ||robustbelieve.com^
+||rockpebbles.com^
 ||rodeopolice.com^
 ||rollconnection.com^
 ||roofrelation.com^
@@ -7477,6 +7488,7 @@ omni.soundestlink.com$image
 ||saffronrefuge.com^
 ||sagargift.com^
 ||sailsuit.com^
+||saltsacademy.com^
 ||samesticks.com^
 ||samestretch.com^
 ||samplesamba.com^
@@ -7637,6 +7649,7 @@ omni.soundestlink.com$image
 ||sneakwind.com^
 ||sneakystew.com^
 ||snoresmile.com^
+||snowmentor.com^
 ||soaprange.com^
 ||soapsmoke.com^
 ||soggysponge.com^
@@ -7695,8 +7708,10 @@ omni.soundestlink.com$image
 ||spottedsmile.com^
 ||spottedsnow.com^
 ||springaftermath.com^
+||springolive.com^
 ||springsister.com^
 ||springsnails.com^
+||sproutingbag.com^
 ||sprydelta.com^
 ||spuriousair.com^
 ||spuriousbase.com^
@@ -7886,12 +7901,14 @@ omni.soundestlink.com$image
 ||tightpowder.com^
 ||timeterritory.com^
 ||timetwig.com^
+||tinyswans.com^
 ||tinytendency.com^
 ||tiredthroat.com^
 ||tiresomethunder.com^
 ||toecircle.com^
 ||toedrawer.com^
 ||toolcapital.com^
+||toomanyalts.com^
 ||toothbrushnote.com^
 ||toothpasterabbits.com^
 ||topichawaii.com^
@@ -7947,6 +7964,7 @@ omni.soundestlink.com$image
 ||unevenstring.com^
 ||unifyaddition.com^
 ||uninterestedquarter.com^
+||unknowncontrol.com^
 ||unknowncrate.com^
 ||unknowntray.com^
 ||unnaturalcaption.com^

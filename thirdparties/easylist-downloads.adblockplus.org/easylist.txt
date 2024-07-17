@@ -55689,6 +55689,7 @@ browsershots.org#@#.advert_area
 ||networld.hk^$third-party
 ||neudesicmediagroup.com^$third-party
 ||newdosug.eu^$third-party
+||newormedia.com^$third-party
 ||newsadsppush.com^$third-party
 ||newsarmor.com^$third-party
 ||newsnet.in.ua^$third-party
@@ -66168,6 +66169,7 @@ hulu.com##.PauseAdCreative-wrap
 thekitchn.com##.Post__inPostVideoAdDesktop
 stocktwits.com##.Primis_container__KwtjV
 tech.hindustantimes.com##.ProductAffilateWrapper
+atlasobscura.com##.ProgrammaticMembershipCallout--taboola-member-article-container
 plainenglish.io##.PromoContainer_container__sZ3ls
 citybeat.com,clevescene.com,cltampa.com##.PromoTopBar
 sciencealert.com##.Purch_Y_C_0_1-container
@@ -69161,6 +69163,7 @@ numuki.com##.small-banner-responsive-wrapper
 startup.ch##.smallbanner
 food.com##.smart-aside-inner
 food.com##.smart-rail-inner
+watchinamerica.com##.smartmag-widget-codes
 secretchicago.com##.smn-new-gpt-ad
 rugby365.com##.snack-container
 small-screen.co.uk##.snackStickyParent
@@ -70712,6 +70715,7 @@ greyhound-data.com##td[width="160"]
 lyngsat.com##td[width="728"][height="90"]
 eurometeo.com##td[width="738"]
 radiosurvivor.com##text-18
+telescopius.com##tlc-ad-banner
 trademe.co.nz##tm-display-ad
 rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgproxy.org,rarbgunblock.com,rarbgunblocked.org##tr > td + td[style*="height:"]
 titantv.com##tr.gridRow > td > [id] > div:first-child

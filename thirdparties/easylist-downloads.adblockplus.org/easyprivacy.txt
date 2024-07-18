@@ -13857,6 +13857,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||logx.optimizely.com^
 ||lolwot.com/B5xaqzSGvMTM.js
 ||lookawoman.com/t/
+||loom.com/insights-api/graphql
+||loom.com/metrics/graphql
 ||lowes.com/gauge/
 ||lyft.com/api/track
 ||lyngsat.com/system/loadclick.js

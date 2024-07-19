@@ -13495,6 +13495,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||edge.staging.fullstory.com^
 ||edisound.com/api/p/stats
 ||eec.crunchyroll.com^
+||effect.habr.com^
 ||eharmony.ca/fd/
 ||eharmony.co.uk/bd/
 ||eighten-bloc-party.thebrowser.company/script.js
@@ -14275,6 +14276,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.codeur.com^
 ||stats.davidickedelivery.com^
 ||stats.gateio.ch^
+||stats.habr.com^
 ||stats.ibtimes.co.in^
 ||stats.ibtimes.sg^
 ||stats.justpaste.it^
@@ -51226,6 +51228,7 @@ e-begin.jp##.inviewSection:not(.is-show):style(transform: translateY(0) !importa
 ||igen.fr/modules/statistics/statistics.php
 ||insights.v3.decathlon.net^
 ||iphoneaddict.fr/wp-content/*/counter.php
+||iptvgratuit.net/wp-content/*/analytics.js
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
 ||kwgs.letudiant.fr^
@@ -52637,6 +52640,7 @@ e-begin.jp##.inviewSection:not(.is-show):style(transform: translateY(0) !importa
 @@||travel-assets.com/platform-analytics-prime/$domain=chase.com
 @@||tunein.com/api/v1/comscore$~third-party
 @@||userapi.com^*.gif?extra=$image,domain=vk.com
+@@||usplastic.com/js/hawk.js
 @@||uwufufu.com/_nuxt/mixpanel.$~third-party
 @@||vast.com/vimpressions.js$domain=everycarlisted.com
 @@||vidible.tv^*/ComScore.StreamSense.js

@@ -4081,6 +4081,7 @@ omni.soundestlink.com$image
 ||defacto-analytics.net^$third-party
 ||dejavu.mlapps.com^$third-party
 ||demandbase.com^$third-party
+||demandscience.com^$third-party
 ||departapp.com^$third-party
 ||deqwas.net^$third-party
 ||devatics.com^$third-party
@@ -11356,6 +11357,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tm-awx.com/pageview
 ||tm.tradetracker.net^
 ||tm.vendemore.com^
+||tmp.argusplatform.com/js/wid.tracker.js
 ||tms.fmm.io^
 ||tmtarget.com/tracking/
 ||to.getnitropack.com^

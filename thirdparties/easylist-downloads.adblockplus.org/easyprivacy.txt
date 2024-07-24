@@ -6510,6 +6510,7 @@ omni.soundestlink.com$image
 ||consciousdirt.com^
 ||considermice.com^
 ||consistpotato.com^
+||consumerzero.com^
 ||controlcola.com^
 ||controlhall.com^
 ||controlswim.com^
@@ -6572,6 +6573,7 @@ omni.soundestlink.com$image
 ||cutecushion.com^
 ||cutepopcorn.com^
 ||cuteturkey.com^
+||cyclopsdial.com^
 ||dailydivision.com^
 ||damagedadvice.com^
 ||damageddistance.com^
@@ -6586,6 +6588,7 @@ omni.soundestlink.com$image
 ||dashingdirt.com^
 ||dashingdrop.com^
 ||dashingsweater.com^
+||datastoried.com^
 ||daughterstone.com^
 ||dazzlingbook.com^
 ||deadpangate.com^
@@ -6651,6 +6654,7 @@ omni.soundestlink.com$image
 ||dolldetail.com^
 ||donkeyleaf.com^
 ||doorbrazil.com^
+||doubledefend.com^
 ||doubtdrawer.com^
 ||doubtfulrainstorm.com^
 ||downtowndirection.com^
@@ -6821,6 +6825,7 @@ omni.soundestlink.com$image
 ||forecasttiger.com^
 ||foregoingfowl.com^
 ||foretellfifth.com^
+||forevergears.com^
 ||forgetfulflowers.com^
 ||forgetfulsnail.com^
 ||fortunatemark.com^
@@ -6884,6 +6889,7 @@ omni.soundestlink.com$image
 ||glitteringbrook.com^
 ||gloriousbeef.com^
 ||glossysense.com^
+||gluedpixel.com^
 ||godlygeese.com^
 ||goldfishgrowth.com^
 ||gondolagnome.com^
@@ -6921,6 +6927,7 @@ omni.soundestlink.com$image
 ||gulliblecamp.com^
 ||gulliblegrip.com^
 ||gullibleguitar.com^
+||gustocooking.com^
 ||gustygrandmother.com^
 ||h78xb.pw^
 ||habitualhumor.com^
@@ -7074,6 +7081,7 @@ omni.soundestlink.com$image
 ||learnedmarket.com^
 ||leftliquid.com^
 ||legalleg.com^
+||lemonpackage.com^
 ||lemonsandjoy.com^
 ||lettucecopper.com^
 ||lettucelimit.com^
@@ -7104,6 +7112,7 @@ omni.soundestlink.com$image
 ||lumberamount.com^
 ||lumberrule.com^
 ||luminoussculptor.com^
+||lumpygnome.com^
 ||lumpylumber.com^
 ||lunchroomlock.com^
 ||lustroushaven.com^
@@ -7817,6 +7826,7 @@ omni.soundestlink.com$image
 ||stockingsleet.com^
 ||stockingsneeze.com^
 ||stomachscience.com^
+||stonechin.com^
 ||stopstomach.com^
 ||storescissors.com^
 ||storeslope.com^
@@ -7967,6 +7977,7 @@ omni.soundestlink.com$image
 ||toweringrun.com^
 ||trackcaddie.com^
 ||tradetooth.com^
+||trafficviews.com^
 ||tranquilamulet.com^
 ||tranquilarchipelago.com^
 ||tranquilcanyon.com^
@@ -8001,6 +8012,7 @@ omni.soundestlink.com$image
 ||tzwaw.pw^
 ||ubiquitousyard.com^
 ||ultraoranges.com^
+||ultravalid.com^
 ||unablehope.com^
 ||unaccountablecreator.com^
 ||unaccountablepie.com^
@@ -8097,6 +8109,7 @@ omni.soundestlink.com$image
 ||wildcommittee.com^
 ||wildernesscamera.com^
 ||wirecomic.com^
+||wiredforcoffee.com^
 ||wirypaste.com^
 ||wistfulflight.com^
 ||wittypopcorn.com^
@@ -52733,7 +52746,7 @@ e-begin.jp##.inviewSection:not(.is-show):style(transform: translateY(0) !importa
 !! adobedtm.com^*_source.min.js
 @@||adobedtm.com^*_source.min.js$domain=ally.com|americanexpress.com|as.com|backcountry.com|crave.ca|disneyplus.disney.co.jp|hilton.com|hl.co.uk|homedepot.ca|kroger.com|mora.jp|nbarizona.com|pnc.com|tatacliq.com|telus.com
 !! adobedtm.com^*-source.min.js
-@@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|fedex.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hgtv.com|hilton.com|homedepot.ca|imsa.com|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|manager-magazin.de|marriott.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|sephora.com|ssrn.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com|xfinity.com
+@@||adobedtm.com^*-source.min.js$script,domain=53.com|aarp.org|ally.com|americanexpress.com|as.com|atresplayer.com|automobiles.honda.com|backcountry.com|bose.ae|bose.at|bose.ca|bose.ch|bose.cl|bose.co|bose.co.jp|bose.co.nz|bose.co.uk|bose.com|bose.com.au|bose.de|bose.dk|bose.es|bose.fi|bose.fr|bose.hk|bose.hu|bose.ie|bose.it|bose.lu|bose.mx|bose.nl|bose.no|bose.pe|bose.pl|bose.se|boseapac.com|bosebelgium.be|boselatam.com|bt.com|cadenaser.com|churchofjesuschrist.org|cibc.com|crave.ca|currys.co.uk|deutsche-bank.de|dollargeneral.com|etihad.com|fedex.com|guitarcenter.com|healthsafe-id.com|helvetia.com|hgtv.com|hilton.com|homedepot.ca|imsa.com|ing.com.au|ingrammicro.com|kroger.com|lenovo.com|manager-magazin.de|marriott.com|mtvuutiset.fi|mybell.bell.ca|natwest.com|nbarizona.com|news.sky.com|personal.natwest.com|pnc.com|poweredbycovermore.com|ralphlauren.com|samsung.com|sephora.com|ssrn.com|tatacliq.com|telegraph.co.uk|telus.com|verizon.com|virginplus.ca|walgreens.com|xfinity.com
 !! adobedtm.com^*/mbox-contents-
 @@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|ally.com|americanexpress.com|as.com|backcountry.com|ceair.com|conad.it|costco.com|dhl.de|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|hgtv.com|lenovo.com|lowes.com|nfl.com|oprah.com|pnc.com|shoppersdrugmart.ca|sony.jp|tatacliq.com|usanetwork.com|vanityfair.com|wired.com
 !! adobedtm.com/extensions/

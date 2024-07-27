@@ -67390,6 +67390,7 @@ oxygen.com,syfy.com##.blog-post-section__zergnet
 blogto.com##.blogto-sticky-banner
 manhwaindo.id##.blox
 bescore.com##.bn
+firstpost.com##.bn-add
 savefree.in,surattimes.com##.bn-content
 nilechronicles.com##.bn-lg-sidebar
 snow-forecast.com,weather-forecast.com##.bn-placeholder
@@ -67936,6 +67937,7 @@ marcadores247.com##.es_top_banner
 esports.net##.esports-ad
 alevelgeography.com,shtfplan.com,yournews.com##.et_pb_code_inner
 navajotimes.com##.etad
+mothership.sg##.events
 appleinsider.com##.exclusive-wrap
 mashable.com##.exco
 nypost.com##.exco-video__container
@@ -68935,6 +68937,7 @@ pcgamebenchmark.com##.nova_wrapper
 panda-novel.com,pandasnovel.com##.novel-ins2
 nextpit.com##.np-top-deals
 designtaxi.com##.nt
+nowtoronto.com##.nt-ad-wrapper
 designtaxi.com##.nt-displayboard
 newtimes.co.rw##.nt-horizontal-ad
 newtimes.co.rw##.nt-vertical-ad

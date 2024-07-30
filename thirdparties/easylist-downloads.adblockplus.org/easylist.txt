@@ -48067,7 +48067,6 @@ browsershots.org#@#.advert_area
 ||succeedappointedsteve.com^
 ||succeedingpeacefully.com^
 ||succeedprosperity.com^
-||succeedscene.com^
 ||success-news.net^
 ||successcuff.com^
 ||successfulpatience.com^
@@ -54734,6 +54733,7 @@ browsershots.org#@#.advert_area
 ||zhu-ni-hao-yun.sh^
 ||zxcbaby.ru^
 ! $document blocks
+||123-stream.org^$document
 ||1winpost.com^$document
 ||20trackdomain.com^$document
 ||2ltm627ho.com^$document
@@ -54771,6 +54771,7 @@ browsershots.org#@#.advert_area
 ||adverttulimited.biz^$document
 ||adxproofcheck.com^$document
 ||aferpush.com^$document
+||affcpatrk.com^$document
 ||affflow.com^$document
 ||affiliatestonybet.com^$document
 ||affpa.top^$document
@@ -56401,6 +56402,7 @@ browsershots.org#@#.advert_area
 ||subendorse.com^$third-party
 ||sublimemedia.net^$third-party
 ||submitexpress.co.uk^$third-party
+||succeedscene.com^$third-party,xmlhttprequest
 ||suite6ixty6ix.com^$third-party
 ||suitesmart.com^$third-party
 ||sulvo.co^$third-party
@@ -66657,7 +66659,6 @@ coin360.com##.Sticky_Promo
 slant.co##.SummaryPage-LustreEmbed
 westword.com##.SurveyLinkSlideModal
 newser.com##.TaboolaP1P2
-engadget.com##.Td\(n\).Bdbc\(engadgetGutter\).Py\(40px\)
 dictionary.com##.TeixwVbjB8cchva8bDlg
 imgur.com##.Top300x600
 cnbc.com##.TopBanner-container
@@ -70168,6 +70169,7 @@ horoscopes.astro-seek.com##.vyska-sense
 androidpolice.com##.w-pencil-banner
 wsj.com##.w27771
 userscript.zone##.w300
+engadget.com##.wafer-benji
 swimcompetitive.com##.waldo-display-unit
 wetransfer.com##.wallpaper
 goodfon.com##.wallpapers__banner240

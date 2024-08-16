@@ -17764,6 +17764,7 @@ browsershots.org#@#.advert_area
 ||adsensecamp.com^
 ||adsensecustomsearchads.com^
 ||adser.io^
+||adservb.com^
 ||adserve.ph^
 ||adserved.net^
 ||adserverplus.com^
@@ -42193,6 +42194,7 @@ browsershots.org#@#.advert_area
 ||readly-renterval.icu^
 ||readserv.com^
 ||readspokesman.com^
+||readsubsequentlyspecimen.com^
 ||readyblossomsuccesses.com^
 ||reagend.com^
 ||reager30.com^
@@ -62539,6 +62541,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||simply-hentai.com/prod/
 ||sleazyneasy.com/contents/images-banners/
 ||sleazyneasy.com/jsb/
+||sli.crazyporn.xxx^
 ||slview.psne.jp^
 ||smutgamer.com/ta2b8ed9c305.js
 ||smutty.com/n.js
@@ -62561,6 +62564,7 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||thisvid.com/enblk/
 ||tits-guru.com/js/istripper4.js
 ||titsbox.com/nb/
+||tktube.com/adlib/
 ||tnaflix.com/azUhsbtsuzm?
 ||tnaflix.com/js/mew.js?
 ||topescort.com/static/bn/
@@ -65084,6 +65088,7 @@ buzzfeed.com##.card--article-ad
 u.today##.card--something-md
 nrl.com##.card-content__sponsor
 thepointsguy.com##.cardWidget
+realestatemagazine.ca##.caroufredsel_wrapper
 devdiscourse.com##.carousel
 eetimes.com##.carousel-ad-wrapper
 faroutmagazine.co.uk,hitc.com##.carpet-border
@@ -65939,6 +65944,7 @@ mylocation.org##.info a[href^="https://go.expressvpn.com/c/"]
 stocksnap.io##.info-col
 bab.la##.info-panel
 gameworldobserver.com##.information-block
+gameworldobserver.com##.information-block-top
 gameworldobserver.com##.information-blocks
 careerindia.com,oneindia.com##.inhouse-content
 asheville.com##.injected-ads
@@ -66515,7 +66521,6 @@ etonline.com##.omni-skybox-plus-stick-placeholder
 oneindia.com##.one-ad
 magnoliastatelive.com##.one_by_one_group
 techspot.com##.onejob
-gameworldobserver.com##.only_link_area
 decrypt.co##.opacity-75
 lowtoxlife.com##.openpay-footer
 huffpost.com##.openweb-container
@@ -67230,6 +67235,7 @@ searchenginejournal.com##.sss2_sllo_o3
 aupetitparieur.com##.st85ip42z1v3x
 cnn.com##.stack__ads
 barrons.com##.standard__AdWrapper-sc-14sjre0-6
+gameworldobserver.com##.start-popup
 geoguessr.com##.start__display-ad
 coingape.com##.stcikyright
 bostonglobe.com##.stick_1200--tablet
@@ -70555,6 +70561,8 @@ pornhub.com##[srcset*="bloB:"]
 pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,youjizz.com,youporn.com,youporngay.com##[style*="base64"]
 pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,youjizz.com,youporn.com,youporngay.com##[style*="blob:"]:not(video)
 xozilla.com##[style="height: 220px !important; overflow: hidden;"]
+eporner.com##[style="margin: 20px auto; height: 275px; width: 900px;"]
+vjav.com##[style="width: 728px; height: 90px;"]
 missav.ai,missav.com,missav.ws,missav123.com,missav789.com,myav.com##[x-show$="video_details'"] > div > .list-disc
 pornone.com##a[class^="listing"]
 porn.com##a[href*="&ref="]

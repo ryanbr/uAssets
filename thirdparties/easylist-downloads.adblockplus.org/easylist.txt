@@ -1184,6 +1184,8 @@ _widget_ad.
 /plugins/ad-ace/assets/js/slot-slideup.js
 /plugins/ad-ace/includes/shoppable-images/*
 ! readcomiconline.li
+/Ads/bid300a.aspx
+/Ads/bid300b.aspx
 /Ads/bid300c.aspx
 /Ads/bid728.aspx
 ! Amazon
@@ -68293,6 +68295,7 @@ motortrend.com##[data-ids="AdContainer"]
 igraal.com##[data-ig-ga-cat="Ad"]
 jeffdornik.com##[data-image-info]
 phoneia.com##[data-index]
+dailymail.co.uk##[data-is-sponsored="true"]
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[data-layout="ad"]
 lightnovelcave.com,lightnovelpub.com##[data-mobid]
 independent.co.uk##[data-mpu1]

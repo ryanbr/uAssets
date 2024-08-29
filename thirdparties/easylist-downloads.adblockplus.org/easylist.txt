@@ -50369,6 +50369,7 @@ browsershots.org#@#.advert_area
 ||webregadvertising.com^
 ||webseeds.com^
 ||websitepromoserver.com^
+||websphonedevprivacy.autos^
 ||webstats1.com^
 ||webteaser.ru^
 ||webteensyusa.com^
@@ -52897,6 +52898,7 @@ browsershots.org#@#.advert_area
 ||instant-adblock.xyz^$document
 ||internodeid.com^$document
 ||intothespirits.com^$document
+||iyfbodn.com^$document
 ||jaclottens.live^$document
 ||jeroud.com^$document
 ||jggegj-rtbix.top^$document
@@ -53159,6 +53161,7 @@ browsershots.org#@#.advert_area
 ||wbidder.online^$document
 ||wbidder3.com^$document
 ||webmedrtb.com^$document
+||websphonedevprivacy.autos^$document
 ||wewearegogogo.com^$document
 ||whaurgoopou.com^$document
 ||wheceelt.net^$document
@@ -58670,6 +58673,7 @@ browsershots.org#@#.advert_area
 ||webmedrtb.com^$popup
 ||webpuppweb.com^$popup
 ||websearchers.net^$popup
+||websphonedevprivacy.autos^$popup
 ||webteensyusa.com^$popup
 ||webtrackerplus.com^$popup
 ||wecouldle.com^$popup

@@ -11032,6 +11032,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plista.com/activity
 ||pm.boostintegrated.com^
 ||pmi.flowplayer.com^
+||pn.ybp.yahoo.com/ab/secure/true/imp/
 ||poool.fr/api/v3/access/event
 ||popup-static.unisender.com^
 ||porpoise.azettl.net^
@@ -13935,6 +13936,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||indeed.com/m/rpc/frontendlogging
 ||indeed.com/rpc/$~xmlhttprequest
 ||indeed.com/rpc/pageload/perf
+||independent.co.uk/iframe/native-cookiesync-frames.html
 ||indiatimes.com/personalisation/logdata/
 ||indiatimes.com/savelogs?
 ||indmetric.rediff.com^

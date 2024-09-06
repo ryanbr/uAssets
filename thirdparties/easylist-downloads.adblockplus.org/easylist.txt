@@ -161,7 +161,7 @@
 /ad.cgi?
 /ad.css?$stylesheet
 /ad.html?
-/ad.min.
+/ad.min.js$script,domain=~qoly.jp
 /ad/a.aspx?
 /ad/dfp/js/dfp.js
 /ad/err?
@@ -362,7 +362,7 @@
 /adsmanager/*$domain=~adsmanager.facebook.com|~github.com
 /AdsPlugin.
 /adsrv.
-/adsscript.
+/adsscript.$script
 /adsserv.
 /adsserver.
 /adsservice.
@@ -408,7 +408,7 @@
 /advrotator_banner_largo.htm
 /advtBanner.
 /adx2.
-/adz/js/adz.
+/adz/js/adz.$script
 /adzones.js
 /aff-ads.
 /aff/banners/*$image
@@ -479,7 +479,6 @@
 /bannerad.
 /bannerad3.js$script
 /bannerads/*$~xmlhttprequest,domain=~coldwellbankerhomes.com
-/banners.*/go/page/*
 /banners.*/piclist?
 /banners.cgi?
 /banners/468$image
@@ -655,7 +654,6 @@
 /lazyad-loader.min.js
 /lazyload.ads?
 /left_ads.js
-/leftad.jpg
 /leftad.js
 /leftad.png
 /legion-advertising-atlasastro/*$script
@@ -700,7 +698,7 @@
 /nwm-fcn.min.js
 /nwm-pw2.min.js
 /nxst-advertising/dist/htlbid-advertising.min.js
-/oiopub-direct/js.php
+/oiopub-direct/js.php$script
 /oncc-ad.js
 /oncc-adbanner.js
 /openads.js
@@ -864,7 +862,7 @@
 /servlet/view/*$script
 /set_adcode?
 /sft-prebid.js
-/show-ad.js
+/show-ad.js$script
 /show_ad.js
 /show_ad?
 /showban.asp?
@@ -1264,7 +1262,6 @@ _widget_ad.
 /prebid9.$script
 /prebid?
 /prebid_$script,third-party
-/prebid_v4.
 /prebidAdcall.
 /prebidLibrary.
 /prebidlink/*$script
@@ -20685,6 +20682,7 @@ browsershots.org#@#.advert_area
 ||beyanmaan.com^
 ||beylicbesmile.com^
 ||bezuka.xyz^
+||bezwtpxx.com^
 ||bf-ad.net^
 ||bfast.com^
 ||bfbkqmoxrh.com^
@@ -21591,6 +21589,7 @@ browsershots.org#@#.advert_area
 ||brutebaalite.top^
 ||bruteknack.com^
 ||brutestayer.top^
+||brutishlylifevoicing.com^
 ||brvkzwjrjznaw.top^
 ||brvrrlnmnpvsqln.com^
 ||brvuyvzdo.com^
@@ -22333,6 +22332,7 @@ browsershots.org#@#.advert_area
 ||ceeleeca.com^
 ||ceemoptu.xyz^
 ||ceeqgwt.com^
+||ceethipt.com^
 ||ceezepegleze.xyz^
 ||cefuthodob.com^
 ||cegadazwdsp.com^
@@ -26530,6 +26530,7 @@ browsershots.org#@#.advert_area
 ||encoilinwove.com^
 ||encounterboastful.com^
 ||encounterfidelityarable.com^
+||encounterponder.com^
 ||encouragedrealityirresponsible.com^
 ||encouragedunrulyriddle.com^
 ||encouragingpistolassemble.com^
@@ -37258,6 +37259,7 @@ browsershots.org#@#.advert_area
 ||ngegas.files.im^
 ||ngeoziadiyc4hi2e.com^
 ||ngfruitiesmatc.info^
+||ngfycrwwd.com^
 ||ngineet.cfd^
 ||ngjeaizqad.com^
 ||ngjgnidajyls.xyz^
@@ -39704,6 +39706,7 @@ browsershots.org#@#.advert_area
 ||pejzeexukxo.com^
 ||pekcbuz.com^
 ||pekroace.net^
+||pekseerdune.xyz^
 ||pelamydlours.com^
 ||pelargiunmelt.top^
 ||peliastitters.com^
@@ -41319,6 +41322,7 @@ browsershots.org#@#.advert_area
 ||pta.wcm.pl^
 ||ptaicoamt.com^
 ||ptaicoul.xyz^
+||ptailadsol.net^
 ||ptaimpeerte.com^
 ||ptaissud.com^
 ||ptaixout.net^
@@ -42389,6 +42393,7 @@ browsershots.org#@#.advert_area
 ||rcerrohatfad.com^
 ||rcesigojtwh.com^
 ||rcf3occ8.de^
+||rchmupnlifo.xyz^
 ||rcpadatlgn.com^
 ||rcvlink.com^
 ||rcvlinks.com^
@@ -54377,6 +54382,7 @@ browsershots.org#@#.advert_area
 ||splut.com^$third-party
 ||spolecznosci.net^$third-party
 ||sponsoredtweets.com^$third-party
+||spotible.com^$third-party
 ||spotx.tv^$third-party
 ||springify.io^$third-party
 ||springserve.com^$~media,third-party
@@ -55517,6 +55523,7 @@ browsershots.org#@#.advert_area
 ||brucelead.com^$popup
 ||brutalconfer.com^$popup
 ||brutebaalite.top^$popup
+||brutishlylifevoicing.com^$popup
 ||btpnav.com^$popup
 ||buikolered.com^$popup
 ||bullads.net^$popup
@@ -55581,6 +55588,7 @@ browsershots.org#@#.advert_area
 ||cdnquality.com^$popup
 ||cdntechone.com^$popup
 ||cdrvrs.com^$popup
+||ceethipt.com^$popup
 ||celeb-trends-gossip.com^$popup
 ||celeritascdn.com^$popup
 ||certainlydisparagewholesome.com^$popup
@@ -57616,6 +57624,7 @@ browsershots.org#@#.advert_area
 ||pssy.xyz^$popup
 ||psychologycircumvent.com^$popup
 ||psychologydistinguishnest.com^$popup
+||ptailadsol.net^$popup
 ||ptaupsom.com^$popup
 ||ptistyvymi.com^$popup
 ||ptoakrok.net^$popup
@@ -69386,13 +69395,16 @@ pricespy.*##.AdPlacementMarginTop-sc-15ga2eg-3
 pricespy.*##.AdPlacementWrapper-sc-0-3
 pricespy.*##.StyledAdPlacementWrapper-sc-0-5
 pricespy.*##.StyledAdWrapper-sc-0-1
+yandex.*##._view_advertisement
+yandex.*##.business-card-title-view__advert
 yandex.*##.mini-suggest__item[data-suggest-counter*="/yandex.ru/clck/safeclick/"]
 yandex.*##.ProductGallery
+yandex.*##.search-advert-badge
+yandex.*##.search-business-snippet-view__direct
 yandex.*##.search-list-view__advert-offer-banner
 yandex.*##a[href^="https://yandex.ru/an/count/"]
 yandex.*##li[class*="_card"]:has(a[href^="https://yabs.yandex.ru/count/"])
 yandex.*##li[class*="_card"]:has(a[href^="https://yandex.com/search/_crpd/"])
-!yandex.*##.search-snippet-view:has(span.search-advert-badge__advert)
 ! :has()
 puzzle-aquarium.com,puzzle-battleships.com,puzzle-binairo.com,puzzle-bridges.com,puzzle-chess.com,puzzle-dominosa.com,puzzle-futoshiki.com,puzzle-galaxies.com,puzzle-heyawake.com,puzzle-hitori.com,puzzle-jigsaw-sudoku.com,puzzle-kakurasu.com,puzzle-kakuro.com,puzzle-killer-sudoku.com,puzzle-light-up.com,puzzle-lits.com,puzzle-loop.com,puzzle-masyu.com,puzzle-minesweeper.com,puzzle-nonograms.com,puzzle-norinori.com,puzzle-nurikabe.com,puzzle-pipes.com,puzzle-shakashaka.com,puzzle-shikaku.com,puzzle-shingoki.com,puzzle-skyscrapers.com,puzzle-slant.com,puzzle-star-battle.com,puzzle-stitches.com,puzzle-sudoku.com,puzzle-tapa.com,puzzle-tents.com,puzzle-thermometers.com,puzzle-words.com###Skyscraper:has(> #bannerSide)
 windowscentral.com###article-body > .hawk-nest[data-widget-id]:has(a[class^="hawk-affiliate-link-"][class$="-button"])

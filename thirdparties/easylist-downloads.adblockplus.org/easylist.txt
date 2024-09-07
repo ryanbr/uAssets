@@ -64763,7 +64763,7 @@ mv-voice.com##.ad-break
 imsa.com##.ad-close-container
 npr.org##.ad-config
 valetmag.com##.ad-constrained-container
-12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,dailytrust.com,delish.com,driven.co.nz,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,etcanada.com,euromaidanpress.com,fastcompany.com,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,hbr.org,highdefdigest.com,historynet.com,howstuffworks.com,huffpost.com,insidehook.com,insider.com,intouchweekly.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,mangakakalot.app,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,namemc.com,nbcnews.com,newrepublic.com,nzherald.co.nz,oneesports.gg,opb.org,outkick.com,papermag.com,physiology.org,pixiv.net,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,seattletimes.com,songkick.com,sportskeeda.com,thebaltimorebanner.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,thenationonlineng.net,thenewstack.io,tmz.com,toofab.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,wogx.com,worldsoccertalk.com,wral.com##.ad-container
+12news.com,9news.com,9to5google.com,9to5mac.com,aad.org,advfn.com,all3dp.com,allaboutcookies.org,allnovel.net,amny.com,athleticbusiness.com,audiokarma.org,beeradvocate.com,beliefnet.com,bizjournals.com,biznews.com,bolavip.com,businessinsider.com,cbs8.com,cc.com,ccjdigital.com,dailytrust.com,delish.com,driven.co.nz,dutchnews.nl,ecr.co.za,electrek.co,engineeringnews.co.za,equipmentworld.com,etcanada.com,euromaidanpress.com,fastcompany.com,footyheadlines.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,globalspec.com,gmanetwork.com,grammarbook.com,hbr.org,highdefdigest.com,historynet.com,howstuffworks.com,huffpost.com,insidehook.com,insider.com,intouchweekly.com,khou.com,koat.com,ktvu.com,lifeandstylemag.com,longislandpress.com,macstories.net,mail.com,mangakakalot.app,memuplay.com,metro.us,metrophiladelphia.com,minecraftforum.net,miningweekly.com,mixed-news.com,mobilesyrup.com,modernhealthcare.com,msnbc.com,my9nj.com,namemc.com,nbcnews.com,newrepublic.com,nzherald.co.nz,oneesports.gg,opb.org,outkick.com,papermag.com,physiology.org,pixiv.net,punchng.com,qns.com,realsport101.com,reason.com,refinery29.com,roadandtrack.com,scroll.in,seattletimes.com,songkick.com,sportskeeda.com,thebaltimorebanner.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,themarketherald.ca,thenationonlineng.net,thenewstack.io,tmz.com,toofab.com,uploadvr.com,usmagazine.com,vanguardngr.com,wildtangent.com,wogx.com,worldsoccertalk.com,wral.com##.ad-container
 24timezones.com##.ad-container-diff
 newthinking.com##.ad-container-mpu
 wheelofnames.com##.ad-declaration
@@ -66912,7 +66912,7 @@ uwufufu.com##.min-h-\[300px\]
 gizmodo.com##.min-h-\[350px\]
 insiderintelligence.com##.min-h-top-banner
 stripes.com##.min-h90
-mumsnet.com##.min-w-\[300px\]
+motortrend.com,mumsnet.com##.min-w-\[300px\]
 theland.com.au##.min-w-mrec
 moviemeter.com##.minheight250
 kitco.com##.mining-banner-container
@@ -69417,6 +69417,7 @@ aleteia.org###root > div[class]:has(> .adslot)
 bbc.com###sticky-mpu:has(.dotcom-ad-inner)
 kroger.com##.AutoGrid-cell:has(.ProductCard-tags > div > span[data-qa="featured-product-tag"])
 nationalgeographic.com##.FrameBackgroundFull--grey:has(.ad-wrapper)
+sbs.com.au##.MuiBox-root:has(> .desktop-ads)
 luxa.org##.MuiContainer-root:has(> ins.adsbygoogle)
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##.Ssfiu-:has([data-testid="popoverTriggersponsoredLabel"])
 outlook.live.com##.VdboX[tabindex="0"]:has(img[src="https://res.cdn.office.net/assets/ads/adbarmetrochoice.svg"])
@@ -69455,12 +69456,14 @@ limetorrents.lol##.downloadareabig:has([title^="Anâ€Œonâ€Œymous Download
 tripsonabbeyroad.com##.e-con-inner:has(tp-cascoon)
 protrumpnews.com##.enhanced-text-widget:has(span.pre-announcement)
 upfivedown.com##.entry > hr.wp-block-separator:has(+ .has-text-align-center)
+insidehpc.com##.featured-728x90-ad
 morrisons.com##.featured-items:has(.js-productCarouselFops)
 morrisons.com##.fops-item:has([title="Advertisement"])
 pigglywigglystores.com##.fp-item:has(.fp-tag-ad)
 slickdeals.net##.frontpageGrid__feedItem:has(.dealCardBadge--promoted)
 tumblr.com##.ge_yK:has(.hM19_)
 bestbuy.com##.generic-morpher:has(.spns-label)
+canberratimes.com.au##.h-\[50px\]
 fortune.com##.homepage:has(> div[id^="InStream"])
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##.hrHZYT:has([data-testid="popoverTriggersponsoredLabel"])
 1tamilmv.tax##.ipsWidget:has([href*="RajbetImage"])
@@ -69497,12 +69500,14 @@ tempest.com##.search-result-item:has(.search-result-item__title--ad)
 yandex.com##.search-snippet-view:has(span.search-advert-badge__advert)
 shipt.com##.searchPageStaticBanner:has([href*="/shop/featured-promotions"])
 troyhunt.com##.sidebar-featured:has(a[href^="https://pluralsight.pxf.io/"])
+insidehpc.com##.sidebar-sponsored-content
 bing.com##.slide:has(.rtb_ad_caritem_mvtr)
 fastcompany.com##.sticky:has(.ad-container)
 rustlabs.com##.sub-info-block:has(#banner)
 scamwarners.com##.subheader:has(> ins.adsbygoogle)
 thesun.co.uk##.sun-grid-container:has([class*="ad_widget"])
 nex-software.com##.toolinfo:has(a[href$="/reimage"])
+canberratimes.com.au##.top-20
 twitter.com,x.com##.tweet:has(.promo)
 wowcher.co.uk##.two-by-two-deal:has(a[href*="src=sponsored_search_"])
 forums.socialmediagirls.com##.uix_nodeList > div[class="block"]:has([href^="/link-forums/"])
@@ -69821,6 +69826,7 @@ gamesradar.com,tomsguide.com,tomshardware.com,whathifi.com##.vid-present
 sportskeeda.com##.vidazoo-player-container
 justthenews.com,movieweb.com,screenrant.com,thegamer.com##.video
 petapixel.com##.video-aspect-wrapper
+bowhunter.com,firearmsnews.com,flyfisherman.com,gameandfishmag.com,gunsandammo.com,handgunsmag.com,in-fisherman.com,northamericanwhitetail.com,petersenshunting.com,rifleshootermag.com,shootingtimes.com,wildfowlmag.com##.video-detail-player
 fodors.com##.video-inline
 gearjunkie.com##.video-jwplayer
 bolavip.com##.video-player-placeholder

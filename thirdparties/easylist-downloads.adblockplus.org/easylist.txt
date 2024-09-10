@@ -28872,6 +28872,7 @@ browsershots.org#@#.advert_area
 ||geechaid.xyz^
 ||geedoovu.net^
 ||geegleshoaph.com^
+||geejetag.com^
 ||geeksundigne.com^
 ||geerairu.net^
 ||geethaihoa.com^
@@ -31413,6 +31414,7 @@ browsershots.org#@#.advert_area
 ||ightsapph.info^
 ||iginnis.site^
 ||igjptqlywyvfveq.com^
+||iglegoarous.net^
 ||igloohq.com^
 ||iglooprin.com^
 ||ignals.com^
@@ -36529,6 +36531,7 @@ browsershots.org#@#.advert_area
 ||msyyvyle.com^
 ||mt34iofvjay.com^
 ||mtburn.com^
+||mtejadostvovn.com^
 ||mtgzlnugxej.com^
 ||mthvjim.com^
 ||mtinsqq.com^
@@ -41234,6 +41237,7 @@ browsershots.org#@#.advert_area
 ||psoopoakihou.com^
 ||psoorgou.com^
 ||psoorsen.com^
+||psootaun.com^
 ||psootchu.net^
 ||psothoms.com^
 ||psotudev.com^
@@ -56255,6 +56259,7 @@ browsershots.org#@#.advert_area
 ||gdecordingholo.info^$popup
 ||gdmconvtrck.com^$popup
 ||geegleshoaph.com^$popup
+||geejetag.com^$popup
 ||generalebad.xyz^$popup
 ||genialsleptworldwide.com^$popup
 ||geniusdexchange.com^$popup
@@ -56545,6 +56550,7 @@ browsershots.org#@#.advert_area
 ||ifigent.com^$popup
 ||ifsnickshriek.click^$popup
 ||ifsnickshriek.com^$popup
+||iglegoarous.net^$popup
 ||ignals.com^$popup
 ||igubet.link^$popup
 ||ihavelearnat.xyz^$popup

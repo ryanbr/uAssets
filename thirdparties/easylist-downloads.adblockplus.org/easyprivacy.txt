@@ -2735,7 +2735,6 @@
 ?logType=impression&
 ?logType=trackEvent&
 ?pageviews=$third-party
-?sam-item/*/track-view
 ?sam-item/track-impressions
 ?statify_referrer=
 ?type=page&event=

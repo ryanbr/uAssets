@@ -16543,6 +16543,7 @@ browsershots.org#@#.advert_area
 ||5b3fbababb.com^
 ||5btekl14.de^
 ||5c01ad4cb7.com^
+||5c4ccd56c9.com^
 ||5ca59a669a.com^
 ||5caa478343.com^
 ||5cbbdb4434.com^
@@ -26109,6 +26110,7 @@ browsershots.org#@#.advert_area
 ||embogsoarers.com^
 ||embolipokies.com^
 ||embolysaros.click^
+||embowerdatto.com^
 ||embracetrace.com^
 ||embrailcamino.top^
 ||embtrk.com^
@@ -33548,6 +33550,7 @@ browsershots.org#@#.advert_area
 ||laitushous.com^
 ||laivue.com^
 ||laizuwhy.com^
+||lajjmqeshj.com^
 ||lajouly.com^
 ||lakequincy.com^
 ||lakmus.xyz^
@@ -39436,6 +39439,7 @@ browsershots.org#@#.advert_area
 ||phumpauk.com^
 ||phupours.com^
 ||phursefter.net^
+||phuthobsee.com^
 ||phuzeeksub.com^
 ||phvhnxebmrzf.com^
 ||phxnkysa.com^
@@ -40707,6 +40711,7 @@ browsershots.org#@#.advert_area
 ||ptanguth.com^
 ||ptapjmp.com^
 ||ptatexiwhe.com^
+||ptatzrucj.com^
 ||ptaujoot.net^
 ||ptaumoadsovu.com^
 ||ptaunsoova.com^
@@ -50452,6 +50457,7 @@ browsershots.org#@#.advert_area
 ||wwaeljajwvlrw.top^
 ||wwaeljajwvywm.top^
 ||wwahuxzipoc.com^
+||wwaowwonthco.com^
 ||wwarvlorkeww.top^
 ||wwarvlorobzw.top^
 ||wwbeqrhjwnijdk.com^
@@ -56730,6 +56736,7 @@ browsershots.org#@#.advert_area
 ||phosphatepossible.com^$popup
 ||phu1aefue.com^$popup
 ||phumpauk.com^$popup
+||phuthobsee.com^$popup
 ||pickaflick.co^$popup
 ||pierisrapgae.com^$popup
 ||pigletsmunsee.top^$popup

@@ -45222,6 +45222,7 @@ browsershots.org#@#.advert_area
 ||statsforads.com^
 ||statsmobi.com^
 ||staubsuthil.com^
+||staukaul.com^
 ||staumersleep.com^
 ||staunchchivied.top^
 ||staunchgenetwitch.com^
@@ -57372,6 +57373,7 @@ browsershots.org#@#.advert_area
 ||statestockingsconfession.com^$popup
 ||statistic-data.com^$popup
 ||statsmobi.com^$popup
+||staukaul.com^$popup
 ||stawhoph.com^$popup
 ||stellarmingle.store^$popup
 ||stemboastfulrattle.com^$popup

@@ -16550,6 +16550,7 @@ browsershots.org#@#.advert_area
 ||5cf8606941.com^
 ||5e1b8e9d68.com^
 ||5e6ef8e03b.com^
+||5ed55e7208.com^
 ||5eef1ed9ac.com^
 ||5f6dmzflgqso.com^
 ||5f6efdfc05.com^
@@ -19866,6 +19867,7 @@ browsershots.org#@#.advert_area
 ||baiweero.com^
 ||baiweluy.com^
 ||baiwhuga.net^
+||bajowsxpy.com^
 ||bakabok.com^
 ||bakatvackzat.com^
 ||bakeronerousfollowing.com^
@@ -33168,6 +33170,7 @@ browsershots.org#@#.advert_area
 ||kliqz.com^
 ||klisejrwgir.com^
 ||klixfeed.com^
+||klmmnd.com^
 ||klmrgtvjeiea.com^
 ||klonedaset.org^
 ||kloperd.com^
@@ -36076,6 +36079,7 @@ browsershots.org#@#.advert_area
 ||mucinyak.com^
 ||muckilywayback.top^
 ||mucopussamkhya.com^
+||mucvvcbqrwfmir.com^
 ||mudbankoxfords.top^
 ||muddiedbubales.com^
 ||muddyharold.com^
@@ -38268,6 +38272,7 @@ browsershots.org#@#.advert_area
 ||ossyfirecpo.com^
 ||ostazvtx.com^
 ||ostensiblecompetitive.com^
+||ostfuwdmiohg.com^
 ||ostilllookinga.cc^
 ||ostlon.com^
 ||ostrichmustardalloy.com^
@@ -41069,6 +41074,7 @@ browsershots.org#@#.advert_area
 ||pweabzcatoh.com^
 ||pwmctl.com^
 ||pwrgrowthapi.com^
+||pwuzvbhf.com^
 ||pwwjuyty.com^
 ||pwwqkppwqkezqer.site^
 ||pwxerujvl.com^
@@ -41388,6 +41394,7 @@ browsershots.org#@#.advert_area
 ||qualifiedhead.pro^
 ||qualifyundeniable.com^
 ||qualitiesstopsallegiance.com^
+||qualityadverse.com^
 ||qualitydestructionhouse.com^
 ||qualityremaining.com^
 ||qualitysquashwin.com^
@@ -49877,6 +49884,7 @@ browsershots.org#@#.advert_area
 ||whoognoz.com^
 ||whookrair.xyz^
 ||whookroo.com^
+||whoolrulr.net^
 ||whoomseezesh.com^
 ||whoopblew.com^
 ||whoostoo.net^
@@ -53847,6 +53855,7 @@ browsershots.org#@#.advert_area
 ||04424170.xyz^$document,popup
 ||05751c.site^$document,popup
 ||072551.xyz^$document,popup
+||07421283.xyz^$document,popup
 ||076f66b2.live^$document,popup
 ||07c225f3.online^$document,popup
 ||07e197.site^$document,popup
@@ -53952,6 +53961,7 @@ browsershots.org#@#.advert_area
 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site^$document,popup
 ||7fc8.site^$document,popup
 ||814272c4.xyz^$document,popup
+||83409127.xyz^$document,popup
 ||83761158.xyz^$document,popup
 ||83887336.xyz^$document,popup
 ||84631949.xyz^$document,popup
@@ -56952,6 +56962,7 @@ browsershots.org#@#.advert_area
 ||qr-captcha.com^$popup
 ||qrlsx.com^$popup
 ||qrprobopassor.com^$popup
+||qualityadverse.com^$popup
 ||qualitydating.top^$popup
 ||quarrelaimless.com^$popup
 ||questioningexperimental.com^$popup
@@ -57025,6 +57036,7 @@ browsershots.org#@#.advert_area
 ||refpa4293501.top^$popup
 ||refpabuyoj.top^$popup
 ||refpaikgai.top^$popup
+||refpamjeql.top^$popup
 ||refpasrasw.world^$popup
 ||refpaxfbvjlw.top^$popup
 ||refundsreisner.life^$popup

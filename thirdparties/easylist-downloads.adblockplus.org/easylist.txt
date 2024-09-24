@@ -29387,6 +29387,7 @@ browsershots.org#@#.advert_area
 ||greewaih.xyz^
 ||greewepi.net^
 ||greezoob.net^
+||grefaunu.com^
 ||grefutiwhe.com^
 ||grehtrsan.com^
 ||greltoat.xyz^
@@ -32106,6 +32107,7 @@ browsershots.org#@#.advert_area
 ||jaigaivi.xyz^
 ||jainapse.com^
 ||jainecizous.xyz^
+||jaineshy.com^
 ||jaipheeph.com^
 ||jajrlsaiboswdab.xyz^
 ||jakescribble.com^
@@ -55763,6 +55765,7 @@ browsershots.org#@#.advert_area
 ||greenplasticdua.com^$popup
 ||greenrecru.info^$popup
 ||greewepi.net^$popup
+||grefaunu.com^$popup
 ||grefutiwhe.com^$popup
 ||grewquartersupporting.com^$popup
 ||greygrid.net^$popup
@@ -56045,6 +56048,7 @@ browsershots.org#@#.advert_area
 ||jacksonduct.com^$popup
 ||jaclottens.live^$popup
 ||jads.co^$popup
+||jaineshy.com^$popup
 ||jamchew.com^$popup
 ||jamminds.com^$popup
 ||jamstech.store^$popup
@@ -69405,6 +69409,7 @@ yahoo.com##div[id*="ComboAd"]
 yahoo.com##div[id^="COMMENTSLDRB"]
 yahoo.com##div[id^="LeadAd-"]
 yahoo.com##div[id^="darla-ad"]
+yahoo.com##div[id^="defaultWFPAD"]
 yahoo.com##div[id^="gemini-item-"]
 yahoo.com##div[style*="/ads/"]
 yahoo.com##li[data-test-locator="stream-related-ad-item"]

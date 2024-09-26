@@ -5412,6 +5412,7 @@ omni.soundestlink.com$image
 ||simplycast.us^$third-party
 ||simplymeasured.com^$third-party
 ||singlefeed.com^$third-party
+||singular.net^$third-party
 ||sirdata.eu^$third-party
 ||sirdata.io^$third-party
 ||site24x7rum.com^$third-party
@@ -12615,6 +12616,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.palitra.ge^
 ||links.boom.ge^
 ! Greek
+||event-tracker-library.mediaownerscloud.com^
 ||glami.gr/js/compiled/pt.js
 ||kwikmotion.com^*/videojs-kwikstat.min.js
 ||stats-real-clients.zentech.gr^
@@ -52096,6 +52098,7 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||img.syosetu.org/js/c_
 ||j1.ax.xrea.com^
 ||k-crm.jp/tracking.js
+||korewaeroi.com/fukugan_$subdocument
 ||link.tv-asahi.co.jp/tver/cookiesync?
 ||ln.ameba.jp^
 ||log-lb.skyperfectv.co.jp^

@@ -61291,6 +61291,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||forabodiesonly.com/mopar/sidebarbanners/
 ||fordforums.com.au/logos/
 ||forum.miata.net/sp/
+||framer.app^$domain=film-grab.com
 ||free-webhosts.com/images/a/
 ||freebookspot.club/vernambanner.gif
 ||freedownloadmanager.org/js/achecker.js
@@ -61583,6 +61584,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||s.radioreference.com/sm/$image
 ||s.yimg.com/zh/mrr/$image,domain=mail.yahoo.com
 ||saabsunited.com/wp-content/uploads/*banner
+||sasinator.realestate.com.au^
 ||sat-universe.com/wos2.png
 ||sat-universe.com/wos3.gif
 ||save-editor.com/b/in/ad/
@@ -66367,6 +66369,7 @@ ghanaweb.com##.med_rec_lg_min
 bleedingcool.com##.med_rect_wrapper
 ipwatchdog.com##.meda--sidebar-ad
 tasfia-tarbia.org##.media-links
+realestate.com.au##.media-viewer__sidebar
 picuki.me##.media-wrap-h12
 webmd.com##.medianet-ctr
 stealthoptional.com##.mediavine_blockAds

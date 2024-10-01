@@ -13140,6 +13140,7 @@ _800x80_
 ##.photoAd
 ##.photoad
 ##.phpads_container
+##.phpbb-ads-center
 ##.pix_adzone
 ##.placeholder-ad
 ##.placeholder-dfp

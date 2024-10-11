@@ -11134,6 +11134,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rltd.io/tags/
 ||roadster.com/roadster_dealer_analytics
 ||rodale.com/ga/
+||roomvo.com/services/event/
 ||route.com/collect
 ||routeapp.io/route-analytics/
 ||rs.sinajs.cn^
@@ -13222,6 +13223,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
 ||traffic.wdc.center^
+||web.tv/analytics/
 ! Ukranian
 ||informers.sinoptik.ua^
 ||top.zp.ua/counter/

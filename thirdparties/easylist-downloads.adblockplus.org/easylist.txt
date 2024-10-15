@@ -15862,7 +15862,7 @@ codedevstuff.blogspot.com,hassiweb-programming.blogspot.com#@#.vertical-ads
 ads.google.com,youtube.com#@#.video-ads
 javynow.com#@#.videos-ad
 elnuevoherald.com,sacbee.com#@#.wps-player-wrap
-gumtree.com.au#@#[data-ad-name]
+gumtree.com.au,s.tabelog.com#@#[data-ad-name]
 globsads.com#@#[href^="http://globsads.com/"]
 mypillow.com#@#[href^="http://mypillow.com/"] > img
 mypillow.com#@#[href^="http://www.mypillow.com/"] > img
@@ -65085,6 +65085,7 @@ advfn.com##.primis-container
 astrology.com##.primis-video-module-horoscope
 dicebreaker.com,rockpapershotgun.com##.primis_wrapper
 bostonagentmagazine.com##.prm1_w
+infoq.com##.prmsp
 setlist.fm##.prmtnMbanner
 setlist.fm##.prmtnTop
 computerweekly.com##.pro-downloads-home
@@ -65172,6 +65173,7 @@ fastcompany.com##.py-8
 onlyinyourstate.com##.py-8.md\:flex
 pymnts.com##.pymnt_ads
 euronews.com##.qa-dfpLeaderBoard
+infoq.com##.qcon_banner
 thegatewaypundit.com##.qh1aqgd
 revolution935.com##.qt-sponsor
 coingape.com,dailyboulder.com,townflex.com##.quads-location

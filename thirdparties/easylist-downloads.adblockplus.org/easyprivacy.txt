@@ -5065,7 +5065,6 @@ omni.soundestlink.com$image
 ||perfiliate.com^$third-party
 ||perfops.io^$third-party
 ||performancerevenues.com^$third-party
-||perimeterx.net^$third-party
 ||perion.com^$third-party
 ||perljs.com^$third-party
 ||permutive.com^$third-party
@@ -9841,6 +9840,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||client-analytics.braintreegateway.com^
 ||client-logger.beta.salemove.com^
 ||client-logger.salemove.com^
+||client.perimeterx.net^
 ||clinch.co/a_js/client_pixels/
 ||clipsyndicate.com/cs_api/cliplog?
 ||clixtell.com/track.js
@@ -10948,6 +10948,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||perf.hsforms.com^
 ||perfops.net/rom3/
 ||performgroup.com/metrics/
+||perimeterx.net/api/v1/collector/
 ||perr.h-cdn.com^
 ||perso.aws.arc.pub^
 ||petametrics.com^$domain=meidastouch.com

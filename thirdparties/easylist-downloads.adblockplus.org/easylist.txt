@@ -1029,8 +1029,10 @@ _widget_ad.
 /beardeddragon/armadillo.js$script
 /beardeddragon/drake.js$script
 /beardeddragon/gilamonster.js$script
+/beardeddragon/iguana.js$script
 /beardeddragon/tortoise.js$script
 /beardeddragon/turtle.js$script
+/beardeddragon/wyvern.js$script
 /detroitchicago/anaheim.js$script
 /detroitchicago/augusta.js$script
 /detroitchicago/boise.js$script
@@ -1066,6 +1068,7 @@ _widget_ad.
 /parsonsmaize/mulvane.js$script
 /parsonsmaize/olathe.js$script
 /tardisrocinante/austin.js$script
+/tardisrocinante/surgeonv2.js$script
 /tardisrocinante/vitals.js$script
 ! prebid scripts
 -dfp-prebid-
@@ -48364,6 +48367,7 @@ browsershots.org#@#.advert_area
 ||03180d2d.live^$document,popup
 ||0395d1.xyz^$document,popup
 ||04424170.xyz^$document,popup
+||05420795.xyz^$document,popup
 ||05751c.site^$document,popup
 ||072551.xyz^$document,popup
 ||07421283.xyz^$document,popup
@@ -53560,7 +53564,6 @@ browsershots.org#@#.advert_area
 ||glam.com/gad/
 ||go.affiliatesleague.com^
 ||go.bloxplay.com^
-||go.ezodn.com^
 ||go.onelink.me^$image,script
 ||goldmoney.com/~/media/Images/Banners/
 ||google.com/adsense/domains/caf.js
@@ -62389,6 +62392,7 @@ vox.com##[data-concert="leaderboard_top_tablet_desktop"]
 vox.com##[data-concert="outbrain_post_tablet_and_desktop"]
 curbed.com##[data-concert="prelude"]
 vox.com##[data-concert="tablet_leaderboard"]
+polygon.com##[data-concert]
 timesofindia.indiatimes.com##[data-contentprimestatus]
 coingecko.com##[data-controller="button-ads"]
 hedgefollow.com##[data-dee_type^="large_banner"]
@@ -63457,6 +63461,7 @@ popularmechanics.com##[class] > :has(> #article-marketplace-horizontal)
 popularmechanics.com##[class] > :has(> #gpt-ad-vertical-bottom)
 avclub.com,gizmodo.com,jalopnik.com,kotaku.com,theonion.com,theroot.com##[class] > div:has(> [is="bulbs-dfp"])
 fortune.com##[class]:has(> #Leaderboard0)
+polygon.com##[class]:has(> [data-concert])
 thrillist.com##[class^="Container__GridRow-sc-"]:has(> .concert-ad)
 skyscanner.com##[class^="FlightsResults"] > div:has([class^="Sponsored"])
 petco.com##[class^="citrus-carousel-"]:has([class^="carousel__Sponsored"])
@@ -63909,7 +63914,6 @@ history.com##.m-balloon-header--ad
 history.com##.m-in-content-ad
 history.com##.m-in-content-ad-row
 spiegel.de##.ob-dynamic-rec-container.ob-p
-impartialreporter.com,polygon.com##.ob-smartfeed-wrapper
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##.results--ads
 mail.google.com##a[href^="http://li.blogtrottr.com/click?"]
 geekzone.co.nz##div.cornered.box > center

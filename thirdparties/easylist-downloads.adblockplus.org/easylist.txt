@@ -17299,6 +17299,7 @@ browsershots.org#@#.advert_area
 ||adpod.in^
 ||adpointrtb.com^
 ||adpone.com^
+||adpresenter.de^
 ||adqit.com^
 ||adquery.io^
 ||adrcdn.com^
@@ -19890,6 +19891,7 @@ browsershots.org#@#.advert_area
 ||bigheartedresentfulailment.com^
 ||bigneptunesept.com^
 ||bigrourg.net^
+||bigstoreminigames.space^
 ||bigvids.online^
 ||bigvids.space^
 ||bihunekus.com^
@@ -44528,6 +44530,7 @@ browsershots.org#@#.advert_area
 ||waistcoataskeddone.com^
 ||waistdeafgeorgiana.com^
 ||wait4hour.info^
+||waitedprowess.com^
 ||waiterregistrydelusional.com^
 ||waitheja.net^
 ||waiting.biz^

@@ -23349,6 +23349,7 @@ browsershots.org#@#.advert_area
 ||detectedadvancevisiting.com^
 ||detectedpectoral.com^
 ||detectiveestrange.com^
+||detectivegrilled.com^
 ||detectivesbaseballovertake.com^
 ||detectivesexception.com^
 ||detectivespreferably.com^
@@ -27453,6 +27454,7 @@ browsershots.org#@#.advert_area
 ||goufldsbktds.com^
 ||gouheethsurvey.space^
 ||gounevou.net^
+||gounodogaptofok.net^
 ||gourgoldpieceso.com^
 ||gousouse.com^
 ||goutee.top^
@@ -30825,6 +30827,7 @@ browsershots.org#@#.advert_area
 ||kq272lw4c.com^
 ||kqbjdvighp.com^
 ||kqduogttdmryguw.com^
+||kqhgjmap.com^
 ||kqhi97lf.de^
 ||kqiivrxlal.xyz^
 ||kqjpipl.com^
@@ -33983,6 +33986,7 @@ browsershots.org#@#.advert_area
 ||novadune.com^
 ||novel-inevitable.com^
 ||novelcompliance.com^
+||novelslopeoppressive.com^
 ||novelty.media^
 ||noveltyensue.com^
 ||novemberadventures.com^
@@ -34139,6 +34143,7 @@ browsershots.org#@#.advert_area
 ||nv3tosjqd.com^
 ||nvane.com^
 ||nvjgmugfqmffbgk.xyz^
+||nvlcnvyqvpjppi.xyz^
 ||nvtvssczb.com^
 ||nvuwqcfdux.xyz^
 ||nvzaezebhow.com^
@@ -34701,6 +34706,7 @@ browsershots.org#@#.advert_area
 ||onmanectrictor.com^
 ||onmantineer.com^
 ||onmarshtompor.com^
+||onoamoutsaitsy.net^
 ||onpluslean.com^
 ||onpsrrejx.com^
 ||onraltstor.com^
@@ -35809,6 +35815,7 @@ browsershots.org#@#.advert_area
 ||petrifacius.com^
 ||petrolgraphcredibility.com^
 ||petsavoury.com^
+||pettyachras.shop^
 ||pexkmaebfy.xyz^
 ||pexuvais.net^
 ||pezoomsekre.com^
@@ -40957,6 +40964,7 @@ browsershots.org#@#.advert_area
 ||statsforads.com^
 ||statsmobi.com^
 ||staubsuthil.com^
+||staugloobads.net^
 ||staukaul.com^
 ||staumersleep.com^
 ||staunchgenetwitch.com^
@@ -44486,6 +44494,7 @@ browsershots.org#@#.advert_area
 ||vuftouks.com^
 ||vufzuld.com^
 ||vugnubier.com^
+||vugpakba.com^
 ||vuhnvtrfj.com^
 ||vuiluaz.xyz^
 ||vujriahqyleveh.com^
@@ -44506,6 +44515,7 @@ browsershots.org#@#.advert_area
 ||vvehvch.com^
 ||vvpojbsibm.xyz^
 ||vvprcztaw.com^
+||vvvvdbrrt.com^
 ||vwagkipi.com^
 ||vwchbsoukeq.xyz^
 ||vwdtyjygxap.com^
@@ -51254,6 +51264,7 @@ browsershots.org#@#.advert_area
 ||notoings.com^$popup
 ||nougacoush.com^$popup
 ||noughttrustthreshold.com^$popup
+||novelslopeoppressive.com^$popup
 ||november-sin.com^$popup
 ||novibet.partners^$popup
 ||novitrk7.com^$popup
@@ -52728,6 +52739,7 @@ browsershots.org#@#.advert_area
 ||webtrackerplus.com^$popup
 ||wecouldle.com^$popup
 ||weezoptez.net^$popup
+||wejeestuze.net^$popup
 ||welcomeneat.pro^$popup
 ||welfarefit.com^$popup
 ||welfaremarsh.com^$popup
@@ -59008,7 +59020,7 @@ moviechat.org##.adc
 boards.4channel.org##.adc-resp
 boards.4channel.org##.adc-resp-bg
 ar15.com##.adcol
-ancient.eu,fanatix.com,gamertweak.com,gematsu.com,videogamemods.com,worldhistory.org##.adcontainer
+ancient.eu,fanatix.com,gamertweak.com,gematsu.com,videogamemods.com,videogameschronicle.com,worldhistory.org##.adcontainer
 sumanasa.com##.adcontent
 thegatewaypundit.com##.adcovery
 thegatewaypundit.com##.adcovery-home-01
@@ -61218,6 +61230,7 @@ sammobile.com##.news-for-you-wrapper
 myflixer.to##.news-iframe
 blabbermouth.net##.news-single-ads
 dailysocial.id##.news__detail-ads-subs
+newskarnataka.com##.newsk-target
 firstpost.com##.newtopadd
 moddb.com##.nextmediaboxtop
 nhl.com##.nhl-c-editorial-list__mrec

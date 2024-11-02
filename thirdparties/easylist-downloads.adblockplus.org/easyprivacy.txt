@@ -39315,6 +39315,7 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ! ||medlemskap.fagforbundet.no^
 ! ||go.oracle.com^
 ! ||info.medtronicdiabetes.com^
+! ||info.mouser.com^
 !
 ||10stepswp.advancedtech.com^
 ||1stparty.equifax.co.uk^
@@ -42012,7 +42013,6 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||info.metronetbusiness.com^
 ||info.metronetinc.com^
 ||info.mkt.global.dnp.co.jp^
-||info.mouser.com^
 ||info.multiburo.com^
 ||info.natera.com^
 ||info.neg.co.jp^

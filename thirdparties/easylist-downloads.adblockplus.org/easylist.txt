@@ -60230,8 +60230,6 @@ pigglywigglystores.com##.fp-item:has(.fp-tag-ad)
 slickdeals.net##.frontpageGrid__feedItem:has(.dealCardBadge--promoted)
 tumblr.com##.ge_yK:has(.hM19_)
 bestbuy.com##.generic-morpher:has(.spns-label)
-cults3d.com##.grid--guttered:has(a[href^="https://bit.ly/"])
-cults3d.com##.grid--guttered:has(a[href^="https://revo.ink/"])
 canberratimes.com.au##.h-\[50px\]
 fortune.com##.homepage:has(> div[id^="InStream"])
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##.hrHZYT:has([data-testid="popoverTriggersponsoredLabel"])
@@ -60583,6 +60581,7 @@ washingtonexaminer.com##.bridtv
 gizmodo.com.au,kotaku.com.au,lifehacker.com.au,pedestrian.tv##.brightcove-video-container
 cnet.com,zdnet.com##.c-avStickyVideo
 stuff.tv##.c-squirrel-embed
+cartoonbrew.com##.cb-ad
 rd.com##.cnx-inline-player-wrapper
 mb.com.ph##.code-block
 techwalla.com##.component-article-section-jwplayer-wrapper
@@ -61623,6 +61622,7 @@ missav.ai,missav.com,missav.ws,missav123.com,missav789.com,myav.com##.lg\:hidden
 xxxvogue.net##.link-adv
 escortnews.eu,topescort.com##.link-buttons-container
 fapnfuck.com##.link-offer
+boyfriendtv.com##.live-cam-popunder
 spankbang.com##.live-rotate
 alloldpics.com,sexygirlspics.com##.live-spot
 spankbang.com##.livecam-rotate

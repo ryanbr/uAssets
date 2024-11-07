@@ -52816,6 +52816,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||dsp.aparat.com^
 ||duplichecker.com/csds/
 ||e.cdngeek.com^
+||earth.cointelegraph.com^
 ||easymp3mix.com/js/re-ads-zone.js
 ||ebay.com/scl/js/ScandalLoader.js
 ||ebayrtm.com/rtm?RtmCmd*&enc=
@@ -57513,6 +57514,7 @@ anime-planet.com##.halo
 cyclonis.com##.has-banner
 whistleout.com.au##.has-hover
 defence-industry.eu##.has-small-font-size.has-text-align-center
+apps.npr.org##.has-sponsorship
 tomsguide.com##.hawk-main-editorialised
 techradar.com##.hawk-main-editorialized
 tomsguide.com##.hawk-master-widget-hawk-main-wrapper

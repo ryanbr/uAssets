@@ -26322,6 +26322,7 @@ browsershots.org#@#.advert_area
 ||glimpsemankind.com^
 ||glimtors.net^
 ||glipigaicm.net^
+||gliptoacaft.net^
 ||glistening-novel.pro^
 ||glitteringinsertsupervise.com^
 ||glitteringobsessionchanges.com^
@@ -47655,6 +47656,7 @@ browsershots.org#@#.advert_area
 ||glersakr.com^$popup
 ||glersooy.net^$popup
 ||glimpsemankind.com^$popup
+||gliptoacaft.net^$popup
 ||glizauvo.net^$popup
 ||globaladblocker.com^$popup
 ||globaladblocker.net^$popup

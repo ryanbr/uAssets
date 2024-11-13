@@ -2476,6 +2476,7 @@
 /utag.loader.js
 /utag.sync.js
 /utag_data.js
+/utiqloader.js
 /utm-tracking.js
 /utm.gif?
 /utm_cookie.js
@@ -2728,7 +2729,6 @@
 ://tracking.*/beacon/
 ://tracking.*/event
 ?[AQB]&ndh=1&t=
-?act=counter&
 ?action=event&
 ?action=impression&
 ?action=log_promo_impression
@@ -13619,6 +13619,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cnt.xhamster.com^
 ||codecademy.com/analytics/
 ||coincheckup.com/report_events/
+||coincodex.com/cdn-cgi/trace
 ||cointelegraph.com/pixel?
 ||collect.air1.com^
 ||collect.alipay.com^
@@ -14053,6 +14054,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||info.com/pingback
 ||infoq.com/metrics/
 ||informer.com/ajax/article_log.php
+||ingest.coincodex.com^
 ||ingest.make.rvohealth.com^
 ||ingress.linktr.ee^
 ||inq.com/tagserver/logging/logline

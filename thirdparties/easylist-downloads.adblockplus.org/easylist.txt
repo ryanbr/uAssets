@@ -15233,6 +15233,8 @@ _800x80_
 ##.gnt_x
 ##.gnt_x__lbl
 ##.gnt_xmst
+! people.com/ seriouseats.com
+##.mntl-jwplayer-broad.article__broad-video-jw
 ! (invideo advertising)
 ###Player_Playoncontent
 ###Player_Playoncontent_footer
@@ -22362,6 +22364,7 @@ browsershots.org#@#.advert_area
 ||cryingforanythi.com^
 ||cryjun.com^
 ||cryorganichash.com^
+||crypto-ads.net^
 ||cryptoatom.care^
 ||cryptobeneluxbanner.care^
 ||cryptomaster.care^
@@ -55917,7 +55920,6 @@ colourlovers.com###sponsors-links
 ourworldofenergy.com###sponsors_container
 rent.ie###sresult_banner
 tokder.org###ssss
-bizarrepedia.com###stack > .ln-thr
 torrentgalaxy.to###startad
 geekwire.com###startup-resources-sidebar
 newcartestdrive.com###static-asset-placeholder-2
@@ -58199,7 +58201,6 @@ ndtv.com##.hmpage_rhs
 seattlepi.com##.hnpad-Flex1
 seattlepi.com##.hnpad-Inline
 cryptorank.io##.hofjwZ
-bizarrepedia.com##.holder
 radiocaroline.co.uk,wishesh.com##.home-banner
 manutd.com##.home-content-panel__sponsor
 pcgamingwiki.com##.home-gamesplanet-promo
@@ -59634,7 +59635,6 @@ phonearena.com##.spot-sticky-container
 freepik.com##.spr-adblock
 freepik.com##.spr-plc
 gemoo.com##.sprtadv
-bizarrepedia.com##.spsnrd
 collive.com##.spu-bg
 collive.com##.spu-box
 motorauthority.com##.sq-block
@@ -62111,7 +62111,6 @@ petco.com#?#[class^="CitrusCatapult-styled__LeftContent"]:-abp-has(div:-abp-cont
 petco.com#?#[class^="HorizontalWidget"]:-abp-has(div:-abp-contains(Sponsored))
 petco.com#?#li:-abp-contains(Sponsored)
 bitchute.com#?#.row.justify-center:-abp-contains(Advertisement)
-rawstory.com#?#.body-description > div:-abp-contains(ADVERTISEMENT)
 regex101.com#?#div > header + div > div + div:-abp-contains(Sponsors)
 search.yahoo.com#?#div.mb-28:-abp-has(span:-abp-contains(Ads))
 seattleweekly.com#?#.marketplace-row:-abp-contains(Sponsored)

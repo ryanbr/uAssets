@@ -45694,6 +45694,7 @@ browsershots.org#@#.advert_area
 ||germaniavid.com^$third-party
 ||girls.xyz^$third-party
 ||goadserver.com^$third-party
+||goclicknext.com^$third-party
 ||gourmetads.com^$third-party
 ||gplinks.in^$third-party
 ||grabo.bg^$third-party
@@ -55639,7 +55640,7 @@ hackerbot.net###madiv
 hackerbot.net###madiv2
 hackerbot.net###madiv3
 animehub.ac###main-content > center
-slashdot.org###main-nav-badge
+slashdot.org###main-nav-badge-link
 proprivacy.com###main-popup
 w3big.com,w3schools.com###mainLeaderboard
 express.co.uk###mantis-recommender-placeholder
@@ -58357,6 +58358,7 @@ darkreader.org##.instinctools
 flixboss.com##.instream-dynamic
 lol.ps##.instream-video-ad
 capitalfm.com##.instream_item
+dermstore.com,lookfantastic.com##.integration-sponsored-ads-pdp-container
 coincarp.com##.interact-mobileBox
 monochrome-watches.com##.interscroll
 mrctv.org,newsbusters.org##.intranet-mid-size
@@ -59634,6 +59636,7 @@ washingtontimes.com##.sponsored-heading
 itweb.co.za##.sponsored-highlights
 breakingdefense.com##.sponsored-inline
 freesvg.org##.sponsored-main-detail
+dermstore.com,lookfantastic.com##.sponsored-product-plp
 justwatch.com##.sponsored-recommendation
 crn.com##.sponsored-resources
 search.brave.com##.sponsored-unit_wrapper

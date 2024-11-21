@@ -339,7 +339,7 @@
 /advert?
 /advertising/banners/*$image
 /advertisment/*$~image
-/adverts.$~script,domain=~0xacab.org|~adverts.ie|~adverts.org.ua|~github.com|~gitlab.com
+/adverts.$~script,~xmlhttprequest,domain=~0xacab.org|~adverts.ie|~adverts.org.ua|~github.com|~gitlab.com
 /adverts/*$~xmlhttprequest
 /advrotator_banner_largo.htm$subdocument
 /adz/js/adz.$script
@@ -17780,6 +17780,7 @@ browsershots.org#@#.advert_area
 ||ailteesh.net^
 ||aimairou.net^
 ||aimatch.com^
+||aimaunongeez.net^
 ||aimpocket.com^
 ||aimukreegee.net^
 ||aintydevelelastic.com^
@@ -20531,6 +20532,7 @@ browsershots.org#@#.advert_area
 ||bulserv.com^
 ||bultaika.net^
 ||bulyiel.com^
+||bumaqblyqviw.fun^
 ||bumblecash.com^
 ||bumlabhurt.live^
 ||bummerentertain.com^
@@ -22468,6 +22470,7 @@ browsershots.org#@#.advert_area
 ||customernormallyseventh.com^
 ||customsalternative.com^
 ||customselliot.com^
+||cuteab.com^
 ||cutelylookups.shop^
 ||cuterbond.com^
 ||cutescale.online^
@@ -24111,6 +24114,7 @@ browsershots.org#@#.advert_area
 ||eegookiz.com^
 ||eegroosoad.com^
 ||eeheersoat.com^
+||eehir.tech^
 ||eehuzaih.com^
 ||eekeeghoolsy.com^
 ||eekreeng.com^
@@ -27503,6 +27507,7 @@ browsershots.org#@#.advert_area
 ||hhklc.com^
 ||hhkld.com^
 ||hhmako.cloud^
+||hhndmpql.com^
 ||hhrmmwdep.com^
 ||hhuohqramjit.com^
 ||hhvbdeewfgpnb.xyz^
@@ -29144,6 +29149,7 @@ browsershots.org#@#.advert_area
 ||jjrvlrslb.com^
 ||jjthmis.com^
 ||jjtnadbcbovqarv.xyz^
+||jjvpbstg.com^
 ||jk4lmrf2.de^
 ||jkha742.xyz^
 ||jklpy.com^
@@ -29782,6 +29788,7 @@ browsershots.org#@#.advert_area
 ||ksnbiepnvjdi.com^
 ||ksnbtmz.com^
 ||ksnooastqr.xyz^
+||kspmaaiayadg.com^
 ||kstjqjuaw.xyz^
 ||ksykbucea.com^
 ||ksyompbwor.xyz^
@@ -34561,6 +34568,7 @@ browsershots.org#@#.advert_area
 ||photographcrushingsouvenirs.com^
 ||photographerinopportune.com^
 ||photographyprovincelivestock.com^
+||phouckusogh.net^
 ||phoulade.xyz^
 ||phoutchounse.com^
 ||phouvemp.net^
@@ -35311,6 +35319,7 @@ browsershots.org#@#.advert_area
 ||privateappealingsymphony.com^
 ||privatedqualizebrui.info^
 ||privatelydevotionrewind.com^
+||privilegedmansfieldvaguely.com^
 ||privilegedvitaminimpassable.com^
 ||privilegeinjurefidelity.com^
 ||privilegest.com^
@@ -38318,6 +38327,7 @@ browsershots.org#@#.advert_area
 ||shoessaucepaninvoke.com^
 ||shokala.com^
 ||sholke.com^
+||sholraidsoalro.net^
 ||shomsouw.xyz^
 ||shonetransmittedfaces.com^
 ||shonevegetable.com^
@@ -41997,6 +42007,7 @@ browsershots.org#@#.advert_area
 ||vatcertaininject.com^
 ||vaugroar.com^
 ||vaukoloon.net^
+||vauloops.net^
 ||vaultmultiple.com^
 ||vaultwrite.com^
 ||vavcashpop.com^
@@ -42932,6 +42943,7 @@ browsershots.org#@#.advert_area
 ||wheeledfunctionstruthfully.com^
 ||wheelsbullyingindolent.com^
 ||wheelscomfortlessrecruiting.com^
+||wheelsetsur.net^
 ||wheelssightsdisappointed.com^
 ||wheelstweakautopsy.com^
 ||wheempet.xyz^
@@ -47634,6 +47646,7 @@ browsershots.org#@#.advert_area
 ||cuevastrck.com^$popup
 ||cullemple-motline.com^$popup
 ||curvyalpaca.cc^$popup
+||cuteab.com^$popup
 ||cvastico.com^$popup
 ||cwn0drtrk.com^$popup
 ||cyan92010.com^$popup
@@ -49353,6 +49366,7 @@ browsershots.org#@#.advert_area
 ||princesinistervirus.com^$popup
 ||privacysafeguard.net^$popup
 ||privatedqualizebrui.info^$popup
+||privilegedmansfieldvaguely.com^$popup
 ||privilegest.com^$popup
 ||prizetopsurvey.top^$popup
 ||prjcq.com^$popup
@@ -49576,6 +49590,7 @@ browsershots.org#@#.advert_area
 ||rkatamonju.info^$popup
 ||rkskillsombineukd.com^$popup
 ||rmaticalacm.info^$popup
+||rmhfrtnd.com^$popup
 ||rmzsglng.com^$popup
 ||rndhaunteran.com^$popup
 ||rndmusharnar.com^$popup

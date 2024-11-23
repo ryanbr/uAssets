@@ -470,7 +470,6 @@
 /fgh1ijKl.js$script
 /flashad.asp$subdocument
 /flashad.js$script
-/fleshlight.$domain=~fleshlight.com|~fleshlight.zendesk.com
 /float_ad.js$script
 /floatads.$script
 /floating-ad-rotator-$script,stylesheet
@@ -19671,6 +19670,7 @@ browsershots.org#@#.advert_area
 ||besteasyclick.com^
 ||bestevermotorie.com^
 ||bestexp1.com^
+||bestfuckapps.com^
 ||bestfunnyads.com^
 ||bestladymeet.life^
 ||bestloans.tips^
@@ -24844,6 +24844,7 @@ browsershots.org#@#.advert_area
 ||exposureawelessawelessladle.com^
 ||expressalike.com^
 ||expressingblossomjudicious.com^
+||expressmealdelivery.shop^
 ||expressproducer.com^
 ||exptlgooney.com^
 ||expulsionfluffysea.com^
@@ -34701,6 +34702,7 @@ browsershots.org#@#.advert_area
 ||pinttalewag.com^
 ||pioneercomparatively.com^
 ||pioneerusual.com^
+||piotyo.xyz^
 ||piouscheers.com^
 ||piouspoemgoodnight.com^
 ||pip-pip-pop.com^
@@ -43797,6 +43799,7 @@ browsershots.org#@#.advert_area
 ||yaxgszv.com^
 ||yazuda.xyz^
 ||ybhyziittfg.com^
+||ybnksajy.com^
 ||ybriifs.com^
 ||ybs2ffs7v.com^
 ||ybtkzjm.com^
@@ -44088,6 +44091,7 @@ browsershots.org#@#.advert_area
 ||zavoxlquwb.com^
 ||zaxonoax.com^
 ||zcaadfl.com^
+||zcaappcthktx.com^
 ||zchtpzu.com^
 ||zcode12.me^
 ||zcode7.me^
@@ -56876,6 +56880,7 @@ radaris.com##.adsense-responsive-bottom
 temporary-phone-number.com##.adsense-top-728
 101soundboards.com##.adsense_matched_content
 awesomeopensource.com##.adsense_uas
+libble.eu##.adserver-container
 bolnews.com##.adsheading
 nepallivetoday.com##.adsimage
 search.b1.org##.adslabel

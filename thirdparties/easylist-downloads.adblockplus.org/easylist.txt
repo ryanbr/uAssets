@@ -20350,6 +20350,7 @@ browsershots.org#@#.advert_area
 ||bulginglair.com^
 ||bulgingquintet.top^
 ||bulkaccompanying.com^
+||bulkagetufas.com^
 ||bulkconflictpeculiarities.com^
 ||bulkd.co^
 ||bulky-battle.com^
@@ -23102,6 +23103,7 @@ browsershots.org#@#.advert_area
 ||discussedpliant.com^
 ||discussingmaze.com^
 ||disdainsneeze.com^
+||disdeinrechar.top^
 ||diseaseexternal.com^
 ||diseaseplaitrye.com^
 ||disembarkappendix.com^
@@ -25243,6 +25245,7 @@ browsershots.org#@#.advert_area
 ||fluidintolerablespectacular.com^
 ||fluingdulotic.com^
 ||flukepopped.com^
+||flungsnibble.com^
 ||fluqualificationlarge.com^
 ||flurrylimmu.com^
 ||flushconventional.com^
@@ -26607,6 +26610,7 @@ browsershots.org#@#.advert_area
 ||grfpr.com^
 ||gribseep.net^
 ||gridder.co^
+||gridedloamily.top^
 ||gridrelay27.co^
 ||grievethereafter.com^
 ||griftedhindoo.com^
@@ -27701,6 +27705,7 @@ browsershots.org#@#.advert_area
 ||hyelgehg.xyz^
 ||hyfvlxm.com^
 ||hygeistagua.com^
+||hygricurceole.com^
 ||hyistkechaukrguke.com^
 ||hymenvapour.com^
 ||hymnramoon.click^
@@ -30162,6 +30167,7 @@ browsershots.org#@#.advert_area
 ||longingarsonistexemplify.com^
 ||longlakeweb.com^
 ||longmansuchcesu.info^
+||loobilysubdebs.com^
 ||loodauni.com^
 ||loohiwez.net^
 ||lookandfind.me^
@@ -30606,6 +30612,7 @@ browsershots.org#@#.advert_area
 ||malljazz.com^
 ||malnutritionbedroomtruly.com^
 ||malnutritionvisibilitybailiff.com^
+||malokgr.com^
 ||malowbowohefle.info^
 ||maltcontaining.com^
 ||malthaeurite.com^
@@ -34413,6 +34420,7 @@ browsershots.org#@#.advert_area
 ||plumberwolves.com^
 ||plumbfullybeehive.com^
 ||plumbsplash.com^
+||plummychewer.com^
 ||plumpcontrol.pro^
 ||plumpdianafraud.com^
 ||plumpdisobeyastronomy.com^
@@ -35310,6 +35318,7 @@ browsershots.org#@#.advert_area
 ||puerty.com^
 ||puffingtiffs.com^
 ||pugdisguise.com^
+||pugmarktagua.com^
 ||pugsgivehugs.com^
 ||puhrzvjuzb.com^
 ||puhtml.com^
@@ -38866,6 +38875,7 @@ browsershots.org#@#.advert_area
 ||stixeepou.com^
 ||stoachaigog.com^
 ||stoadivap.com^
+||stoaglauksargoo.xyz^
 ||stoagnejums.net^
 ||stoagouruzostee.net^
 ||stoaphalti.com^
@@ -39267,6 +39277,7 @@ browsershots.org#@#.advert_area
 ||svyksa.info^
 ||swagtraffcom.com^
 ||swailcoigns.com^
+||swailssourer.com^
 ||swalessidi.com^
 ||swallowaccidentdrip.com^
 ||swallowhairdressercollect.com^
@@ -39409,6 +39420,7 @@ browsershots.org#@#.advert_area
 ||tagmai.xyz^
 ||tagoutlookignoring.com^
 ||tagroors.com^
+||tagruglegni.net^
 ||tahrsli.com^
 ||tahwox.com^
 ||taicheetee.com^
@@ -41741,6 +41753,7 @@ browsershots.org#@#.advert_area
 ||visionchillystatus.com^
 ||visitcrispgrass.com^
 ||visitedquarrelsomemeant.com^
+||visiterpoints.com^
 ||visithaunting.com^
 ||visitingheedlessexamine.com^
 ||visitingpurrplight.com^
@@ -56878,6 +56891,7 @@ giveawayoftheday.com##.center_ab
 mirrored.to##.centered > form[target^="_blank"]
 whattomine.com##.centered-image-short
 spiceworks.com##.centerthe1
+ceo.ca##.ceoBanner
 digminecraft.com##.cf47a252
 top.gg##.chakra-stack.css-15xujv4
 tlgrm.eu##.channel-card--promoted

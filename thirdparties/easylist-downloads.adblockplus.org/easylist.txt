@@ -16398,6 +16398,7 @@ browsershots.org#@#.advert_area
 ||6179b859b8.com^
 ||61t2ll6yy.com^
 ||61zdn1c9.skin^
+||62a77005fb.com^
 ||62ca04e27a.com^
 ||63912b9175.com^
 ||639c909d45.com^
@@ -29608,6 +29609,7 @@ browsershots.org#@#.advert_area
 ||lamplynx.com^
 ||lamppostharmoniousunaware.com^
 ||lampshademirror.com^
+||lamrissmyol.com^
 ||lanceforthwith.com^
 ||landelcut.com^
 ||landitmounttheworld.com^

@@ -14544,6 +14544,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rvo-cohesion.healthline.com^
 ||s.gofile.io^
 ||s.infogram.com^
+||s.pie.org^
 ||s.smallpdf.com/static/track-js-
 ||s.wayfair.com^
 ||sa.uswitch.com^

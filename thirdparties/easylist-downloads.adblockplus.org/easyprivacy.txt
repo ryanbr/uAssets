@@ -2660,6 +2660,7 @@
 /wtid.js
 /wtinit.js
 /wtrack?event=
+/wup?cid=
 /wwwcount.cgi?
 /wxhawkeye.js
 /wysistat.js
@@ -51616,6 +51617,8 @@ mustar.meitetsu.co.jp##body[style="opacity: 0;"]:style(opacity: 1 !important;)
 ||tracking.zierlicheladies.de^
 ||tracksrv.zdf.de^
 ||ui-portal.de/pos-cdn/tracklib/
+||united.web.de/confirm?
+||united.web.de/event?
 ||vfd2dyn.vodafone.de^
 ||vinted.de/relay/events
 ||wa.gmx.ch^

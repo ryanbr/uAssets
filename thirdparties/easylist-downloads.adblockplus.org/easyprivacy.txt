@@ -5096,7 +5096,6 @@ omni.soundestlink.com$image
 ||phone-analytics.com^$third-party
 ||photorank.me^$third-party
 ||pi-stats.com^$third-party
-||pikapod.net^$third-party
 ||ping-fast.com^$third-party
 ||pingdom.net^$third-party
 ||pingil.com^$third-party
@@ -11033,6 +11032,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||piano.io/api/v3/customform/log/impression
 ||piano.io/tracker/
 ||pico.tools/metrics/
+||pikapod.net/script.js
 ||ping-admin.ru^$third-party
 ||ping.dozuki.com^
 ||ping.fastsimon.com^

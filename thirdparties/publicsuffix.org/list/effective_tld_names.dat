@@ -5,8 +5,8 @@
 // Please pull this list from, and only from https://publicsuffix.org/list/public_suffix_list.dat,
 // rather than any other VCS sites. Pulling from any other URL is not guaranteed to be supported.
 
-// VERSION: 2025-01-09_15-50-32_UTC
-// COMMIT: d283cf7b0d097b0ac17b59e984e25827b91d4e69
+// VERSION: 2025-01-10_10-28-58_UTC
+// COMMIT: b067df3f267dc1233e27e2d4d37c470886861370
 
 // Instructions on pulling and using this list can be found at https://publicsuffix.org/list/.
 
@@ -6274,7 +6274,9 @@ tec.ve
 web.ve
 
 // vg : https://www.iana.org/domains/root/db/vg.html
+// Confirmed by registry <tld.ops@centralnic.com> 2025-01-10
 vg
+edu.vg
 
 // vi : https://www.iana.org/domains/root/db/vi.html
 vi

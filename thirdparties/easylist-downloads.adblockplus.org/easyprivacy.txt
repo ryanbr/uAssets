@@ -7944,6 +7944,7 @@ omni.soundestlink.com$image
 ||springsnails.com^
 ||sproutingbag.com^
 ||sprydelta.com^
+||sprysummit.com^
 ||spuriousair.com^
 ||spuriousbase.com^
 ||spurioussquirrel.com^
@@ -14282,6 +14283,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metrics.camsoda.com^
 ||metrics.freemake.com^
 ||metrics.hackerrank.com^
+||metrics.hyperliquid.xyz^
 ||metrics.onewegg.com^
 ||metrics.roblox.com^
 ||metrics.spkt.io^

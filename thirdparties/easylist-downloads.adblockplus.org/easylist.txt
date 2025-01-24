@@ -42,7 +42,6 @@
 .cn/sc/*?n=$script,third-party
 .com/*=bT1zdXY1JnI9
 .com/4/js/$third-party
-.com/a?pagetype
 .com/ad/$~image,third-party,domain=~mediaplex.com|~warpwire.com|~wsj.com
 .com/adv/$domain=~adv.asahi.com|~advantabankcorp.com|~alltransistors.com|~archiproducts.com|~tritondigital.com
 .com/api/posts?token=$third-party
@@ -105,7 +104,6 @@
 /ad.min.js$script
 /ad/ad_common.js$script
 /ad/dfp/*$script
-/ad/err?
 /ad/getban?$script
 /ad/image/*$image
 /ad/images/*$image,domain=~studiocalling.it
@@ -114,7 +112,6 @@
 /ad300.png$image
 /ad728.png$image
 /ad?count=
-/ad?pos_
 /ad?type=
 /ad_728.jpg$image
 /ad_728.js$script
@@ -142,8 +139,6 @@
 /adasync.js$script
 /adasync.min.js$script
 /adbanners/*$image
-/adcall?
-/adcgi?
 /adchoice.png$image
 /adcount.js$script
 /addyn|*;adtech;
@@ -155,7 +150,6 @@
 /adiframe|*|adtech;
 /adimage.$image,script,stylesheet
 /adimages.$script
-/adj.php?
 /adjs.php$script
 /adlayer.php$script
 /adlog.php$image
@@ -406,11 +400,9 @@
 /gdpr-ad-script.js$script
 /get/?go=1&data=$subdocument
 /get?go=1&data=$subdocument
-/GetAdvertisingLeft?
 /globals_ps_afc.js$script
 /google-adsense.js$script
 /google_adsense-$script
-/google_caf.js?
 /gospel2Truth.js$third-party
 /gpt.js$script
 /gpt_ads-public.js$script
@@ -458,7 +450,6 @@
 /jspopunder.min.js$script
 /lazyad-loader.js$script
 /lazyad-loader.min.js$script
-/lazyload.ads?
 /left_ads.js$script
 /leftad.js$script
 /leftad.png$image
@@ -466,7 +457,6 @@
 /li.blogtrottr.com/imp?$image
 /link?z=$subdocument
 /livejasmin.$~xmlhttprequest,domain=~livejasmin.com
-/log_ad?
 /mads.php$subdocument
 /maven/am.js$script
 /media/ads/*$image
@@ -499,7 +489,6 @@
 /page-peel$~xmlhttprequest
 /pagead/1p-user-list/*$image
 /pagead/conversion.js$script
-/pagead/lvz?
 /pageear.js$script
 /pageear/*$script
 /pagepeel.$~xmlhttprequest
@@ -508,7 +497,6 @@
 /partneradwidget.$subdocument
 /partnerbanner.$~xmlhttprequest,domain=~toltech.cn
 /partners/ads/*$image
-/pcad.js?
 /peel.php?$script
 /peel_ads.js$script
 /peelads/*$script
@@ -548,7 +536,6 @@
 /popunder1.js$script
 /popunder1000.js$script
 /popunder2.js$script
-/popunder?
 /popup-domination/*$script
 /popup2.js$script
 /popup3.js$script
@@ -735,7 +722,6 @@
 /wpxbz-theme.js$script
 /www/delivery/*$script,subdocument
 /xpopup.js$script
-/yhs/ads?
 /zcredirect?
 /~cdn/ads/*
 ://a.*/ad-provider.js$third-party
@@ -901,7 +887,6 @@ _reklama_$domain=~youtube.com
 /prebid7.$script
 /prebid8.$script
 /prebid9.$script
-/prebid?
 /prebid_$script,third-party
 /prebidlink/*$script
 /tagman/*$domain=~abelssoft.de
@@ -51260,6 +51245,7 @@ browsershots.org#@#.advert_area
 ||go.bloxplay.com^
 ||go.onelink.me^$image,script
 ||goldmoney.com/~/media/Images/Banners/
+||google.*/pagead/lvz?
 ||google.com/adsense/domains/caf.js
 ||google.com/adsense/search/ads.js
 ||google.com/adsense/search/async-ads.js
@@ -61793,7 +61779,7 @@ sportskeeda.com###video-player-container--
 onlyinyourstate.com###video1-1
 newseveryday.com###vplayer_large
 tvline.com##._video_ti56x_1
-techtimes.com##.ad_wrapper_video
+musictimes.com,techtimes.com##.ad_wrapper_video
 indy100.com##.addressed_cls
 androidheadlines.com,gcaptain.com,mp1st.com,thedebrief.org,unofficialnetworks.com##.adthrive
 muscleandfitness.com##.ami-video-placeholder
@@ -61866,7 +61852,7 @@ thegrio.com##.tpd-featured-video
 bestlifeonline.com,eatthis.com,hellogiggles.com##.vi-video-wrapper
 gamesradar.com,tomsguide.com,tomshardware.com,whathifi.com##.vid-present
 sportskeeda.com##.vidazoo-player-container
-carbuzz.com,justthenews.com##.video
+justthenews.com##.video
 petapixel.com##.video-aspect-wrapper
 bowhunter.com,firearmsnews.com,flyfisherman.com,gameandfishmag.com,gunsandammo.com,handgunsmag.com,in-fisherman.com,northamericanwhitetail.com,petersenshunting.com,rifleshootermag.com,shootingtimes.com,wildfowlmag.com##.video-detail-player
 fodors.com##.video-inline
@@ -63626,7 +63612,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||carandclassic.co.uk/images/free_advert/$image,~third-party
 @@||cbsi.com/dist/optanon.js$script,domain=cbsnews.com|zdnet.com
 @@||cc.zorores.com/ad/*.vtt$domain=rapid-cloud.co
-@@||cdn.adsninja.ca^$domain=xda-developers.com
+@@||cdn.adsninja.ca^$domain=carbuzz.com|xda-developers.com
 @@||cdn.advertserve.com^$domain=hutchgo.com|hutchgo.com.cn|hutchgo.com.hk|hutchgo.com.sg|hutchgo.com.tw
 @@||cdn.ex.co^$domain=mm-watch.com|theautopian.com
 @@||cdn.wgchrrammzv.com/prod/ajc/loader.min.js$domain=journal-news.com
@@ -63857,6 +63843,7 @@ redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youp
 @@||browserbench.org^$generichide
 @@||builder.io^$generichide
 @@||calendar.google.com^$generichide
+@@||carbuzz.com^$generichide
 @@||cbs.com^$generichide
 @@||cdpn.io^$generichide
 @@||chatgpt.com^$generichide

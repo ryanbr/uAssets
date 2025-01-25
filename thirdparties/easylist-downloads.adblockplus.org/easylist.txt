@@ -874,6 +874,7 @@ _reklama_$domain=~youtube.com
 /porpoiseant/*$script
 /prebid-js-$script
 /prebid-min-$script
+/prebid-wrapper.js$script,third-party
 /prebid.$script,domain=~prebid.org
 /prebid/*$script
 /prebid1.$script
@@ -56695,7 +56696,7 @@ adlice.com,informer.com,waqi.info##.adsbygoogle
 harvardmagazine.com##.adsbygoogle-block
 thartribune.com##.adsbypubpower
 aitextpromptgenerator.com##.adsbyus_wrapper
-gayvegas.com,looktothestars.org,nintandbox.net,plurk.com,rockpasta.com,thebarentsobserver.com,tolonews.com,webtor.io##.adsense
+gayvegas.com,geekhistory.com,looktothestars.org,nintandbox.net,plurk.com,rockpasta.com,thebarentsobserver.com,tolonews.com,webtor.io##.adsense
 radaris.com##.adsense-responsive-bottom
 temporary-phone-number.com##.adsense-top-728
 101soundboards.com##.adsense_matched_content

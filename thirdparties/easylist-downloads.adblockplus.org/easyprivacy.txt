@@ -11153,6 +11153,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||prod.fennec.atp.fox^
 ||prodregistryv2.org^
 ||propps.com/v1/referrer/
+||propsid.b-cdn.net^
 ||providesupport.com/cmd/$image
 ||proxy.dzeio.com^
 ||proxy.trysavvy.com^
@@ -47271,6 +47272,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 ! ||t.ac.pandora.com^
 ! ||stream.9now.com.au^
 ! ||link.tubi.tv^
+! ||app.teachfx.com^
 !
 ! Company name: Branch.io
 !
@@ -47953,7 +47955,6 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 ||app.tajawal.com^
 ||app.talksport.com^
 ||app.task.io^
-||app.teachfx.com^
 ||app.test.elly.com^
 ||app.th3rdwave.coffee^
 ||app.theachieveapp.com^

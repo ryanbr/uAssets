@@ -1310,7 +1310,6 @@ _800x80_
 ###AdBar
 ###AdBigBox
 ###AdBillboard
-###AdBlock
 ###AdBottomLeader
 ###AdBottomRight
 ###AdBox2

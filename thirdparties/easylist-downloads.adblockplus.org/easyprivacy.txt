@@ -6383,6 +6383,7 @@ omni.soundestlink.com$image
 ||blushingbread.com^
 ||blushingwar.com^
 ||boatsvest.com^
+||boiledegglabs.com^
 ||boilingbeetle.com^
 ||boilingcredit.com^
 ||boilingumbrella.com^

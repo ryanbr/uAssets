@@ -436,15 +436,16 @@
 /insertads.js$script
 /internAds.css$stylesheet
 /istripper.gif$image
-/jquery.ad.js$script
-/jquery.adi.js$script
-/jquery.adx.js?$script
-/jquery.dfp.js?$script
-/jquery.dfp.min.js?$script
+/jquery.ad.js
+/jquery.adi.js
+/jquery.adx.js?
+/jquery.dfp.js?
+/jquery.dfp.min.js?
 /jquery.lazyload-ad-$script
-/jquery.lazyload-ad.js$script
-/jquery.openxtag.js$script
-/jquery.popunder.js$script
+/jquery.lazyload-ad.js
+/jquery.openxtag.js
+/jquery.overlayad.js
+/jquery.popunder.js
 /js/ad_common.js$script
 /js/adpopup.js$script
 /js/advRotator.js$script
@@ -15708,6 +15709,7 @@ browsershots.org#@#.advert_area
 ||01jud3v55z.com^
 ||023e6510cc.com^
 ||0265331.com^
+||029519cbdc.com^
 ||0342b40dd6.com^
 ||03505ed0f4.com^
 ||03b5f525af.com^
@@ -19179,6 +19181,7 @@ browsershots.org#@#.advert_area
 ||bergletiphis.shop^
 ||berkshiretoday.xyz^
 ||berlipurplin.com^
+||bermestricker.shop^
 ||berriescourageous.com^
 ||berryheight.com^
 ||berryhillfarmgwent.com^
@@ -23711,6 +23714,7 @@ browsershots.org#@#.advert_area
 ||eluviabattler.com^
 ||elyandbegantoti.com^
 ||elytronkantele.shop^
+||elzcrexsh.com^
 ||emailflyfunny.com^
 ||emailon.top^
 ||emancytal.com^
@@ -26895,6 +26899,7 @@ browsershots.org#@#.advert_area
 ||hintgroin.com^
 ||hip-97166b.com^
 ||hipals.com^
+||hipanditlastedallth.com^
 ||hipersushiads.com^
 ||hiphaltlauroyl.shop^
 ||hipintimacy.com^
@@ -38098,6 +38103,7 @@ browsershots.org#@#.advert_area
 ||stealneitherfirearm.com^
 ||stealthlockers.com^
 ||steamjaws.com^
+||stedallthrought.com^
 ||stedrits.xyz^
 ||steeelm.xyz^
 ||steefaulrouy.xyz^
@@ -38414,6 +38420,7 @@ browsershots.org#@#.advert_area
 ||suitedtack.com^
 ||suiteighteen.com^
 ||sukbeingajoytow.org^
+||sukspcwrnqpbs.life^
 ||sukultingecauy.info^
 ||sukultingecauyuk.org^
 ||sulfinepaveed.com^
@@ -42232,6 +42239,7 @@ browsershots.org#@#.advert_area
 ||xszjh.tech^
 ||xszpuvwr7.com^
 ||xtalfuwcxh.com^
+||xtdztyiqyhmet.global^
 ||xtrackme.com^
 ||xtraserp.com^
 ||xtremeserve.xyz^
@@ -62074,7 +62082,7 @@ cheemsporn.com,milfnut.com,nudeof.com,sexseeimage.com,yporn.tv##.happy-inside-pl
 sexseeimage.com,thisav.me,thisav.video##.happy-player-beside
 sexseeimage.com,thisav.me,thisav.video##.happy-player-under
 sexseeimage.com,thisav.me,thisav.video##.happy-section
-deepfake-porn.com,x-picture.com##.happy-sidebar
+deepfake-porn.com,sexkbj.com,x-picture.com##.happy-sidebar
 amateur-vids.eu,camgirl-video.com,mature.community,milf.community,milf.plus##.happy-under-player
 redtube.com##.hd
 zbporn.com##.head-spot
@@ -62121,7 +62129,7 @@ internationalsexguide.nl,usasexguide.nl##.isg_banner
 e-hentai.org##.itd[colspan="4"]
 amateurporn.me,eachporn.com##.item[style]
 drtuber.com##.item_spots
-twidouga.net##.item_w360
+nurumayu.net,twidouga.net##.item_w360
 fetishshrine.com,pornwhite.com,sleazyneasy.com##.items-holder
 vxxx.com##.itrrciecmeh
 escortdirectory.com##.ixs-govazd-item

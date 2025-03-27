@@ -7322,6 +7322,7 @@ omni.soundestlink.com$image
 ||lumpylumber.com^
 ||lunchroomlock.com^
 ||lustroushaven.com^
+||luxformula.com^
 ||lyricshook.com^
 ||maddeningpowder.com^
 ||madebyintent.com^
@@ -7588,6 +7589,7 @@ omni.soundestlink.com$image
 ||pluckyzone.com^
 ||pocketfaucet.com^
 ||podiumpresto.com^
+||podname.com^
 ||poemprompt.com^
 ||poeticpackage.com^
 ||pointdigestion.com^

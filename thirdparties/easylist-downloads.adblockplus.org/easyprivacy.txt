@@ -1456,6 +1456,7 @@
 /metrics/track/*
 /metrics/v1/frontend/*
 /metrics/vanity/?
+/metrika.js?=
 /metrika/tag.js
 /mi/insite/*
 /microsoft.cognitiveservices.speech.sdk.bundle.js
@@ -6867,6 +6868,7 @@ omni.soundestlink.com$image
 ||epicoldschool.com^
 ||equablekettle.com^
 ||erraticreaction.com^
+||essayspin.com^
 ||etherealbamboo.com^
 ||ethereallagoon.com^
 ||etherealpinnacle.com^
@@ -14290,6 +14292,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||javedit.com/e/public/ViewClick/
 ||javhd.com/ascripts/gcu.js
 ||javhd.com/rstat
+||javplayer.me/*/views^
+||javynow.com/ajax/access.php
 ||jetbluevacations.com/apis/v2-analytics/
 ||jfapiprod.optimonk.com^
 ||jiji.co.ke/tag_event

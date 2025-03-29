@@ -2526,6 +2526,7 @@
 /view-tracking/*$image
 /view.gif?
 /view_stats.js.php
+/viewcount/record-page-view?
 /ViewCounter/*
 /viewerimpressions?
 /views_tracking/*
@@ -2719,7 +2720,7 @@
 ://collector.*/event
 ://elqtrk.
 ://fallback.*/collector
-://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.lib.uchicago.edu|~fathom.org|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 ://gtrack.*/dye
 ://insights-collector.
 ://internal-matomo.
@@ -3914,6 +3915,7 @@ omni.soundestlink.com$image
 ||bubblestat.com^$third-party
 ||bugherd.com^$third-party
 ||bugsnag.com^$third-party
+||bullwhip.cloud^$third-party
 ||bunchbox.co^$third-party
 ||burpee.xyz^$third-party
 ||burstbeacon.com^$third-party
@@ -8372,6 +8374,7 @@ omni.soundestlink.com$image
 ||whisperingcrib.com^
 ||whisperingsummit.com^
 ||whispermeeting.com^
+||whoogled.com^
 ||whymaze.com^
 ||wigglygeese.com^
 ||wigglyindustry.com^

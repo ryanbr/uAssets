@@ -511,7 +511,6 @@
 /partnerbanner.$~xmlhttprequest,domain=~toltech.cn
 /partners/ads/*$image
 /peel.php?$script
-/peel_ads.js$script
 /peelads/*$script
 /pfe/current/*$third-party
 /phpads/*$script
@@ -15918,6 +15917,7 @@ browsershots.org#@#.advert_area
 ||2449march2024.com^
 ||244kecmb3.de^
 ||2463april2024.com^
+||2467april2024.com^
 ||2469april2024.com^
 ||2471april2024.com^
 ||2473april2024.com^
@@ -16329,6 +16329,7 @@ browsershots.org#@#.advert_area
 ||79k52baw2qa3.com^
 ||79pa4bxa86.com^
 ||79xmz3lmss.com^
+||7abdc2aae1.com^
 ||7amz.com^
 ||7anfpatlo8lwmb.com^
 ||7b5f77dbb5.com^
@@ -16370,6 +16371,7 @@ browsershots.org#@#.advert_area
 ||88cb0eb486.com^
 ||88d7b6aa44fb8eb.com^
 ||88eq7spm.de^
+||892azz.xyz^
 ||8ab16250fe.com^
 ||8d96fe2f01.com^
 ||8db4fde90b.com^
@@ -18826,6 +18828,7 @@ browsershots.org#@#.advert_area
 ||bandsaislevow.com^
 ||banerator.net^
 ||banetabbeetroot.com^
+||bangedtelexes.top^
 ||bangtyranclank.com^
 ||banhq.com^
 ||banisterslighten.com^
@@ -19359,6 +19362,7 @@ browsershots.org#@#.advert_area
 ||bkjhqkohal.com^
 ||bklhnlv.com^
 ||bkojzevpe.com^
+||bkokuwxfetah.com^
 ||bkr5xeg0c.com^
 ||bktdmqdcvshs.xyz^
 ||bktsauna.com^
@@ -23678,6 +23682,7 @@ browsershots.org#@#.advert_area
 ||eunpprzdlkf.online^
 ||europacash.com^
 ||europe-discounts.com^
+||europeanivanprestigious.com^
 ||europefreeze.com^
 ||euros4click.de^
 ||eurosexcuses.com^
@@ -26162,6 +26167,7 @@ browsershots.org#@#.advert_area
 ||hentaigold.net^
 ||hentaionline.net^
 ||heoidln.com^
+||heotherwallow.org^
 ||hephungoomsapoo.net^
 ||hepk-gmwitvk.world^
 ||hepsaign.com^
@@ -26183,6 +26189,7 @@ browsershots.org#@#.advert_area
 ||herma-tor.com^
 ||herodiessujed.org^
 ||heroinalerttactical.com^
+||heroismgrime.com^
 ||heromainland.com^
 ||herringgloomilytennis.com^
 ||herryimmixed.com^
@@ -27200,6 +27207,7 @@ browsershots.org#@#.advert_area
 ||insultingvaultinherited.com^
 ||insultoccupyamazed.com^
 ||insultresignation.com^
+||insure1266.fun^
 ||insurecarrot.com^
 ||inswebt.com^
 ||inswellbathes.com^
@@ -28063,6 +28071,7 @@ browsershots.org#@#.advert_area
 ||keyuyloap.com^
 ||keywordblocks.com^
 ||keywordsconnect.com^
+||kezesarijvytg.world^
 ||kfeuewvbd.com^
 ||kffxyakqgbprk.xyz^
 ||kfjhd.com^
@@ -29455,6 +29464,7 @@ browsershots.org#@#.advert_area
 ||manualquiet.com^
 ||manureinforms.com^
 ||manureoddly.com^
+||manwaybawneen.com^
 ||maoeoa.xyz^
 ||mapamnni.com^
 ||mapeeree.xyz^
@@ -31421,6 +31431,7 @@ browsershots.org#@#.advert_area
 ||oiycak.com^
 ||ojapanelm.xyz^
 ||ojkduzbm.com^
+||ojkfmoackqp.com^
 ||ojrq.net^
 ||ojsxtysilofk.com^
 ||ojtatygrl.xyz^
@@ -34947,6 +34958,7 @@ browsershots.org#@#.advert_area
 ||rkulukhwuoc.com^
 ||rlcdn.com^
 ||rlittleboywhowas.com^
+||rltrdlnncsiu.com^
 ||rlxw.info^
 ||rmahmighoogg.com^
 ||rmaticalacycurated.info^
@@ -35581,6 +35593,7 @@ browsershots.org#@#.advert_area
 ||scrapembarkarms.com^
 ||scratchconsonant.com^
 ||scratchy-map.com^
+||scratchyhook.com^
 ||scrawmthirds.com^
 ||screechcompany.com^
 ||screenov.site^
@@ -35813,6 +35826,7 @@ browsershots.org#@#.advert_area
 ||setlitescmode-4.online^
 ||setsdowntown.com^
 ||settingtineal.top^
+||settle1266.fun^
 ||settledapproximatesuit.com^
 ||settledchagrinpass.com^
 ||settlementlaying.com^
@@ -36117,6 +36131,7 @@ browsershots.org#@#.advert_area
 ||silldisappoint.com^
 ||sillinessglamorousservices.com^
 ||sillyflowermachine.com^
+||silpharapidly.com^
 ||silvaemegmho.shop^
 ||silver-pen.pro^
 ||silveraddition.pro^
@@ -36495,6 +36510,7 @@ browsershots.org#@#.advert_area
 ||sonalrecomefu.info^
 ||songbagoozes.com^
 ||songcorrespondence.com^
+||songslunger.com^
 ||songtopbrand.com^
 ||sonnerie.net^
 ||sonnyadvertise.com^
@@ -38928,6 +38944,7 @@ browsershots.org#@#.advert_area
 ||unpackjanuary.com^
 ||unpanchamon.com^
 ||unphanpyom.com^
+||unpiecerelumed.top^
 ||unpleasantconcrete.com^
 ||unpleasanthandbag.com^
 ||unpopecandela.top^
@@ -39057,6 +39074,7 @@ browsershots.org#@#.advert_area
 ||uqmmfpr.com^
 ||uqpmabxnbojd.com^
 ||uqqmj868.xyz^
+||uqzoyikxsfhdr.space^
 ||uranylshazers.shop^
 ||urauvipsidu.com^
 ||urbanjazzsecretion.com^
@@ -39511,6 +39529,7 @@ browsershots.org#@#.advert_area
 ||violentinduce.com^
 ||violet-strip.pro^
 ||vionito.com^
+||viowrel.com^
 ||vip-datings.life^
 ||vip-vip-vup.com^
 ||vipads.live^
@@ -39989,6 +40008,7 @@ browsershots.org#@#.advert_area
 ||wejeestuze.net^
 ||wel-wel-fie.com^
 ||welbljlvmmyek.top^
+||welbljlvmmyzw.top^
 ||welcomeargument.com^
 ||welcomeneat.pro^
 ||welcomevaliant.com^
@@ -40866,6 +40886,7 @@ browsershots.org#@#.advert_area
 ||ylxfcvbuupt.com^
 ||ym8p.net^
 ||ymehnthakutyfor.com^
+||ymfmfkxytgxc.com^
 ||ymqlrkznenfcd.world^
 ||ymqqsutqx.com^
 ||ymrdsajjsq.com^
@@ -48260,6 +48281,7 @@ browsershots.org#@#.advert_area
 ||marketing.888.com^
 ||marketools.plus500.com/feeds/
 ||marketools.plus500.com/Widgets/
+||massariuscdn.com/pubs/
 ||mbid.marfeelrev.com^
 ||mcc.godaddy.com/park/
 ||media.netrefer.com^

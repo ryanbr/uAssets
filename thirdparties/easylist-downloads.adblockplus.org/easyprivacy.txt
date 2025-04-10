@@ -4477,6 +4477,7 @@ omni.soundestlink.com$image
 ||gopjn.com^$third-party
 ||gostats.com^$third-party
 ||gostats.org^$third-party
+||gosupersonic.ai^$third-party
 ||govmetric.com^$third-party
 ||granify.com^$third-party
 ||grapheffect.com^$third-party
@@ -6303,6 +6304,7 @@ omni.soundestlink.com$image
 ||aromamirror.com^
 ||arrivegrowth.com^
 ||artthevoid.com^
+||arubahello.com^
 ||aspiringapples.com^
 ||aspiringattempt.com^
 ||aspiringtoy.com^
@@ -7997,6 +7999,7 @@ omni.soundestlink.com$image
 ||sortsail.com^
 ||sortstructure.com^
 ||sortsummer.com^
+||soulclicking.com^
 ||soundstocking.com^
 ||sowlettuce.com^
 ||spadelocket.com^
@@ -8123,6 +8126,7 @@ omni.soundestlink.com$image
 ||stupidsnake.com^
 ||sturdysnail.com^
 ||subletyoke.com^
+||subseasecurity.com^
 ||subsequentsand.com^
 ||subsequentstew.com^
 ||subsequentswim.com^
@@ -8416,6 +8420,7 @@ omni.soundestlink.com$image
 ||zestywire.com^
 ||zipperxray.com^
 ||zippywind.com^
+||zipthelake.com^
 ||zlp6s.pw^
 ||zonewedgeshaft.com^
 ! *** easylist:easyprivacy/easyprivacy_trackingservers_notifications.txt ***

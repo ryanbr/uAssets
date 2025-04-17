@@ -42688,6 +42688,7 @@ browsershots.org#@#.advert_area
 ||ad-mixr.com^$third-party
 ||ad-nex.com^$third-party
 ||ad-tech.ru^$third-party
+||ad.doubleclick.net^
 ||ad.plus^$third-party
 ||ad.style^$third-party
 ||ad20.net^$third-party
@@ -43260,7 +43261,6 @@ browsershots.org#@#.advert_area
 ||domainadvertising.com^$third-party
 ||dotomi.com^$third-party
 ||doubleclick.com^
-||doubleclick.net^
 ||doubleverify.com^$third-party
 ||dpbolvw.net/image-
 ||dpbolvw.net/placeholder-
@@ -43332,6 +43332,7 @@ browsershots.org#@#.advert_area
 ||freerotator.com^$third-party
 ||friendlyduck.com^$third-party
 ||fruitkings.com^$third-party
+||g.doubleclick.net^
 ||gainmoneyfast.com^$third-party
 ||gambling-affiliation.com^$third-party
 ||game-clicks.com^$third-party
@@ -43768,6 +43769,7 @@ browsershots.org#@#.advert_area
 ||springserve.com^$~media,third-party
 ||sprintrade.com^$third-party
 ||starti.pl^$third-party
+||static.doubleclick.net^
 ||stratos.blue^$third-party
 ||streamdefence.com^$third-party
 ||strossle.com^$third-party

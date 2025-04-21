@@ -3547,6 +3547,7 @@ omni.soundestlink.com$image
 ||vfghe.com^
 ||videocdnmetrika.com^
 ||videoplayerhub.com^
+||visit-server.inmobi-choice.io^
 ||vkanalytics.net^
 ||vmzqqmlpwwmazjnio.com^
 ||vpdcp.com^
@@ -4893,6 +4894,7 @@ omni.soundestlink.com$image
 ||mediaweaver.jp^$third-party
 ||mediego.com^$third-party
 ||mega-stats.com^$third-party
+||megpxs.com^$third-party
 ||memecounter.com^$third-party
 ||memo.co^$third-party
 ||mercadoclics.com^$third-party

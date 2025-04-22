@@ -781,6 +781,9 @@ _reklama_$domain=~youtube.com
 ||cacheserve.*/promodisplay/
 ||cacheserve.*/promodisplay?
 ||online.*/promoredirect?key=
+! strat-talk.com forum and others
+/render-ad.php?ad_id=
+/render-sidebar-ad.php?ad_id=
 ! Filemoon
 ?bd=ppd&r=$document
 ! Ad-Shield
@@ -51721,8 +51724,6 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||thedailysheeple.com/images/banners/
 ||thedailysheeple.com/wp-content/plugins/tds-ads-plugin/assets/js/campaign.js
 ||thefinancialexpress.com.bd/images/rocket-250-250.png
-||thegearpage.net/board/render-ad.php
-||thegearpage.net/board/render-sidebar-ad.php
 ||theindependentbd.com/assets/images/banner/
 ||thephuketnews.com/photo/banner/
 ||theplatform.kiwi/ads/

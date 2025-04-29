@@ -7240,6 +7240,7 @@ omni.soundestlink.com$image
 ||humdrumtouch.com^
 ||hurtgrape.com^
 ||hurtteeth.com^
+||hydraconcept.com^
 ||hypnoticwound.com^
 ||hystericalcloth.com^
 ||hystericalfinger.com^
@@ -8398,6 +8399,7 @@ omni.soundestlink.com$image
 ||vibrantsundown.com^
 ||vibrantvale.com^
 ||victoriousrequest.com^
+||vilenexus.com^
 ||virgoplato.com^
 ||virtualvincent.com^
 ||vivaciousveil.com^

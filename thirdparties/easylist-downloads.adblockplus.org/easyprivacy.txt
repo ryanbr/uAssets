@@ -51896,6 +51896,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 ||cpxl.golem.de^
 ||d.rp-online.de^
 ||dasoertliche.de/js/liwAnalytics.js
+||data.openerotik.com^
 ||data.sportdeutschland.tv^
 ||dd.betano.com^
 ||dein-plan.de/t.gif
@@ -54482,6 +54483,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 !
 @@||cat.telia.no/gtm.js$script,domain=telia.no
 @@||hvemder.no/js/hitcount.min.js$~third-party
+@@||k5a.io^$domain=itavisen.no
 @@||komplett.no/gtm.js$script,~third-party
 !
 !---------- Polish ----------

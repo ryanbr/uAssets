@@ -18785,6 +18785,7 @@ browsershots.org#@#.advert_area
 ||aviatenabalus.shop^
 ||avibhiltgmv.com^
 ||aviewrodlet.com^
+||avitalbagfuls.com^
 ||aviwracnuwpcse.com^
 ||avjbjbekaawzr.top^
 ||avknaronfjin.com^
@@ -26069,6 +26070,7 @@ browsershots.org#@#.advert_area
 ||girlsthecontacttheconnect.com^
 ||girlstretchingsplendid.com^
 ||girlwallpaper.pro^
+||girnalnemean.com^
 ||gishejuy.com^
 ||gismoarette.top^
 ||gitajwl.com^
@@ -35214,6 +35216,7 @@ browsershots.org#@#.advert_area
 ||ptifaustounsaz.com^
 ||ptipsixo.com^
 ||ptipsout.net^
+||ptirdubsou.net^
 ||ptirgaux.com^
 ||ptirtika.com^
 ||ptistyvymi.com^
@@ -36754,6 +36757,7 @@ browsershots.org#@#.advert_area
 ||roommateskinner.com^
 ||roomrentpast.com^
 ||rooptawu.net^
+||roostedessive.com^
 ||roosterbelime.shop^
 ||rootcaptawed.com^
 ||rootderideflex.com^
@@ -38492,6 +38496,7 @@ browsershots.org#@#.advert_area
 ||spotscenered.info^
 ||spotted-alternative.com^
 ||spotted-estate.pro^
+||spotted-speech.com^
 ||spottedgrandfather.com^
 ||spottt.com^
 ||spotxcdn.com^
@@ -38847,6 +38852,7 @@ browsershots.org#@#.advert_area
 ||strettechoco.com^
 ||strewdirtinessnestle.com^
 ||strewtwitchlivelihood.com^
+||strialtellers.com^
 ||strickenfiercenote.com^
 ||strictrebukeexasperate.com^
 ||strideovertakelargest.com^
@@ -39851,6 +39857,7 @@ browsershots.org#@#.advert_area
 ||tinsus.com^
 ||tintedvideo.com^
 ||tintersloggish.com^
+||tintistcracker.top^
 ||tintprestigecrumble.com^
 ||tintyaliyoth.top^
 ||tiny-atmosphere.com^
@@ -43168,6 +43175,7 @@ browsershots.org#@#.advert_area
 ||zeekaihu.net^
 ||zeelooshashey.net^
 ||zeepartners.com^
+||zeepsaiphaupaig.com^
 ||zeeshith.net^
 ||zeewhaih.com^
 ||zeksaugaunes.net^
@@ -45044,6 +45052,7 @@ browsershots.org#@#.advert_area
 ||nitropay.com^$third-party
 ||njih.net^$third-party
 ||notsy.io^$third-party
+||now.gg^$third-party
 ||nsstatic.com^$third-party
 ||nsstatic.net^$third-party
 ||nster.net^$third-party
@@ -60920,6 +60929,7 @@ noon.com###modules-renderer:has([class*="sponsored"])
 indeed.com###mosaic-provider-jobcards li:has(.sponsoredJob)
 noon.com###noon-modules:has([class*="AdBrandVideo"])
 wsj.com###other-buckets > div > div:has(> .uds-ad-container)
+momondo.com###resultWrapper [role="group"]:has(> [class*="-adInner"])
 aleteia.org###root > div[class]:has(> .adslot)
 etsy.com###search-results li:has([id^="ad-listing-title-"])
 scribd.com###sidebar > div:has(> div > [data-e2e^="dismissible-ad-header"])
@@ -61820,6 +61830,7 @@ checkfelix.com,kayak.*,swoodoo.com##div[class*="-adInner"]
 checkfelix.com,kayak.*,swoodoo.com##div[data-resultid]:has(a.IZSg-adlink)
 checkfelix.com,kayak.*,swoodoo.com##div[id^="inline-"]
 ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
+target.com#?#[data-test="productCardVariantRecommendation"]:-abp-contains(Sponsored)
 coindesk.com#?#.bg-white.flex.gap-6.w-full.shrink.justify-between.md\:justify-normal.lg\:flex-row-reverse:has(.font-metadata.mr-1.uppercase:-abp-contains(Sponsored by))
 temu.com#?#.splide__slide:-abp-contains(AD)
 foodlion.com#?#.product-grid-cell:-abp-contains(Sponsored)

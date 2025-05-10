@@ -1982,6 +1982,7 @@
 /script/pixel.js
 /scriptAnalytics.js
 /scripts.kissmetrics.com/*
+/scripts/click.js.php
 /scripts/clickjs.php
 /scripts/hbx.js
 /scripts/statistics/*
@@ -2794,6 +2795,7 @@
 ://posthog.$script,domain=~posthog.com
 ://segment-api.
 ://segment-cdn.
+://t.targito.
 ://track.*/collect
 ://track.*/dye
 ://track.*/visitor/
@@ -9393,6 +9395,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||affilbox.cz^$third-party
 ||affiliateport.eu^$third-party
 ||analights.com^$third-party
+||ehub.cz^$third-party
 ||itop.cz^$third-party
 ||leady.com^$third-party
 ||lookit.cz^$third-party
@@ -53234,6 +53237,7 @@ coomer.su,kemono.su##+js(set-local-storage-item, plausible_ignore, true)
 ||jutarnji.hr/template/js/eph_analytics.js
 ! Czech
 ||cc.dalten.cz^
+||insights.triad.sk^
 ||jslog.post.cz^
 ||logapi.alza.cz^
 ||o2.cz^*-ga_o2cz_bundle.js?
